@@ -1,0 +1,97 @@
+log-chunk-load: true
+chunk-load: true
+lang: en
+menu:
+  general-options:
+    items:
+      fill:
+        material: GRAY_STAINED_GLASS_PANE
+        name: ' '
+        amount: 1
+      close:
+        material: BARRIER
+        name: '&4Close'
+        lore:
+        - ''
+        - '&7Click to close'
+        amount: 1
+      back:
+        material: FEATHER
+        name: '&6Go back'
+        lore:
+        - ''
+        - '&7Click to go back'
+        amount: 1
+      next-page:
+        material: ARROW
+        name: '&6Next page'
+        lore:
+        - ''
+        - '&7Go to the next page'
+      previous-page:
+        material: ARROW
+        name: '&6Previous page'
+        lore:
+        - ''
+        - '&7Go to the previous page'
+  main-menu:
+    title: Main Menu
+    items:
+      admin-section:
+        material: REDSTONE
+        name: '&6Admin settings'
+        lore:
+        - ''
+        - '&7Open admin section'
+        amount: 1
+      chunk-list:
+        material: GRASS_BLOCK
+        name: '&6Chunk List'
+        lore:
+        - ''
+        - '&7Open menu with chunk list'
+        amount: 1
+  admin-section:
+    title: Admin Section
+    items:
+      turn-off-chunk-load:
+        material: GREEN_WOOL
+        name: '&cTurn off chunk load'
+        lore:
+        - ''
+        - '&7Click to disable chunk load'
+        amount: 1
+      turn-on-chunk-load:
+        material: RED_WOOL
+        name: '&aTurn on chunk load'
+        lore:
+        - ''
+        - '&7Click to enable chunk load'
+      turn-off-chunk-load-logs:
+        material: EMERALD_BLOCK
+        name: '&cTurn off chunk load logs'
+        lore:
+        - ''
+        - '&7Click to disable chunk load logs'
+        amount: 1
+      turn-on-chunk-load-logs:
+        material: REDSTONE_BLOCK
+        name: '&aTurn on chunk load logs'
+        lore:
+        - ''
+        - '&7Click to enable chunk load logs'
+  chunk-list:
+    title: Chunk List
+    items:
+      listed:
+        material: GRASS_BLOCK
+        name: '&7Chunk #&6%index%'
+        lore:
+        - ''
+        - ' &7- X: &f%coords_x%'
+        - ' &7- Z: &f%coords_z%'
+        - ' &7- World: &f%coords_world%'
+        - ''
+        - '&7Left-click to teleport to this chunk'
+        - '&7Right-click to delete this chunk'
+        amount: 1

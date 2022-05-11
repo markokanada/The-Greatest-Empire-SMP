@@ -1,0 +1,18 @@
+
+reloadConfig: '&aYou have reloaded the config'
+noPermission: '&4You do not have the permission to execute this command'
+
+vaultEnderChest: true
+
+enderchestvaultsize.3
+
+enderchestVaultDisabled: '&aThe enderchest vault is disabled from the config.Ask the owner to enable in from the config and use the command /ecreload to reload the config'
+
+enderChestStartInventoryName: '&5Ender Chest'
+enderChestVaultInventoryName: '&5Ender Chest (Page {currentPage})'
+enderChestName: '&5Open ender chest'
+
+noPages: '&4You do own an enderchest page'
+
+backArrowName: '&5Previous page'
+nextArrowName: '&5Next page'

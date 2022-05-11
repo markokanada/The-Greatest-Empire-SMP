@@ -1,0 +1,6 @@
+# Default configuration file for SimpleEnderChest.
+# 
+# Options
+# This is the message shown to the player when they open their EnderChest.
+# You can use color codes with this symbol: http://pastebin.com/raw.php?i=MmE8r361
+MSG: Your enderchest has been opened.
