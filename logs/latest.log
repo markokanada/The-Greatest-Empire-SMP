@@ -1,0 +1,257 @@
+[13:25:38] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[13:25:38] [Server thread/INFO]: Loading properties
+[13:25:38] [Server thread/INFO]: Default game type: SURVIVAL
+[13:25:38] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-79a30d7-f4830a1 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[13:25:38] [Server thread/ERROR]: Could not save commands.yml
+java.io.FileNotFoundException: commands.yml (A folyamat nem fér hozzá a fájlhoz, mert azt egy másik folyamat használja)
+	at java.io.FileOutputStream.open0(Native Method) ~[?:1.8.0_291]
+	at java.io.FileOutputStream.open(Unknown Source) ~[?:1.8.0_291]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_291]
+	at java.io.FileOutputStream.<init>(Unknown Source) ~[?:1.8.0_291]
+	at org.bukkit.configuration.file.FileConfiguration.save(FileConfiguration.java:70) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.saveCommandsConfig(CraftServer.java:293) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.<init>(CraftServer.java:248) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerList.<init>(PlayerList.java:78) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedPlayerList.<init>(SourceFile:14) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.init(DedicatedServer.java:183) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:545) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
+[13:25:38] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[13:25:38] [Server thread/INFO]: Using 4 threads for Netty based IO
+[13:25:38] [Server thread/INFO]: Debug logging is disabled
+[13:25:38] [Server thread/INFO]: Generating keypair
+[13:25:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:25:38] [Server thread/INFO]: Using default channel type
+[13:25:39] [Server thread/ERROR]: Could not load 'plugins\worldedit-forge-mc1.12.2-6.1.10-dist.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidDescriptionException: Invalid plugin.yml
+	at org.bukkit.plugin.java.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:152) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:133) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.loadPlugins(CraftServer.java:305) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.init(DedicatedServer.java:205) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:545) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
+Caused by: java.io.FileNotFoundException: Jar does not contain plugin.yml
+	... 6 more
+[13:25:39] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[13:25:39] [Server thread/ERROR]: Could not load 'plugins\backpacksplus.jar' in folder 'plugins'
+org.bukkit.plugin.UnknownDependencyException: ItemNBTAPI
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:216) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.loadPlugins(CraftServer.java:305) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.init(DedicatedServer.java:205) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:545) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
+[13:25:39] [Server thread/INFO]: [OneManSleep] Loading OneManSleep v1.0
+[13:25:39] [Server thread/INFO]: [SetHome] Loading SetHome v5.1.2
+[13:25:39] [Server thread/INFO]: [SimpleEnderChest] Loading SimpleEnderChest v1.3
+[13:25:39] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.9;caf0ad9
+[13:25:39] [Server thread/INFO]: [TreeCapitator] Loading TreeCapitator v1.0
+[13:25:39] [Server thread/INFO]: [EnderChestVault] Loading EnderChestVault v1.2
+[13:25:39] [Server thread/INFO]: [ChunkLoader] Loading ChunkLoader v3.0.1
+[13:25:39] [Server thread/INFO]: [Graves] Loading Graves v4.7
+[13:25:39] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:25:39] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:25:39] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:25:39] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:25:39] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[13:25:39] [Server thread/INFO]: Preparing level "world"
+[13:25:39] [Server thread/INFO]: -------- World Settings For [world] --------
+[13:25:39] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:25:39] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:25:39] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:25:39] [Server thread/INFO]: View Distance: 64
+[13:25:39] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[13:25:39] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:25:39] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:25:39] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:25:39] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[13:25:39] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:25:39] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:25:39] [Server thread/INFO]: Structure Info Saving: true
+[13:25:39] [Server thread/INFO]: Mob Spawn Range: 4
+[13:25:39] [Server thread/INFO]: Random Lighting Updates: false
+[13:25:39] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:25:39] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:25:39] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:25:39] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:25:39] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:25:39] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:25:39] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:25:39] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:25:39] [Server thread/INFO]: Vine Growth Modifier: 100%
+[13:25:39] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[13:25:39] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[13:25:39] [Server thread/INFO]: Max TNT Explosions: 100
+[13:25:39] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[13:25:39] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[13:25:39] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:25:39] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:25:39] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:25:39] [Server thread/INFO]: View Distance: 64
+[13:25:39] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[13:25:39] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:25:39] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:25:39] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:25:39] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[13:25:39] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:25:39] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:25:39] [Server thread/INFO]: Structure Info Saving: true
+[13:25:39] [Server thread/INFO]: Mob Spawn Range: 4
+[13:25:39] [Server thread/INFO]: Random Lighting Updates: false
+[13:25:39] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:25:39] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:25:39] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:25:39] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:25:39] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:25:39] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:25:39] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:25:39] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:25:39] [Server thread/INFO]: Vine Growth Modifier: 100%
+[13:25:39] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[13:25:39] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[13:25:39] [Server thread/INFO]: Max TNT Explosions: 100
+[13:25:39] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[13:25:40] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[13:25:40] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:25:40] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:25:40] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:25:40] [Server thread/INFO]: View Distance: 64
+[13:25:40] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[13:25:40] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:25:40] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:25:40] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:25:40] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[13:25:40] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:25:40] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:25:40] [Server thread/INFO]: Structure Info Saving: true
+[13:25:40] [Server thread/INFO]: Mob Spawn Range: 4
+[13:25:40] [Server thread/INFO]: Random Lighting Updates: false
+[13:25:40] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:25:40] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:25:40] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:25:40] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:25:40] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:25:40] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:25:40] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:25:40] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:25:40] [Server thread/INFO]: Vine Growth Modifier: 100%
+[13:25:40] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[13:25:40] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[13:25:40] [Server thread/INFO]: Max TNT Explosions: 100
+[13:25:40] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[13:25:40] [Server thread/INFO]: Preparing start region for level 0 (Seed: 5691424625935932744)
+[13:25:41] [Server thread/INFO]: Preparing spawn area: 33%
+[13:25:41] [Server thread/INFO]: Preparing start region for level 1 (Seed: 5691424625935932744)
+[13:25:42] [Server thread/INFO]: Preparing start region for level 2 (Seed: 5691424625935932744)
+[13:25:42] [Server thread/INFO]: [OneManSleep] Enabling OneManSleep v1.0
+[13:25:42] [Server thread/INFO]: [SetHome] Enabling SetHome v5.1.2
+[13:25:42] [Server thread/INFO]: [SimpleEnderChest] Enabling SimpleEnderChest v1.3
+[13:25:42] [Server thread/INFO]: SimpleEnderChest Version 1.3 has been enabled!
+[13:25:42] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.9;caf0ad9
+[13:25:42] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[13:25:42] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 as the Bukkit adapter
+[13:25:42] [Server thread/INFO]: [TreeCapitator] Enabling TreeCapitator v1.0
+[13:25:42] [Server thread/INFO]: [EnderChestVault] Enabling EnderChestVault v1.2
+[13:25:42] [Server thread/ERROR]: Error occurred while enabling EnderChestVault v1.2 (Is it up to date?)
+java.lang.NoClassDefFoundError: net/milkbowl/vault/permission/Permission
+	at com.deadshotmdf.EnderChestVault.Main.setupPermissions(Main.java:73) ~[?:?]
+	at com.deadshotmdf.EnderChestVault.Main.onEnable(Main.java:51) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:337) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:403) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.enablePlugin(CraftServer.java:381) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.enablePlugins(CraftServer.java:330) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.t(MinecraftServer.java:422) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.l(MinecraftServer.java:383) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.a(MinecraftServer.java:338) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.init(DedicatedServer.java:272) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:545) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
+Caused by: java.lang.ClassNotFoundException: net.milkbowl.vault.permission.Permission
+	at java.net.URLClassLoader.findClass(Unknown Source) ~[?:1.8.0_291]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:152) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:100) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_291]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_291]
+	... 13 more
+[13:25:42] [Server thread/INFO]: [ChunkLoader] Enabling ChunkLoader v3.0.1
+[13:25:44] [Server thread/INFO]: ChunkLoader >> Enabled Spigot version.
+[13:25:44] [Server thread/INFO]: ChunkLoader >> messages_en file was loaded successfully.
+[13:25:44] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[13:25:44] [Server thread/INFO]: ChunkLoader >> Chunk 62;-74;world was loaded correctly.
+[13:25:44] [Server thread/INFO]: ChunkLoader >> Chunk 62;-75;world was loaded correctly.
+[13:25:44] [Server thread/INFO]: ChunkLoader >> Chunk 61;-75;world was loaded correctly.
+[13:25:44] [Server thread/INFO]: ChunkLoader >> Chunk 61;-74;world was loaded correctly.
+[13:25:44] [Server thread/INFO]: ChunkLoader >> Chunk 59;-74;world was loaded correctly.
+[13:25:44] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[13:25:44] [Server thread/INFO]: ChunkLoader >> Chunk 60;-74;world was loaded correctly.
+[13:25:44] [Server thread/INFO]: ChunkLoader >> Chunk 58;-74;world was loaded correctly.
+[13:25:44] [Server thread/INFO]: ChunkLoader >> Chunk 60;-73;world was loaded correctly.
+[13:25:44] [Server thread/INFO]: ChunkLoader >> Chunk 61;-73;world was loaded correctly.
+[13:25:44] [Server thread/INFO]: ChunkLoader >> Chunk 62;-73;world was loaded correctly.
+[13:25:44] [Server thread/INFO]: ChunkLoader >> Chunk 60;-75;world was loaded correctly.
+[13:25:44] [Server thread/INFO]: ChunkLoader >> Chunk 58;-75;world was loaded correctly.
+[13:25:44] [Server thread/INFO]: >>
+[13:25:44] [Server thread/INFO]: >> ChunkLoader Enabled
+[13:25:44] [Server thread/INFO]: >> Version 3.0.1
+[13:25:44] [Server thread/INFO]: >>
+[13:25:44] [Server thread/INFO]: >> Developed by KayTeam © 2020 - 2022. All rights reserved.
+[13:25:44] [Server thread/INFO]: >> https://kayteam.org
+[13:25:44] [Server thread/INFO]: >>
+[13:25:44] [Server thread/INFO]: [Graves] Enabling Graves v4.7
+[13:25:44] [Server thread/INFO]: [Graves] Integration: WorldEdit 6.1.9;caf0ad9 detected, Only WorldEdit 7+ is supported.Disabling WorldEdit support.
+[13:25:44] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:25:44] [Server thread/INFO]: Done (5,141s)! For help, type "help" or "?"
+[13:25:44] [Server thread/INFO]: Starting GS4 status listener
+[13:25:44] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
+[13:25:44] [Server thread/INFO]: [Graves] Information: Legacy version detected, Graves will run but may have problems with material names, the default config is setup for the latest version of the game, you can alter the config manually to fix any issues you encounter, you will need to find the names of materials and sounds for your version.
+[13:25:44] [Server thread/INFO]: [Graves] Update: Outdated version detected 4.7, latest version is 4.8, https://www.spigotmc.org/resources/graves.74208/
+[13:26:04] [User Authenticator #1/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[13:26:04] [Server thread/INFO]: KellSo[/192.168.0.1:51670] logged in with entity id 525 at ([world]1235.6270230175091, 50.0, -903.6999999880791)
+[13:36:30] [Server thread/INFO]: KellSo issued server command: /echest
+[13:36:30] [Server thread/INFO]: [SimpleEnderChest] KellSo opened his EnderChest at Location{world=CraftWorld{name=world},x=1099.699999988079,y=50.0,z=-933.9610326506981,pitch=20.41937,yaw=297.40778} !
+[13:36:30] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'echest' in plugin SimpleEnderChest v1.3
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:648) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1401) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1236) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_291]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_291]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
+Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
+	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	... 15 more
+[13:41:25] [Server thread/INFO]: KellSo issued server command: /echest
+[13:41:25] [Server thread/INFO]: [SimpleEnderChest] KellSo opened his EnderChest at Location{world=CraftWorld{name=world},x=1099.699999988079,y=50.0,z=-987.6161283823967,pitch=35.220837,yaw=290.39655} !
+[13:41:25] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'echest' in plugin SimpleEnderChest v1.3
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:648) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1401) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1236) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_291]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_291]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
+Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
+	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	... 15 more
