@@ -255,3 +255,11 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
 	... 15 more
+[13:42:20] [Server thread/INFO]: KellSo issued server command: /op KellSo
+[13:42:20] [Server thread/INFO]: [KellSo: Opped KellSo]
+[13:42:24] [Server thread/INFO]: KellSo issued server command: /op
+[13:42:26] [Server thread/INFO]: KellSo issued server command: /op list
+[13:42:27] [Server thread/INFO]: [KellSo: Opped list]
+[13:46:31] [Async Chat Thread - #0/INFO]: <KellSo> utolsó 5
+[13:46:41] [Async Chat Thread - #0/INFO]: <KellSo> utolsó 5, 3-as ajtó
+[13:47:28] [Async Chat Thread - #0/INFO]: <KellSo> utolsó 5, 3-as ajtó, 15+7+7 a folyosó, 5 magas
