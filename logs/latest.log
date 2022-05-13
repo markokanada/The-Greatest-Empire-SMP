@@ -1405,3 +1405,352 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [21:03:01] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
 [21:03:31] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
 [21:03:31] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:04:01] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:04:01] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:04:11] [Server thread/INFO]: David_alja issued server command: /tp KellSo
+[21:04:11] [Server thread/INFO]: [David_alja: Teleported David_alja to KellSo]
+[21:04:25] [Server thread/INFO]: ChunkLoader >> Chunk 58;-75;world was loaded correctly.
+[21:04:25] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:04:31] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:04:31] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:05:01] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:05:01] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:05:31] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:05:31] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:06:01] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:06:01] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:06:31] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:06:31] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:06:46] [Server thread/INFO]: KellSo issued server command: /echest
+[21:06:46] [Server thread/INFO]: [SimpleEnderChest] KellSo opened his EnderChest at Location{world=CraftWorld{name=world_the_end},x=1263.879217777015,y=61.0,z=405.87921575588564,pitch=20.97416,yaw=51.94214} !
+[21:06:46] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'echest' in plugin SimpleEnderChest v1.3
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:648) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1401) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1236) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_291]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_291]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
+Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
+	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	... 15 more
+[21:06:48] [Server thread/INFO]: David_alja issued server command: /tp KellSo
+[21:06:48] [Server thread/INFO]: [David_alja: Teleported David_alja to KellSo]
+[21:07:02] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:07:02] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:07:11] [Server thread/INFO]: KellSo issued server command: /echest
+[21:07:11] [Server thread/INFO]: [SimpleEnderChest] KellSo opened his EnderChest at Location{world=CraftWorld{name=world_the_end},x=1257.856903527255,y=62.0,z=404.3848081790052,pitch=1.0669738,yaw=136.49536} !
+[21:07:11] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'echest' in plugin SimpleEnderChest v1.3
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:648) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1401) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1236) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_291]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_291]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
+Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
+	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	... 15 more
+[21:07:32] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:07:32] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:08:02] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:08:02] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:08:32] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:08:32] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:09:02] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:09:02] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:09:26] [Server thread/INFO]: ChunkLoader >> Chunk 58;-75;world was loaded correctly.
+[21:09:26] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:09:32] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:09:32] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:10:02] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:10:02] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:10:32] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:10:32] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:10:33] [Server thread/INFO]: KellSo issued server command: /tp David_alja
+[21:10:33] [Server thread/INFO]: [KellSo: Teleported KellSo to David_alja]
+[21:11:02] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:11:02] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:11:32] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:11:32] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:12:02] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:12:02] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:12:32] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:12:32] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:13:02] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:13:02] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:13:32] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:13:32] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:13:59] [Server thread/INFO]: David_alja issued server command: /tp KellSo
+[21:13:59] [Server thread/INFO]: [David_alja: Teleported David_alja to KellSo]
+[21:14:02] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:14:02] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:14:21] [Server thread/INFO]: David_alja issued server command: /tp KellSo
+[21:14:21] [Server thread/INFO]: [David_alja: Teleported David_alja to KellSo]
+[21:14:27] [Server thread/INFO]: ChunkLoader >> Chunk 58;-75;world was loaded correctly.
+[21:14:27] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:14:32] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:14:32] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:14:59] [Server thread/INFO]: KellSo issued server command: /tp David_alja
+[21:14:59] [Server thread/INFO]: [KellSo: Teleported KellSo to David_alja]
+[21:15:03] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:15:03] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:15:09] [Server thread/INFO]: David_alja issued server command: /tp KellSo
+[21:15:09] [Server thread/INFO]: [David_alja: Teleported David_alja to KellSo]
+[21:15:33] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:15:33] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:16:03] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:16:03] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:16:11] [Server thread/INFO]: David_alja issued server command: /tp KellSo
+[21:16:11] [Server thread/INFO]: [David_alja: Teleported David_alja to KellSo]
+[21:16:33] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:16:33] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:17:03] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:17:03] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:17:19] [Server thread/INFO]: KellSo issued server command: /echest
+[21:17:19] [Server thread/INFO]: [SimpleEnderChest] KellSo opened his EnderChest at Location{world=CraftWorld{name=world_the_end},x=336.5364063016006,y=120.20000004768372,z=1063.6899696151088,pitch=41.751347,yaw=232.65173} !
+[21:17:19] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'echest' in plugin SimpleEnderChest v1.3
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:648) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1401) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1236) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_291]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_291]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
+Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
+	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	... 15 more
+[21:17:28] [Server thread/INFO]: KellSo issued server command: /echest
+[21:17:28] [Server thread/INFO]: [SimpleEnderChest] KellSo opened his EnderChest at Location{world=CraftWorld{name=world_the_end},x=336.4833678323215,y=120.20000004768372,z=1062.300000011921,pitch=50.814346,yaw=271.94226} !
+[21:17:28] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'echest' in plugin SimpleEnderChest v1.3
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:648) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1401) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1236) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_291]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_291]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
+Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
+	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	... 15 more
+[21:17:33] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:17:33] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:18:03] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:18:03] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:18:33] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:18:33] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:18:52] [Server thread/INFO]: David_alja issued server command: /tp KellSo
+[21:18:52] [Server thread/INFO]: [David_alja: Teleported David_alja to KellSo]
+[21:19:03] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:19:03] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:19:27] [Server thread/INFO]: ChunkLoader >> Chunk 58;-75;world was loaded correctly.
+[21:19:27] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:19:33] [Server thread/INFO]: David_alja fell from a high place
+[21:19:33] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:19:33] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:19:38] [Server thread/INFO]: David_alja issued server command: /tp KellSo
+[21:19:38] [Server thread/INFO]: [David_alja: Teleported David_alja to KellSo]
+[21:19:40] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:20:04] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:20:33] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:20:33] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:21:03] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:21:03] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:21:32] [Server thread/INFO]: David_alja issued server command: /tp KellSo
+[21:21:32] [Server thread/INFO]: [David_alja: Teleported David_alja to KellSo]
+[21:21:33] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:21:33] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:21:50] [Server thread/INFO]: David_alja issued server command: /tp KellSo
+[21:21:50] [Server thread/INFO]: [David_alja: Teleported David_alja to KellSo]
+[21:21:51] [Server thread/INFO]: David_alja fell from a high place
+[21:21:55] [Server thread/INFO]: David_alja issued server command: /tp KellSo
+[21:21:55] [Server thread/INFO]: [David_alja: Teleported David_alja to KellSo]
+[21:21:57] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:22:04] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:22:09] [Server thread/INFO]: David_alja issued server command: /tp KellSo
+[21:22:09] [Server thread/INFO]: [David_alja: Teleported David_alja to KellSo]
+[21:22:34] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:22:34] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:22:36] [Server thread/INFO]: KellSo issued server command: /tp David_alja
+[21:22:36] [Server thread/INFO]: [KellSo: Teleported KellSo to David_alja]
+[21:23:04] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:23:04] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:23:34] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:23:34] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:23:51] [Server thread/INFO]: David_alja issued server command: /tp KellSo
+[21:23:51] [Server thread/INFO]: [David_alja: Teleported David_alja to KellSo]
+[21:24:04] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:24:04] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:24:27] [Server thread/INFO]: ChunkLoader >> Chunk 58;-75;world was loaded correctly.
+[21:24:27] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:24:27] [Server thread/INFO]: ChunkLoader >> Chunk 59;-74;world was loaded correctly.
+[21:24:27] [Server thread/INFO]: ChunkLoader >> Chunk 58;-74;world was loaded correctly.
+[21:24:27] [Server thread/INFO]: ChunkLoader >> Chunk 62;-75;world was loaded correctly.
+[21:24:27] [Server thread/INFO]: ChunkLoader >> Chunk 61;-74;world was loaded correctly.
+[21:24:27] [Server thread/INFO]: ChunkLoader >> Chunk 60;-73;world was loaded correctly.
+[21:24:27] [Server thread/INFO]: ChunkLoader >> Chunk 60;-74;world was loaded correctly.
+[21:24:27] [Server thread/INFO]: ChunkLoader >> Chunk 61;-73;world was loaded correctly.
+[21:24:27] [Server thread/INFO]: ChunkLoader >> Chunk 60;-75;world was loaded correctly.
+[21:24:27] [Server thread/INFO]: ChunkLoader >> Chunk 62;-73;world was loaded correctly.
+[21:24:27] [Server thread/INFO]: ChunkLoader >> Chunk 61;-75;world was loaded correctly.
+[21:24:27] [Server thread/INFO]: ChunkLoader >> Chunk 62;-74;world was loaded correctly.
+[21:24:27] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:24:34] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:24:34] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:25:02] [Server thread/INFO]: KellSo issued server command: /tp David_alja
+[21:25:02] [Server thread/INFO]: [KellSo: Teleported KellSo to David_alja]
+[21:25:04] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:25:04] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:25:34] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:25:34] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:26:03] [Server thread/INFO]: KellSo issued server command: /echest
+[21:26:03] [Server thread/INFO]: [SimpleEnderChest] KellSo opened his EnderChest at Location{world=CraftWorld{name=world_the_end},x=408.5271658160272,y=59.0,z=1262.3362700949895,pitch=3.3159213,yaw=81.81848} !
+[21:26:03] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'echest' in plugin SimpleEnderChest v1.3
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:648) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1401) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1236) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_291]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_291]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
+Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
+	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	... 15 more
+[21:26:04] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:26:04] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:26:14] [Server thread/INFO]: KellSo issued server command: /echest
+[21:26:14] [Server thread/INFO]: [SimpleEnderChest] KellSo opened his EnderChest at Location{world=CraftWorld{name=world_the_end},x=408.5271658160272,y=59.0,z=1262.3362700949895,pitch=3.3159213,yaw=81.81848} !
+[21:26:14] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'echest' in plugin SimpleEnderChest v1.3
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:648) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1401) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1236) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_291]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_291]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
+Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
+	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	... 15 more
+[21:26:32] [Server thread/INFO]: KellSo issued server command: /tp David_alja
+[21:26:32] [Server thread/INFO]: [KellSo: Teleported KellSo to David_alja]
+[21:26:34] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:26:34] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:26:56] [Server thread/INFO]: KellSo issued server command: /tp David_alja
+[21:26:56] [Server thread/INFO]: [KellSo: Teleported KellSo to David_alja]
+[21:27:02] [Server thread/INFO]: KellSo issued server command: /tp David_alja
+[21:27:02] [Server thread/INFO]: [KellSo: Teleported KellSo to David_alja]
+[21:27:04] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:27:04] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:27:24] [Server thread/INFO]: David_alja issued server command: /tp KellSo
+[21:27:24] [Server thread/INFO]: [David_alja: Teleported David_alja to KellSo]
+[21:27:34] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:27:34] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:28:04] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:28:04] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:28:25] [Server thread/INFO]: David_alja issued server command: /tp KellSo
+[21:28:25] [Server thread/INFO]: [David_alja: Teleported David_alja to KellSo]
+[21:28:34] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:28:34] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:29:05] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:29:05] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:29:19] [Server thread/INFO]: David_alja issued server command: /tp KellSo
+[21:29:19] [Server thread/INFO]: [David_alja: Teleported David_alja to KellSo]
+[21:29:19] [Server thread/INFO]: David_alja fell from a high place
+[21:29:29] [Server thread/INFO]: ChunkLoader >> Chunk 58;-75;world was loaded correctly.
+[21:29:29] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:29:37] [Server thread/INFO]: David_alja issued server command: /tp KellSo
+[21:29:37] [Server thread/INFO]: [David_alja: Teleported David_alja to KellSo]
+[21:29:39] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:30:05] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:30:22] [Server thread/INFO]: KellSo issued server command: /tp David_alja
+[21:30:22] [Server thread/INFO]: [KellSo: Teleported KellSo to David_alja]
+[21:30:35] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:30:35] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:31:05] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:31:05] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:31:35] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:31:35] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:32:05] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:32:05] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:32:35] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[21:32:35] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:32:37] [Server thread/WARN]: David_alja was kicked for floating too long!
+[21:32:37] [Server thread/INFO]: David_alja lost connection: Flying is not enabled on this server
+[21:32:37] [Server thread/INFO]: David_alja left the game
+[21:32:37] [Server thread/WARN]: handleDisconnection() called twice
+[21:32:49] [User Authenticator #5/INFO]: UUID of player David_alja is 42e1c43e-8966-3dee-9d53-94807b81117b
+[21:32:49] [Server thread/INFO]: David_alja[/100.84.147.206:54548] logged in with entity id 47870 at ([world_the_end]952.5401125724386, 52.194244871610046, 1871.102861777323)
+[21:32:56] [Server thread/INFO]: KellSo issued server command: /tp David_alja KellSo
+[21:32:56] [Server thread/INFO]: [KellSo: Teleported David_alja to KellSo]
+[21:32:56] [Server thread/INFO]: David_alja fell from a high place
+[21:33:09] [Server thread/INFO]: David_alja issued server command: /tp KellSo
+[21:33:09] [Server thread/INFO]: [David_alja: Teleported David_alja to KellSo]
+[21:33:10] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[21:33:30] [Server thread/INFO]: KellSo issued server command: /tp David_alja
+[21:33:30] [Server thread/INFO]: [KellSo: Teleported KellSo to David_alja]
