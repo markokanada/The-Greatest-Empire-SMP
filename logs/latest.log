@@ -866,3 +866,124 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
 	... 15 more
 [18:48:17] [Server thread/WARN]: David_alja moved wrongly!
+[18:52:02] [Server thread/INFO]: David_alja issued server command: /echest
+[18:52:02] [Server thread/INFO]: [SimpleEnderChest] David_alja opened his EnderChest at Location{world=CraftWorld{name=world},x=949.7204861896159,y=63.0,z=-1172.5739603582147,pitch=33.337975,yaw=279.93805} !
+[18:52:02] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'echest' in plugin SimpleEnderChest v1.3
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:648) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1401) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1236) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_291]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_291]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
+Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
+	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	... 15 more
+[18:56:57] [Server thread/INFO]: KellSo issued server command: /echest
+[18:56:57] [Server thread/INFO]: [SimpleEnderChest] KellSo opened his EnderChest at Location{world=CraftWorld{name=world},x=1007.3000000119209,y=48.0,z=-1092.7546962548995,pitch=-14.164824,yaw=349.56482} !
+[18:56:57] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'echest' in plugin SimpleEnderChest v1.3
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:648) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1401) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1236) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_291]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_291]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
+Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
+	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	... 15 more
+[18:59:13] [Server thread/WARN]: David_alja moved wrongly!
+[19:02:21] [Server thread/INFO]: David_alja issued server command: /echest
+[19:02:21] [Server thread/INFO]: [SimpleEnderChest] David_alja opened his EnderChest at Location{world=CraftWorld{name=world},x=1151.300000011921,y=71.0,z=-1313.189532279741,pitch=88.099174,yaw=186.81396} !
+[19:02:21] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'echest' in plugin SimpleEnderChest v1.3
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:648) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1401) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1236) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_291]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_291]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
+Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
+	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	... 15 more
+[19:02:54] [Server thread/INFO]: KellSo issued server command: /echest
+[19:02:54] [Server thread/INFO]: [SimpleEnderChest] KellSo opened his EnderChest at Location{world=CraftWorld{name=world},x=1047.5397224834508,y=49.0,z=-870.462564134621,pitch=27.8826,yaw=266.58435} !
+[19:02:54] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'echest' in plugin SimpleEnderChest v1.3
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:648) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1401) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1236) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_291]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_291]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
+Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
+	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	... 15 more
+[19:03:03] [Server thread/INFO]: David_alja issued server command: /echest
+[19:03:03] [Server thread/INFO]: [SimpleEnderChest] David_alja opened his EnderChest at Location{world=CraftWorld{name=world},x=1151.4717904788852,y=72.0,z=-1309.7919184649395,pitch=49.721153,yaw=35.813965} !
+[19:03:03] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'echest' in plugin SimpleEnderChest v1.3
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:648) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1401) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1236) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_291]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_291]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
+Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
+	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	... 15 more
