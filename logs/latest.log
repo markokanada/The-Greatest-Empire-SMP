@@ -1086,3 +1086,6 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 	... 15 more
 [19:27:07] [Server thread/INFO]: David_alja lost connection: Timed out
 [19:27:07] [Server thread/INFO]: David_alja left the game
+[19:38:27] [User Authenticator #4/INFO]: UUID of player David_alja is 42e1c43e-8966-3dee-9d53-94807b81117b
+[19:38:27] [Server thread/INFO]: David_alja[/100.84.147.206:20131] logged in with entity id 23687 at ([world]1151.2003070419892, 71.5, -1353.0993827848542)
+[19:42:05] [Server thread/WARN]: David_alja moved wrongly!
