@@ -2469,3 +2469,278 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
 	... 15 more
 [22:33:23] [Server thread/WARN]: David_alja moved wrongly!
+[22:33:44] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[22:33:44] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[22:34:02] [Server thread/WARN]: David_alja moved wrongly!
+[22:34:14] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[22:34:14] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[22:34:20] [Server thread/WARN]: David_alja moved too quickly! 6.143398600808723,-59.0,-3.8405627130289304
+[22:34:27] [Server thread/INFO]: David_alja issued server command: /tp KellSo
+[22:34:27] [Server thread/INFO]: [David_alja: Teleported David_alja to KellSo]
+[22:34:37] [Server thread/WARN]: David_alja moved wrongly!
+[22:34:38] [Server thread/INFO]: ChunkLoader >> Chunk 58;-75;world was loaded correctly.
+[22:34:38] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[22:34:38] [Server thread/INFO]: ChunkLoader >> Chunk 59;-74;world was loaded correctly.
+[22:34:38] [Server thread/INFO]: ChunkLoader >> Chunk 58;-74;world was loaded correctly.
+[22:34:38] [Server thread/INFO]: ChunkLoader >> Chunk 62;-75;world was loaded correctly.
+[22:34:38] [Server thread/INFO]: ChunkLoader >> Chunk 61;-74;world was loaded correctly.
+[22:34:38] [Server thread/INFO]: ChunkLoader >> Chunk 60;-73;world was loaded correctly.
+[22:34:38] [Server thread/INFO]: ChunkLoader >> Chunk 60;-74;world was loaded correctly.
+[22:34:38] [Server thread/INFO]: ChunkLoader >> Chunk 61;-73;world was loaded correctly.
+[22:34:38] [Server thread/INFO]: ChunkLoader >> Chunk 60;-75;world was loaded correctly.
+[22:34:38] [Server thread/INFO]: ChunkLoader >> Chunk 62;-73;world was loaded correctly.
+[22:34:38] [Server thread/INFO]: ChunkLoader >> Chunk 61;-75;world was loaded correctly.
+[22:34:38] [Server thread/INFO]: ChunkLoader >> Chunk 62;-74;world was loaded correctly.
+[22:34:38] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[22:34:44] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[22:34:44] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[22:35:14] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[22:35:14] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[22:35:22] [Server thread/INFO]: KellSo issued server command: /tp David_alja
+[22:35:22] [Server thread/INFO]: [KellSo: Teleported KellSo to David_alja]
+[22:35:24] [Server thread/INFO]: KellSo issued server command: /tp David_alja
+[22:35:24] [Server thread/INFO]: [KellSo: Teleported KellSo to David_alja]
+[22:35:24] [Server thread/INFO]: KellSo issued server command: /tp David_alja
+[22:35:24] [Server thread/INFO]: [KellSo: Teleported KellSo to David_alja]
+[22:35:25] [Server thread/INFO]: KellSo fell from a high place
+[22:35:28] [Server thread/INFO]: KellSo issued server command: /tp David_alja
+[22:35:28] [Server thread/INFO]: [KellSo: Teleported KellSo to David_alja]
+[22:35:29] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[22:35:36] [Server thread/WARN]: David_alja moved too quickly! 5.489333068470387,-9.0,-7.419229419815792
+[22:35:45] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[22:35:52] [Server thread/WARN]: David_alja moved too quickly! -3.1905779511694163,-92.0,-6.581986259314135
+[22:35:58] [Server thread/INFO]: David_alja issued server command: /tp KellSo
+[22:35:58] [Server thread/INFO]: [David_alja: Teleported David_alja to KellSo]
+[22:36:15] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[22:36:31] [Server thread/WARN]: David_alja moved too quickly! 1.9931164074287153,-83.0,-3.51621188504987
+[22:36:31] [Server thread/INFO]: KellSo issued server command: /echest
+[22:36:31] [Server thread/INFO]: [SimpleEnderChest] KellSo opened his EnderChest at Location{world=CraftWorld{name=world_the_end},x=2992.343946729394,y=139.20000004768372,z=-1567.423442718007,pitch=19.51018,yaw=-31.860144} !
+[22:36:31] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'echest' in plugin SimpleEnderChest v1.3
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:648) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1401) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1236) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_291]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_291]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
+Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
+	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	... 15 more
+[22:36:33] [Server thread/INFO]: David_alja issued server command: /tp KellSo
+[22:36:33] [Server thread/INFO]: [David_alja: Teleported David_alja to KellSo]
+[22:36:45] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[22:36:50] [Server thread/INFO]: David_alja issued server command: /tp KellSo
+[22:36:50] [Server thread/INFO]: [David_alja: Teleported David_alja to KellSo]
+[22:37:15] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[22:37:33] [Server thread/INFO]: David_alja issued server command: /tp KellSo
+[22:37:33] [Server thread/INFO]: [David_alja: Teleported David_alja to KellSo]
+[22:37:45] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[22:37:47] [Server thread/WARN]: David_alja moved too quickly! 3.45223195436256,-53.0,-4.089686317728365
+[22:37:52] [Server thread/INFO]: David_alja issued server command: /tp KellSo
+[22:37:52] [Server thread/INFO]: [David_alja: Teleported David_alja to KellSo]
+[22:38:15] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[22:38:22] [Server thread/INFO]: KellSo issued server command: /echest
+[22:38:22] [Server thread/INFO]: [SimpleEnderChest] KellSo opened his EnderChest at Location{world=CraftWorld{name=world_the_end},x=2967.1538894119885,y=108.0,z=-1435.790572327476,pitch=7.8043075,yaw=157.37415} !
+[22:38:22] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'echest' in plugin SimpleEnderChest v1.3
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:648) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1401) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1236) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_291]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_291]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
+Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
+	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	... 15 more
+[22:38:45] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[22:38:56] [Server thread/WARN]: David_alja moved too quickly! 1.8976662081481663,-53.0,7.879258675184701
+[22:39:09] [Server thread/WARN]: David_alja moved wrongly!
+[22:39:11] [Server thread/INFO]: KellSo issued server command: /echest
+[22:39:11] [Server thread/INFO]: [SimpleEnderChest] KellSo opened his EnderChest at Location{world=CraftWorld{name=world_the_end},x=2962.3076893774182,y=58.0,z=-1425.9304842951592,pitch=-5.5021076,yaw=238.90247} !
+[22:39:11] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'echest' in plugin SimpleEnderChest v1.3
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:648) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1401) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1236) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_291]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_291]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
+Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
+	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	... 15 more
+[22:39:15] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[22:39:20] [Server thread/INFO]: David_alja issued server command: /tp KellSo
+[22:39:20] [Server thread/INFO]: [David_alja: Teleported David_alja to KellSo]
+[22:39:39] [Server thread/INFO]: ChunkLoader >> Chunk 58;-75;world was loaded correctly.
+[22:39:39] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[22:39:45] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[22:39:45] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[22:39:51] [Server thread/WARN]: David_alja moved wrongly!
+[22:40:15] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[22:40:15] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[22:40:25] [Server thread/WARN]: David_alja moved wrongly!
+[22:40:34] [Server thread/INFO]: KellSo issued server command: /home
+[22:40:39] [Server thread/WARN]: [SetHome] Task #19121 for SetHome v5.1.2 generated an exception
+java.lang.NoSuchFieldError: ENTITY_ENDERMAN_TELEPORT
+	at me.downthepark.sethome.SetHome.sendPlayerHome(SetHome.java:127) ~[?:?]
+	at me.downthepark.sethome.SetHome.lambda$onCommand$0(SetHome.java:77) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:76) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:361) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
+[22:40:42] [Server thread/INFO]: David_alja issued server command: /tp KellSo
+[22:40:42] [Server thread/INFO]: [David_alja: Teleported David_alja to KellSo]
+[22:41:09] [Server thread/INFO]: KellSo issued server command: /echest
+[22:41:09] [Server thread/INFO]: [SimpleEnderChest] KellSo opened his EnderChest at Location{world=CraftWorld{name=world},x=973.0223963910978,y=54.0,z=-1176.26997549852,pitch=-21.448996,yaw=237.4153} !
+[22:41:09] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'echest' in plugin SimpleEnderChest v1.3
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:648) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1401) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1236) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_291]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_291]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
+Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
+	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	... 15 more
+[22:41:40] [Server thread/INFO]: KellSo issued server command: /echest
+[22:41:40] [Server thread/INFO]: [SimpleEnderChest] KellSo opened his EnderChest at Location{world=CraftWorld{name=world},x=973.2626693294372,y=54.0,z=-1175.9187388049843,pitch=6.683,yaw=233.80057} !
+[22:41:40] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'echest' in plugin SimpleEnderChest v1.3
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:648) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1401) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1236) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_291]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_291]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
+Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
+	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	... 15 more
+[22:42:09] [Server thread/INFO]: KellSo issued server command: /echest
+[22:42:09] [Server thread/INFO]: [SimpleEnderChest] KellSo opened his EnderChest at Location{world=CraftWorld{name=world},x=973.2626693294372,y=54.0,z=-1175.9187388049843,pitch=-0.8607762,yaw=228.82378} !
+[22:42:09] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'echest' in plugin SimpleEnderChest v1.3
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:648) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1401) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1236) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_291]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_291]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
+Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
+	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	... 15 more
+[22:42:53] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[22:42:53] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[22:43:56] [Server thread/INFO]: KellSo issued server command: /gamemode 0
+[22:43:56] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
+[22:44:46] [Server thread/INFO]: David_alja lost connection: Internal Exception: java.io.IOException: A létezõ kapcsolatot a távoli állomás kényszerítetten bezárta
+[22:44:46] [Server thread/INFO]: David_alja left the game
+[22:45:09] [User Authenticator #6/INFO]: UUID of player David_alja is 42e1c43e-8966-3dee-9d53-94807b81117b
+[22:45:09] [Server thread/INFO]: David_alja[/100.84.147.206:23291] logged in with entity id 65059 at ([world]951.4213476498877, 67.0, -1175.2219961681897)
+[22:45:34] [Server thread/INFO]: David_alja lost connection: Timed out
+[22:45:34] [Server thread/INFO]: David_alja left the game
+[22:45:47] [User Authenticator #7/INFO]: UUID of player David_alja is 42e1c43e-8966-3dee-9d53-94807b81117b
+[22:45:47] [Server thread/INFO]: David_alja[/100.84.147.206:56753] logged in with entity id 65101 at ([world]951.4213476498877, 67.0, -1175.2219961681897)
+[22:46:06] [Server thread/INFO]: David_alja issued server command: /echest
+[22:46:06] [Server thread/INFO]: [SimpleEnderChest] David_alja opened his EnderChest at Location{world=CraftWorld{name=world},x=951.4213476498877,y=67.0,z=-1175.2219961681897,pitch=21.064917,yaw=-153.1393} !
+[22:46:06] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'echest' in plugin SimpleEnderChest v1.3
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:648) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1401) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1236) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_291]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_291]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
+Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
+	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	... 15 more
+[22:46:16] [Server thread/INFO]: David_alja lost connection: Internal Exception: java.io.IOException: A létezõ kapcsolatot a távoli állomás kényszerítetten bezárta
+[22:46:16] [Server thread/INFO]: David_alja left the game
+[22:46:21] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[22:46:21] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[22:46:32] [Server thread/INFO]: KellSo issued server command: /gamemode 0
+[22:46:32] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
+[22:46:35] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[22:46:35] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[22:46:41] [Server thread/INFO]: KellSo issued server command: /gamemode 0
+[22:46:41] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
