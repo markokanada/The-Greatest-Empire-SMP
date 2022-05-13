@@ -2816,3 +2816,11 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
 	... 15 more
+[23:09:19] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:redstone_lamp 64
+[23:09:19] [Server thread/INFO]: [KellSo: Given [Redstone Lamp] * 64 to KellSo]
+[23:09:20] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:redstone_lamp 64
+[23:09:20] [Server thread/INFO]: [KellSo: Given [Redstone Lamp] * 64 to KellSo]
+[23:09:20] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:redstone_lamp 64
+[23:09:20] [Server thread/INFO]: [KellSo: Given [Redstone Lamp] * 64 to KellSo]
+[23:09:46] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:redstone_block 64
+[23:09:46] [Server thread/INFO]: [KellSo: Given [Block of Redstone] * 64 to KellSo]
