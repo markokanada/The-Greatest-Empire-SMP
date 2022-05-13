@@ -2035,3 +2035,121 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [22:02:39] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
 [22:03:09] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
 [22:03:09] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[22:03:39] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[22:03:39] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[22:03:49] [Server thread/INFO]: David_alja issued server command: /tp KellSo
+[22:03:49] [Server thread/INFO]: [David_alja: Teleported David_alja to KellSo]
+[22:04:04] [Server thread/INFO]: KellSo issued server command: /tp David_alja
+[22:04:04] [Server thread/INFO]: [KellSo: Teleported KellSo to David_alja]
+[22:04:09] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[22:04:09] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[22:04:14] [Server thread/INFO]: KellSo issued server command: /tp David_alja
+[22:04:14] [Server thread/INFO]: [KellSo: Teleported KellSo to David_alja]
+[22:04:33] [Server thread/INFO]: ChunkLoader >> Chunk 58;-75;world was loaded correctly.
+[22:04:33] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[22:04:39] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[22:04:39] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[22:05:09] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[22:05:09] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[22:05:40] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[22:05:40] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[22:06:10] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[22:06:10] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[22:06:40] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[22:06:40] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[22:07:10] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[22:07:10] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[22:07:40] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[22:07:40] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[22:08:10] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[22:08:10] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[22:08:40] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[22:08:40] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[22:09:10] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[22:09:10] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[22:09:34] [Server thread/INFO]: ChunkLoader >> Chunk 58;-75;world was loaded correctly.
+[22:09:34] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[22:09:34] [Server thread/INFO]: ChunkLoader >> Chunk 59;-74;world was loaded correctly.
+[22:09:34] [Server thread/INFO]: ChunkLoader >> Chunk 58;-74;world was loaded correctly.
+[22:09:34] [Server thread/INFO]: ChunkLoader >> Chunk 62;-75;world was loaded correctly.
+[22:09:34] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[22:09:40] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[22:09:40] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[22:10:08] [Server thread/INFO]: David_alja issued server command: /tp KellSo
+[22:10:08] [Server thread/INFO]: [David_alja: Teleported David_alja to KellSo]
+[22:10:10] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[22:10:10] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[22:10:40] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[22:10:40] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[22:10:48] [Server thread/INFO]: David_alja has reached the goal [Sky's the Limit]
+[22:10:59] [Server thread/INFO]: KellSo issued server command: /echest
+[22:10:59] [Server thread/INFO]: [SimpleEnderChest] KellSo opened his EnderChest at Location{world=CraftWorld{name=world_the_end},x=2062.9676886617294,y=127.0,z=-287.4070754073874,pitch=30.592684,yaw=267.84308} !
+[22:10:59] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'echest' in plugin SimpleEnderChest v1.3
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:648) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1401) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1236) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_291]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_291]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
+Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
+	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	... 15 more
+[22:11:10] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[22:11:10] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[22:11:31] [Server thread/WARN]: David_alja moved too quickly! 7.583871774079853,-64.0,7.721658792933965
+[22:11:37] [Server thread/INFO]: David_alja issued server command: /tp KellSo
+[22:11:37] [Server thread/INFO]: [David_alja: Teleported David_alja to KellSo]
+[22:11:40] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[22:11:40] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[22:12:10] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[22:12:10] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[22:12:40] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[22:12:40] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[22:13:10] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[22:13:10] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[22:13:23] [Server thread/INFO]: David_alja issued server command: /tp KellSo
+[22:13:23] [Server thread/INFO]: [David_alja: Teleported David_alja to KellSo]
+[22:13:40] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[22:13:40] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[22:14:10] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[22:14:10] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[22:14:15] [Server thread/INFO]: David_alja issued server command: /tp KellSo
+[22:14:15] [Server thread/INFO]: [David_alja: Teleported David_alja to KellSo]
+[22:14:34] [Server thread/INFO]: ChunkLoader >> Chunk 58;-75;world was loaded correctly.
+[22:14:34] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[22:14:41] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[22:14:41] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[22:15:11] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[22:15:11] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[22:15:41] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[22:15:41] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[22:16:11] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[22:16:11] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[22:16:34] [Server thread/WARN]: David_alja moved wrongly!
+[22:16:41] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[22:16:41] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[22:16:55] [Server thread/WARN]: David_alja moved wrongly!
+[22:17:11] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[22:17:11] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[22:17:30] [Server thread/WARN]: David_alja moved wrongly!
+[22:17:32] [Server thread/WARN]: David_alja moved wrongly!
+[22:17:38] [Server thread/INFO]: KellSo issued server command: /gamemode 3
+[22:17:38] [Server thread/INFO]: [KellSo: Set own game mode to Spectator Mode]
+[22:17:41] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[22:17:41] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[22:18:04] [Server thread/WARN]: David_alja moved wrongly!
+[22:18:11] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[22:18:11] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[22:18:29] [Server thread/WARN]: David_alja moved wrongly!
