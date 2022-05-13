@@ -309,3 +309,435 @@ Caused by: java.lang.ClassNotFoundException: net.milkbowl.vault.permission.Permi
 [17:59:01] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
 [17:59:02] [User Authenticator #1/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
 [17:59:02] [Server thread/INFO]: KellSo[/192.168.0.1:64710] logged in with entity id 1388 at ([world]1077.84708386186, 50.0, -1100.300000011921)
+[18:06:58] [Server thread/INFO]: KellSo issued server command: /echest
+[18:06:58] [Server thread/INFO]: [SimpleEnderChest] KellSo opened his EnderChest at Location{world=CraftWorld{name=world},x=1031.300000011921,y=50.0,z=-872.4779811615008,pitch=-1.8549795,yaw=-267.2054} !
+[18:06:58] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'echest' in plugin SimpleEnderChest v1.3
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:648) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1401) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1236) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_291]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_291]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
+Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
+	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	... 15 more
+[18:07:04] [Server thread/INFO]: KellSo issued server command: /home
+[18:07:09] [Server thread/WARN]: [SetHome] Task #1506 for SetHome v5.1.2 generated an exception
+java.lang.NoSuchFieldError: ENTITY_ENDERMAN_TELEPORT
+	at me.downthepark.sethome.SetHome.sendPlayerHome(SetHome.java:127) ~[?:?]
+	at me.downthepark.sethome.SetHome.lambda$onCommand$0(SetHome.java:77) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:76) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:361) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
+[18:08:30] [Server thread/INFO]: KellSo issued server command: /home
+[18:08:32] [Server thread/INFO]: KellSo issued server command: /echest
+[18:08:32] [Server thread/INFO]: [SimpleEnderChest] KellSo opened his EnderChest at Location{world=CraftWorld{name=world},x=974.4768048293945,y=54.0,z=-1176.7562384120438,pitch=38.6392,yaw=6.026428} !
+[18:08:32] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'echest' in plugin SimpleEnderChest v1.3
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:648) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1401) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1236) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_291]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_291]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
+Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
+	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	... 15 more
+[18:08:35] [Server thread/WARN]: [SetHome] Task #1593 for SetHome v5.1.2 generated an exception
+java.lang.NoSuchFieldError: ENTITY_ENDERMAN_TELEPORT
+	at me.downthepark.sethome.SetHome.sendPlayerHome(SetHome.java:127) ~[?:?]
+	at me.downthepark.sethome.SetHome.lambda$onCommand$0(SetHome.java:77) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:76) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:361) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
+[18:09:32] [Server thread/INFO]: KellSo issued server command: /echest
+[18:09:32] [Server thread/INFO]: [SimpleEnderChest] KellSo opened his EnderChest at Location{world=CraftWorld{name=world},x=972.8942615413533,y=42.0,z=-1178.8083537408643,pitch=19.620872,yaw=65.40521} !
+[18:09:32] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'echest' in plugin SimpleEnderChest v1.3
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:648) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1401) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1236) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_291]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_291]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
+Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
+	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	... 15 more
+[18:09:52] [Server thread/INFO]: KellSo issued server command: /echest
+[18:09:52] [Server thread/INFO]: [SimpleEnderChest] KellSo opened his EnderChest at Location{world=CraftWorld{name=world},x=973.8759778288634,y=54.0,z=-1176.2355192516025,pitch=14.22499,yaw=333.57013} !
+[18:09:52] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'echest' in plugin SimpleEnderChest v1.3
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:648) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1401) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1236) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_291]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_291]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
+Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
+	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	... 15 more
+[18:10:12] [Server thread/INFO]: KellSo issued server command: /echest
+[18:10:12] [Server thread/INFO]: [SimpleEnderChest] KellSo opened his EnderChest at Location{world=CraftWorld{name=world},x=973.4859885530215,y=42.0,z=-1176.7218502801627,pitch=6.6288257,yaw=104.85309} !
+[18:10:12] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'echest' in plugin SimpleEnderChest v1.3
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:648) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1401) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1236) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_291]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_291]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
+Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
+	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	... 15 more
+[18:14:32] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[18:14:32] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[18:14:41] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:14:41] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:14:42] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:14:42] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:14:42] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:14:42] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:14:43] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:14:43] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:14:44] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:14:44] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:14:44] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:14:44] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:14:45] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:14:45] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:14:45] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:14:45] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:14:45] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:14:45] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:14:46] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:14:46] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:14:46] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:14:46] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:14:46] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:14:46] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:14:47] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:14:47] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:14:47] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:14:47] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:14:47] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:14:47] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:14:47] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:14:47] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:14:48] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:14:48] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:14:48] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:14:48] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:14:48] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:14:48] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:14:49] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:14:49] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:14:49] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:14:49] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:14:49] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:14:49] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:14:49] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:14:49] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:14:50] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:14:50] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:14:50] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:14:50] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:14:50] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:14:50] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:14:51] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:14:51] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:14:51] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:14:51] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:14:51] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:14:51] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:14:52] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:14:52] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:14:52] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:14:52] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:14:52] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:14:52] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:14:52] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:14:52] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:14:53] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:14:53] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:14:53] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:14:53] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:14:53] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:14:53] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:14:53] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:14:53] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:14:54] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:14:54] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:00] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:00] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:01] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:01] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:01] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:01] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:02] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:02] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:02] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:02] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:02] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:02] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:02] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:02] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:03] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:03] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:03] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:03] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:03] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64t
+[18:15:03] [Server thread/INFO]: [KellSo: '64t' is not a valid number]
+[18:15:05] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:05] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:06] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:06] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:06] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:06] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:07] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:07] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:07] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:07] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:09] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:09] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:09] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:09] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:10] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:10] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:10] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:10] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:11] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:11] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:12] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:12] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:12] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:12] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:13] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:13] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:13] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:13] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:14] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:14] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:14] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:14] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:14] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:14] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:15] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:15] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:15] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:15] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:16] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:16] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:16] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:16] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:17] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:17] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:17] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:17] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:18] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:18] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:34] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:34] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:34] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:34] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:35] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:35] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:35] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:35] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:35] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:35] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:36] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:36] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:36] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:36] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:36] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:36] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:37] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:37] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:37] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:37] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:37] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:37] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:38] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:38] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:38] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:38] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:38] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:38] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:39] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:39] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:39] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:39] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:39] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:39] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:39] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:39] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:40] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:40] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:40] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:40] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:40] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:40] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:41] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:41] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:41] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:41] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:41] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:41] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:42] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:42] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:42] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:42] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:42] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:42] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:43] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:43] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:43] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:43] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:43] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:43] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:43] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:43] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:44] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:44] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:44] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:44] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:44] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:44] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:45] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:45] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:45] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:45] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:45] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:45] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:46] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:46] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:46] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:46] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:47] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:47] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:47] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:47] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:48] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:48] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:48] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:48] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:49] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:49] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:56] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:56] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:56] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:56] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:56] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:56] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:57] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:57] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:57] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:57] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:57] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:57] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:58] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:58] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:58] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:58] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:58] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:58] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:59] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:59] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:15:59] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:15:59] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:16:00] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:16:00] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:16:00] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:16:00] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:16:00] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:16:00] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:16:01] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:16:01] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:16:01] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:16:01] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:16:01] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:16:01] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:16:02] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:16:02] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:16:02] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:16:02] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:16:02] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:16:02] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:16:03] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:16:03] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:16:03] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:16:03] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:16:03] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:16:03] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:16:05] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:16:05] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:16:05] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:16:05] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:16:06] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:planks 64
+[18:16:06] [Server thread/INFO]: [KellSo: Given [Oak Wood Planks] * 64 to KellSo]
+[18:16:16] [Server thread/INFO]: KellSo issued server command: /gamemode 0
+[18:16:16] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
