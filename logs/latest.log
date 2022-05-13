@@ -785,3 +785,84 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [18:32:42] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
 [18:33:12] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
 [18:33:12] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[18:33:43] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[18:33:43] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[18:34:06] [Server thread/INFO]: ChunkLoader >> Chunk 58;-75;world was loaded correctly.
+[18:34:06] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[18:34:06] [Server thread/INFO]: ChunkLoader >> Chunk 59;-74;world was loaded correctly.
+[18:34:06] [Server thread/INFO]: ChunkLoader >> Chunk 58;-74;world was loaded correctly.
+[18:34:06] [Server thread/INFO]: ChunkLoader >> Chunk 62;-75;world was loaded correctly.
+[18:34:06] [Server thread/INFO]: ChunkLoader >> Chunk 61;-74;world was loaded correctly.
+[18:34:06] [Server thread/INFO]: ChunkLoader >> Chunk 60;-73;world was loaded correctly.
+[18:34:06] [Server thread/INFO]: ChunkLoader >> Chunk 60;-74;world was loaded correctly.
+[18:34:06] [Server thread/INFO]: ChunkLoader >> Chunk 61;-73;world was loaded correctly.
+[18:34:06] [Server thread/INFO]: ChunkLoader >> Chunk 60;-75;world was loaded correctly.
+[18:34:06] [Server thread/INFO]: ChunkLoader >> Chunk 62;-73;world was loaded correctly.
+[18:34:06] [Server thread/INFO]: ChunkLoader >> Chunk 61;-75;world was loaded correctly.
+[18:34:06] [Server thread/INFO]: ChunkLoader >> Chunk 62;-74;world was loaded correctly.
+[18:34:06] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[18:34:13] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[18:34:13] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[18:34:43] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[18:34:43] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[18:35:13] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[18:35:13] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[18:35:43] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[18:35:43] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[18:36:13] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[18:36:13] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[18:36:16] [User Authenticator #2/INFO]: UUID of player David_alja is 42e1c43e-8966-3dee-9d53-94807b81117b
+[18:36:16] [Server thread/INFO]: David_alja[/100.84.147.206:18614] logged in with entity id 9786 at ([world]1150.2414803148392, 71.0, -1357.6803306958475)
+[18:37:34] [User Authenticator #3/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[18:37:34] [Server thread/INFO]: KellSo[/192.168.0.1:59401] logged in with entity id 10770 at ([world]1102.85204347832, 48.0, -870.5425597536967)
+[18:37:41] [Server thread/INFO]: KellSo issued server command: /tp David_alja
+[18:37:41] [Server thread/INFO]: [KellSo: Teleported KellSo to David_alja]
+[18:42:13] [Server thread/INFO]: David_alja issued server command: /echest
+[18:42:13] [Server thread/INFO]: [SimpleEnderChest] David_alja opened his EnderChest at Location{world=CraftWorld{name=world},x=1150.7285116794683,y=71.0,z=-1385.925000011921,pitch=63.147385,yaw=302.24597} !
+[18:42:13] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'echest' in plugin SimpleEnderChest v1.3
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:648) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1401) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1236) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_291]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_291]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
+Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
+	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	... 15 more
+[18:48:06] [Server thread/INFO]: David_alja issued server command: /echest
+[18:48:06] [Server thread/INFO]: [SimpleEnderChest] David_alja opened his EnderChest at Location{world=CraftWorld{name=world},x=1151.3969813747874,y=72.0,z=-1377.7447561203892,pitch=39.100758,yaw=2.8361816} !
+[18:48:06] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'echest' in plugin SimpleEnderChest v1.3
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:648) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1401) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1236) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_291]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_291]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
+Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
+	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	... 15 more
+[18:48:17] [Server thread/WARN]: David_alja moved wrongly!
