@@ -2824,3 +2824,7 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [23:09:20] [Server thread/INFO]: [KellSo: Given [Redstone Lamp] * 64 to KellSo]
 [23:09:46] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:redstone_block 64
 [23:09:46] [Server thread/INFO]: [KellSo: Given [Block of Redstone] * 64 to KellSo]
+[23:31:48] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:redstone 64
+[23:31:48] [Server thread/INFO]: [KellSo: Given [Redstone] * 64 to KellSo]
+[23:31:59] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:redstone_torch 64
+[23:31:59] [Server thread/INFO]: [KellSo: Given [Redstone Torch] * 64 to KellSo]
