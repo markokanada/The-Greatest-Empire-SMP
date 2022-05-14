@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2022-05-14 21:15:39 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2022-03-28 21:08:07 +0200"
@@ -593,6 +599,7 @@
       "shulker": "2022-05-13 20:56:05 +0200",
       "wither_skeleton": "2022-03-29 22:03:58 +0200",
       "zombie_villager": "2022-03-28 21:11:35 +0200",
+      "magma_cube": "2022-05-14 21:17:25 +0200",
       "skeleton": "2022-03-28 21:28:48 +0200",
       "blaze": "2022-04-15 14:44:18 +0200",
       "zombie": "2022-03-28 21:11:27 +0200",
@@ -2199,6 +2206,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2022-05-14 21:15:39 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2022-03-28 21:14:59 +0200"
@@ -2274,6 +2287,12 @@
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2022-04-06 20:47:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2022-05-14 21:15:39 +0200"
     },
     "done": true
   },
@@ -2364,6 +2383,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2022-03-29 22:04:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick": {
+    "criteria": {
+      "has_netherbrick": "2022-05-14 21:06:20 +0200"
     },
     "done": true
   },
