@@ -12,3 +12,5 @@
 [00:07:39] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
 [00:12:05] [Server thread/INFO]: KellSo issued server command: /gamerule randomTickSpeed 6
 [00:12:05] [Server thread/INFO]: [KellSo: Game rule randomTickSpeed has been updated to 6]
+[00:26:24] [Server thread/INFO]: KellSo lost connection: Internal Exception: java.io.IOException: A létezõ kapcsolatot a távoli állomás kényszerítetten bezárta
+[00:26:24] [Server thread/INFO]: KellSo left the game
