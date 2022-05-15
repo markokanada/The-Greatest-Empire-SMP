@@ -9278,3 +9278,83 @@ Caused by: java.lang.NoSuchFieldError: ITEM_BREAK
 	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_291]
 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[server.jar:git-Spigot-79a30d7-f4830a1]
 	... 17 more
+[18:49:11] [Server thread/ERROR]: Could not pass event BlockBreakEvent to TreeCapitator v1.0
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:500) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:485) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerInteractManager.breakBlock(PlayerInteractManager.java:290) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerInteractManager.a(PlayerInteractManager.java:217) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:893) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInBlockDig.a(SourceFile:40) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInBlockDig.a(SourceFile:10) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_291]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_291]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
+Caused by: java.lang.NoSuchFieldError: ITEM_BREAK
+	at com.compgeek28.TreeCapitator.TreeHandler.breakBlock(TreeHandler.java:37) ~[?:?]
+	at com.compgeek28.TreeCapitator.TreeHandler.breakBlock(TreeHandler.java:33) ~[?:?]
+	at com.compgeek28.TreeCapitator.TreeHandler.breakBlock(TreeHandler.java:33) ~[?:?]
+	at com.compgeek28.TreeCapitator.TreeHandler.breakBlock(TreeHandler.java:33) ~[?:?]
+	at com.compgeek28.TreeCapitator.TreeHandler.breakBlock(TreeHandler.java:33) ~[?:?]
+	at com.compgeek28.TreeCapitator.TreeHandler.breakingBlock(TreeHandler.java:24) ~[?:?]
+	at sun.reflect.GeneratedMethodAccessor22.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_291]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_291]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	... 17 more
+[18:49:13] [Server thread/INFO]: KellSo issued server command: /gamemode 3
+[18:49:13] [Server thread/INFO]: [KellSo: Set own game mode to Spectator Mode]
+[18:49:18] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[18:49:18] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[18:49:22] [Server thread/INFO]: KellSo issued server command: /gamemode 0
+[18:49:22] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
+[18:49:25] [Server thread/INFO]: KellSo issued server command: /gamemode 3
+[18:49:25] [Server thread/INFO]: [KellSo: Set own game mode to Spectator Mode]
+[18:49:27] [Server thread/INFO]: KellSo issued server command: /gamemode 0
+[18:49:27] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
+[18:51:10] [Server thread/INFO]: KellSo issued server command: /tp David_alja
+[18:51:10] [Server thread/INFO]: [KellSo: Teleported KellSo to David_alja]
+[18:51:12] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[18:51:18] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[18:51:18] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[18:51:24] [Server thread/INFO]: ChunkLoader >> Chunk 59;-75;world was loaded correctly.
+[18:51:24] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[18:51:41] [Server thread/INFO]: KellSo issued server command: /home
+[18:51:46] [Server thread/WARN]: [SetHome] Task #194295 for SetHome v5.1.2 generated an exception
+java.lang.NoSuchFieldError: ENTITY_ENDERMAN_TELEPORT
+	at me.downthepark.sethome.SetHome.sendPlayerHome(SetHome.java:127) ~[?:?]
+	at me.downthepark.sethome.SetHome.lambda$onCommand$0(SetHome.java:77) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:76) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:361) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
+[18:52:11] [Server thread/WARN]: David_alja moved wrongly!
+[18:52:19] [Server thread/INFO]: KellSo issued server command: /tp David_alja
+[18:52:19] [Server thread/INFO]: [KellSo: Teleported KellSo to David_alja]
+[18:52:21] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[18:52:25] [Server thread/INFO]: ChunkLoader >> Chunk 58;-68;world was loaded correctly.
+[18:52:27] [Server thread/INFO]: KellSo issued server command: /home
+[18:52:32] [Server thread/WARN]: [SetHome] Task #194345 for SetHome v5.1.2 generated an exception
+java.lang.NoSuchFieldError: ENTITY_ENDERMAN_TELEPORT
+	at me.downthepark.sethome.SetHome.sendPlayerHome(SetHome.java:127) ~[?:?]
+	at me.downthepark.sethome.SetHome.lambda$onCommand$0(SetHome.java:77) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:76) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:361) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
+[18:56:10] [Server thread/INFO]: David_alja lost connection: Disconnected
+[18:56:10] [Server thread/INFO]: David_alja left the game
