@@ -9358,3 +9358,7 @@ java.lang.NoSuchFieldError: ENTITY_ENDERMAN_TELEPORT
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
 [18:56:10] [Server thread/INFO]: David_alja lost connection: Disconnected
 [18:56:10] [Server thread/INFO]: David_alja left the game
+[19:16:49] [User Authenticator #16/INFO]: UUID of player csm is e4b5d62e-136e-3d1d-8298-6c49498fbec9
+[19:16:49] [Server thread/INFO]: csm[/178.48.145.206:63032] logged in with entity id 315145 at ([world]1259.237500011921, 67.0, -936.8628612383727)
+[19:18:19] [Server thread/INFO]: KellSo issued server command: /tp csm
+[19:18:19] [Server thread/INFO]: [KellSo: Teleported KellSo to csm]

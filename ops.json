@@ -6,6 +6,12 @@
     "bypassesPlayerLimit": false
   },
   {
+    "uuid": "e4b5d62e-136e-3d1d-8298-6c49498fbec9",
+    "name": "csm",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "884a0d8c-27fa-4824-b3ef-94f50ea94b5f",
     "name": "list",
     "level": 4,
