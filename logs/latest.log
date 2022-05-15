@@ -9362,3 +9362,36 @@ java.lang.NoSuchFieldError: ENTITY_ENDERMAN_TELEPORT
 [19:16:49] [Server thread/INFO]: csm[/178.48.145.206:63032] logged in with entity id 315145 at ([world]1259.237500011921, 67.0, -936.8628612383727)
 [19:18:19] [Server thread/INFO]: KellSo issued server command: /tp csm
 [19:18:19] [Server thread/INFO]: [KellSo: Teleported KellSo to csm]
+[19:20:51] [Server thread/INFO]: KellSo issued server command: /echest
+[19:20:51] [Server thread/INFO]: [SimpleEnderChest] KellSo opened his EnderChest at Location{world=CraftWorld{name=world},x=1260.6405190613646,y=49.0,z=-892.9746029021371,pitch=-0.77845967,yaw=79.52759} !
+[19:20:51] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'echest' in plugin SimpleEnderChest v1.3
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:648) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1401) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1236) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_291]
+	at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_291]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
+Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
+	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	... 15 more
+[19:21:47] [Server thread/INFO]: csm issued server command: /tp Kellso
+[19:21:47] [Server thread/INFO]: KellSo issued server command: /tp csm KellSo
+[19:21:47] [Server thread/INFO]: [KellSo: Teleported csm to KellSo]
+[19:21:57] [Server thread/INFO]: KellSo issued server command: /op csm
+[19:21:57] [Server thread/INFO]: [KellSo: Opped csm]
+[19:31:27] [Server thread/INFO]: KellSo issued server command: /tp csm
+[19:31:27] [Server thread/INFO]: [KellSo: Teleported KellSo to csm]
+[19:43:33] [Server thread/INFO]: KellSo issued server command: /tp csm
+[19:43:33] [Server thread/INFO]: [KellSo: Teleported KellSo to csm]
