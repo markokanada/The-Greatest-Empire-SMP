@@ -10,3 +10,5 @@
 [00:07:29] [Server thread/INFO]: [KellSo: '`' is not a valid number]
 [00:07:39] [Server thread/INFO]: KellSo issued server command: /gamemode 0
 [00:07:39] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
+[00:12:05] [Server thread/INFO]: KellSo issued server command: /gamerule randomTickSpeed 6
+[00:12:05] [Server thread/INFO]: [KellSo: Game rule randomTickSpeed has been updated to 6]
