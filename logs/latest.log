@@ -1,0 +1,13 @@
+[16:18:10] [User Authenticator #22/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[16:18:11] [Server thread/INFO]: KellSo[/192.168.0.1:50677] logged in with entity id 13103281 at ([world]1035.384388737774, 77.0, -1159.3658016485776)
+[16:18:41] [Server thread/INFO]: KellSo issued server command: /gamemode 3
+[16:18:41] [Server thread/INFO]: [KellSo: Set own game mode to Spectator Mode]
+[16:19:06] [Server thread/INFO]: KellSo issued server command: /gamemode 0
+[16:19:06] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
+[16:20:02] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[16:20:02] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[16:20:37] [Server thread/INFO]: KellSo issued server command: //cut
+[16:20:52] [Server thread/INFO]: KellSo issued server command: //cut
+[16:21:06] [Server thread/INFO]: KellSo issued server command: //cut
+[16:21:16] [Server thread/INFO]: KellSo issued server command: //cut
+[16:21:31] [Server thread/INFO]: KellSo issued server command: //cut
