@@ -1,2 +1,22 @@
 [20:57:47] [User Authenticator #24/INFO]: UUID of player David_alja is 42e1c43e-8966-3dee-9d53-94807b81117b
 [20:57:48] [Server thread/INFO]: David_alja[/100.84.148.1:10747] logged in with entity id 21496919 at ([world]1151.417895375138, 64.0, -1320.3164200640408)
+[21:10:49] [Server thread/INFO]: David_alja issued server command: /tp home
+[21:10:49] [Server thread/INFO]: [David_alja: Entity 'home' cannot be found]
+[21:10:56] [Server thread/INFO]: David_alja issued server command: /home
+[21:11:01] [Server thread/WARN]: [SetHome] Task #343113 for SetHome v5.1.2 generated an exception
+java.lang.NoSuchFieldError: ENTITY_ENDERMAN_TELEPORT
+	at me.downthepark.sethome.SetHome.sendPlayerHome(SetHome.java:127) ~[?:?]
+	at me.downthepark.sethome.SetHome.lambda$onCommand$0(SetHome.java:77) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:76) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:361) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
+[21:11:56] [Server thread/INFO]: David_alja lost connection: Disconnected
+[21:11:56] [Server thread/INFO]: David_alja left the game
+[21:13:21] [User Authenticator #25/INFO]: UUID of player David_alja is 42e1c43e-8966-3dee-9d53-94807b81117b
+[21:13:21] [Server thread/INFO]: David_alja[/100.84.148.1:52042] logged in with entity id 21572606 at ([world]1038.3490470097347, 70.0, -1165.762499988079)
+[21:14:07] [Server thread/INFO]: David_alja lost connection: Disconnected
+[21:14:07] [Server thread/INFO]: David_alja left the game
