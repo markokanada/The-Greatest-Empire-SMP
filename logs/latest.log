@@ -1,2 +1,4 @@
 [19:02:26] [User Authenticator #27/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
 [19:02:27] [Server thread/INFO]: KellSo[/192.168.0.1:51756] logged in with entity id 27962982 at ([world]1038.3928768153346, 69.875, -1165.3917422397647)
+[19:07:01] [Server thread/INFO]: KellSo lost connection: Internal Exception: java.io.IOException: A létezõ kapcsolatot a távoli állomás kényszerítetten bezárta
+[19:07:01] [Server thread/INFO]: KellSo left the game
