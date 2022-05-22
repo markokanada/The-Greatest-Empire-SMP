@@ -1305,6 +1305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/slime": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2022-05-22 18:01:03 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2022-03-28 21:17:37 +0200"
@@ -2113,6 +2119,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2022-03-28 20:55:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_the_recipe": "2022-05-22 18:01:03 +0200"
     },
     "done": true
   },
