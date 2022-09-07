@@ -424,3 +424,6 @@ Caused by: java.lang.ClassNotFoundException: net.milkbowl.vault.permission.Permi
 [19:25:41] [Craft Scheduler Thread - 2/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
 [19:25:42] [Craft Scheduler Thread - 1/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
 [19:25:42] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[19:27:29] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[19:27:29] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[19:27:29] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
