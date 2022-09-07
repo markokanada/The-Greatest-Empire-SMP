@@ -1,0 +1,337 @@
+# RampenDrills configuration.
+Drill:
+  # Require the player to be close to the drill for it to run. if set to false, it only needs the chunk(s) to be loaded.
+  # Warning: Disabling this may lead to issues, I would highly recommend testing it before disabling it.
+  NeedPlayerClose: true
+
+  # If NeedPlayerClose is true, this is the distance that the player needs to be within the drill, otherwise it stops.
+  NeedPlayerCloseRange: 32
+
+  # If the player needs a drill tool to start the drill, if set to false it requires an empty hand.
+  RequireDrillTool: true
+
+  # If the drill should check the extra blocks under the drill. Makes it so the drill can't 'fly'.
+  CheckExtraBlocks: true
+
+  # If CheckExtraBlocks is true, only check the blocks if drill is horizontal.
+  CheckExtraBlocksHorizontalOnly: true
+
+  # Lets you use a shulker box instead of a chest.
+  AllowShulkerBoxes: true
+
+  # If the drill should be allowed to move through lava.
+  AllowMovingThroughLava: false
+
+  # Amount of ticks to wait after mining, before it checks that there's no more blocks left to mine before moving.
+  GravelWaitDelay: 6
+
+  # Blocks the drill cannot mine.
+  Blacklist:
+    - 'BEDROCK'
+    - 'END_PORTAL_FRAME'
+    - 'END_PORTAL'
+    - 'CHEST'
+    - 'TRAPPED_CHEST'
+    - 'SPAWNER'
+    - 'ENDER_CHEST'
+    - 'LAVA'
+    - 'HOPPER'
+    - 'SKELETON_SKULL'
+    - 'SKELETON_WALL_SKULL'
+    - 'WITHER_SKELETON_SKULL'
+    - 'WITHER_SKELETON_WALL_SKULL'
+    - 'CREEPER_HEAD'
+    - 'CREEPER_WALL_HEAD'
+    - 'DRAGON_HEAD'
+    - 'DRAGON_WALL_HEAD'
+    - 'PLAYER_HEAD'
+    - 'PLAYER_WALL_HEAD'
+    - 'ZOMBIE_HEAD'
+    - 'ZOMBIE_WALL_HEAD'
+    - 'FURNACE'
+    - 'WHITE_SHULKER_BOX'
+    - 'ORANGE_SHULKER_BOX'
+    - 'MAGENTA_SHULKER_BOX'
+    - 'LIGHT_BLUE_SHULKER_BOX'
+    - 'YELLOW_SHULKER_BOX'
+    - 'LIME_SHULKER_BOX'
+    - 'PINK_SHULKER_BOX'
+    - 'GRAY_SHULKER_BOX'
+    - 'LIGHT_GRAY_SHULKER_BOX'
+    - 'CYAN_SHULKER_BOX'
+    - 'PURPLE_SHULKER_BOX'
+    - 'BLUE_SHULKER_BOX'
+    - 'BROWN_SHULKER_BOX'
+    - 'GREEN_SHULKER_BOX'
+    - 'RED_SHULKER_BOX'
+    - 'BLACK_SHULKER_BOX'
+    - 'SHULKER_BOX'
+    - 'BARREL'
+    - 'BELL'
+    - 'BLAST_FURNACE'
+    - 'CAMPFIRE'
+    - 'CARTOGRAPHY_TABLE'
+    - 'COMPOSTER'
+    - 'FLETCHING_TABLE'
+    - 'GRINDSTONE'
+    - 'JIGSAW'
+    - 'LECTERN'
+    - 'LOOM'
+    - 'SMITHING_TABLE'
+    - 'SMOKER'
+    - 'STONECUTTER'
+
+  # How long it takes the drill to move, in ticks
+  MoveDelay: 34
+
+  # If the drill should need fuel to do things.
+  RequireFuel: true
+
+  # The amount of fuel the drills requires.
+  FuelCost:
+    OnMove: 600
+
+
+# Settings for the placement drills shape. (gold blocks instead of iron blocks on the side)
+Placement:
+  # If solid blocks can be placed into the air, instead of only with a block under it.
+  # You may have to set CheckExtraBlocks to false, and KeepMovingIfOutOfItems to true for this to be any useful.
+  AllowAirPlacementForSolidBlocks: false
+
+  # If the drill should keep moving when it's out of items
+  KeepMovingIfOutOfItems: false
+
+  # Blocks that can be used to place blocks in front/under the drill so that it can move.
+  # The blocks get placed in the spot where the CheckExtraBlocks setting checks for blocks.
+  # The drill will get these blocks from its chest.
+  FillerBlocks:
+  - 'COBBLESTONE'
+  - 'STONE'
+  - 'DIRT'
+
+  # Blocks that the drill is allowed to place blocks "into".
+  AllowedOverride:
+  - 'AIR'
+  - 'WATER'
+  - 'LAVA'
+
+  # The different patterns players can select for the placement drill to place blocks behind it.
+  Patterns:
+    Rail:
+      Pattern:
+      - 'RAIL'
+      - 'RAIL'
+      - 'RAIL'
+      - 'RAIL'
+      - 'RAIL'
+      - 'POWERED_RAIL'
+      # This can be removed if you don't want it to require a permission.
+      Permission: "rampen.drills.rail"
+    Torches:
+      Pattern:
+      - 'AIR'
+      - 'AIR'
+      - 'AIR'
+      - 'AIR'
+      - 'AIR'
+      - 'TORCH'
+      Permission: "rampen.drills.torches"
+#
+DrillHeads:
+  # Material of the drill head. materials: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Material.html
+  # Make sure the material you use is a block and not an item, otherwise it may cause issues or not work.
+  EMERALD_BLOCK:
+    # If its silktouch or not.
+    SilkTouch: true
+    # The fuel modifier for moving.
+    FuelModifier: 1.2
+    # How much fuel digging 1 block costs.
+    DigFuelCost: 12
+    # All permissions will look like rampen.drills.<whatever you put>
+    # Remove to make it not require any permissions.
+    Permission: silk
+    # Which size preset the drillhead will use. If removed or invalid, it will use Default.
+    Size: Default
+    # Normal delay is used for most blocks, LongDelay is for the materials in SlowBlocks.
+    NormalDelay: 8
+    LongDelay: 45
+    # Materials of blocks where the drill will use the long delay instead of short delay. Remove to use the default, which is only obsidian.
+    SlowBlocks:
+    - 'OBSIDIAN'
+    # The different drill shapes that this drill head works with. Defaults to allow all drill shapes.
+    #DrillShapes:
+    #- 'default'
+    #- 'placement'
+    #- 'ender'
+    #- 'enderplacement'
+    #- 'large'
+    #- 'largeplacement'
+  IRON_BLOCK:
+    SilkTouch: false
+    FuelModifier: 0.5
+    DigFuelCost: 2
+    NormalDelay: 16
+    LongDelay: 70
+  DIAMOND_BLOCK:
+    SilkTouch: false
+    FuelModifier: 1
+    DigFuelCost: 10
+    NormalDelay: 10
+    LongDelay: 50
+
+DrillSizes:
+  # Add as many different sizes as you want.
+  Default:
+    Height: 3
+    Width: 3
+    WidthOffset: Auto
+
+# in ms, how long to consider the last max limit check valid.
+DrillLimitCacheDuration: 5000
+
+# Just in case the new system doesn't quite work as intended, I'm adding an option to disable it for now.
+# With this enabled, the limit permissions does not require the previous ones.
+UseNewLimitPermissionCheck: true
+
+# Prevents players from crafting with the drill tool.
+PreventCraftingWithDrillTool: true
+
+# Customize the drill tool
+DrillTool:
+  Material: 'WOOD_HOE'
+  Name: '&rDrill Tool'
+  Lore:
+    - '&5Right click on the drill head'
+    - '&5&o(Iron/Diamond/Emerald block)'
+    - '&5from your drill to make it start / stop.'
+
+# Set to false to disable all cosmetics. Players will still be able to select them, but they won't do anything.
+EnableCosmetics: true
+
+# All the cosmetics
+Cosmetics:
+  # The name that will be used to select this cosmetic.
+  Lava:
+    # List of available particles: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Particle.html
+    Particle: LAVA
+    ParticleAmount: 4
+    # List of available sounds: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Sound.html
+    Sound: BLOCK_LAVA_POP
+    Volume: 1
+    PitchMin: 1
+    RandomAdditionalPitch: 1
+    # If you want the cosmetic to require a specific permission, you'd specify that here.
+    #Permission: rampen.drills.cosmetic.lava
+
+    # By default, particles will spawn in the center of the block.
+    # If you set Type to randoffset it will spawn each particle with a random offset, which by default is up to .4
+    #Type: randoffset
+    # If you want to change the random offset, you'd change these values. Does nothing if Type is not set to randoffset.
+    #OffsetX: .4
+    #OffsetY: .4
+    #OffsetZ: .4
+  Explosion:
+    Particle: EXPLOSION_LARGE
+    ParticleAmount: 1
+    Sound: ENTITY_GENERIC_EXPLODE
+    Volume: 1
+    PitchMin: 3
+    RandomAdditionalPitch: 1
+  Ender:
+    Particle: PORTAL
+    ParticleAmount: 25
+    Sound: ENTITY_ENDERMAN_TELEPORT
+    Volume: 1
+    PitchMin: 1
+    RandomAdditionalPitch: 1
+  Crit:
+    Particle: CRIT_MAGIC
+    ParticleAmount: 15
+    Sound: ENTITY_PLAYER_ATTACK_CRIT
+    Volume: 1.5
+    PitchMin: 1
+    RandomAdditionalPitch: 1
+  Snow:
+    Particle: SNOWBALL
+    ParticleAmount: 20
+    Sound: ENTITY_SNOW_GOLEM_HURT
+    Volume: 1.5
+    PitchMin: 1
+    RandomAdditionalPitch: 1
+    Type: randoffset
+  Happy:
+    Particle: VILLAGER_HAPPY
+    ParticleAmount: 12
+    Sound: ENTITY_EXPERIENCE_ORB_PICKUP
+    Volume: 1
+    PitchMin: 2
+    RandomAdditionalPitch: 1
+    Type: randoffset
+  Spell:
+    Particle: SPELL_WITCH
+    ParticleAmount: 12
+    Sound: ENTITY_WITCH_THROW
+    Volume: 1
+    PitchMin: 1
+    RandomAdditionalPitch: 1
+    Type: randoffset
+
+Messages:
+  NoPermission: '&8[&3RampenDrills&8] &cYou do not have permission to do that!'
+  Drill:
+    SomeoneElse: '&8[&3RampenDrills&8] &7Someone else is using that drill.'
+    StartMoving: '&8[&3RampenDrills&8] &7Your drill will start moving now.'
+    StoppedMoving: '&8[&3RampenDrills&8] &7Your drill has stopped moving.'
+    TooManyDrills: '&8[&3RampenDrills&8] &7You are not allowed to have another drill.'
+    DrillCantMine: '&8[&3RampenDrills&8] &7Your drill is not allowed to mine there, so it stopped.'
+    CantMine: '&8[&3RampenDrills&8] &7Your drill cannot mine that block.'
+    CantMove: '&8[&3RampenDrills&8] &7Your drill was unable to move and stopped.'
+    NoFuel: '&8[&3RampenDrills&8] &7Your drill does not have enough fuel.'
+    NoStorage: '&8[&3RampenDrills&8] &7Your drill does not have enough free storage.'
+    SomethingWentWrong: '&8[&3RampenDrills&8] &7Something went wrong with the drill, it stopped.'
+    OutOfBlocks: '&8[&3RampenDrills&8] &7Your drill is out of blocks.'
+    CantPlace: '&8[&3RampenDrills&8] &cYour drill was not allowed to place a block.'
+  Command:
+    Unknown: '&8[&3RampenDrills&8] &7Unknown command. try /drill help'
+    OnToolGive: '&8[&3RampenDrills&8] &7Added the drill tool to your inventory.'
+    OnToolDisabled: '&8[&3RampenDrills&8] &7You do not require a drill tool to start your drill.'
+    Help: |
+      &8===== &3RampenDrills Help &8=====
+      &3/Drill tool &7- Gives you the drill tool.
+      &3/Drill help &7- Shows this.
+      &3/Drill pattern [name] &7- Select a pattern for the placement drill.
+      &3/Drill filter &7- Stop your drill from picking up certain blocks.
+      &3/Drill cosmetic [name/off] &7- Cosmetic stuff.
+      &3/Drill stop [player] &7- Stop your own drills, or a target players drills.
+      &3/Drill reload &7- Attempts to reload the configuration.
+    Reload: '&8[&3RampenDrills&8] &7&cAttempted to reload configuration. This may cause problems, restart is recommended.'
+    Cosmetic:
+      Usage: '&8[&3RampenDrills&8] &7Usage: /drill cosmetic [name/off]'
+      InvalidType: '&8[&3RampenDrills&8] &7Invalid cosmetic type. Try: Explosion, Ender, Lava, Crit, Snow, Happy or Spell.'
+      NoPermission: '&8[&3RampenDrills&8] &7You do not have permission to use that cosmetic.'
+      Enabled: '&8[&3RampenDrills&8] &7Turned on {type} drill effects.'
+      Disabled: '&8[&3RampenDrills&8] &7Turned off cosmetic drill effects.'
+    Pattern:
+      Usage: '&8[&3RampenDrills&8] &7Usage: /drill pattern [pattern name]'
+      NotAPattern: '&8[&3RampenDrills&8] &cThat''s not a valid pattern'
+      Selected: '&8[&3RampenDrills&8] &7{pattern} has been selected.'
+      NoPermission: '&8[&3RampenDrills&8] &cYou do not have permission to selected that pattern.'
+      Removed: '&8[&3RampenDrills&8] &7Your selected pattern has been removed.'
+    ItemFilter:
+      Usage: '&8[&3RampenDrills&8] &7Usage: /drill filter [add/remove/list/clear]'
+      HoldItem: '&8[&3RampenDrills&8] &7You need to hold the item you want add or remove to your filter.'
+      Added: '&8[&3RampenDrills&8] &e{type} &7has been added to your item filter.'
+      Cleared: '&8[&3RampenDrills&8] &7Your item filter has been cleared.'
+      List: '&8[&3RampenDrills&8] &7Your current item filter is: &e{list}'
+      Empty: '&8[&3RampenDrills&8] &7Your drills are not filtering any items currently.'
+      Removed: '&8[&3RampenDrills&8] &e{type} &7has been removed from your item filter.'
+      NotFiltered: '&8[&3RampenDrills&8] &e{type} &7is not in your item filter'
+    Stop:
+      Usage: '&8[&3RampenDrills&8] &7Usage: /drill stop [player]'
+      Error: '&8[&3RampenDrills&8] &cUnable to find drill player.'
+      TargetOffline: '&8[&3RampenDrills&8] &cTarget player is not online'
+      NoDrills: '&8[&3RampenDrills&8] &7You do not have any running drills '
+      Stopped: '&8[&3RampenDrills&8] &7Your drills have been stopped'
+      StoppedAdmin: '&8[&3RampenDrills&8] &e%player%''s &7drills have been stopped.'
+# Used for making sure the config is up to date. Updating the config removes all comments, and adds back missing default values for various things.
+ConfigVersion: 4.5.0

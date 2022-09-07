@@ -1,0 +1,147 @@
+Fuels:
+  # https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Material.html
+  Material:
+    COAL_BLOCK: 14400
+    BLAZE_ROD: 2400
+    COAL: 1600
+    CHARCOAL: 1600
+    DRIED_KELP_BLOCK: 4000
+
+    # Planks
+    ACACIA_PLANKS: 300
+    BIRCH_PLANKS: 300
+    DARK_OAK_PLANKS: 300
+    JUNGLE_PLANKS: 300
+    SPRUCE_PLANKS: 300
+    OAK_PLANKS: 300
+
+    # Logs
+    ACACIA_WOOD: 300
+    BIRCH_WOOD: 300
+    DARK_OAK_WOOD: 300
+    JUNGLE_WOOD: 300
+    SPRUCE_WOOD: 300
+    OAK_WOOD: 300
+    ACACIA_LOG: 300
+    BIRCH_LOG: 300
+    DARK_OAK_LOG: 300
+    JUNGLE_LOG: 300
+    SPRUCE_LOG: 300
+    OAK_LOG: 300
+    STRIPPED_ACACIA_LOG: 300
+    STRIPPED_BIRCH_LOG: 300
+    STRIPPED_DARK_OAK_LOG: 300
+    STRIPPED_JUNGLE_LOG: 300
+    STRIPPED_SPRUCE_LOG: 300
+    STRIPPED_OAK_LOG: 300
+
+    # Fences
+    ACACIA_FENCE: 300
+    BIRCH_FENCE: 300
+    DARK_OAK_FENCE: 300
+    JUNGLE_FENCE: 300
+    SPRUCE_FENCE: 300
+    OAK_FENCE: 300
+    ACACIA_FENCE_GATE: 300
+    BIRCH_FENCE_GATE: 300
+    DARK_OAK_FENCE_GATE: 300
+    JUNGLE_FENCE_GATE: 300
+    SPRUCE_FENCE_GATE: 300
+    OAK_FENCE_GATE: 300
+
+    # Stairs
+    ACACIA_STAIRS: 300
+    BIRCH_STAIRS: 300
+    DARK_OAK_STAIRS: 300
+    JUNGLE_STAIRS: 300
+    SPRUCE_STAIRS: 300
+    OAK_STAIRS: 300
+
+    # Buttons
+    ACACIA_BUTTON: 100
+    BIRCH_BUTTON: 100
+    DARK_OAK_BUTTON: 100
+    JUNGLE_BUTTON: 100
+    SPRUCE_BUTTON: 100
+    OAK_BUTTON: 100
+
+    # Slabs
+    ACACIA_SLAB: 150
+    BIRCH_SLAB: 150
+    DARK_OAK_SLAB: 150
+    JUNGLE_SLAB: 150
+    SPRUCE_SLAB: 150
+    OAK_SLAB: 150
+
+    # Signs
+    ACACIA_SIGN: 200
+    BIRCH_SIGN: 200
+    DARK_OAK_SIGN: 200
+    JUNGLE_SIGN: 200
+    SPRUCE_SIGN: 200
+    OAK_SIGN: 200
+
+    # Saplings
+    ACACIA_SAPLING: 100
+    BIRCH_SAPLING: 100
+    DARK_OAK_SAPLING: 100
+    JUNGLE_SAPLING: 100
+    SPRUCE_SAPLING: 100
+    OAK_SAPLING: 100
+
+    # Boats
+    ACACIA_BOAT: 1200
+    BIRCH_BOAT: 1200
+    DARK_OAK_BOAT: 1200
+    JUNGLE_BOAT: 1200
+    SPRUCE_BOAT: 1200
+    OAK_BOAT: 1200
+
+    # Pressure Plates
+    ACACIA_PRESSURE_PLATE: 300
+    BIRCH_PRESSURE_PLATE: 300
+    DARK_OAK_PRESSURE_PLATE: 300
+    JUNGLE_PRESSURE_PLATE: 300
+    SPRUCE_PRESSURE_PLATE: 300
+    OAK_PRESSURE_PLATE: 300
+
+    # Trapdoors
+    ACACIA_TRAPDOOR: 300
+    BIRCH_TRAPDOOR: 300
+    DARK_OAK_TRAPDOOR: 300
+    JUNGLE_TRAPDOOR: 300
+    SPRUCE_TRAPDOOR: 300
+    OAK_TRAPDOOR: 300
+
+    # Doors
+    ACACIA_DOOR: 200
+    BIRCH_DOOR: 200
+    DARK_OAK_DOOR: 200
+    JUNGLE_DOOR: 200
+    SPRUCE_DOOR: 200
+    OAK_DOOR: 200
+
+    # Misc
+    STICK: 100
+    CHEST: 300
+    TRAPPED_CHEST: 300
+    BOOKSHELF: 300
+    NOTE_BLOCK: 300
+    LECTERN: 300
+    COMPOSTER: 300
+    BARREL: 300
+    SCAFFOLDING: 400
+    BAMBOO: 50
+  # This is where you can add custom fuels. Uncomment the section if you wish to use it.
+  # If you can't put the item into the fuel slot of a furnace, putting it here won't help!
+  #Custom:
+    # The section name doesn't really matter, just needs to be unique.
+    #RandomItem:
+      #Material: COAL
+      #FuelValue: 2400
+      #Name: "&7Example Coal"
+      #Lore:
+      # - "&7Example Lore"
+      #CustomModelData: 0
+      # Setting CustomType to ModelData means it will only check if the material and custom model data matches, ignoring everything else.
+      #CustomType: ModelData
