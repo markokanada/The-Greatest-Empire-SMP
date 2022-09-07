@@ -427,3 +427,5 @@ Caused by: java.lang.ClassNotFoundException: net.milkbowl.vault.permission.Permi
 [19:27:29] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
 [19:27:29] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
 [19:27:29] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[19:47:01] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[19:47:01] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
