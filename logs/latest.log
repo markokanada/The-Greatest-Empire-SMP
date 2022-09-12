@@ -488,3 +488,6 @@ Caused by: java.lang.ClassNotFoundException: net.milkbowl.vault.permission.Permi
 [18:59:08] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
 [18:59:11] [Server thread/INFO]: KellSo issued server command: /difficulty 3
 [18:59:11] [Server thread/INFO]: [KellSo: Set game difficulty to Hard]
+[19:00:44] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[19:00:44] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[19:00:44] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
