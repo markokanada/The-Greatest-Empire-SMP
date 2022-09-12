@@ -179,3 +179,225 @@ org.bukkit.plugin.UnknownDependencyException: ItemNBTAPI
 [18:40:29] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Using ip: 94.21.136.224
 [18:40:29] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to start a cdn injector at port 8050. Timeout=5-seconds
 [18:40:34] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to start a cdn injector at port 5641. Timeout=5-seconds
+[18:40:39] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Continuing without the RestDirect feature! None of the listed ports were accessible or available. Please contact support, your server/host might not be compatible!
+[18:40:39] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Starting and loading took 13536MS
+[18:40:39] [Server thread/INFO]: [EnderChestVault] Enabling EnderChestVault v1.2
+[18:40:39] [Server thread/ERROR]: Error occurred while enabling EnderChestVault v1.2 (Is it up to date?)
+java.lang.NoClassDefFoundError: net/milkbowl/vault/permission/Permission
+	at com.deadshotmdf.EnderChestVault.Main.setupPermissions(Main.java:73) ~[?:?]
+	at com.deadshotmdf.EnderChestVault.Main.onEnable(Main.java:51) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:337) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:403) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.enablePlugin(CraftServer.java:381) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.enablePlugins(CraftServer.java:330) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.t(MinecraftServer.java:422) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.l(MinecraftServer.java:383) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.a(MinecraftServer.java:338) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.init(DedicatedServer.java:272) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:545) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+Caused by: java.lang.ClassNotFoundException: net.milkbowl.vault.permission.Permission
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:476) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:152) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:100) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:589) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:522) ~[?:?]
+	... 13 more
+[18:40:39] [Server thread/INFO]: [RampenDrills] Enabling RampenDrills v4.5.2-Beta
+[18:40:39] [Server thread/INFO]: [RampenDrills] CHARCOAL is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] DRIED_KELP_BLOCK is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] ACACIA_PLANKS is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] BIRCH_PLANKS is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] DARK_OAK_PLANKS is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] JUNGLE_PLANKS is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] SPRUCE_PLANKS is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] OAK_PLANKS is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] ACACIA_WOOD is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] BIRCH_WOOD is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] DARK_OAK_WOOD is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] JUNGLE_WOOD is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] SPRUCE_WOOD is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] OAK_WOOD is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] ACACIA_LOG is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] BIRCH_LOG is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] DARK_OAK_LOG is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] JUNGLE_LOG is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] SPRUCE_LOG is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] OAK_LOG is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] STRIPPED_ACACIA_LOG is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] STRIPPED_BIRCH_LOG is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] STRIPPED_DARK_OAK_LOG is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] STRIPPED_JUNGLE_LOG is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] STRIPPED_SPRUCE_LOG is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] STRIPPED_OAK_LOG is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] OAK_FENCE is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] OAK_FENCE_GATE is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] BIRCH_STAIRS is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] JUNGLE_STAIRS is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] SPRUCE_STAIRS is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] OAK_STAIRS is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] ACACIA_BUTTON is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] BIRCH_BUTTON is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] DARK_OAK_BUTTON is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] JUNGLE_BUTTON is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] SPRUCE_BUTTON is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] OAK_BUTTON is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] ACACIA_SLAB is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] BIRCH_SLAB is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] DARK_OAK_SLAB is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] JUNGLE_SLAB is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] SPRUCE_SLAB is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] OAK_SLAB is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] ACACIA_SIGN is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] BIRCH_SIGN is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] DARK_OAK_SIGN is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] JUNGLE_SIGN is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] SPRUCE_SIGN is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] OAK_SIGN is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] ACACIA_SAPLING is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] BIRCH_SAPLING is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] DARK_OAK_SAPLING is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] JUNGLE_SAPLING is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] SPRUCE_SAPLING is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] OAK_SAPLING is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] ACACIA_BOAT is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] BIRCH_BOAT is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] DARK_OAK_BOAT is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] JUNGLE_BOAT is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] SPRUCE_BOAT is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] OAK_BOAT is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] ACACIA_PRESSURE_PLATE is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] BIRCH_PRESSURE_PLATE is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] DARK_OAK_PRESSURE_PLATE is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] JUNGLE_PRESSURE_PLATE is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] SPRUCE_PRESSURE_PLATE is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] OAK_PRESSURE_PLATE is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] ACACIA_TRAPDOOR is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] BIRCH_TRAPDOOR is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] DARK_OAK_TRAPDOOR is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] JUNGLE_TRAPDOOR is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] SPRUCE_TRAPDOOR is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] OAK_TRAPDOOR is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] OAK_DOOR is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] LECTERN is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] COMPOSTER is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] BARREL is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] SCAFFOLDING is not a valid fuel material!
+[18:40:39] [Server thread/INFO]: [RampenDrills] BAMBOO is not a valid fuel material!
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'END_PORTAL_FRAME' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'END_PORTAL' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'SPAWNER' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'SKELETON_SKULL' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'SKELETON_WALL_SKULL' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'WITHER_SKELETON_SKULL' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'WITHER_SKELETON_WALL_SKULL' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'CREEPER_HEAD' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'CREEPER_WALL_HEAD' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'DRAGON_HEAD' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'DRAGON_WALL_HEAD' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'PLAYER_HEAD' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'PLAYER_WALL_HEAD' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'ZOMBIE_HEAD' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'ZOMBIE_WALL_HEAD' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'LIGHT_GRAY_SHULKER_BOX' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'SHULKER_BOX' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'BARREL' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'BELL' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'BLAST_FURNACE' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'CAMPFIRE' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'CARTOGRAPHY_TABLE' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'COMPOSTER' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'FLETCHING_TABLE' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'GRINDSTONE' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'JIGSAW' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'LECTERN' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'LOOM' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'SMITHING_TABLE' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'SMOKER' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'STONECUTTER' to the blacklist.
+[18:40:39] [Server thread/INFO]: [RampenDrills] ENTITY_ENDERMAN_TELEPORT is not a valid sound
+[18:40:39] [Server thread/INFO]: [RampenDrills] ENTITY_SNOW_GOLEM_HURT is not a valid sound
+[18:40:39] [Server thread/INFO]: [RampenDrills] RAIL is not a valid material
+[18:40:39] [Server thread/INFO]: [RampenDrills] RAIL is not a valid material
+[18:40:39] [Server thread/INFO]: [RampenDrills] RAIL is not a valid material
+[18:40:39] [Server thread/INFO]: [RampenDrills] RAIL is not a valid material
+[18:40:39] [Server thread/INFO]: [RampenDrills] RAIL is not a valid material
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'END_PORTAL_FRAME' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'END_PORTAL' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'SPAWNER' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'SKELETON_SKULL' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'SKELETON_WALL_SKULL' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'WITHER_SKELETON_SKULL' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'WITHER_SKELETON_WALL_SKULL' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'CREEPER_HEAD' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'CREEPER_WALL_HEAD' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'DRAGON_HEAD' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'DRAGON_WALL_HEAD' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'PLAYER_HEAD' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'PLAYER_WALL_HEAD' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'ZOMBIE_HEAD' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'ZOMBIE_WALL_HEAD' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'LIGHT_GRAY_SHULKER_BOX' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'SHULKER_BOX' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'BARREL' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'BELL' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'BLAST_FURNACE' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'CAMPFIRE' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'CARTOGRAPHY_TABLE' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'COMPOSTER' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'FLETCHING_TABLE' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'GRINDSTONE' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'JIGSAW' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'LECTERN' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'LOOM' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'SMITHING_TABLE' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'SMOKER' to the blacklist.
+[18:40:39] [Server thread/WARN]: [RampenDrills] Could not add material 'STONECUTTER' to the blacklist.
+[18:40:39] [Server thread/INFO]: [ChunkLoader] Enabling ChunkLoader v3.0.1
+[18:40:39] [Server thread/INFO]: [m
+[18:40:39] [Server thread/INFO]: [0;37;1m>>[m
+[18:40:39] [Server thread/INFO]: [0;37;1m>> [0;33;22mThe plugin ChunkLoader is outdated.[m
+[18:40:39] [Server thread/INFO]: [0;37;1m>> [0;33;22mCurrent Version [0;37;1m3.0.1[m
+[18:40:39] [Server thread/INFO]: [0;37;1m>>[m
+[18:40:39] [Server thread/INFO]: [0;37;1m>> [0;33;22mLatest Version [0;37;1m3.1.1[m
+[18:40:39] [Server thread/INFO]: [0;37;1m>> [0;33;22mDownload latest version here[m
+[18:40:39] [Server thread/INFO]: [0;37;1m>> [0;37;1mhttps://www.spigotmc.org/resources/92834[m
+[18:40:39] [Server thread/INFO]: [0;37;1m>>[m
+[18:40:39] [Server thread/INFO]: [m
+[18:40:39] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;37;1mEnabled Spigot version.[m
+[18:40:39] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;37;22mmessages_en [0;32;1mfile was loaded successfully.[m
+[18:40:40] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[18:40:40] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m62;-74;world [0;32;1mwas loaded correctly.[m
+[18:40:40] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m62;-75;world [0;32;1mwas loaded correctly.[m
+[18:40:40] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m61;-75;world [0;32;1mwas loaded correctly.[m
+[18:40:40] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m61;-74;world [0;32;1mwas loaded correctly.[m
+[18:40:40] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m59;-74;world [0;32;1mwas loaded correctly.[m
+[18:40:40] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m59;-75;world [0;32;1mwas loaded correctly.[m
+[18:40:40] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m60;-74;world [0;32;1mwas loaded correctly.[m
+[18:40:40] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-74;world [0;32;1mwas loaded correctly.[m
+[18:40:40] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m60;-73;world [0;32;1mwas loaded correctly.[m
+[18:40:40] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m61;-73;world [0;32;1mwas loaded correctly.[m
+[18:40:40] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m62;-73;world [0;32;1mwas loaded correctly.[m
+[18:40:40] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m60;-75;world [0;32;1mwas loaded correctly.[m
+[18:40:40] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-75;world [0;32;1mwas loaded correctly.[m
+[18:40:40] [Server thread/INFO]: [m
+[18:40:40] [Server thread/INFO]: [0;37;1m>>[m
+[18:40:40] [Server thread/INFO]: [0;37;1m>> [0;33;22mChunkLoader [0;32;1mEnabled[m
+[18:40:40] [Server thread/INFO]: [0;37;1m>> [0;33;22mVersion [0;37;1m3.0.1[m
+[18:40:40] [Server thread/INFO]: [0;37;1m>>[m
+[18:40:40] [Server thread/INFO]: [0;37;1m>> [0;33;22mDeveloped by KayTeam © 2020 - 2022. All rights reserved.[m
+[18:40:40] [Server thread/INFO]: [0;37;1m>> [0;37;1mhttps://kayteam.org[m
+[18:40:40] [Server thread/INFO]: [0;37;1m>>[m
+[18:40:40] [Server thread/INFO]: [m
+[18:40:40] [Server thread/INFO]: [Graves] Enabling Graves v4.7
+[18:40:40] [Server thread/INFO]: [Graves] Integration: WorldEdit 6.1.9;caf0ad9 detected, Only WorldEdit 7+ is supported.Disabling WorldEdit support.
+[18:40:40] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:40:40] [Server thread/INFO]: Done (13,711s)! For help, type "help" or "?"
+[18:40:40] [Server thread/INFO]: Starting GS4 status listener
+[18:40:40] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
+[18:40:40] [Craft Scheduler Thread - 0/INFO]: [AutomatedCrafting] Reloading recipes...
+[18:40:40] [Server thread/INFO]: [Graves] Information: Legacy version detected, Graves will run but may have problems with material names, the default config is setup for the latest version of the game, you can alter the config manually to fix any issues you encounter, you will need to find the names of materials and sounds for your version.
+[18:40:40] [Server thread/INFO]: [Graves] Update: Outdated version detected 4.7, latest version is 4.9, https://www.spigotmc.org/resources/graves.74208/
+[18:40:40] [Craft Scheduler Thread - 0/INFO]: [AutomatedCrafting] Finished reloading 443 recipes, took 89 ms...
+[18:40:42] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] New Identity = QuUnX1VET52rFqws1ZX-0bjUw
