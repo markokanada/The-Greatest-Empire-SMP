@@ -597,3 +597,8 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [19:56:53] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
 [19:56:53] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
 [19:56:54] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[20:03:01] [User Authenticator #4/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[20:03:01] [Server thread/INFO]: KellSo lost connection: You logged in from another location
+[20:03:01] [Server thread/INFO]: KellSo left the game
+[20:03:02] [Server thread/INFO]: KellSo[/192.168.1.169:58657] logged in with entity id 58608 at ([world]997.9775569413642, 54.0, -1175.8033313638955)
+[20:03:02] [Server thread/WARN]: handleDisconnection() called twice
