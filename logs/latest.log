@@ -602,3 +602,4 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [20:03:01] [Server thread/INFO]: KellSo left the game
 [20:03:02] [Server thread/INFO]: KellSo[/192.168.1.169:58657] logged in with entity id 58608 at ([world]997.9775569413642, 54.0, -1175.8033313638955)
 [20:03:02] [Server thread/WARN]: handleDisconnection() called twice
+[20:14:56] [Async Chat Thread - #0/INFO]: <KellSo> a[m
