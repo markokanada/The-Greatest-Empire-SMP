@@ -579,3 +579,13 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 	... 15 more
 [19:43:47] [Server thread/INFO]: KellSo issued server command: /tp David_alja
 [19:43:47] [Server thread/INFO]: [KellSo: Teleported KellSo to David_alja]
+[19:51:41] [Server thread/INFO]: David_alja lost connection: Timed out
+[19:51:41] [Server thread/INFO]: David_alja left the game
+[19:51:41] [Server thread/WARN]: handleDisconnection() called twice
+[19:53:06] [Server thread/INFO]: KellSo lost connection: Timed out
+[19:53:06] [Server thread/INFO]: KellSo left the game
+[19:53:07] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[19:53:19] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[19:53:49] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[19:54:19] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[19:54:49] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
