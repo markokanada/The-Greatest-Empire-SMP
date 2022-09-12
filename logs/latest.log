@@ -589,3 +589,11 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [19:53:49] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
 [19:54:19] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
 [19:54:49] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[19:55:03] [User Authenticator #3/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[19:55:03] [Server thread/INFO]: KellSo[/192.168.0.1:58579] logged in with entity id 55494 at ([world]971.0036238775741, 76.0, -1196.760602435766)
+[19:55:03] [Craft Scheduler Thread - 19/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[19:55:04] [Craft Scheduler Thread - 25/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[19:55:04] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[19:56:53] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[19:56:53] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[19:56:54] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
