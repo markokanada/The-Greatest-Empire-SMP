@@ -5405,3 +5405,4 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
 	... 15 more
+[20:21:27] [Async Chat Thread - #1/INFO]: <KellSo> Öngyilkos hajlamú gyerekek Klubbja[m
