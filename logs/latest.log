@@ -5406,3 +5406,10 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
 	... 15 more
 [20:21:27] [Async Chat Thread - #1/INFO]: <KellSo> Öngyilkos hajlamú gyerekek Klubbja[m
+[20:25:51] [Server thread/INFO]: KellSo lost connection: Timed out
+[20:25:51] [Server thread/INFO]: KellSo left the game
+[20:29:56] [User Authenticator #8/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[20:29:56] [Server thread/INFO]: KellSo[/192.168.1.169:64040] logged in with entity id 157412 at ([world]966.2803187174068, 80.0, -1236.5115790019374)
+[20:29:56] [Craft Scheduler Thread - 762/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[20:29:58] [Craft Scheduler Thread - 762/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[20:29:58] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
