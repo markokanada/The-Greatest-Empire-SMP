@@ -5413,3 +5413,14 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [20:29:56] [Craft Scheduler Thread - 762/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
 [20:29:58] [Craft Scheduler Thread - 762/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
 [20:29:58] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[20:30:14] [Server thread/INFO]: KellSo issued server command: /tp David_alja KellSo
+[20:30:14] [Server thread/INFO]: [KellSo: Teleported David_alja to KellSo]
+[20:31:39] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[20:31:39] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[20:31:39] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[20:33:49] [Server thread/INFO]: David_alja issued server command: /tp KellSo
+[20:33:49] [Server thread/INFO]: [David_alja: Teleported David_alja to KellSo]
+[20:34:16] [Server thread/INFO]: David_alja issued server command: /tp KellSo
+[20:34:16] [Server thread/INFO]: [David_alja: Teleported David_alja to KellSo]
+[20:34:28] [Server thread/INFO]: David_alja issued server command: /tp KellSo
+[20:34:28] [Server thread/INFO]: [David_alja: Teleported David_alja to KellSo]
