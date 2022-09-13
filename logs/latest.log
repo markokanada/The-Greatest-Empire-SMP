@@ -5424,3 +5424,5 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [20:34:16] [Server thread/INFO]: [David_alja: Teleported David_alja to KellSo]
 [20:34:28] [Server thread/INFO]: David_alja issued server command: /tp KellSo
 [20:34:28] [Server thread/INFO]: [David_alja: Teleported David_alja to KellSo]
+[20:35:14] [Server thread/INFO]: David_alja issued server command: /tp KellSo
+[20:35:14] [Server thread/INFO]: [David_alja: Teleported David_alja to KellSo]
