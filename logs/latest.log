@@ -5666,3 +5666,7 @@
 [20:53:44] [Server thread/INFO]: KellSo[/192.168.1.169:58402] logged in with entity id 234376 at ([world]1021.5647302528313, 63.0, -1165.2962662845928)
 [20:53:44] [Craft Scheduler Thread - 1677/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
 [20:53:44] [Craft Scheduler Thread - 1679/INFO]: [OpenAudioMc] [OpenAudioMc] Your account doesn't actually have permissions for voicechat, shutting down.
+[21:26:42] [Server thread/INFO]: KellSo issued server command: /gamemode 3
+[21:26:42] [Server thread/INFO]: [KellSo: Set own game mode to Spectator Mode]
+[21:26:48] [Server thread/INFO]: KellSo issued server command: /gamemode 0
+[21:26:48] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
