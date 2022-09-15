@@ -5309,3 +5309,8 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [20:14:14] [Async Chat Thread - #3/INFO]: <David_alja> graves[m
 [20:14:22] [Server thread/INFO]: David_alja issued server command: /graves
 [20:28:11] [Server thread/WARN]: KellSo moved wrongly!
+[20:30:17] [Async Chat Thread - #4/INFO]: <KellSo> ~~[m
+[20:32:28] [Server thread/INFO]: KellSo issued server command: /gamemode 3
+[20:32:28] [Server thread/INFO]: [KellSo: Set own game mode to Spectator Mode]
+[20:32:31] [Server thread/INFO]: KellSo issued server command: /tp David_alja
+[20:32:31] [Server thread/INFO]: [KellSo: Teleported KellSo to David_alja]
