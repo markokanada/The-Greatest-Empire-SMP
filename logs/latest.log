@@ -5308,3 +5308,4 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [20:13:38] [Server thread/INFO]: David_alja was blown up by Creeper
 [20:14:14] [Async Chat Thread - #3/INFO]: <David_alja> graves[m
 [20:14:22] [Server thread/INFO]: David_alja issued server command: /graves
+[20:28:11] [Server thread/WARN]: KellSo moved wrongly!
