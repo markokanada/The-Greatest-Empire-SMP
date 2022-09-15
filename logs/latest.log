@@ -5417,3 +5417,5 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 	... 15 more
 [21:04:39] [Server thread/INFO]: KellSo issued server command: /gamemode 0
 [21:04:39] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
+[21:16:23] [Server thread/INFO]: KellSo lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: A kapcsolatot bontotta a távoli fél
+[21:16:23] [Server thread/INFO]: KellSo left the game
