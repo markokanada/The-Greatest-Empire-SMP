@@ -5361,3 +5361,7 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
 	... 15 more
 [20:41:29] [Server thread/WARN]: KellSo moved wrongly!
+[20:56:27] [Server thread/INFO]: David_alja hit the ground too hard
+[20:56:40] [Server thread/INFO]: David_alja issued server command: /graves
+[20:56:46] [Server thread/INFO]: KellSo issued server command: /tp David_alja
+[20:56:46] [Server thread/INFO]: [KellSo: Teleported KellSo to David_alja]
