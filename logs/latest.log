@@ -4851,3 +4851,14 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [18:53:01] [Server thread/WARN]: handleDisconnection() called twice
 [18:53:45] [Craft Scheduler Thread - 4656/INFO]: [OpenAudioMc] [OpenAudioMc] Starting mojang cleanup, this can take a while...
 [18:53:45] [Craft Scheduler Thread - 4656/INFO]: [OpenAudioMc] [OpenAudioMc] Finished cleanup
+[19:01:07] [Async Chat Thread - #5/INFO]: <KellSo> 951 65 -1242[m
+[19:01:55] [User Authenticator #18/INFO]: UUID of player David_alja is 42e1c43e-8966-3dee-9d53-94807b81117b
+[19:01:55] [Server thread/INFO]: David_alja[/100.84.130.58:15657] logged in with entity id 513052 at ([world]848.404235523144, 64.82974514842186, -1174.624353429558)
+[19:01:55] [Craft Scheduler Thread - 4663/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[19:01:56] [Craft Scheduler Thread - 4665/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[19:01:56] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[19:03:45] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[19:03:45] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[19:03:45] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[19:04:58] [Server thread/INFO]: David_alja issued server command: /gamemode 1
+[19:04:58] [Server thread/INFO]: [David_alja: Set own game mode to Creative Mode]
