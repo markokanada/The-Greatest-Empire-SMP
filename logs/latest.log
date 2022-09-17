@@ -4862,3 +4862,7 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [19:03:45] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
 [19:04:58] [Server thread/INFO]: David_alja issued server command: /gamemode 1
 [19:04:58] [Server thread/INFO]: [David_alja: Set own game mode to Creative Mode]
+[19:05:10] [Server thread/INFO]: KellSo issued server command: /gamemode 3
+[19:05:10] [Server thread/INFO]: [KellSo: Set own game mode to Spectator Mode]
+[19:05:23] [Server thread/INFO]: KellSo issued server command: /gamemode 0
+[19:05:23] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
