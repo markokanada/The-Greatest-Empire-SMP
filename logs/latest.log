@@ -4803,3 +4803,11 @@
 [18:04:20] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
 [18:04:20] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
 [18:04:21] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[18:17:53] [User Authenticator #16/INFO]: UUID of player David_alja is 42e1c43e-8966-3dee-9d53-94807b81117b
+[18:17:53] [Server thread/INFO]: David_alja[/100.84.130.58:59316] logged in with entity id 477271 at ([world]926.6999999880791, 65.35135294713791, -1181.300000011921)
+[18:17:53] [Craft Scheduler Thread - 4625/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[18:17:54] [Craft Scheduler Thread - 4622/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[18:17:54] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[18:19:35] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[18:19:35] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[18:19:35] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
