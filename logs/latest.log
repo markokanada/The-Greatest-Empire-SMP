@@ -4866,3 +4866,5 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [19:05:10] [Server thread/INFO]: [KellSo: Set own game mode to Spectator Mode]
 [19:05:23] [Server thread/INFO]: KellSo issued server command: /gamemode 0
 [19:05:23] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
+[19:18:26] [Server thread/INFO]: David_alja issued server command: /gamemode 0
+[19:18:26] [Server thread/INFO]: [David_alja: Set own game mode to Survival Mode]
