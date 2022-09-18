@@ -3162,3 +3162,11 @@ java.lang.NoSuchFieldError: ENTITY_ENDERMAN_TELEPORT
 [11:55:00] [Async Chat Thread - #6/INFO]: <KellSo> 1p[m
 [11:55:21] [Server thread/INFO]: David_alja was shot by Skeleton
 [11:55:34] [Server thread/INFO]: David_alja issued server command: /graves
+[12:06:39] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[12:06:39] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[12:06:50] [Server thread/INFO]: David_alja issued server command: /gamemode 1
+[12:06:50] [Server thread/INFO]: [David_alja: Set own game mode to Creative Mode]
+[12:08:11] [Server thread/INFO]: David_alja lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: A kapcsolatot bontotta a távoli fél
+[12:08:11] [Server thread/INFO]: David_alja left the game
+[12:09:14] [Server thread/INFO]: KellSo issued server command: /gamemode 0
+[12:09:14] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
