@@ -3224,3 +3224,5 @@ java.lang.NoSuchFieldError: ENTITY_ENDERMAN_TELEPORT
 [13:08:19] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
 [13:08:23] [Server thread/INFO]: KellSo issued server command: /gamemode 0
 [13:08:23] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
+[13:48:09] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[13:48:09] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
