@@ -3170,3 +3170,18 @@ java.lang.NoSuchFieldError: ENTITY_ENDERMAN_TELEPORT
 [12:08:11] [Server thread/INFO]: David_alja left the game
 [12:09:14] [Server thread/INFO]: KellSo issued server command: /gamemode 0
 [12:09:14] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
+[12:22:36] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[12:22:36] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[12:24:48] [Server thread/INFO]: KellSo issued server command: /gamemode 0
+[12:24:48] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
+[12:28:02] [Server thread/INFO]: KellSo issued server command: /gamemode 3
+[12:28:02] [Server thread/INFO]: [KellSo: Set own game mode to Spectator Mode]
+[12:28:07] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[12:28:07] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[12:28:18] [Server thread/INFO]: KellSo issued server command: /gamemode 0
+[12:28:18] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
+[12:28:55] [User Authenticator #21/INFO]: UUID of player David_alja is 42e1c43e-8966-3dee-9d53-94807b81117b
+[12:28:55] [Server thread/INFO]: David_alja[/100.84.130.58:23460] logged in with entity id 594238 at ([world]964.5472750383735, 102.35722067122535, -1122.8577339901196)
+[12:28:55] [Craft Scheduler Thread - 5417/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[12:28:55] [Craft Scheduler Thread - 5422/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[12:28:56] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
