@@ -3218,3 +3218,5 @@ java.lang.NoSuchFieldError: ENTITY_ENDERMAN_TELEPORT
 [12:34:16] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
 [12:36:55] [Server thread/INFO]: David_alja lost connection: Disconnected
 [12:36:55] [Server thread/INFO]: David_alja left the game
+[12:48:34] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:torch 64
+[12:48:34] [Server thread/INFO]: [KellSo: Given [Torch] * 64 to KellSo]
