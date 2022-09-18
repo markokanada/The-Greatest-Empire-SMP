@@ -3185,3 +3185,36 @@ java.lang.NoSuchFieldError: ENTITY_ENDERMAN_TELEPORT
 [12:28:55] [Craft Scheduler Thread - 5417/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
 [12:28:55] [Craft Scheduler Thread - 5422/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
 [12:28:56] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[12:30:18] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[12:30:18] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[12:30:37] [Server thread/INFO]: KellSo issued server command: /gamemode 0
+[12:30:37] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
+[12:30:45] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[12:30:45] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[12:30:45] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[12:31:07] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[12:31:07] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[12:32:28] [Async Chat Thread - #7/INFO]: <KellSo> seed*2 gold potato chicken iron[m
+[12:32:30] [Server thread/INFO]: KellSo issued server command: /gamemode 3
+[12:32:30] [Server thread/INFO]: [KellSo: Set own game mode to Spectator Mode]
+[12:32:39] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[12:32:39] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[12:33:17] [Server thread/INFO]: KellSo issued server command: /gamemode 3
+[12:33:17] [Server thread/INFO]: [KellSo: Set own game mode to Spectator Mode]
+[12:33:23] [Server thread/INFO]: KellSo issued server command: /gamemode 0
+[12:33:23] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
+[12:33:30] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[12:33:30] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[12:33:43] [Async Chat Thread - #8/INFO]: <KellSo> jungle, string, wheat*2[m
+[12:33:44] [Server thread/INFO]: KellSo issued server command: /gamemode 3
+[12:33:44] [Server thread/INFO]: [KellSo: Set own game mode to Spectator Mode]
+[12:33:52] [Server thread/INFO]: KellSo issued server command: /gamemode 0
+[12:33:52] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
+[12:34:02] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[12:34:02] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[12:34:13] [Server thread/INFO]: KellSo issued server command: /gamemode 3
+[12:34:13] [Server thread/INFO]: [KellSo: Set own game mode to Spectator Mode]
+[12:34:16] [Server thread/INFO]: KellSo issued server command: /gamemode 0
+[12:34:16] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
+[12:36:55] [Server thread/INFO]: David_alja lost connection: Disconnected
+[12:36:55] [Server thread/INFO]: David_alja left the game
