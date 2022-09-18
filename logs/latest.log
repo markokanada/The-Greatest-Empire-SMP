@@ -4703,3 +4703,18 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [19:18:49] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
 [19:19:19] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
 [19:19:49] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[19:20:19] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[19:20:20] [User Authenticator #24/INFO]: UUID of player David_alja is 42e1c43e-8966-3dee-9d53-94807b81117b
+[19:20:20] [Server thread/INFO]: David_alja[/100.84.130.58:64201] logged in with entity id 723179 at ([world]941.0042031159372, 64.9637700392574, -1089.2442725506858)
+[19:20:20] [Craft Scheduler Thread - 5736/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[19:20:20] [Craft Scheduler Thread - 5732/INFO]: [OpenAudioMc] [OpenAudioMc] Your account doesn't actually have permissions for voicechat, shutting down.
+[19:22:16] [User Authenticator #25/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[19:22:16] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Requesting automatic license
+[19:22:16] [Server thread/INFO]: KellSo[/192.168.1.169:55989] logged in with entity id 724535 at ([world]980.6999999880791, 64.0, -1119.300000011921)
+[19:22:18] [Craft Scheduler Thread - 5738/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[19:22:18] [Craft Scheduler Thread - 5738/INFO]: [OpenAudioMc] [OpenAudioMc] Successfully accepted a temporary license. Please make an account on account.craftmend.com and link your server to keep access to this license for a month, or upgrade to get more slots.
+[19:22:18] [Craft Scheduler Thread - 5738/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[19:22:18] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[19:23:59] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[19:23:59] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[19:23:59] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
