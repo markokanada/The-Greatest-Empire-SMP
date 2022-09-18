@@ -3365,3 +3365,13 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [14:22:59] [Server thread/INFO]: csm issued server command: /tp 869 29 -849
 [14:22:59] [Server thread/INFO]: [csm: Teleported csm to 869.5, 29.0, -848.5]
 [14:23:25] [Server thread/WARN]: csm moved wrongly!
+[14:27:13] [Server thread/INFO]: KellSo lost connection: Disconnected
+[14:27:13] [Server thread/INFO]: KellSo left the game
+[14:27:16] [Server thread/INFO]: csm lost connection: Disconnected
+[14:27:16] [Server thread/INFO]: csm left the game
+[14:27:17] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[14:27:33] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[14:28:03] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[14:28:33] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[14:29:03] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[14:29:33] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
