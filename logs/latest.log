@@ -4726,3 +4726,5 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [19:57:46] [Server thread/INFO]: KellSo issued server command: /gamemode 0
 [19:57:46] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
 [20:08:40] [Server thread/WARN]: KellSo moved wrongly!
+[20:27:02] [Server thread/INFO]: David_alja lost connection: Timed out
+[20:27:02] [Server thread/INFO]: David_alja left the game
