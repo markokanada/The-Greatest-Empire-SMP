@@ -3132,3 +3132,4 @@ java.lang.NoSuchFieldError: ENTITY_ENDERMAN_TELEPORT
 [11:44:35] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
 [11:44:35] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
 [11:44:35] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[11:49:25] [Server thread/WARN]: David_alja moved wrongly!
