@@ -4725,3 +4725,4 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [19:57:13] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
 [19:57:46] [Server thread/INFO]: KellSo issued server command: /gamemode 0
 [19:57:46] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
+[20:08:40] [Server thread/WARN]: KellSo moved wrongly!
