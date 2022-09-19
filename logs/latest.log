@@ -5165,3 +5165,7 @@
 [19:26:35] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
 [19:26:35] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
 [19:27:38] [Server thread/WARN]: KellSo moved wrongly!
+[19:34:28] [Server thread/INFO]: KellSo issued server command: /gamemode 3
+[19:34:28] [Server thread/INFO]: [KellSo: Set own game mode to Spectator Mode]
+[19:34:44] [Server thread/INFO]: KellSo issued server command: /gamemode 0
+[19:34:44] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
