@@ -5072,3 +5072,7 @@
 [18:49:19] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
 [18:49:19] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
 [18:49:19] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[18:59:48] [Server thread/INFO]: KellSo issued server command: /gamemode 3
+[18:59:48] [Server thread/INFO]: [KellSo: Set own game mode to Spectator Mode]
+[19:00:00] [Server thread/INFO]: KellSo issued server command: /gamemode 0
+[19:00:00] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
