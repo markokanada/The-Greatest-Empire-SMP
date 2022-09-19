@@ -5161,3 +5161,7 @@
 [19:24:53] [Craft Scheduler Thread - 6798/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
 [19:24:54] [Craft Scheduler Thread - 6802/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
 [19:24:54] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[19:26:35] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[19:26:35] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[19:26:35] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[19:27:38] [Server thread/WARN]: KellSo moved wrongly!
