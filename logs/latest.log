@@ -5382,3 +5382,5 @@ Caused by: java.lang.NoSuchFieldError: ITEM_BREAK
 [20:30:34] [Server thread/INFO]: [KellSo: Teleported KellSo to David_alja]
 [20:32:05] [Server thread/INFO]: David_alja issued server command: /tp KellSo
 [20:32:05] [Server thread/INFO]: [David_alja: Teleported David_alja to KellSo]
+[20:44:24] [Server thread/INFO]: KellSo issued server command: /tp David_alja
+[20:44:24] [Server thread/INFO]: [KellSo: Teleported KellSo to David_alja]
