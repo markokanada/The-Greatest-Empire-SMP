@@ -5286,3 +5286,39 @@
 [20:18:43] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
 [20:19:13] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
 [20:19:43] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[20:20:13] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[20:20:43] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[20:21:13] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[20:21:43] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[20:22:06] [User Authenticator #29/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[20:22:06] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Requesting automatic license
+[20:22:06] [Server thread/INFO]: KellSo[/192.168.1.169:62057] logged in with entity id 1035941 at ([world]970.9905642389417, 76.0, -1199.4202361975645)
+[20:22:16] [Craft Scheduler Thread - 7856/INFO]: [OpenAudioMc] [OpenAudioMc] Net error: timeout
+[20:22:16] [Craft Scheduler Thread - 7856/WARN]: java.net.SocketTimeoutException: timeout
+[20:22:16] [Craft Scheduler Thread - 7856/WARN]: 	at com.craftmend.thirdparty.okhttp3.internal.http2.Http2Stream$StreamTimeout.newTimeoutException(Http2Stream.kt:677)
+[20:22:16] [Craft Scheduler Thread - 7856/WARN]: 	at com.craftmend.thirdparty.okhttp3.internal.http2.Http2Stream$StreamTimeout.exitAndThrowIfTimedOut(Http2Stream.kt:686)
+[20:22:16] [Craft Scheduler Thread - 7856/WARN]: 	at com.craftmend.thirdparty.okhttp3.internal.http2.Http2Stream.takeHeaders(Http2Stream.kt:143)
+[20:22:16] [Craft Scheduler Thread - 7856/WARN]: 	at com.craftmend.thirdparty.okhttp3.internal.http2.Http2ExchangeCodec.readResponseHeaders(Http2ExchangeCodec.kt:96)
+[20:22:16] [Craft Scheduler Thread - 7856/WARN]: 	at com.craftmend.thirdparty.okhttp3.internal.connection.Exchange.readResponseHeaders(Exchange.kt:106)
+[20:22:16] [Craft Scheduler Thread - 7856/WARN]: 	at com.craftmend.thirdparty.okhttp3.internal.http.CallServerInterceptor.intercept(CallServerInterceptor.kt:79)
+[20:22:16] [Craft Scheduler Thread - 7856/WARN]: 	at com.craftmend.thirdparty.okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:100)
+[20:22:16] [Craft Scheduler Thread - 7856/WARN]: 	at com.craftmend.thirdparty.okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.kt:34)
+[20:22:16] [Craft Scheduler Thread - 7856/WARN]: 	at com.craftmend.thirdparty.okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:100)
+[20:22:16] [Craft Scheduler Thread - 7856/WARN]: 	at com.craftmend.thirdparty.okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.kt:96)
+[20:22:16] [Craft Scheduler Thread - 7856/WARN]: 	at com.craftmend.thirdparty.okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:100)
+[20:22:16] [Craft Scheduler Thread - 7856/WARN]: 	at com.craftmend.thirdparty.okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.kt:83)
+[20:22:16] [Craft Scheduler Thread - 7856/WARN]: 	at com.craftmend.thirdparty.okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:100)
+[20:22:16] [Craft Scheduler Thread - 7856/WARN]: 	at com.craftmend.thirdparty.okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.kt:76)
+[20:22:16] [Craft Scheduler Thread - 7856/WARN]: 	at com.craftmend.thirdparty.okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:100)
+[20:22:16] [Craft Scheduler Thread - 7856/WARN]: 	at com.craftmend.thirdparty.okhttp3.internal.connection.RealCall.getResponseWithInterceptorChain$okhttp(RealCall.kt:197)
+[20:22:16] [Craft Scheduler Thread - 7856/WARN]: 	at com.craftmend.thirdparty.okhttp3.internal.connection.RealCall.execute(RealCall.kt:148)
+[20:22:16] [Craft Scheduler Thread - 7856/WARN]: 	at com.craftmend.openaudiomc.generic.networking.rest.RestRequest.readHttp(RestRequest.java:117)
+[20:22:16] [Craft Scheduler Thread - 7856/WARN]: 	at com.craftmend.openaudiomc.generic.networking.rest.RestRequest.executeInThread(RestRequest.java:69)
+[20:22:16] [Craft Scheduler Thread - 7856/WARN]: 	at com.craftmend.openaudiomc.generic.voicechat.services.VoiceLicenseService.lambda$requestLicense$1(VoiceLicenseService.java:77)
+[20:22:16] [Craft Scheduler Thread - 7856/WARN]: 	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:76)
+[20:22:16] [Craft Scheduler Thread - 7856/WARN]: 	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52)
+[20:22:16] [Craft Scheduler Thread - 7856/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+[20:22:16] [Craft Scheduler Thread - 7856/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+[20:22:16] [Craft Scheduler Thread - 7856/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[20:22:16] [Craft Scheduler Thread - 7856/INFO]: [OpenAudioMc] [OpenAudioMc] Failed to get an automatic license, response: 
+[20:22:16] [Craft Scheduler Thread - 7856/INFO]: [OpenAudioMc] [OpenAudioMc]  - java.net.SocketTimeoutException: timeout
