@@ -5322,3 +5322,15 @@
 [20:22:16] [Craft Scheduler Thread - 7856/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:829)
 [20:22:16] [Craft Scheduler Thread - 7856/INFO]: [OpenAudioMc] [OpenAudioMc] Failed to get an automatic license, response: 
 [20:22:16] [Craft Scheduler Thread - 7856/INFO]: [OpenAudioMc] [OpenAudioMc]  - java.net.SocketTimeoutException: timeout
+[20:26:11] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[20:26:14] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[20:26:19] [User Authenticator #30/INFO]: UUID of player David_alja is 42e1c43e-8966-3dee-9d53-94807b81117b
+[20:26:19] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Requesting automatic license
+[20:26:19] [Server thread/INFO]: David_alja[/100.84.139.151:6920] logged in with entity id 1040172 at ([world]941.3000000119209, 63.0, -1082.1394742919986)
+[20:26:19] [Craft Scheduler Thread - 7865/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[20:26:19] [Craft Scheduler Thread - 7865/INFO]: [OpenAudioMc] [OpenAudioMc] Successfully accepted a temporary license. Please make an account on account.craftmend.com and link your server to keep access to this license for a month, or upgrade to get more slots.
+[20:26:20] [Craft Scheduler Thread - 7865/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[20:26:20] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[20:28:09] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[20:28:09] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[20:28:09] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
