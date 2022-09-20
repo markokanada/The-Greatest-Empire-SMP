@@ -5334,3 +5334,51 @@
 [20:28:09] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
 [20:28:09] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
 [20:28:09] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[20:30:31] [Server thread/ERROR]: Could not pass event BlockBreakEvent to TreeCapitator v1.0
+org.bukkit.event.EventException: null
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:500) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:485) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerInteractManager.breakBlock(PlayerInteractManager.java:290) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerInteractManager.a(PlayerInteractManager.java:217) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:893) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInBlockDig.a(SourceFile:40) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInBlockDig.a(SourceFile:10) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+Caused by: java.lang.NoSuchFieldError: ITEM_BREAK
+	at com.compgeek28.TreeCapitator.TreeHandler.breakBlock(TreeHandler.java:37) ~[?:?]
+	at com.compgeek28.TreeCapitator.TreeHandler.breakBlock(TreeHandler.java:33) ~[?:?]
+	at com.compgeek28.TreeCapitator.TreeHandler.breakBlock(TreeHandler.java:33) ~[?:?]
+	at com.compgeek28.TreeCapitator.TreeHandler.breakBlock(TreeHandler.java:33) ~[?:?]
+	at com.compgeek28.TreeCapitator.TreeHandler.breakBlock(TreeHandler.java:33) ~[?:?]
+	at com.compgeek28.TreeCapitator.TreeHandler.breakBlock(TreeHandler.java:33) ~[?:?]
+	at com.compgeek28.TreeCapitator.TreeHandler.breakBlock(TreeHandler.java:33) ~[?:?]
+	at com.compgeek28.TreeCapitator.TreeHandler.breakBlock(TreeHandler.java:33) ~[?:?]
+	at com.compgeek28.TreeCapitator.TreeHandler.breakBlock(TreeHandler.java:33) ~[?:?]
+	at com.compgeek28.TreeCapitator.TreeHandler.breakBlock(TreeHandler.java:33) ~[?:?]
+	at com.compgeek28.TreeCapitator.TreeHandler.breakBlock(TreeHandler.java:33) ~[?:?]
+	at com.compgeek28.TreeCapitator.TreeHandler.breakBlock(TreeHandler.java:33) ~[?:?]
+	at com.compgeek28.TreeCapitator.TreeHandler.breakBlock(TreeHandler.java:33) ~[?:?]
+	at com.compgeek28.TreeCapitator.TreeHandler.breakBlock(TreeHandler.java:33) ~[?:?]
+	at com.compgeek28.TreeCapitator.TreeHandler.breakBlock(TreeHandler.java:33) ~[?:?]
+	at com.compgeek28.TreeCapitator.TreeHandler.breakBlock(TreeHandler.java:33) ~[?:?]
+	at com.compgeek28.TreeCapitator.TreeHandler.breakBlock(TreeHandler.java:33) ~[?:?]
+	at com.compgeek28.TreeCapitator.TreeHandler.breakingBlock(TreeHandler.java:24) ~[?:?]
+	at jdk.internal.reflect.GeneratedMethodAccessor23.invoke(Unknown Source) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:566) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	... 17 more
+[20:30:34] [Server thread/INFO]: KellSo issued server command: /tp David_alja
+[20:30:34] [Server thread/INFO]: [KellSo: Teleported KellSo to David_alja]
+[20:32:05] [Server thread/INFO]: David_alja issued server command: /tp KellSo
+[20:32:05] [Server thread/INFO]: [David_alja: Teleported David_alja to KellSo]
