@@ -5384,3 +5384,7 @@ Caused by: java.lang.NoSuchFieldError: ITEM_BREAK
 [20:32:05] [Server thread/INFO]: [David_alja: Teleported David_alja to KellSo]
 [20:44:24] [Server thread/INFO]: KellSo issued server command: /tp David_alja
 [20:44:24] [Server thread/INFO]: [KellSo: Teleported KellSo to David_alja]
+[20:45:41] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[20:45:41] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[20:45:59] [Server thread/INFO]: KellSo issued server command: /gamemode 0
+[20:45:59] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
