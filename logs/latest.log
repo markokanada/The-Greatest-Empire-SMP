@@ -5087,3 +5087,5 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 	... 15 more
 [18:39:56] [Server thread/WARN]: KellSo moved wrongly!
 [18:51:08] [Server thread/WARN]: KellSo moved wrongly!
+[21:03:42] [Craft Scheduler Thread - 12126/INFO]: [OpenAudioMc] [OpenAudioMc] Starting mojang cleanup, this can take a while...
+[21:03:42] [Craft Scheduler Thread - 12126/INFO]: [OpenAudioMc] [OpenAudioMc] Finished cleanup
