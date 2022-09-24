@@ -5059,3 +5059,4 @@ java.lang.NoSuchFieldError: ENTITY_ENDERMAN_TELEPORT
 	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [server.jar:git-Spigot-79a30d7-f4830a1]
 	at java.lang.Thread.run(Thread.java:829) [?:?]
 [17:58:45] [Server thread/WARN]: KellSo moved wrongly!
+[18:15:49] [Server thread/WARN]: KellSo moved wrongly!
