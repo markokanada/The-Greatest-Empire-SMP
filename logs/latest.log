@@ -4663,3 +4663,18 @@ java.lang.NoSuchFieldError: ENTITY_ENDERMAN_TELEPORT
 	at java.lang.Thread.run(Thread.java:829) [?:?]
 [18:32:21] [Server thread/WARN]: David_alja moved too quickly! 10.901470330317125,0.0,68.25057518236076
 [18:33:18] [Server thread/WARN]: KellSo moved wrongly!
+[18:37:42] [Server thread/INFO]: KellSo lost connection: Disconnected
+[18:37:42] [Server thread/INFO]: KellSo left the game
+[18:39:39] [Server thread/INFO]: David_alja lost connection: Timed out
+[18:39:39] [Server thread/INFO]: David_alja left the game
+[18:39:40] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[18:39:43] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[18:40:07] [User Authenticator #39/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[18:40:07] [Server thread/INFO]: KellSo[/192.168.1.169:50423] logged in with entity id 2562341 at ([world]992.0371356053935, 77.5, -1272.3256069011363)
+[18:40:07] [Craft Scheduler Thread - 13063/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[18:40:08] [Craft Scheduler Thread - 13068/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[18:40:08] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[18:41:55] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[18:41:55] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[18:41:55] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[18:44:38] [Server thread/WARN]: KellSo moved wrongly!
