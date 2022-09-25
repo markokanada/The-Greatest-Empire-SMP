@@ -4581,3 +4581,19 @@
 [17:05:00] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
 [17:05:00] [Craft Scheduler Thread - 12972/INFO]: [OpenAudioMc] [OpenAudioMc] Removed the profile of 1 players
 [17:05:00] [Craft Scheduler Thread - 12972/INFO]: [OpenAudioMc] [OpenAudioMc] Finished cleanup
+[17:05:28] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[17:05:58] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[17:06:28] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[17:06:58] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[17:07:28] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[17:07:58] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[17:08:28] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[17:08:58] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[17:09:28] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[17:09:52] [User Authenticator #32/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[17:09:52] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Requesting automatic license
+[17:09:52] [Server thread/INFO]: KellSo[/192.168.1.169:55786] logged in with entity id 2503014 at ([world]953.9328167198951, 67.5625, -1173.1827211289633)
+[17:09:54] [Craft Scheduler Thread - 12990/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[17:09:54] [Craft Scheduler Thread - 12990/INFO]: [OpenAudioMc] [OpenAudioMc] Successfully accepted a temporary license. Please make an account on account.craftmend.com and link your server to keep access to this license for a month, or upgrade to get more slots.
+[17:09:55] [Craft Scheduler Thread - 12990/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[17:09:56] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
