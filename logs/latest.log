@@ -4597,3 +4597,18 @@
 [17:09:54] [Craft Scheduler Thread - 12990/INFO]: [OpenAudioMc] [OpenAudioMc] Successfully accepted a temporary license. Please make an account on account.craftmend.com and link your server to keep access to this license for a month, or upgrade to get more slots.
 [17:09:55] [Craft Scheduler Thread - 12990/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
 [17:09:56] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[17:10:03] [Server thread/WARN]: KellSo moved wrongly!
+[17:10:41] [Server thread/INFO]: KellSo lost connection: Disconnected
+[17:10:41] [Server thread/INFO]: KellSo left the game
+[17:10:42] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[17:10:46] [User Authenticator #33/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[17:10:46] [Server thread/INFO]: KellSo[/192.168.0.1:55837] logged in with entity id 2506095 at ([world]990.3858764866121, 63.0, -1147.0179905893663)
+[17:10:48] [User Authenticator #34/INFO]: UUID of player David_alja is 42e1c43e-8966-3dee-9d53-94807b81117b
+[17:10:48] [Server thread/INFO]: David_alja[/100.84.140.150:64959] logged in with entity id 2506557 at ([world]1149.1399140866317, 66.08526314615646, -1075.5637702942515)
+[17:10:48] [Server thread/INFO]: KellSo lost connection: Disconnected
+[17:10:48] [Server thread/INFO]: KellSo left the game
+[17:10:55] [User Authenticator #35/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[17:10:55] [Server thread/INFO]: KellSo[/192.168.1.169:55846] logged in with entity id 2506982 at ([world]990.3858764866121, 63.0, -1147.0179905893663)
+[17:11:35] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[17:11:35] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[17:11:35] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
