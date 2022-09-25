@@ -4819,3 +4819,6 @@ java.lang.NoSuchFieldError: ENTITY_ENDERMAN_TELEPORT
 [19:50:12] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
 [19:50:12] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
 [19:50:12] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[19:57:36] [Server thread/INFO]: David_alja lost connection: Timed out
+[19:57:36] [Server thread/INFO]: David_alja left the game
+[19:57:36] [Server thread/WARN]: handleDisconnection() called twice
