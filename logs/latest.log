@@ -4628,3 +4628,8 @@
 [17:45:35] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
 [17:49:48] [Server thread/INFO]: KellSo lost connection: Timed out
 [17:49:48] [Server thread/INFO]: KellSo left the game
+[17:54:35] [User Authenticator #37/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[17:54:35] [Server thread/INFO]: KellSo[/192.168.1.169:52785] logged in with entity id 2520634 at ([world]954.5722303094298, 63.0, -1175.5312485264158)
+[17:54:35] [Craft Scheduler Thread - 13027/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[17:54:36] [Craft Scheduler Thread - 13031/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[17:54:36] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
