@@ -4698,3 +4698,5 @@ java.lang.NoSuchFieldError: ENTITY_ENDERMAN_TELEPORT
 [19:07:56] [Server thread/INFO]: [KellSo: Teleported KellSo to David_alja]
 [19:08:42] [Server thread/INFO]: KellSo issued server command: /gamemode 0
 [19:08:42] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
+[19:10:57] [Server thread/INFO]: KellSo lost connection: Disconnected
+[19:10:57] [Server thread/INFO]: KellSo left the game
