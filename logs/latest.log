@@ -4692,3 +4692,9 @@ java.lang.NoSuchFieldError: ENTITY_ENDERMAN_TELEPORT
 [18:57:45] [Server thread/INFO]: [KellSo: Toggled downfall]
 [19:03:25] [Server thread/INFO]: David_alja issued server command: /toggledownfall
 [19:03:25] [Server thread/INFO]: [David_alja: Toggled downfall]
+[19:07:23] [Server thread/INFO]: KellSo issued server command: /gamemode 3
+[19:07:23] [Server thread/INFO]: [KellSo: Set own game mode to Spectator Mode]
+[19:07:56] [Server thread/INFO]: KellSo issued server command: /tp David_alja
+[19:07:56] [Server thread/INFO]: [KellSo: Teleported KellSo to David_alja]
+[19:08:42] [Server thread/INFO]: KellSo issued server command: /gamemode 0
+[19:08:42] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
