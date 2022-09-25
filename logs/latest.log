@@ -4647,3 +4647,5 @@
 [18:09:12] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
 [18:09:12] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
 [18:11:58] [Server thread/WARN]: David_alja moved too quickly! -19.006662215166898,-1.0754440651894868,0.23370032738171176
+[18:21:21] [Server thread/INFO]: KellSo issued server command: /time set 0
+[18:21:21] [Server thread/INFO]: [KellSo: Set the time to 0]
