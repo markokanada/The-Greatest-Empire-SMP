@@ -4678,3 +4678,11 @@ java.lang.NoSuchFieldError: ENTITY_ENDERMAN_TELEPORT
 [18:41:55] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
 [18:41:55] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
 [18:44:38] [Server thread/WARN]: KellSo moved wrongly!
+[18:51:50] [User Authenticator #40/INFO]: UUID of player David_alja is 42e1c43e-8966-3dee-9d53-94807b81117b
+[18:51:50] [Server thread/INFO]: David_alja[/100.84.140.150:9742] logged in with entity id 2567099 at ([world]1148.2961653033385, 85.11810623676168, -1089.440447584283)
+[18:51:50] [Craft Scheduler Thread - 13079/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[18:51:51] [Craft Scheduler Thread - 13081/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[18:51:51] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[18:53:32] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[18:53:32] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[18:53:32] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
