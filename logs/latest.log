@@ -4812,3 +4812,15 @@
 [18:06:32] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
 [18:10:54] [Server thread/INFO]: KellSo issued server command: /gamemode 0
 [18:10:54] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
+[18:22:49] [User Authenticator #44/INFO]: UUID of player INETDataSurveyIL is 83d53833-4db1-3d1c-b528-56df175ed0b3
+[18:22:49] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Requesting automatic license
+[18:22:49] [Server thread/INFO]: INETDataSurveyIL[/163.172.139.143:34026] logged in with entity id 2673461 at ([world]-80.5, 68.0, 246.5)
+[18:22:49] [Server thread/INFO]: INETDataSurveyIL lost connection: Disconnected
+[18:22:49] [Server thread/INFO]: INETDataSurveyIL left the game
+[18:22:50] [Craft Scheduler Thread - 14099/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[18:22:50] [Craft Scheduler Thread - 14099/INFO]: [OpenAudioMc] [OpenAudioMc] Successfully accepted a temporary license. Please make an account on account.craftmend.com and link your server to keep access to this license for a month, or upgrade to get more slots.
+[18:22:51] [Craft Scheduler Thread - 14099/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[18:22:51] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[18:24:32] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[18:24:32] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[18:24:32] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
