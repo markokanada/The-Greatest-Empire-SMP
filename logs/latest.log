@@ -4810,3 +4810,5 @@
 [17:51:48] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
 [18:06:32] [Server thread/INFO]: KellSo issued server command: /gamemode 1
 [18:06:32] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[18:10:54] [Server thread/INFO]: KellSo issued server command: /gamemode 0
+[18:10:54] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
