@@ -4934,3 +4934,14 @@
 [18:04:14] [Craft Scheduler Thread - 15129/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
 [18:04:16] [Craft Scheduler Thread - 15135/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
 [18:04:16] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[18:06:04] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[18:06:04] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[18:06:04] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[18:08:42] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[18:08:42] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[18:08:52] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:firework 64
+[18:08:52] [Server thread/INFO]: [KellSo: There is no such item with name minecraft:firework]
+[18:08:54] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:fireworks 64
+[18:08:54] [Server thread/INFO]: [KellSo: Given [Firework Rocket] * 64 to KellSo]
+[18:08:57] [Server thread/INFO]: KellSo issued server command: /gamemode 0
+[18:08:57] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
