@@ -5432,3 +5432,7 @@
 [20:09:33] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
 [20:09:33] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
 [20:09:33] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[20:13:28] [Server thread/INFO]: David_alja issued server command: /time set 0
+[20:13:28] [Server thread/INFO]: [David_alja: Set the time to 0]
+[20:13:32] [Server thread/INFO]: KellSo issued server command: /toggledownfall
+[20:13:32] [Server thread/INFO]: [KellSo: Toggled downfall]
