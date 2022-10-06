@@ -5314,3 +5314,9 @@ java.lang.NoSuchFieldError: ENTITY_ENDERMAN_TELEPORT
 	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [server.jar:git-Spigot-79a30d7-f4830a1]
 	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [server.jar:git-Spigot-79a30d7-f4830a1]
 	at java.lang.Thread.run(Thread.java:829) [?:?]
+[20:25:59] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[20:25:59] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[20:27:27] [Server thread/INFO]: KellSo issued server command: /gamemode 0
+[20:27:27] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
+[20:28:59] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[20:28:59] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
