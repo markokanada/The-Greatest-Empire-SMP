@@ -5244,3 +5244,13 @@
 [19:38:54] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
 [19:39:24] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
 [19:39:54] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[19:40:11] [User Authenticator #52/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[19:40:11] [Server thread/INFO]: KellSo[/192.168.1.169:56519] logged in with entity id 3755094 at ([world]1151.8117825694121, 73.0, -1391.1811069932032)
+[19:40:11] [Craft Scheduler Thread - 24601/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[19:40:13] [Craft Scheduler Thread - 24603/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[19:40:13] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[19:40:56] [User Authenticator #53/INFO]: UUID of player David_alja is 42e1c43e-8966-3dee-9d53-94807b81117b
+[19:40:56] [Server thread/INFO]: David_alja[/100.84.135.245:60990] logged in with entity id 3756340 at ([world]1083.5816508130954, 67.42069058002546, -1402.2809851633172)
+[19:42:03] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[19:42:03] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[19:42:03] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
