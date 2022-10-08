@@ -5566,3 +5566,37 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [21:00:34] [Server thread/INFO]: [KellSo: Set own game mode to Spectator Mode]
 [21:00:43] [Server thread/INFO]: KellSo issued server command: /gamemode 1
 [21:00:43] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[21:05:48] [Server thread/INFO]: KellSo issued server command: /gamemode 3
+[21:05:48] [Server thread/INFO]: [KellSo: Set own game mode to Spectator Mode]
+[21:05:52] [Server thread/INFO]: KellSo issued server command: /gamemode 0
+[21:05:52] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
+[21:07:14] [Server thread/INFO]: David_alja issued server command: /home
+[21:07:19] [Server thread/WARN]: [SetHome] Task #2416743 for SetHome v5.1.2 generated an exception
+java.lang.NoSuchFieldError: ENTITY_ENDERMAN_TELEPORT
+	at me.downthepark.sethome.SetHome.sendPlayerHome(SetHome.java:127) ~[?:?]
+	at me.downthepark.sethome.SetHome.lambda$onCommand$0(SetHome.java:77) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:76) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:361) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[21:07:50] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[21:07:50] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[21:07:51] [Server thread/INFO]: KellSo issued server command: /gamemode 3
+[21:07:51] [Server thread/INFO]: [KellSo: Set own game mode to Spectator Mode]
+[21:08:01] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[21:08:01] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[21:08:08] [Server thread/INFO]: KellSo issued server command: /gamemode 0
+[21:08:08] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
+[21:08:15] [Server thread/INFO]: KellSo lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: A kapcsolatot bontotta a távoli fél
+[21:08:15] [Server thread/INFO]: KellSo left the game
+[21:08:15] [Server thread/INFO]: David_alja lost connection: Disconnected
+[21:08:15] [Server thread/INFO]: David_alja left the game
+[21:08:16] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[21:08:24] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[21:08:54] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[21:08:56] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[21:09:24] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[21:09:55] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
