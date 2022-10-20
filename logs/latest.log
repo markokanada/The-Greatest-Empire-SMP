@@ -5333,3 +5333,25 @@
 [19:48:52] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
 [19:49:38] [Server thread/INFO]: KellSo issued server command: /gamemode 3
 [19:49:38] [Server thread/INFO]: [KellSo: Set own game mode to Spectator Mode]
+[19:50:12] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[19:50:12] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[19:50:50] [Server thread/INFO]: KellSo issued server command: /gamemode 3
+[19:50:50] [Server thread/INFO]: [KellSo: Set own game mode to Spectator Mode]
+[19:51:07] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[19:51:07] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[19:51:13] [Server thread/INFO]: KellSo issued server command: /gamemode 3
+[19:51:13] [Server thread/INFO]: [KellSo: Set own game mode to Spectator Mode]
+[19:51:21] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[19:51:21] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[19:52:07] [Server thread/INFO]: KellSo issued server command: /gamemode 3
+[19:52:07] [Server thread/INFO]: [KellSo: Set own game mode to Spectator Mode]
+[19:52:22] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[19:52:22] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[19:53:00] [Server thread/INFO]: KellSo issued server command: /gamemode 3
+[19:53:00] [Server thread/INFO]: [KellSo: Set own game mode to Spectator Mode]
+[19:53:10] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[19:53:10] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[19:54:33] [Server thread/INFO]: KellSo issued server command: /gamemode 3
+[19:54:33] [Server thread/INFO]: [KellSo: Set own game mode to Spectator Mode]
+[19:54:36] [Server thread/INFO]: KellSo issued server command: /gamemode 0
+[19:54:36] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
