@@ -2225,3 +2225,31 @@
 [06:58:45] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
 [06:59:15] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
 [06:59:45] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[07:00:15] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[07:00:45] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[07:01:15] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[07:01:45] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[07:02:15] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[07:02:45] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[07:03:15] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[07:03:16] [Craft Scheduler Thread - 50921/INFO]: [OpenAudioMc] [OpenAudioMc] Starting mojang cleanup, this can take a while...
+[07:03:16] [Craft Scheduler Thread - 50921/INFO]: [OpenAudioMc] [OpenAudioMc] Purging old accounts of inactive players
+[07:03:16] [Craft Scheduler Thread - 50921/INFO]: [OpenAudioMc] [OpenAudioMc] Removed the profile of 0 players
+[07:03:16] [Craft Scheduler Thread - 50921/INFO]: [OpenAudioMc] [OpenAudioMc] Finished cleanup
+[07:03:17] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-75;world [0;32;1mwas loaded correctly.[m
+[07:03:17] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m59;-75;world [0;32;1mwas loaded correctly.[m
+[07:03:17] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m59;-74;world [0;32;1mwas loaded correctly.[m
+[07:03:17] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-74;world [0;32;1mwas loaded correctly.[m
+[07:03:17] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m62;-75;world [0;32;1mwas loaded correctly.[m
+[07:03:17] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m61;-74;world [0;32;1mwas loaded correctly.[m
+[07:03:17] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m60;-73;world [0;32;1mwas loaded correctly.[m
+[07:03:17] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m60;-74;world [0;32;1mwas loaded correctly.[m
+[07:03:17] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m61;-73;world [0;32;1mwas loaded correctly.[m
+[07:03:17] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m60;-75;world [0;32;1mwas loaded correctly.[m
+[07:03:17] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m62;-73;world [0;32;1mwas loaded correctly.[m
+[07:03:17] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m61;-75;world [0;32;1mwas loaded correctly.[m
+[07:03:17] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m62;-74;world [0;32;1mwas loaded correctly.[m
+[07:03:17] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[07:03:45] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[07:04:15] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[07:04:45] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
