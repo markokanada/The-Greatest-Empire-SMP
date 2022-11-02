@@ -4947,3 +4947,25 @@
 [18:19:06] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m62;-74;world [0;32;1mwas loaded correctly.[m
 [18:19:06] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
 [18:19:35] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[18:20:05] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[18:20:35] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[18:21:05] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[18:21:35] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[18:22:01] [User Authenticator #62/INFO]: UUID of player David_alja is 42e1c43e-8966-3dee-9d53-94807b81117b
+[18:22:02] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Requesting automatic license
+[18:22:02] [Server thread/INFO]: David_alja[/100.84.148.89:54532] logged in with entity id 6188615 at ([world]955.3778320893013, 63.0, -1169.5653917185725)
+[18:22:03] [Craft Scheduler Thread - 54328/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[18:22:03] [Craft Scheduler Thread - 54328/INFO]: [OpenAudioMc] [OpenAudioMc] Successfully accepted a temporary license. Please make an account on account.craftmend.com and link your server to keep access to this license for a month, or upgrade to get more slots.
+[18:22:04] [Craft Scheduler Thread - 54328/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[18:22:04] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[18:22:27] [Server thread/INFO]: David_alja lost connection: Timed out
+[18:22:27] [Server thread/INFO]: David_alja left the game
+[18:22:28] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[18:22:35] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[18:22:39] [User Authenticator #63/INFO]: UUID of player David_alja is 42e1c43e-8966-3dee-9d53-94807b81117b
+[18:22:39] [Server thread/INFO]: David_alja[/100.84.148.89:54547] logged in with entity id 6192068 at ([world]955.3778320893013, 63.0, -1169.5653917185725)
+[18:23:44] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[18:23:44] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[18:23:45] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[18:23:49] [Server thread/INFO]: [@: Teleported David_alja to 1036.5, 205.0, -1185.5]
+[18:23:49] [Server thread/INFO]: [@: Teleported David_alja to 1036.5, 205.0, -1185.5]
