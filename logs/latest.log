@@ -5448,3 +5448,14 @@
 [21:49:26] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m62;-74;world [0;32;1mwas loaded correctly.[m
 [21:49:26] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
 [21:49:55] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[21:50:25] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[21:50:55] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[21:51:25] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[21:51:35] [User Authenticator #65/INFO]: UUID of player David_alja is 42e1c43e-8966-3dee-9d53-94807b81117b
+[21:51:35] [Server thread/INFO]: David_alja[/100.84.148.89:12254] logged in with entity id 6212986 at ([world]969.5833903125189, 63.0, -1162.0380963628445)
+[21:51:35] [Craft Scheduler Thread - 54475/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[21:51:36] [Craft Scheduler Thread - 54485/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[21:51:36] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[21:53:16] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[21:53:16] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[21:53:16] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
