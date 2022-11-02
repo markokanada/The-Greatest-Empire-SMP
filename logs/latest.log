@@ -5459,3 +5459,7 @@
 [21:53:16] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
 [21:53:16] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
 [21:53:16] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[22:09:03] [Server thread/INFO]: David_alja issued server command: /gamemode 1
+[22:09:03] [Server thread/INFO]: [David_alja: Set own game mode to Creative Mode]
+[22:09:58] [Server thread/INFO]: David_alja issued server command: /gamemode 3
+[22:09:58] [Server thread/INFO]: [David_alja: Set own game mode to Spectator Mode]
