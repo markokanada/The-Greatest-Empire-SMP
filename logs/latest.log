@@ -3794,3 +3794,34 @@
 [13:58:34] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
 [13:59:03] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
 [13:59:33] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[14:00:03] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[14:00:33] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[14:01:03] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[14:01:33] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[14:02:03] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[14:02:34] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[14:03:04] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[14:03:34] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[14:03:35] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-75;world [0;32;1mwas loaded correctly.[m
+[14:03:35] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m59;-75;world [0;32;1mwas loaded correctly.[m
+[14:03:35] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m59;-74;world [0;32;1mwas loaded correctly.[m
+[14:03:35] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-74;world [0;32;1mwas loaded correctly.[m
+[14:03:35] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m62;-75;world [0;32;1mwas loaded correctly.[m
+[14:03:35] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m61;-74;world [0;32;1mwas loaded correctly.[m
+[14:03:35] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m60;-73;world [0;32;1mwas loaded correctly.[m
+[14:03:35] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m60;-74;world [0;32;1mwas loaded correctly.[m
+[14:03:35] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m61;-73;world [0;32;1mwas loaded correctly.[m
+[14:03:35] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m60;-75;world [0;32;1mwas loaded correctly.[m
+[14:03:35] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m62;-73;world [0;32;1mwas loaded correctly.[m
+[14:03:35] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m61;-75;world [0;32;1mwas loaded correctly.[m
+[14:03:35] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m62;-74;world [0;32;1mwas loaded correctly.[m
+[14:03:35] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[14:04:04] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[14:04:34] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[14:04:54] [User Authenticator #67/INFO]: UUID of player INETDataSurvey3F is 98070ba0-1740-3ff8-afcf-1b4fafdcc913
+[14:04:55] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Requesting automatic license
+[14:04:55] [Server thread/INFO]: INETDataSurvey3F[/163.172.139.143:44686] logged in with entity id 6824030 at ([world]-79.5, 63.0, 254.5)
+[14:04:55] [Server thread/INFO]: INETDataSurvey3F lost connection: Disconnected
+[14:04:55] [Server thread/INFO]: INETDataSurvey3F left the game
+[14:04:57] [Craft Scheduler Thread - 59739/INFO]: [OpenAudioMc] [OpenAudioMc] The server is empty! ignoring voice chat.
+[14:04:57] [Craft Scheduler Thread - 59739/INFO]: [OpenAudioMc] [OpenAudioMc] Successfully accepted a temporary license. Please make an account on account.craftmend.com and link your server to keep access to this license for a month, or upgrade to get more slots.
