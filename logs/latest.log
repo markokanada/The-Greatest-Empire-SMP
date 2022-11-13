@@ -4760,3 +4760,11 @@
 [18:08:58] [Server thread/INFO]: [KellSo: Teleported David_alja to KellSo]
 [18:10:15] [Server thread/INFO]: David_alja lost connection: Disconnected
 [18:10:15] [Server thread/INFO]: David_alja left the game
+[18:25:02] [Server thread/INFO]: KellSo issued server command: /gamemode 0
+[18:25:02] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
+[18:28:11] [Server thread/INFO]: KellSo lost connection: Disconnected
+[18:28:11] [Server thread/INFO]: KellSo left the game
+[18:28:24] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[18:28:54] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[18:29:24] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[18:29:54] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
