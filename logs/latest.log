@@ -4928,3 +4928,5 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
 	... 15 more
+[20:18:12] [Server thread/INFO]: KellSo issued server command: /toggledownfall
+[20:18:12] [Server thread/INFO]: [KellSo: Toggled downfall]
