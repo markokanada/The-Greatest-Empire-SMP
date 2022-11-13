@@ -4881,3 +4881,11 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
 	... 15 more
+[19:42:35] [Server thread/INFO]: David_alja issued server command: /gamemode 0
+[19:42:35] [Server thread/INFO]: [David_alja: Set own game mode to Survival Mode]
+[19:42:39] [Server thread/INFO]: David_alja issued server command: /gamemode 1
+[19:42:39] [Server thread/INFO]: [David_alja: Set own game mode to Creative Mode]
+[19:42:52] [Server thread/INFO]: David_alja issued server command: /gamemode 0
+[19:42:52] [Server thread/INFO]: [David_alja: Set own game mode to Survival Mode]
+[19:44:25] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[19:44:25] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
