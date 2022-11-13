@@ -4960,3 +4960,5 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
 	... 15 more
 [20:28:34] [Server thread/WARN]: KellSo moved wrongly!
+[20:32:44] [Server thread/INFO]: David_alja lost connection: Disconnected
+[20:32:44] [Server thread/INFO]: David_alja left the game
