@@ -4930,3 +4930,5 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 	... 15 more
 [20:18:12] [Server thread/INFO]: KellSo issued server command: /toggledownfall
 [20:18:12] [Server thread/INFO]: [KellSo: Toggled downfall]
+[20:24:58] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[20:24:58] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
