@@ -4735,3 +4735,9 @@
 [17:58:50] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
 [17:59:20] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
 [17:59:50] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[18:00:15] [User Authenticator #68/INFO]: UUID of player David_alja is 42e1c43e-8966-3dee-9d53-94807b81117b
+[18:00:15] [Server thread/INFO]: David_alja[/100.84.131.5:52844] logged in with entity id 7338167 at ([world]933.2906712348295, 57.44683782923523, -1181.3884745252058)
+[18:00:15] [Craft Scheduler Thread - 64394/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[18:00:17] [Craft Scheduler Thread - 64394/INFO]: [OpenAudioMc] [OpenAudioMc] Your account doesn't actually have permissions for voicechat, shutting down.
+[18:04:35] [Server thread/INFO]: David_alja issued server command: /gamemode 1
+[18:04:35] [Server thread/INFO]: [David_alja: Set own game mode to Creative Mode]
