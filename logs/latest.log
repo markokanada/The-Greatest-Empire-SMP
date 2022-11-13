@@ -4834,3 +4834,8 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [19:08:55] [Craft Scheduler Thread - 64444/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
 [19:08:56] [Craft Scheduler Thread - 64446/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
 [19:08:56] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[19:10:45] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[19:10:45] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[19:10:45] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[19:13:14] [Server thread/INFO]: David_alja issued server command: /gamemode 0
+[19:13:14] [Server thread/INFO]: [David_alja: Set own game mode to Survival Mode]
