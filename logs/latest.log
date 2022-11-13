@@ -4889,3 +4889,7 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [19:42:52] [Server thread/INFO]: [David_alja: Set own game mode to Survival Mode]
 [19:44:25] [Server thread/INFO]: KellSo issued server command: /gamemode 1
 [19:44:25] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[19:45:09] [Server thread/INFO]: KellSo issued server command: /gamemode 0
+[19:45:09] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
+[19:46:27] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[19:46:27] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
