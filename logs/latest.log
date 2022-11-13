@@ -4741,3 +4741,20 @@
 [18:00:17] [Craft Scheduler Thread - 64394/INFO]: [OpenAudioMc] [OpenAudioMc] Your account doesn't actually have permissions for voicechat, shutting down.
 [18:04:35] [Server thread/INFO]: David_alja issued server command: /gamemode 1
 [18:04:35] [Server thread/INFO]: [David_alja: Set own game mode to Creative Mode]
+[18:05:42] [User Authenticator #69/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[18:05:42] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Requesting automatic license
+[18:05:43] [Server thread/INFO]: KellSo[/192.168.1.169:51571] logged in with entity id 7341639 at ([world]969.0484557477422, 67.0, -1257.4277698950693)
+[18:05:43] [Craft Scheduler Thread - 64401/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[18:05:43] [Craft Scheduler Thread - 64401/INFO]: [OpenAudioMc] [OpenAudioMc] Successfully accepted a temporary license. Please make an account on account.craftmend.com and link your server to keep access to this license for a month, or upgrade to get more slots.
+[18:05:44] [Craft Scheduler Thread - 64401/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[18:05:44] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[18:05:50] [Server thread/INFO]: KellSo issued server command: /gamemode 3
+[18:05:50] [Server thread/INFO]: [KellSo: Set own game mode to Spectator Mode]
+[18:06:23] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[18:06:23] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[18:07:25] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[18:07:25] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[18:07:25] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[18:08:29] [Server thread/WARN]: David_alja moved too quickly! 5.1167960224531726,0.0,15.259795132671798
+[18:08:58] [Server thread/INFO]: KellSo issued server command: /tp David_alja KellSo
+[18:08:58] [Server thread/INFO]: [KellSo: Teleported David_alja to KellSo]
