@@ -4829,3 +4829,8 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [19:01:51] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
 [19:02:00] [Server thread/INFO]: KellSo issued server command: /gamemode 0
 [19:02:00] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
+[19:08:54] [User Authenticator #71/INFO]: UUID of player David_alja is 42e1c43e-8966-3dee-9d53-94807b81117b
+[19:08:55] [Server thread/INFO]: David_alja[/100.84.131.5:34086] logged in with entity id 7391811 at ([world]921.4873323534962, 146.85736435465864, -980.6604010699964)
+[19:08:55] [Craft Scheduler Thread - 64444/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[19:08:56] [Craft Scheduler Thread - 64446/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[19:08:56] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
