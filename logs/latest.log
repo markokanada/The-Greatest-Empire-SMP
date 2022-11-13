@@ -4794,3 +4794,6 @@
 [18:33:37] [Craft Scheduler Thread - 64420/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
 [18:33:37] [Craft Scheduler Thread - 64425/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
 [18:33:38] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[18:35:25] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[18:35:25] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[18:35:25] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
