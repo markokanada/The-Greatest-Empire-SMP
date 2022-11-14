@@ -4745,3 +4745,12 @@
 [18:16:55] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
 [18:16:55] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
 [18:16:58] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[18:28:39] [User Authenticator #74/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[18:28:39] [Server thread/INFO]: KellSo[/192.168.1.169:53102] logged in with entity id 7504407 at ([world]819.1890573590832, 27.0, -851.5116250395745)
+[18:28:39] [Craft Scheduler Thread - 65350/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[18:28:40] [Craft Scheduler Thread - 65352/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[18:28:40] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[18:28:47] [Server thread/INFO]: KellSo issued server command: /tp David_alja
+[18:28:47] [Server thread/INFO]: [KellSo: Teleported KellSo to David_alja]
+[18:29:40] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:magma
+[18:29:40] [Server thread/INFO]: [KellSo: Given [Magma Block] * 1 to KellSo]
