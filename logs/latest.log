@@ -5067,3 +5067,16 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
 	... 15 more
 [20:02:25] [Server thread/INFO]: KellSo issued server command: /gamerule randomTickSpeed
+[20:05:19] [Server thread/INFO]: David_alja lost connection: Timed out
+[20:05:19] [Server thread/INFO]: David_alja left the game
+[20:05:19] [Server thread/WARN]: handleDisconnection() called twice
+[20:05:53] [User Authenticator #76/INFO]: UUID of player David_alja is 42e1c43e-8966-3dee-9d53-94807b81117b
+[20:05:53] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Requesting automatic license
+[20:05:54] [Server thread/INFO]: David_alja[/100.84.131.5:56974] logged in with entity id 7546896 at ([world]1114.2813929443241, 66.0, -1229.3440323292125)
+[20:05:55] [Craft Scheduler Thread - 65406/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[20:05:55] [Craft Scheduler Thread - 65406/INFO]: [OpenAudioMc] [OpenAudioMc] Successfully accepted a temporary license. Please make an account on account.craftmend.com and link your server to keep access to this license for a month, or upgrade to get more slots.
+[20:05:55] [Craft Scheduler Thread - 65406/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[20:05:55] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[20:07:35] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[20:07:35] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[20:07:35] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
