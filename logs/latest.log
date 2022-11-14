@@ -4754,3 +4754,13 @@
 [18:28:47] [Server thread/INFO]: [KellSo: Teleported KellSo to David_alja]
 [18:29:40] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:magma
 [18:29:40] [Server thread/INFO]: [KellSo: Given [Magma Block] * 1 to KellSo]
+[18:30:21] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[18:30:21] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[18:30:21] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[18:30:31] [Server thread/INFO]: KellSo issued server command: /gamemode 3
+[18:30:31] [Server thread/INFO]: [KellSo: Set own game mode to Spectator Mode]
+[18:30:40] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[18:30:40] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[18:30:58] [Server thread/INFO]: KellSo issued server command: /difficulty
+[18:31:00] [Server thread/INFO]: KellSo issued server command: /difficulty 3
+[18:31:00] [Server thread/INFO]: [KellSo: Set game difficulty to Hard]
