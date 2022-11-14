@@ -4764,3 +4764,7 @@
 [18:30:58] [Server thread/INFO]: KellSo issued server command: /difficulty
 [18:31:00] [Server thread/INFO]: KellSo issued server command: /difficulty 3
 [18:31:00] [Server thread/INFO]: [KellSo: Set game difficulty to Hard]
+[18:38:19] [Server thread/INFO]: KellSo issued server command: /gamemode 0
+[18:38:19] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
+[18:39:28] [Server thread/INFO]: David_alja issued server command: /tp KellSo
+[18:39:28] [Server thread/INFO]: [David_alja: Teleported David_alja to KellSo]
