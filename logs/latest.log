@@ -3906,3 +3906,23 @@
 [14:49:46] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
 [14:49:47] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
 [14:50:00] [User Authenticator #72/INFO]: UUID of player INETDataSurveyQC is e3de5574-8127-326f-92b5-a2def886f27e
+[14:50:01] [Server thread/INFO]: INETDataSurveyQC[/163.172.139.143:34600] logged in with entity id 7490241 at ([world]-89.5, 70.0, 249.5)
+[14:50:01] [Craft Scheduler Thread - 65201/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[14:50:01] [Server thread/INFO]: INETDataSurveyQC lost connection: Disconnected
+[14:50:01] [Server thread/INFO]: INETDataSurveyQC left the game
+[14:50:04] [Craft Scheduler Thread - 65201/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[14:50:04] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[14:50:04] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[14:50:04] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[14:50:04] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[14:50:16] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[14:50:46] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[14:51:16] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[14:51:46] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[14:52:16] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[14:52:46] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[14:53:16] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[14:53:46] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[14:54:17] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[14:54:47] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[14:54:48] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
