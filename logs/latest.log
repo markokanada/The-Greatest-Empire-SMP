@@ -4560,3 +4560,5 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [17:33:55] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
 [17:34:00] [Server thread/INFO]: KellSo issued server command: /gamemode 0
 [17:34:00] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
+[17:43:33] [Server thread/INFO]: David_alja was blown up by Creeper
+[17:43:42] [Server thread/INFO]: David_alja issued server command: /GRAVES
