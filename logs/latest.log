@@ -5001,3 +5001,20 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [20:18:34] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
 [20:19:04] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
 [20:19:34] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[20:20:04] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[20:20:17] [User Authenticator #81/INFO]: UUID of player David_alja is 42e1c43e-8966-3dee-9d53-94807b81117b
+[20:20:17] [Server thread/INFO]: David_alja[/100.84.139.134:57273] logged in with entity id 7652227 at ([world]1117.4393483429426, 68.0, -1224.3813477650065)
+[20:20:17] [Craft Scheduler Thread - 66337/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[20:20:17] [Craft Scheduler Thread - 66339/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[20:20:18] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[20:22:01] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[20:22:01] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[20:22:01] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[20:22:11] [User Authenticator #82/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[20:22:11] [Server thread/INFO]: KellSo[/192.168.1.169:51006] logged in with entity id 7653974 at ([world]941.6569313143065, 79.5, -1231.5054352657942)
+[20:22:11] [Craft Scheduler Thread - 66342/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[20:22:11] [Craft Scheduler Thread - 66342/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[20:22:12] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[20:24:01] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[20:24:01] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[20:24:01] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
