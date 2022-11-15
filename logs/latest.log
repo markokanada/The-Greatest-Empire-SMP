@@ -4498,3 +4498,5 @@
 [17:09:21] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
 [17:09:21] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
 [17:09:21] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[17:12:53] [Server thread/INFO]: David_alja was shot by Skeleton
+[17:13:00] [Server thread/INFO]: David_alja issued server command: /GRAVES
