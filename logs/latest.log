@@ -4548,3 +4548,11 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
 	... 15 more
+[17:20:33] [User Authenticator #79/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[17:20:33] [Server thread/INFO]: KellSo[/192.168.1.169:55465] logged in with entity id 7622184 at ([world]983.1588710318292, 89.0, -1127.6806536887848)
+[17:20:33] [Craft Scheduler Thread - 66207/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[17:20:34] [Craft Scheduler Thread - 66211/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[17:20:34] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[17:22:21] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[17:22:21] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[17:22:21] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
