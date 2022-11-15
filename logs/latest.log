@@ -4641,3 +4641,21 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
 	... 15 more
+[18:55:37] [Server thread/INFO]: David_alja was slain by Zombie
+[18:55:43] [Server thread/INFO]: David_alja issued server command: /GRAVES
+[18:56:00] [Server thread/INFO]: David_alja was slain by Spider
+[18:56:08] [Server thread/INFO]: David_alja issued server command: /GRAVES
+[18:56:20] [Server thread/INFO]: David_alja was slain by Spider
+[18:56:25] [Server thread/INFO]: David_alja issued server command: /GRAVES
+[19:00:00] [Server thread/INFO]: KellSo lost connection: Disconnected
+[19:00:00] [Server thread/INFO]: KellSo left the game
+[19:02:31] [User Authenticator #80/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[19:02:31] [Server thread/INFO]: KellSo[/192.168.1.169:50988] logged in with entity id 7646024 at ([world]1106.6094196584258, 63.0, -1225.9385687479944)
+[19:02:31] [Craft Scheduler Thread - 66275/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[19:02:32] [Craft Scheduler Thread - 66278/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[19:02:32] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[19:02:37] [Server thread/INFO]: KellSo issued server command: /tp David_alja
+[19:02:37] [Server thread/INFO]: [KellSo: Teleported KellSo to David_alja]
+[19:04:21] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[19:04:21] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[19:04:21] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
