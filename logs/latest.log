@@ -5049,3 +5049,9 @@
 [19:34:47] [Craft Scheduler Thread - 67201/INFO]: [OpenAudioMc] [OpenAudioMc] Removed the profile of 0 players
 [19:34:47] [Craft Scheduler Thread - 67201/INFO]: [OpenAudioMc] [OpenAudioMc] Finished cleanup
 [19:34:47] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[19:35:16] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[19:35:46] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[19:36:00] [User Authenticator #83/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[19:36:01] [Server thread/INFO]: KellSo[/192.168.1.169:59240] logged in with entity id 7725501 at ([world]951.0170861230785, 77.5, -1237.9741185836895)
+[19:36:01] [Craft Scheduler Thread - 67204/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[19:36:01] [Craft Scheduler Thread - 67204/INFO]: [OpenAudioMc] [OpenAudioMc] Your account doesn't actually have permissions for voicechat, shutting down.
