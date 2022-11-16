@@ -5132,3 +5132,7 @@
 [21:09:06] [Server thread/INFO]: [KellSo: There is no such item with name minecraft:spawner]
 [21:09:11] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:mob_spawner
 [21:09:11] [Server thread/INFO]: [KellSo: Given [Monster Spawner] * 1 to KellSo]
+[21:11:08] [Server thread/INFO]: KellSo issued server command: /gamemode 3
+[21:11:08] [Server thread/INFO]: [KellSo: Set own game mode to Spectator Mode]
+[21:11:11] [Server thread/INFO]: KellSo issued server command: /gamemode 0
+[21:11:11] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
