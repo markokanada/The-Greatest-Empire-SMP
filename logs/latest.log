@@ -5086,3 +5086,49 @@
 [21:04:37] [Server thread/INFO]: KellSo issued server command: //undo
 [21:04:39] [Server thread/INFO]: KellSo issued server command: //undo
 [21:04:46] [Server thread/INFO]: KellSo issued server command: //undo
+[21:05:02] [Server thread/INFO]: KellSo issued server command: //copy
+[21:05:21] [Server thread/INFO]: KellSo issued server command: //copy
+[21:05:31] [Server thread/INFO]: KellSo issued server command: //paste
+[21:05:41] [Server thread/INFO]: KellSo issued server command: //paste
+[21:05:53] [Server thread/INFO]: KellSo issued server command: //paste
+[21:05:55] [Server thread/INFO]: KellSo issued server command: //undo
+[21:06:03] [Server thread/INFO]: KellSo issued server command: //paste
+[21:06:06] [Server thread/INFO]: KellSo issued server command: //paste
+[21:06:08] [Server thread/INFO]: KellSo issued server command: //paste
+[21:06:12] [Server thread/INFO]: KellSo issued server command: //paste
+[21:06:15] [Server thread/INFO]: KellSo issued server command: //undo
+[21:06:16] [Server thread/INFO]: KellSo issued server command: //undo
+[21:06:18] [Server thread/INFO]: KellSo issued server command: //undo
+[21:06:21] [Server thread/INFO]: KellSo issued server command: //paste
+[21:06:24] [Server thread/INFO]: KellSo issued server command: //undo
+[21:06:26] [Server thread/INFO]: KellSo issued server command: //paste
+[21:06:28] [Server thread/INFO]: KellSo issued server command: //undo
+[21:06:32] [Server thread/INFO]: KellSo issued server command: //paste
+[21:06:33] [Server thread/INFO]: KellSo issued server command: //undo
+[21:06:37] [Server thread/INFO]: KellSo issued server command: //paste
+[21:06:38] [Server thread/INFO]: KellSo issued server command: //undo
+[21:06:40] [Server thread/INFO]: KellSo issued server command: //paste
+[21:06:56] [Async Chat Thread - #12/INFO]: <KellSo> ^up 3[m
+[21:06:59] [Server thread/INFO]: KellSo issued server command: /up 3
+[21:07:02] [Server thread/INFO]: KellSo issued server command: //paste
+[21:07:08] [Server thread/INFO]: KellSo issued server command: //undo
+[21:07:14] [Server thread/INFO]: KellSo issued server command: //paste
+[21:07:16] [Server thread/INFO]: KellSo issued server command: //undo
+[21:07:18] [Server thread/INFO]: KellSo issued server command: //paste
+[21:07:20] [Server thread/INFO]: KellSo issued server command: //undo
+[21:07:22] [Server thread/INFO]: KellSo issued server command: //paste
+[21:07:24] [Server thread/INFO]: KellSo issued server command: //undo
+[21:07:29] [Server thread/INFO]: KellSo issued server command: /up n
+[21:07:31] [Server thread/INFO]: KellSo issued server command: /up 0
+[21:07:34] [Server thread/INFO]: KellSo issued server command: //paste
+[21:07:39] [Server thread/INFO]: KellSo issued server command: //undo
+[21:07:42] [Server thread/INFO]: KellSo issued server command: //paste
+[21:07:56] [Server thread/INFO]: KellSo issued server command: /undo
+[21:07:59] [Server thread/INFO]: KellSo issued server command: /undo
+[21:08:00] [Server thread/INFO]: KellSo issued server command: /undo
+[21:08:01] [Server thread/INFO]: KellSo issued server command: /undo
+[21:08:06] [Server thread/INFO]: KellSo issued server command: /undo
+[21:09:06] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:spawner
+[21:09:06] [Server thread/INFO]: [KellSo: There is no such item with name minecraft:spawner]
+[21:09:11] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:mob_spawner
+[21:09:11] [Server thread/INFO]: [KellSo: Given [Monster Spawner] * 1 to KellSo]
