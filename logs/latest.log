@@ -5055,3 +5055,34 @@
 [19:36:01] [Server thread/INFO]: KellSo[/192.168.1.169:59240] logged in with entity id 7725501 at ([world]951.0170861230785, 77.5, -1237.9741185836895)
 [19:36:01] [Craft Scheduler Thread - 67204/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
 [19:36:01] [Craft Scheduler Thread - 67204/INFO]: [OpenAudioMc] [OpenAudioMc] Your account doesn't actually have permissions for voicechat, shutting down.
+[21:00:52] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[21:00:52] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[21:01:26] [Server thread/INFO]: KellSo issued server command: //copy
+[21:01:28] [Server thread/INFO]: KellSo issued server command: //paste
+[21:01:45] [Server thread/INFO]: KellSo issued server command: //paste
+[21:01:49] [Server thread/INFO]: KellSo issued server command: //undo
+[21:02:01] [Server thread/INFO]: KellSo issued server command: //undo
+[21:02:05] [Server thread/INFO]: KellSo issued server command: //copy
+[21:02:07] [Server thread/INFO]: KellSo issued server command: //paste
+[21:02:13] [Server thread/INFO]: KellSo issued server command: //paste
+[21:02:16] [Server thread/INFO]: KellSo issued server command: //paste
+[21:02:23] [Server thread/INFO]: KellSo issued server command: //undo
+[21:02:31] [Server thread/INFO]: KellSo issued server command: //paste
+[21:02:57] [Server thread/INFO]: KellSo issued server command: //paste
+[21:03:00] [Server thread/INFO]: KellSo issued server command: //paste
+[21:03:33] [Server thread/INFO]: KellSo issued server command: //copy
+[21:03:38] [Server thread/INFO]: KellSo issued server command: //paste
+[21:03:40] [Server thread/INFO]: KellSo issued server command: //paste
+[21:03:41] [Server thread/INFO]: KellSo issued server command: //paste
+[21:03:45] [Server thread/INFO]: KellSo issued server command: //undo
+[21:03:47] [Server thread/INFO]: KellSo issued server command: //undo
+[21:03:49] [Server thread/INFO]: KellSo issued server command: //undo
+[21:03:56] [Server thread/INFO]: KellSo issued server command: //paste
+[21:04:03] [Server thread/INFO]: KellSo issued server command: //paste
+[21:04:07] [Server thread/INFO]: KellSo issued server command: //paste
+[21:04:12] [Server thread/INFO]: KellSo issued server command: //paste
+[21:04:17] [Server thread/INFO]: KellSo issued server command: //paste
+[21:04:36] [Server thread/INFO]: KellSo issued server command: //undo
+[21:04:37] [Server thread/INFO]: KellSo issued server command: //undo
+[21:04:39] [Server thread/INFO]: KellSo issued server command: //undo
+[21:04:46] [Server thread/INFO]: KellSo issued server command: //undo
