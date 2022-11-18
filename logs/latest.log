@@ -4891,3 +4891,85 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
 	... 15 more
+[19:42:36] [Server thread/INFO]: David_alja issued server command: /gamemode 3
+[19:42:36] [Server thread/INFO]: [David_alja: Set own game mode to Spectator Mode]
+[19:43:31] [Server thread/INFO]: David_alja issued server command: /gamemode creative
+[19:43:31] [Server thread/INFO]: [David_alja: Set own game mode to Creative Mode]
+[19:43:32] [Server thread/INFO]: David_alja issued server command: /gamemode spectator
+[19:43:32] [Server thread/INFO]: [David_alja: Set own game mode to Spectator Mode]
+[19:43:42] [Server thread/INFO]: David_alja issued server command: /gamemode creative
+[19:43:42] [Server thread/INFO]: [David_alja: Set own game mode to Creative Mode]
+[19:43:42] [Server thread/INFO]: David_alja issued server command: /gamemode spectator
+[19:43:42] [Server thread/INFO]: [David_alja: Set own game mode to Spectator Mode]
+[19:44:59] [Server thread/INFO]: David_alja issued server command: /echest
+[19:44:59] [Server thread/INFO]: [SimpleEnderChest] David_alja opened his EnderChest at Location{world=CraftWorld{name=world},x=1122.9252612538735,y=83.72679160458279,z=-1232.5026754517496,pitch=5.9121428,yaw=60.042175} !
+[19:44:59] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'echest' in plugin SimpleEnderChest v1.3
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:648) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1401) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1236) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
+	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	... 15 more
+[19:46:44] [Server thread/INFO]: David_alja issued server command: /gamemode 0
+[19:46:44] [Server thread/INFO]: [David_alja: Set own game mode to Survival Mode]
+[19:47:42] [Server thread/INFO]: David_alja issued server command: /gamemode 3
+[19:47:42] [Server thread/INFO]: [David_alja: Set own game mode to Spectator Mode]
+[19:47:56] [Server thread/INFO]: David_alja issued server command: /gamemode 3
+[19:47:56] [Server thread/INFO]: [David_alja: Set own game mode to Spectator Mode]
+[19:47:59] [Server thread/INFO]: David_alja issued server command: /gamemode 0
+[19:47:59] [Server thread/INFO]: [David_alja: Set own game mode to Survival Mode]
+[19:48:12] [Server thread/INFO]: David_alja issued server command: /gamemode 0
+[19:48:12] [Server thread/INFO]: [David_alja: Set own game mode to Survival Mode]
+[19:48:14] [Server thread/INFO]: David_alja issued server command: /gamemode 3
+[19:48:14] [Server thread/INFO]: [David_alja: Set own game mode to Spectator Mode]
+[19:48:18] [Server thread/INFO]: David_alja issued server command: /gamemode 3
+[19:48:18] [Server thread/INFO]: [David_alja: Set own game mode to Spectator Mode]
+[19:48:21] [Server thread/INFO]: David_alja issued server command: /gamemode 0
+[19:48:21] [Server thread/INFO]: [David_alja: Set own game mode to Survival Mode]
+[19:48:26] [Server thread/INFO]: David_alja issued server command: /gamemode 3
+[19:48:26] [Server thread/INFO]: [David_alja: Set own game mode to Spectator Mode]
+[19:48:30] [Server thread/INFO]: David_alja issued server command: /gamemode 3
+[19:48:30] [Server thread/INFO]: [David_alja: Set own game mode to Spectator Mode]
+[19:48:31] [Server thread/INFO]: David_alja issued server command: /gamemode 0
+[19:48:31] [Server thread/INFO]: [David_alja: Set own game mode to Survival Mode]
+[19:48:39] [Server thread/INFO]: David_alja issued server command: /gamemode 1
+[19:48:39] [Server thread/INFO]: [David_alja: Set own game mode to Creative Mode]
+[19:49:54] [Server thread/INFO]: David_alja issued server command: /echest
+[19:49:54] [Server thread/INFO]: [SimpleEnderChest] David_alja opened his EnderChest at Location{world=CraftWorld{name=world},x=1124.3097060822236,y=84.6578763998598,z=-1238.1293189367675,pitch=4.946607,yaw=40.661255} !
+[19:49:54] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'echest' in plugin SimpleEnderChest v1.3
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:648) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1401) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1236) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) [?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
+	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
+	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	... 15 more
