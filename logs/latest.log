@@ -4761,3 +4761,75 @@
 [18:32:39] [Server thread/INFO]: [David_alja: Set own game mode to Spectator Mode]
 [18:33:00] [Server thread/INFO]: David_alja issued server command: /gamemode 0
 [18:33:00] [Server thread/INFO]: [David_alja: Set own game mode to Survival Mode]
+[19:09:41] [Server thread/INFO]: David_alja lost connection: Timed out
+[19:09:41] [Server thread/INFO]: David_alja left the game
+[19:09:42] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[19:09:51] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[19:09:52] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-75;world [0;32;1mwas loaded correctly.[m
+[19:09:52] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m59;-75;world [0;32;1mwas loaded correctly.[m
+[19:09:52] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m59;-74;world [0;32;1mwas loaded correctly.[m
+[19:09:52] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-74;world [0;32;1mwas loaded correctly.[m
+[19:09:52] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m62;-75;world [0;32;1mwas loaded correctly.[m
+[19:09:52] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m61;-74;world [0;32;1mwas loaded correctly.[m
+[19:09:52] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m60;-73;world [0;32;1mwas loaded correctly.[m
+[19:09:52] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m60;-74;world [0;32;1mwas loaded correctly.[m
+[19:09:52] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m61;-73;world [0;32;1mwas loaded correctly.[m
+[19:09:52] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m60;-75;world [0;32;1mwas loaded correctly.[m
+[19:09:52] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m62;-73;world [0;32;1mwas loaded correctly.[m
+[19:09:52] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m61;-75;world [0;32;1mwas loaded correctly.[m
+[19:09:52] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m62;-74;world [0;32;1mwas loaded correctly.[m
+[19:09:52] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[19:09:57] [Craft Scheduler Thread - 68876/INFO]: [OpenAudioMc] [OpenAudioMc] Net error: A hálózat elérhetetlen (connect failed)
+[19:09:57] [Craft Scheduler Thread - 68876/WARN]: java.net.SocketException: A hálózat elérhetetlen (connect failed)
+[19:09:57] [Craft Scheduler Thread - 68876/WARN]: 	at java.base/java.net.PlainSocketImpl.socketConnect(Native Method)
+[19:09:57] [Craft Scheduler Thread - 68876/WARN]: 	at java.base/java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:412)
+[19:09:57] [Craft Scheduler Thread - 68876/WARN]: 	at java.base/java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:255)
+[19:09:57] [Craft Scheduler Thread - 68876/WARN]: 	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:237)
+[19:09:57] [Craft Scheduler Thread - 68876/WARN]: 	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+[19:09:57] [Craft Scheduler Thread - 68876/WARN]: 	at java.base/java.net.Socket.connect(Socket.java:609)
+[19:09:57] [Craft Scheduler Thread - 68876/WARN]: 	at com.craftmend.thirdparty.okhttp3.internal.platform.Platform.connectSocket(Platform.kt:120)
+[19:09:57] [Craft Scheduler Thread - 68876/WARN]: 	at com.craftmend.thirdparty.okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.kt:283)
+[19:09:57] [Craft Scheduler Thread - 68876/WARN]: 	at com.craftmend.thirdparty.okhttp3.internal.connection.RealConnection.connect(RealConnection.kt:195)
+[19:09:57] [Craft Scheduler Thread - 68876/WARN]: 	at com.craftmend.thirdparty.okhttp3.internal.connection.ExchangeFinder.findConnection(ExchangeFinder.kt:249)
+[19:09:57] [Craft Scheduler Thread - 68876/WARN]: 	at com.craftmend.thirdparty.okhttp3.internal.connection.ExchangeFinder.findHealthyConnection(ExchangeFinder.kt:108)
+[19:09:57] [Craft Scheduler Thread - 68876/WARN]: 	at com.craftmend.thirdparty.okhttp3.internal.connection.ExchangeFinder.find(ExchangeFinder.kt:76)
+[19:09:57] [Craft Scheduler Thread - 68876/WARN]: 	at com.craftmend.thirdparty.okhttp3.internal.connection.RealCall.initExchange$okhttp(RealCall.kt:245)
+[19:09:57] [Craft Scheduler Thread - 68876/WARN]: 	at com.craftmend.thirdparty.okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.kt:32)
+[19:09:57] [Craft Scheduler Thread - 68876/WARN]: 	at com.craftmend.thirdparty.okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:100)
+[19:09:57] [Craft Scheduler Thread - 68876/WARN]: 	at com.craftmend.thirdparty.okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.kt:96)
+[19:09:57] [Craft Scheduler Thread - 68876/WARN]: 	at com.craftmend.thirdparty.okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:100)
+[19:09:57] [Craft Scheduler Thread - 68876/WARN]: 	at com.craftmend.thirdparty.okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.kt:83)
+[19:09:57] [Craft Scheduler Thread - 68876/WARN]: 	at com.craftmend.thirdparty.okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:100)
+[19:09:57] [Craft Scheduler Thread - 68876/WARN]: 	at com.craftmend.thirdparty.okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.kt:76)
+[19:09:57] [Craft Scheduler Thread - 68876/WARN]: 	at com.craftmend.thirdparty.okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:100)
+[19:09:57] [Craft Scheduler Thread - 68876/WARN]: 	at com.craftmend.thirdparty.okhttp3.internal.connection.RealCall.getResponseWithInterceptorChain$okhttp(RealCall.kt:197)
+[19:09:57] [Craft Scheduler Thread - 68876/WARN]: 	at com.craftmend.thirdparty.okhttp3.internal.connection.RealCall.execute(RealCall.kt:148)
+[19:09:57] [Craft Scheduler Thread - 68876/WARN]: 	at com.craftmend.openaudiomc.generic.networking.rest.RestRequest.readHttp(RestRequest.java:117)
+[19:09:57] [Craft Scheduler Thread - 68876/WARN]: 	at com.craftmend.openaudiomc.generic.networking.rest.RestRequest.executeInThread(RestRequest.java:69)
+[19:09:57] [Craft Scheduler Thread - 68876/WARN]: 	at com.craftmend.openaudiomc.generic.networking.rest.RestRequest.lambda$executeAsync$0(RestRequest.java:62)
+[19:09:57] [Craft Scheduler Thread - 68876/WARN]: 	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:76)
+[19:09:57] [Craft Scheduler Thread - 68876/WARN]: 	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:52)
+[19:09:57] [Craft Scheduler Thread - 68876/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+[19:09:57] [Craft Scheduler Thread - 68876/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+[19:09:57] [Craft Scheduler Thread - 68876/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[19:09:57] [Craft Scheduler Thread - 68876/INFO]: [OpenAudioMc] [OpenAudioMc] Warning, the server returned an error while updating player states!
+[19:10:20] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[19:10:51] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[19:11:21] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[19:11:51] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[19:12:21] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[19:12:51] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[19:13:21] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[19:13:51] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[19:14:21] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[19:14:51] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[19:14:52] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-75;world [0;32;1mwas loaded correctly.[m
+[19:14:52] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m59;-75;world [0;32;1mwas loaded correctly.[m
+[19:14:52] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m59;-74;world [0;32;1mwas loaded correctly.[m
+[19:14:52] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-74;world [0;32;1mwas loaded correctly.[m
+[19:14:52] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m62;-75;world [0;32;1mwas loaded correctly.[m
+[19:14:52] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m61;-74;world [0;32;1mwas loaded correctly.[m
+[19:14:52] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m60;-73;world [0;32;1mwas loaded correctly.[m
+[19:14:52] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m60;-74;world [0;32;1mwas loaded correctly.[m
+[19:14:52] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m61;-73;world [0;32;1mwas loaded correctly.[m
+[19:14:52] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
