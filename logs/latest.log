@@ -4757,3 +4757,7 @@
 [18:11:27] [Server thread/INFO]: David_alja[/100.84.139.134:52395] logged in with entity id 7887836 at ([world]1117.2656546955393, 69.0, -1231.8399206362376)
 [18:11:27] [Craft Scheduler Thread - 68836/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
 [18:11:27] [Craft Scheduler Thread - 68836/INFO]: [OpenAudioMc] [OpenAudioMc] Your account doesn't actually have permissions for voicechat, shutting down.
+[18:32:39] [Server thread/INFO]: David_alja issued server command: /gamemode 3
+[18:32:39] [Server thread/INFO]: [David_alja: Set own game mode to Spectator Mode]
+[18:33:00] [Server thread/INFO]: David_alja issued server command: /gamemode 0
+[18:33:00] [Server thread/INFO]: [David_alja: Set own game mode to Survival Mode]
