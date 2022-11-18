@@ -4857,3 +4857,13 @@
 [19:19:52] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m61;-75;world [0;32;1mwas loaded correctly.[m
 [19:19:52] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m62;-74;world [0;32;1mwas loaded correctly.[m
 [19:19:52] [Server thread/INFO]: [0;32;22mChunk[0;32;1mLoader [0;37;22m>> [0;37;1m[0;32;1mChunk [0;37;22m58;-68;world [0;32;1mwas loaded correctly.[m
+[19:20:03] [User Authenticator #86/INFO]: UUID of player David_alja is 42e1c43e-8966-3dee-9d53-94807b81117b
+[19:20:03] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Requesting automatic license
+[19:20:03] [Server thread/INFO]: David_alja[/100.84.139.134:53321] logged in with entity id 7893859 at ([world]1110.4056520257195, 82.0, -1230.4873915984956)
+[19:20:04] [Craft Scheduler Thread - 68881/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[19:20:04] [Craft Scheduler Thread - 68881/INFO]: [OpenAudioMc] [OpenAudioMc] Successfully accepted a temporary license. Please make an account on account.craftmend.com and link your server to keep access to this license for a month, or upgrade to get more slots.
+[19:20:05] [Craft Scheduler Thread - 68881/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[19:20:05] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[19:21:51] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[19:21:51] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[19:21:51] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
