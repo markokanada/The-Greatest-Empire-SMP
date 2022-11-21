@@ -5120,3 +5120,13 @@
 [19:59:51] [Server thread/WARN]: csm moved wrongly!
 [19:59:56] [Server thread/INFO]: csm lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: A kapcsolatot bontotta a távoli fél
 [19:59:56] [Server thread/INFO]: csm left the game
+[20:09:56] [Server thread/INFO]: David_alja lost connection: Timed out
+[20:09:56] [Server thread/INFO]: David_alja left the game
+[20:11:48] [User Authenticator #91/INFO]: UUID of player David_alja is 42e1c43e-8966-3dee-9d53-94807b81117b
+[20:11:48] [Server thread/INFO]: David_alja[/100.84.139.134:65044] logged in with entity id 8162295 at ([world]951.2152484526822, 77.5, -1237.3875801164768)
+[20:11:48] [Craft Scheduler Thread - 71804/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[20:11:49] [Craft Scheduler Thread - 71807/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[20:11:49] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[20:13:31] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[20:13:31] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[20:13:31] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
