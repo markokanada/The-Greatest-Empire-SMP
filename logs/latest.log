@@ -5082,3 +5082,24 @@
 [19:24:22] [Server thread/INFO]: David_alja[/100.84.139.134:29865] logged in with entity id 8148267 at ([world]1062.8699214231856, 77.77897399678805, -1209.4344730640812)
 [19:24:22] [Craft Scheduler Thread - 71772/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
 [19:24:22] [Craft Scheduler Thread - 71772/INFO]: [OpenAudioMc] [OpenAudioMc] Your account doesn't actually have permissions for voicechat, shutting down.
+[19:25:19] [User Authenticator #89/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[19:25:20] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Requesting automatic license
+[19:25:20] [Server thread/INFO]: KellSo[/192.168.1.169:54542] logged in with entity id 8149963 at ([world]978.4987862389241, 91.0, -1118.622877182758)
+[19:25:20] [User Authenticator #90/INFO]: UUID of player csm is e4b5d62e-136e-3d1d-8298-6c49498fbec9
+[19:25:20] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Requesting automatic license
+[19:25:20] [Craft Scheduler Thread - 71777/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[19:25:20] [Craft Scheduler Thread - 71777/INFO]: [OpenAudioMc] [OpenAudioMc] Successfully accepted a temporary license. Please make an account on account.craftmend.com and link your server to keep access to this license for a month, or upgrade to get more slots.
+[19:25:20] [Server thread/INFO]: csm[/176.63.3.3:35493] logged in with entity id 8150070 at ([world]841.2604777177073, 29.0, -906.8046576776809)
+[19:25:20] [Craft Scheduler Thread - 71771/INFO]: [OpenAudioMc] [OpenAudioMc] Successfully accepted a temporary license. Please make an account on account.craftmend.com and link your server to keep access to this license for a month, or upgrade to get more slots.
+[19:25:22] [Craft Scheduler Thread - 71774/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[19:25:22] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[19:25:34] [Server thread/INFO]: csm issued server command: /tp home
+[19:25:34] [Server thread/INFO]: [csm: Entity 'home' cannot be found]
+[19:25:36] [Server thread/INFO]: David_alja issued server command: /gamemode 0
+[19:25:36] [Server thread/INFO]: [David_alja: Set own game mode to Survival Mode]
+[19:25:48] [Server thread/WARN]: csm moved wrongly!
+[19:25:48] [Server thread/INFO]: David_alja was slain by Spider
+[19:26:05] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[19:26:05] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[19:26:05] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[19:26:10] [Server thread/INFO]: David_alja issued server command: /graves
