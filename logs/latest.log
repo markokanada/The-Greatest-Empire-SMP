@@ -5130,3 +5130,5 @@
 [20:13:31] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
 [20:13:31] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
 [20:13:31] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[20:36:11] [Server thread/INFO]: KellSo lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: A kapcsolatot bontotta a távoli fél
+[20:36:11] [Server thread/INFO]: KellSo left the game
