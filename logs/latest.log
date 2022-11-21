@@ -5103,3 +5103,8 @@
 [19:26:05] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
 [19:26:05] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
 [19:26:10] [Server thread/INFO]: David_alja issued server command: /graves
+[19:35:38] [Server thread/INFO]: csm issued server command: /tp 1279 90 -910
+[19:35:38] [Server thread/INFO]: [csm: Teleported csm to 1279.5, 90.0, -909.5]
+[19:37:36] [Server thread/INFO]: csm issued server command: /tp 869 29 -847
+[19:37:36] [Server thread/INFO]: [csm: Teleported csm to 869.5, 29.0, -846.5]
+[19:38:02] [Server thread/WARN]: csm moved wrongly!
