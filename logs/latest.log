@@ -5115,3 +5115,8 @@
 [19:51:25] [Server thread/INFO]: David_alja issued server command: /graves
 [19:52:42] [Server thread/INFO]: csm issued server command: /tp David_alja
 [19:52:42] [Server thread/INFO]: [csm: Teleported csm to David_alja]
+[19:55:09] [Server thread/INFO]: csm issued server command: /tp 869 29 -849
+[19:55:09] [Server thread/INFO]: [csm: Teleported csm to 869.5, 29.0, -848.5]
+[19:59:51] [Server thread/WARN]: csm moved wrongly!
+[19:59:56] [Server thread/INFO]: csm lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: A kapcsolatot bontotta a távoli fél
+[19:59:56] [Server thread/INFO]: csm left the game
