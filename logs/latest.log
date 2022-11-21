@@ -5108,3 +5108,10 @@
 [19:37:36] [Server thread/INFO]: csm issued server command: /tp 869 29 -847
 [19:37:36] [Server thread/INFO]: [csm: Teleported csm to 869.5, 29.0, -846.5]
 [19:38:02] [Server thread/WARN]: csm moved wrongly!
+[19:45:38] [Craft Scheduler Thread - 71792/INFO]: [OpenAudioMc] [OpenAudioMc] Starting mojang cleanup, this can take a while...
+[19:45:38] [Craft Scheduler Thread - 71792/INFO]: [OpenAudioMc] [OpenAudioMc] Finished cleanup
+[19:48:55] [Server thread/WARN]: csm moved wrongly!
+[19:51:22] [Server thread/INFO]: David_alja fell from a high place
+[19:51:25] [Server thread/INFO]: David_alja issued server command: /graves
+[19:52:42] [Server thread/INFO]: csm issued server command: /tp David_alja
+[19:52:42] [Server thread/INFO]: [csm: Teleported csm to David_alja]
