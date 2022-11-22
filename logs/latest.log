@@ -5157,3 +5157,5 @@
 [20:16:05] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
 [20:29:14] [Server thread/INFO]: David_alja issued server command: /gamemode 1
 [20:29:14] [Server thread/INFO]: [David_alja: Set own game mode to Creative Mode]
+[20:30:55] [Server thread/INFO]: David_alja issued server command: /gamemode 0
+[20:30:55] [Server thread/INFO]: [David_alja: Set own game mode to Survival Mode]
