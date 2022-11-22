@@ -5152,3 +5152,6 @@
 [20:14:17] [Craft Scheduler Thread - 72796/INFO]: [OpenAudioMc] [OpenAudioMc] Successfully accepted a temporary license. Please make an account on account.craftmend.com and link your server to keep access to this license for a month, or upgrade to get more slots.
 [20:14:18] [Craft Scheduler Thread - 72796/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
 [20:14:19] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[20:16:05] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[20:16:05] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[20:16:05] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
