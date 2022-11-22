@@ -5145,3 +5145,10 @@
 [19:53:08] [Server thread/INFO]: KellSo[/192.168.1.169:57585] logged in with entity id 8238056 at ([world]986.3853234622248, 91.0, -1131.413770535741)
 [19:53:08] [Craft Scheduler Thread - 72770/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
 [19:53:08] [Craft Scheduler Thread - 72779/INFO]: [OpenAudioMc] [OpenAudioMc] Your account doesn't actually have permissions for voicechat, shutting down.
+[20:14:16] [User Authenticator #93/INFO]: UUID of player David_alja is 42e1c43e-8966-3dee-9d53-94807b81117b
+[20:14:16] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Requesting automatic license
+[20:14:16] [Server thread/INFO]: David_alja[/100.84.147.41:12560] logged in with entity id 8242379 at ([world]1116.9363420158704, 70.0, -1224.3977504286663)
+[20:14:17] [Craft Scheduler Thread - 72796/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[20:14:17] [Craft Scheduler Thread - 72796/INFO]: [OpenAudioMc] [OpenAudioMc] Successfully accepted a temporary license. Please make an account on account.craftmend.com and link your server to keep access to this license for a month, or upgrade to get more slots.
+[20:14:18] [Craft Scheduler Thread - 72796/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[20:14:19] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
