@@ -5197,3 +5197,21 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [20:37:54] [Server thread/INFO]: KellSo issued server command: //help 2
 [20:37:56] [Server thread/INFO]: KellSo issued server command: //help 3
 [20:38:00] [Server thread/INFO]: KellSo issued server command: //help 4
+[20:41:01] [Server thread/INFO]: KellSo issued server command: //help 4
+[20:41:02] [Server thread/INFO]: KellSo issued server command: //help 5
+[20:41:07] [Server thread/INFO]: KellSo issued server command: //help 6
+[20:41:09] [Server thread/INFO]: KellSo issued server command: //help 7
+[20:41:11] [Server thread/INFO]: KellSo issued server command: //help 9
+[20:41:13] [Server thread/INFO]: KellSo issued server command: //help 10
+[20:41:15] [Server thread/INFO]: KellSo issued server command: //help 11
+[20:41:18] [Server thread/INFO]: KellSo issued server command: //help 12
+[20:41:20] [Server thread/INFO]: KellSo issued server command: //help 13
+[20:41:28] [Server thread/INFO]: KellSo issued server command: /superpickaxe
+[20:41:33] [Server thread/INFO]: KellSo issued server command: /superpickaxe area
+[20:41:35] [Server thread/INFO]: KellSo issued server command: /superpickaxe area 10
+[20:41:38] [Server thread/INFO]: KellSo issued server command: /superpickaxe area 3
+[20:41:57] [Server thread/INFO]: KellSo issued server command: /superpickaxe area 1
+[20:42:06] [Server thread/INFO]: KellSo issued server command: /superpickaxe single
+[20:44:09] [Server thread/INFO]: KellSo issued server command: //
+[20:44:11] [Server thread/INFO]: KellSo issued server command: /tp David_alja
+[20:44:11] [Server thread/INFO]: [KellSo: Teleported KellSo to David_alja]
