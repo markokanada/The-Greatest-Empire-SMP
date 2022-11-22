@@ -5215,3 +5215,17 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [20:44:09] [Server thread/INFO]: KellSo issued server command: //
 [20:44:11] [Server thread/INFO]: KellSo issued server command: /tp David_alja
 [20:44:11] [Server thread/INFO]: [KellSo: Teleported KellSo to David_alja]
+[20:55:24] [Server thread/INFO]: [@: Teleported KellSo to 1036.5, 205.0, -1185.5]
+[20:58:02] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[20:58:02] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[20:58:13] [Server thread/INFO]: KellSo issued server command: /tp 30000000 70 0
+[20:58:13] [Server thread/INFO]: [KellSo: The number you have entered (30000000,50) is too big, it must be at most 30000000]
+[20:58:17] [Server thread/INFO]: KellSo issued server command: /tp 3000000 70 0
+[20:58:17] [Server thread/INFO]: [KellSo: Teleported KellSo to 3000000.5, 70.0, 0.5]
+[20:58:27] [Server thread/INFO]: KellSo issued server command: /tp 29999999 70 0
+[20:58:27] [Server thread/INFO]: [KellSo: Teleported KellSo to 2.99999995E7, 70.0, 0.5]
+[20:58:36] [Server thread/INFO]: KellSo issued server command: /tp David_alja
+[20:58:36] [Server thread/INFO]: [KellSo: Teleported KellSo to David_alja]
+[20:58:45] [Server thread/INFO]: KellSo issued server command: /gamemode 0
+[20:58:45] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
+[20:59:31] [Server thread/INFO]: KellSo issued server command: //cs
