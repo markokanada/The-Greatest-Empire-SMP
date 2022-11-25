@@ -5125,3 +5125,5 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
 	... 15 more
 [20:06:47] [Server thread/WARN]: KellSo moved wrongly!
+[20:34:28] [Server thread/INFO]: David_alja issued server command: /gamemode 0
+[20:34:28] [Server thread/INFO]: [David_alja: Set own game mode to Survival Mode]
