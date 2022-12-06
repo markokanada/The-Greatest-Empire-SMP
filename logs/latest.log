@@ -5326,3 +5326,4 @@ java.lang.NoSuchFieldError: ENTITY_ENDERMAN_TELEPORT
 [20:35:56] [Server thread/INFO]: [KellSo: Toggled downfall]
 [20:40:32] [Server thread/INFO]: KellSo issued server command: /toggledownfall
 [20:40:32] [Server thread/INFO]: [KellSo: Toggled downfall]
+[20:46:20] [Server thread/WARN]: KellSo moved wrongly!
