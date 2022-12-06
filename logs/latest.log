@@ -5296,3 +5296,26 @@ java.lang.NoSuchFieldError: ENTITY_ENDERMAN_TELEPORT
 [20:22:01] [Server thread/INFO]: KellSo issued server command: //help 6
 [20:22:07] [Server thread/INFO]: KellSo issued server command: //help 7
 [20:22:10] [Server thread/INFO]: KellSo issued server command: //help 8
+[20:26:51] [Server thread/INFO]: KellSo issued server command: //help 8
+[20:26:52] [Server thread/INFO]: KellSo issued server command: //help 9
+[20:26:54] [Server thread/INFO]: KellSo issued server command: //help 10
+[20:26:57] [Server thread/INFO]: KellSo issued server command: //help 11
+[20:26:59] [Server thread/INFO]: KellSo issued server command: //help 12
+[20:27:01] [Server thread/INFO]: KellSo issued server command: //help 13
+[20:27:07] [Server thread/INFO]: KellSo issued server command: //help 14
+[20:27:10] [Server thread/INFO]: KellSo issued server command: //help 15
+[20:27:12] [Server thread/INFO]: KellSo issued server command: //help 14
+[20:27:34] [Server thread/INFO]: KellSo issued server command: //help 13
+[20:28:27] [Server thread/INFO]: KellSo issued server command: /unstuck
+[20:28:32] [Server thread/INFO]: KellSo issued server command: /unstuck 10
+[20:28:50] [Server thread/INFO]: KellSo issued server command: //cyl 42 5
+[20:28:57] [Server thread/INFO]: KellSo issued server command: //undo
+[20:29:08] [Server thread/INFO]: KellSo issued server command: //cyl 155 30
+[20:29:12] [Server thread/INFO]: KellSo issued server command: //undo
+[20:29:18] [Server thread/INFO]: KellSo issued server command: //cyl 155 20
+[20:29:21] [Server thread/INFO]: KellSo issued server command: //undo
+[20:29:27] [Server thread/INFO]: KellSo issued server command: //cyl 155 10
+[20:29:43] [Server thread/INFO]: KellSo issued server command: /gamemode 0
+[20:29:43] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
+[20:29:55] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[20:29:55] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
