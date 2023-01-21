@@ -1,0 +1,11 @@
+#ChunkLoaderX v1.0 configuration file
+
+#set to true if you want to use economy
+#economy-enabled and credits-enabled can NOT be true at the same time
+economy-enabled: false
+economy:
+  price: 100.0
+credits-enabled: true
+  
+#too many particles are causing low-fps on player
+chunkmarker: true
