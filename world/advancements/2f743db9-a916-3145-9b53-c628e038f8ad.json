@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_red_flower": "2023-01-24 13:21:59 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2022-04-03 19:42:06 +0200"
@@ -1129,7 +1135,8 @@
       "roofed_forest": "2022-03-28 21:13:36 +0200",
       "river": "2022-03-28 21:12:25 +0200",
       "jungle": "2022-04-06 20:41:51 +0200",
-      "desert": "2022-03-31 21:02:00 +0200"
+      "desert": "2022-03-31 21:02:00 +0200",
+      "stone_beach": "2023-01-22 17:10:18 +0100"
     },
     "done": false
   },
@@ -2375,6 +2382,12 @@
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_brick": "2022-05-14 21:15:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_red_flower": "2023-01-24 13:21:47 +0100"
     },
     "done": true
   },

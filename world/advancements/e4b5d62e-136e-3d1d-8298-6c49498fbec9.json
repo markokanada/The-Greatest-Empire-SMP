@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2023-01-24 22:54:42 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2022-03-30 19:17:52 +0200"
@@ -218,6 +224,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2023-01-19 18:03:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2023-01-24 22:54:42 +0100"
     },
     "done": true
   },
@@ -388,6 +400,7 @@
       "cooked_porkchop": "2022-03-31 20:04:54 +0200",
       "cooked_mutton": "2022-03-30 19:06:48 +0200",
       "cooked_beef": "2022-04-01 21:12:32 +0200",
+      "apple": "2023-01-23 20:49:57 +0100",
       "spider_eye": "2022-04-17 19:29:32 +0200",
       "cooked_chicken": "2022-03-28 21:16:52 +0200",
       "carrot": "2022-04-20 17:02:44 +0200"
@@ -637,6 +650,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2022-04-01 20:49:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2023-01-24 22:54:42 +0100"
     },
     "done": true
   },
@@ -1709,6 +1728,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2023-01-24 22:54:42 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2022-03-30 20:30:21 +0200"
@@ -1724,6 +1749,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2022-03-28 21:01:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2023-01-24 22:54:42 +0100"
     },
     "done": true
   },
