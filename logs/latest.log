@@ -400,3 +400,23 @@ Caused by: java.lang.ClassNotFoundException: net.milkbowl.vault.permission.Permi
 [23:38:00] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
 [23:39:25] [Server thread/INFO]: David_alja issued server command: /gamemode 1
 [23:39:25] [Server thread/INFO]: [David_alja: Set own game mode to Creative Mode]
+[23:40:19] [Server thread/INFO]: David_alja lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
+[23:40:19] [Server thread/INFO]: David_alja left the game
+[23:40:54] [User Authenticator #4/INFO]: UUID of player David_alja is 42e1c43e-8966-3dee-9d53-94807b81117b
+[23:40:55] [Server thread/INFO]: David_alja[/100.84.129.246:60596] logged in with entity id 59316 at ([world]1090.5920993643747, 92.69978366382337, -1286.1932952796417)
+[23:40:55] [Craft Scheduler Thread - 154/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[23:40:56] [Craft Scheduler Thread - 159/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[23:40:56] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[23:41:20] [Server thread/INFO]: David_alja lost connection: Timed out
+[23:41:20] [Server thread/INFO]: David_alja left the game
+[23:42:40] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[23:42:40] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[23:42:40] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[23:43:11] [User Authenticator #5/INFO]: UUID of player David_alja is 42e1c43e-8966-3dee-9d53-94807b81117b
+[23:43:11] [Server thread/INFO]: David_alja[/100.84.129.246:60613] logged in with entity id 59905 at ([world]1090.5920993643747, 92.69978366382337, -1286.1932952796417)
+[23:43:11] [Craft Scheduler Thread - 149/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[23:43:12] [Craft Scheduler Thread - 157/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[23:43:12] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[23:44:57] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[23:44:57] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[23:44:57] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
