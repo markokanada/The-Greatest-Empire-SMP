@@ -379,3 +379,10 @@ Caused by: java.lang.ClassNotFoundException: net.milkbowl.vault.permission.Permi
 [21:59:45] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
 [21:59:59] [Server thread/INFO]: KellSo issued server command: /difficulty 3
 [21:59:59] [Server thread/INFO]: [KellSo: Set game difficulty to Hard]
+[22:00:21] [Server thread/INFO]: KellSo issued server command: /tps
+[22:00:47] [Server thread/INFO]: KellSo issued server command: /tps
+[22:01:33] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[22:01:33] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[22:01:33] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[22:02:56] [Server thread/INFO]: KellSo lost connection: Disconnected
+[22:02:56] [Server thread/INFO]: KellSo left the game
