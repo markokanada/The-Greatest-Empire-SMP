@@ -420,3 +420,7 @@ Caused by: java.lang.ClassNotFoundException: net.milkbowl.vault.permission.Permi
 [23:44:57] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
 [23:44:57] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
 [23:44:57] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[23:56:39] [Server thread/INFO]: David_alja issued server command: /set time 0
+[23:59:51] [Server thread/INFO]: David_alja issued server command: /toggle downfall
+[23:59:59] [Server thread/INFO]: David_alja issued server command: /toggledownfall
+[23:59:59] [Server thread/INFO]: [David_alja: Toggled downfall]
