@@ -117,3 +117,5 @@ java.lang.NoSuchFieldError: ENTITY_ENDERMAN_TELEPORT
 	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [server.jar:git-Spigot-79a30d7-f4830a1]
 	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [server.jar:git-Spigot-79a30d7-f4830a1]
 	at java.lang.Thread.run(Thread.java:829) [?:?]
+[00:51:00] [Server thread/INFO]: KellSo lost connection: Disconnected
+[00:51:00] [Server thread/INFO]: KellSo left the game
