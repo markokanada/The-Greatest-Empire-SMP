@@ -20,3 +20,13 @@
 [00:04:56] [Async Chat Thread - #0/INFO]: <David_alja> go
 [00:04:58] [Async Chat Thread - #0/INFO]: <David_alja> go
 [00:05:01] [Async Chat Thread - #0/INFO]: <David_alja> go
+[00:06:03] [Server thread/INFO]: David_alja lost connection: Timed out
+[00:06:03] [Server thread/INFO]: David_alja left the game
+[00:08:12] [User Authenticator #6/INFO]: UUID of player David_alja is 42e1c43e-8966-3dee-9d53-94807b81117b
+[00:08:13] [Server thread/INFO]: David_alja[/100.84.129.246:56585] logged in with entity id 66483 at ([world]1060.683307010261, 89.54985942023204, -1293.764479456231)
+[00:08:13] [Craft Scheduler Thread - 176/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[00:08:14] [Craft Scheduler Thread - 169/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[00:08:14] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[00:10:00] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[00:10:00] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[00:10:00] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
