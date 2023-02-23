@@ -386,3 +386,5 @@ Caused by: java.lang.ClassNotFoundException: net.milkbowl.vault.permission.Permi
 [22:01:33] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
 [22:02:56] [Server thread/INFO]: KellSo lost connection: Disconnected
 [22:02:56] [Server thread/INFO]: KellSo left the game
+[22:18:43] [Server thread/INFO]: [@: Teleported NPC_647674687 to 941.5, 77.0, -1194.5]
+[22:18:43] [Server thread/INFO]: [@: Teleported NPC_716774189 to 941.5, 77.0, -1194.5]
