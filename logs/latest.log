@@ -388,3 +388,15 @@ Caused by: java.lang.ClassNotFoundException: net.milkbowl.vault.permission.Permi
 [22:02:56] [Server thread/INFO]: KellSo left the game
 [22:18:43] [Server thread/INFO]: [@: Teleported NPC_647674687 to 941.5, 77.0, -1194.5]
 [22:18:43] [Server thread/INFO]: [@: Teleported NPC_716774189 to 941.5, 77.0, -1194.5]
+[23:36:18] [User Authenticator #2/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[23:36:18] [Server thread/INFO]: KellSo[/192.168.1.169:54026] logged in with entity id 56004 at ([world]1025.9660861315392, 71.0, -1220.7363559843907)
+[23:36:18] [Craft Scheduler Thread - 156/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[23:36:19] [Craft Scheduler Thread - 154/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[23:36:20] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[23:37:43] [User Authenticator #3/INFO]: UUID of player David_alja is 42e1c43e-8966-3dee-9d53-94807b81117b
+[23:37:43] [Server thread/INFO]: David_alja[/100.84.129.246:60499] logged in with entity id 57203 at ([world]1001.1174656458717, 95.16905668629052, -1275.0829653148885)
+[23:38:00] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[23:38:00] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[23:38:00] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[23:39:25] [Server thread/INFO]: David_alja issued server command: /gamemode 1
+[23:39:25] [Server thread/INFO]: [David_alja: Set own game mode to Creative Mode]
