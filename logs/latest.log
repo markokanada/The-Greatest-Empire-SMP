@@ -372,3 +372,10 @@ Caused by: java.lang.ClassNotFoundException: net.milkbowl.vault.permission.Permi
 [19:42:03] [Craft Scheduler Thread - 1/INFO]: [OpenAudioMc] [OpenAudioMc] The server is empty! ignoring voice chat.
 [19:42:03] [Craft Scheduler Thread - 1/INFO]: [OpenAudioMc] [OpenAudioMc] Successfully accepted a temporary license. Please make an account on account.craftmend.com and link your server to keep access to this license for a month, or upgrade to get more slots.
 [19:42:27] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] New Identity = nc4x-itlZKzub9afE_suV0wiM
+[21:59:43] [User Authenticator #1/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[21:59:44] [Server thread/INFO]: KellSo[/192.168.1.169:65064] logged in with entity id 37630 at ([world]853.7437482519227, 101.0, -1205.8372614843138)
+[21:59:44] [Craft Scheduler Thread - 69/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[21:59:45] [Craft Scheduler Thread - 68/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[21:59:45] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[21:59:59] [Server thread/INFO]: KellSo issued server command: /difficulty 3
+[21:59:59] [Server thread/INFO]: [KellSo: Set game difficulty to Hard]
