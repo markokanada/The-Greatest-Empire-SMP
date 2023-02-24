@@ -123,3 +123,42 @@ java.lang.NoSuchFieldError: ENTITY_ENDERMAN_TELEPORT
 [05:46:00] [Craft Scheduler Thread - 485/INFO]: [OpenAudioMc] [OpenAudioMc] Purging old accounts of inactive players
 [05:46:00] [Craft Scheduler Thread - 485/INFO]: [OpenAudioMc] [OpenAudioMc] Removed the profile of 2 players
 [05:46:00] [Craft Scheduler Thread - 485/INFO]: [OpenAudioMc] [OpenAudioMc] Finished cleanup
+[15:24:32] [User Authenticator #7/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[15:24:33] [Server thread/INFO]: KellSo[/192.168.1.169:56218] logged in with entity id 232765 at ([world]985.5627119763103, 66.0, -1258.23770968511)
+[15:24:33] [Craft Scheduler Thread - 986/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[15:24:34] [Craft Scheduler Thread - 985/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[15:24:35] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[15:24:46] [Server thread/INFO]: KellSo issued server command: /tps
+[15:24:57] [Server thread/INFO]: KellSo issued server command: /stop
+[15:24:57] [Server thread/INFO]: [KellSo: Stopping the server]
+[15:24:57] [Server thread/INFO]: Stopping server
+[15:24:57] [Server thread/INFO]: [ChunkLoaderX] Disabling ChunkLoaderX v1.0
+[15:24:57] [Server thread/INFO]: [RampenDrills] Disabling RampenDrills v4.5.2-Beta
+[15:24:57] [Server thread/INFO]: [TreeCapitator] Disabling TreeCapitator v1.0
+[15:24:57] [Server thread/INFO]: [SimpleEnderChest] Disabling SimpleEnderChest v1.3
+[15:24:57] [Server thread/INFO]: SimpleEnderChest Version 1.3 has been disabled!
+[15:24:57] [Server thread/INFO]: Thanks for using! Goodbye.
+[15:24:57] [Server thread/INFO]: [Graves] Disabling Graves v4.7
+[15:24:57] [Server thread/INFO]: [OneManSleep] Disabling OneManSleep v1.0
+[15:24:57] [Server thread/INFO]: [AutomatedCrafting] Disabling AutomatedCrafting v2.4
+[15:24:57] [Server thread/INFO]: [EnderChestVault] Disabling EnderChestVault v1.2
+[15:24:57] [Server thread/INFO]: [FastLeafDecay] Disabling FastLeafDecay v1.12-compat-1.0
+[15:24:57] [Server thread/INFO]: [OpenAudioMc] Disabling OpenAudioMc v6.7.4
+[15:24:57] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Shutting down
+[15:24:57] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Saving world cache...
+[15:24:57] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[15:24:57] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[15:24:57] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[15:24:58] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] An async task was requested but server is already stopping, so I'm doing it now. Original requester was from executeAsync in RestRequest.java
+[15:24:58] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] An async task was requested but server is already stopping, so I'm doing it now. Original requester was from executeAsync in RestRequest.java
+[15:24:58] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] An async task was requested but server is already stopping, so I'm doing it now. Original requester was from executeAsync in RestRequest.java
+[15:24:58] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Stopped OpenAudioMc. Goodbye.
+[15:24:58] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.9;caf0ad9
+[15:24:58] [Server thread/INFO]: [SetHome] Disabling SetHome v5.1.2
+[15:24:58] [Server thread/INFO]: Saving players
+[15:24:58] [Server thread/INFO]: KellSo lost connection: Server closed
+[15:24:58] [Server thread/INFO]: KellSo left the game
+[15:24:58] [Server thread/INFO]: Saving worlds
+[15:24:58] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[15:25:00] [Server thread/INFO]: Saving chunks for level 'world_nether'/the_nether
+[15:25:00] [Server thread/INFO]: Saving chunks for level 'world_the_end'/the_end
