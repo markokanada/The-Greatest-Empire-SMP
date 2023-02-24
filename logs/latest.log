@@ -1,164 +1,409 @@
-[00:02:26] [Server thread/INFO]: David_alja issued server command: /toggledownfall
-[00:02:26] [Server thread/INFO]: [David_alja: Toggled downfall]
-[00:03:43] [Async Chat Thread - #0/INFO]: <KellSo> gooo
-[00:03:44] [Async Chat Thread - #0/INFO]: <KellSo> ninja
-[00:03:45] [Async Chat Thread - #0/INFO]: <KellSo> gooo
-[00:03:56] [Async Chat Thread - #0/INFO]: <KellSo> ninja
-[00:03:57] [Async Chat Thread - #0/INFO]: <KellSo> gooo
-[00:03:58] [Async Chat Thread - #0/INFO]: <David_alja> Ninja
-[00:03:58] [Async Chat Thread - #0/INFO]: <KellSo> ninja
-[00:03:59] [Async Chat Thread - #0/INFO]: <KellSo> gooo
-[00:04:00] [Async Chat Thread - #0/INFO]: <KellSo> gooo
-[00:04:01] [Async Chat Thread - #0/INFO]: <KellSo> gooo
-[00:04:19] [Async Chat Thread - #0/INFO]: <David_alja> they
-[00:04:22] [Async Chat Thread - #0/INFO]: <David_alja> gogog
-[00:04:28] [Async Chat Thread - #0/INFO]: <David_alja> go
-[00:04:36] [Async Chat Thread - #0/INFO]: <David_alja> spin
-[00:04:40] [Async Chat Thread - #0/INFO]: <David_alja> again
-[00:04:43] [Async Chat Thread - #0/INFO]: <KellSo> ninja
-[00:04:44] [Async Chat Thread - #0/INFO]: <KellSo> ninja
-[00:04:56] [Async Chat Thread - #0/INFO]: <David_alja> go
-[00:04:58] [Async Chat Thread - #0/INFO]: <David_alja> go
-[00:05:01] [Async Chat Thread - #0/INFO]: <David_alja> go
-[00:06:03] [Server thread/INFO]: David_alja lost connection: Timed out
-[00:06:03] [Server thread/INFO]: David_alja left the game
-[00:08:12] [User Authenticator #6/INFO]: UUID of player David_alja is 42e1c43e-8966-3dee-9d53-94807b81117b
-[00:08:13] [Server thread/INFO]: David_alja[/100.84.129.246:56585] logged in with entity id 66483 at ([world]1060.683307010261, 89.54985942023204, -1293.764479456231)
-[00:08:13] [Craft Scheduler Thread - 176/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
-[00:08:14] [Craft Scheduler Thread - 169/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
-[00:08:14] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
-[00:10:00] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
-[00:10:00] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
-[00:10:00] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
-[00:13:18] [Server thread/INFO]: KellSo issued server command: /echest
-[00:13:18] [Server thread/INFO]: [SimpleEnderChest] KellSo opened his EnderChest at Location{world=CraftWorld{name=world},x=950.436109682896,y=77.5,z=-1238.2383035053579,pitch=1.1795549,yaw=338.22656} !
-[00:13:18] [Server thread/ERROR]: null
-org.bukkit.command.CommandException: Unhandled exception executing command 'echest' in plugin SimpleEnderChest v1.3
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[server.jar:git-Spigot-79a30d7-f4830a1]
-	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[server.jar:git-Spigot-79a30d7-f4830a1]
-	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:648) ~[server.jar:git-Spigot-79a30d7-f4830a1]
-	at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1401) [server.jar:git-Spigot-79a30d7-f4830a1]
-	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1236) [server.jar:git-Spigot-79a30d7-f4830a1]
-	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [server.jar:git-Spigot-79a30d7-f4830a1]
-	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [server.jar:git-Spigot-79a30d7-f4830a1]
-	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [server.jar:git-Spigot-79a30d7-f4830a1]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) [?:?]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
-	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [server.jar:git-Spigot-79a30d7-f4830a1]
-	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [server.jar:git-Spigot-79a30d7-f4830a1]
-	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [server.jar:git-Spigot-79a30d7-f4830a1]
-	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [server.jar:git-Spigot-79a30d7-f4830a1]
-	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [server.jar:git-Spigot-79a30d7-f4830a1]
+[15:30:55] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[15:30:55] [Server thread/INFO]: Loading properties
+[15:30:55] [Server thread/INFO]: Default game type: SURVIVAL
+[15:30:55] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-79a30d7-f4830a1 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[15:31:00] [Server thread/INFO]: Debug logging is disabled
+[15:31:00] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:31:00] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:31:00] [Server thread/INFO]: Generating keypair
+[15:31:00] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:31:00] [Server thread/INFO]: Using epoll channel type
+[15:31:01] [Server thread/ERROR]: Could not load 'plugins/worldedit-forge-mc1.12.2-6.1.10-dist.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidDescriptionException: Invalid plugin.yml
+	at org.bukkit.plugin.java.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:152) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:133) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.loadPlugins(CraftServer.java:305) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.init(DedicatedServer.java:205) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:545) [server.jar:git-Spigot-79a30d7-f4830a1]
 	at java.lang.Thread.run(Thread.java:829) [?:?]
-Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
-	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
-	... 15 more
-[00:30:15] [Server thread/INFO]: KellSo issued server command: /echest
-[00:30:15] [Server thread/INFO]: [SimpleEnderChest] KellSo opened his EnderChest at Location{world=CraftWorld{name=world},x=929.0862747793453,y=54.0,z=-1206.0696404608782,pitch=59.47209,yaw=236.55762} !
-[00:30:15] [Server thread/ERROR]: null
-org.bukkit.command.CommandException: Unhandled exception executing command 'echest' in plugin SimpleEnderChest v1.3
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[server.jar:git-Spigot-79a30d7-f4830a1]
-	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[server.jar:git-Spigot-79a30d7-f4830a1]
-	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:648) ~[server.jar:git-Spigot-79a30d7-f4830a1]
-	at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1401) [server.jar:git-Spigot-79a30d7-f4830a1]
-	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1236) [server.jar:git-Spigot-79a30d7-f4830a1]
-	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [server.jar:git-Spigot-79a30d7-f4830a1]
-	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [server.jar:git-Spigot-79a30d7-f4830a1]
-	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [server.jar:git-Spigot-79a30d7-f4830a1]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) [?:?]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
-	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [server.jar:git-Spigot-79a30d7-f4830a1]
-	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [server.jar:git-Spigot-79a30d7-f4830a1]
-	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [server.jar:git-Spigot-79a30d7-f4830a1]
-	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [server.jar:git-Spigot-79a30d7-f4830a1]
-	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [server.jar:git-Spigot-79a30d7-f4830a1]
+Caused by: java.io.FileNotFoundException: Jar does not contain plugin.yml
+	... 6 more
+[15:31:01] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[15:31:02] [Server thread/ERROR]: Could not load 'plugins/backpacksplus.jar' in folder 'plugins'
+org.bukkit.plugin.UnknownDependencyException: ItemNBTAPI
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:216) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.loadPlugins(CraftServer.java:305) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.init(DedicatedServer.java:205) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:545) [server.jar:git-Spigot-79a30d7-f4830a1]
 	at java.lang.Thread.run(Thread.java:829) [?:?]
-Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
-	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
-	... 15 more
-[00:31:23] [Server thread/INFO]: David_alja lost connection: Timed out
-[00:31:23] [Server thread/INFO]: David_alja left the game
-[00:37:46] [Server thread/INFO]: KellSo issued server command: /echest
-[00:37:46] [Server thread/INFO]: [SimpleEnderChest] KellSo opened his EnderChest at Location{world=CraftWorld{name=world},x=947.2559767948266,y=75.0,z=-1238.7193887746753,pitch=16.596449,yaw=267.65234} !
-[00:37:46] [Server thread/ERROR]: null
-org.bukkit.command.CommandException: Unhandled exception executing command 'echest' in plugin SimpleEnderChest v1.3
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[server.jar:git-Spigot-79a30d7-f4830a1]
-	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[server.jar:git-Spigot-79a30d7-f4830a1]
-	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:648) ~[server.jar:git-Spigot-79a30d7-f4830a1]
-	at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1401) [server.jar:git-Spigot-79a30d7-f4830a1]
-	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1236) [server.jar:git-Spigot-79a30d7-f4830a1]
-	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [server.jar:git-Spigot-79a30d7-f4830a1]
-	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [server.jar:git-Spigot-79a30d7-f4830a1]
-	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [server.jar:git-Spigot-79a30d7-f4830a1]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) [?:?]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
-	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [server.jar:git-Spigot-79a30d7-f4830a1]
-	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [server.jar:git-Spigot-79a30d7-f4830a1]
-	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [server.jar:git-Spigot-79a30d7-f4830a1]
-	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [server.jar:git-Spigot-79a30d7-f4830a1]
-	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [server.jar:git-Spigot-79a30d7-f4830a1]
+[15:31:02] [Server thread/INFO]: [SetHome] Loading SetHome v5.1.2
+[15:31:02] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.9;caf0ad9
+[15:31:02] [Server thread/INFO]: [OpenAudioMc] Loading OpenAudioMc v6.7.4
+[15:31:02] [Server thread/INFO]: [FastLeafDecay] Loading FastLeafDecay v1.12-compat-1.0
+[15:31:02] [Server thread/INFO]: [EnderChestVault] Loading EnderChestVault v1.2
+[15:31:02] [Server thread/INFO]: [AutomatedCrafting] Loading AutomatedCrafting v2.4
+[15:31:02] [Server thread/INFO]: [OneManSleep] Loading OneManSleep v1.0
+[15:31:02] [Server thread/INFO]: [Graves] Loading Graves v4.7
+[15:31:02] [Server thread/INFO]: [SimpleEnderChest] Loading SimpleEnderChest v1.3
+[15:31:02] [Server thread/INFO]: [TreeCapitator] Loading TreeCapitator v1.0
+[15:31:02] [Server thread/INFO]: [RampenDrills] Loading RampenDrills v4.5.2-Beta
+[15:31:02] [Server thread/INFO]: [ChunkLoaderX] Loading ChunkLoaderX v1.0
+[15:31:02] [Server thread/INFO]: [AutomatedCrafting] Enabling AutomatedCrafting v2.4
+[15:31:02] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:31:02] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:31:02] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:31:02] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:31:02] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[15:31:02] [Server thread/INFO]: Preparing level "world"
+[15:31:04] [Server thread/INFO]: -------- World Settings For [world] --------
+[15:31:04] [Server thread/INFO]: Mob Spawn Range: 4
+[15:31:04] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:31:04] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:31:04] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:31:04] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:31:04] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:31:04] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:31:04] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:31:04] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:31:04] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:31:04] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:31:04] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[15:31:04] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:31:04] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:31:04] [Server thread/INFO]: Random Lighting Updates: false
+[15:31:04] [Server thread/INFO]: Structure Info Saving: true
+[15:31:04] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[15:31:04] [Server thread/INFO]: Max TNT Explosions: 100
+[15:31:04] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:31:04] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:31:04] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:31:04] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:31:04] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:31:04] [Server thread/INFO]: View Distance: 64
+[15:31:04] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:31:04] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:31:04] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:31:07] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[15:31:07] [Server thread/INFO]: Mob Spawn Range: 4
+[15:31:07] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:31:07] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:31:07] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:31:07] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:31:07] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:31:07] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:31:07] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:31:07] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:31:07] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:31:07] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:31:07] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[15:31:07] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:31:07] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:31:07] [Server thread/INFO]: Random Lighting Updates: false
+[15:31:07] [Server thread/INFO]: Structure Info Saving: true
+[15:31:07] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[15:31:07] [Server thread/INFO]: Max TNT Explosions: 100
+[15:31:07] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:31:07] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:31:07] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:31:07] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:31:07] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:31:07] [Server thread/INFO]: View Distance: 64
+[15:31:07] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:31:07] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:31:07] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:31:07] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[15:31:07] [Server thread/INFO]: Mob Spawn Range: 4
+[15:31:07] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:31:07] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:31:07] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:31:07] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:31:07] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:31:07] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:31:07] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:31:07] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:31:07] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:31:07] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:31:07] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[15:31:07] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:31:07] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:31:07] [Server thread/INFO]: Random Lighting Updates: false
+[15:31:07] [Server thread/INFO]: Structure Info Saving: true
+[15:31:07] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[15:31:07] [Server thread/INFO]: Max TNT Explosions: 100
+[15:31:07] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:31:07] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:31:07] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:31:07] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:31:07] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:31:07] [Server thread/INFO]: View Distance: 64
+[15:31:07] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:31:07] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:31:07] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:31:08] [Server thread/INFO]: Preparing start region for level 0 (Seed: 5691424625935932744)
+[15:31:09] [Server thread/INFO]: Preparing spawn area: 1%
+[15:31:10] [Server thread/INFO]: Preparing spawn area: 5%
+[15:31:11] [Server thread/INFO]: Preparing spawn area: 11%
+[15:31:12] [Server thread/INFO]: Preparing spawn area: 44%
+[15:31:13] [Server thread/INFO]: Preparing spawn area: 85%
+[15:31:13] [Server thread/INFO]: Preparing start region for level 1 (Seed: 5691424625935932744)
+[15:31:15] [Server thread/INFO]: Preparing spawn area: 0%
+[15:31:16] [Server thread/INFO]: Preparing spawn area: 3%
+[15:31:17] [Server thread/INFO]: Preparing spawn area: 4%
+[15:31:18] [Server thread/INFO]: Preparing spawn area: 26%
+[15:31:19] [Server thread/INFO]: Preparing spawn area: 44%
+[15:31:20] [Server thread/INFO]: Preparing spawn area: 71%
+[15:31:21] [Server thread/INFO]: Preparing spawn area: 72%
+[15:31:22] [Server thread/INFO]: Preparing spawn area: 98%
+[15:31:22] [Server thread/INFO]: Preparing start region for level 2 (Seed: 5691424625935932744)
+[15:31:24] [Server thread/INFO]: Preparing spawn area: 4%
+[15:31:25] [Server thread/INFO]: Preparing spawn area: 7%
+[15:31:26] [Server thread/INFO]: Preparing spawn area: 36%
+[15:31:27] [Server thread/INFO]: Preparing spawn area: 38%
+[15:31:28] [Server thread/INFO]: Preparing spawn area: 71%
+[15:31:29] [Server thread/INFO]: Preparing spawn area: 92%
+[15:31:29] [Server thread/INFO]: [SetHome] Enabling SetHome v5.1.2
+[15:31:29] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.9;caf0ad9
+[15:31:30] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[15:31:30] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_12_R2 as the Bukkit adapter
+[15:31:30] [Server thread/INFO]: [OpenAudioMc] Enabling OpenAudioMc v6.7.4
+[15:31:30] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Initializing build 582 by Mats
+[15:31:31] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Using the main config file..
+[15:31:31] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Starting configuration module
+[15:31:31] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Using the main config file..
+[15:31:31] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Starting configuration module
+[15:31:31] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Skipped 26/26 migrations.
+[15:31:31] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] ModuleLoaderService: Loading modules from /media/Minecraft/server/The-Greatest-Empire-SMP/plugins/OpenAudioMc/modules
+[15:31:31] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Initializing socket connector
+[15:31:31] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Starting authentication module
+[15:31:32] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] This server already has an account, skipping sign up.
+[15:31:32] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] DatabaseService: Adding spigot tables
+[15:31:32] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Registering storage table for Alias
+[15:31:32] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] DatabaseService: Registering class <-> table (alias<->Alias.java)
+[15:31:32] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Registering storage table for ClientDataStore
+[15:31:32] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] DatabaseService: Registering class <-> table (client_data_store<->ClientDataStore.java)
+[15:31:32] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Registering storage table for MojangProfile
+[15:31:32] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] DatabaseService: Registering class <-> table (mojang_profile<->MojangProfile.java)
+[15:31:32] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Registering storage table for RegionProperties
+[15:31:32] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] DatabaseService: Registering class <-> table (region_properties<->RegionProperties.java)
+[15:31:32] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Registering storage table for Speaker
+[15:31:32] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] DatabaseService: Registering class <-> table (speaker<->Speaker.java)
+[15:31:32] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Registering storage table for StoredWorldChunk
+[15:31:32] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] DatabaseService: Registering class <-> table (stored_world_chunk<->StoredWorldChunk.java)
+[15:31:32] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Registering storage table for TimedRegionProperties
+[15:31:32] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] DatabaseService: Registering class <-> table (timed_region_properties<->TimedRegionProperties.java)
+[15:31:32] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Registering storage table for MediaRule
+[15:31:32] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] DatabaseService: Registering class <-> table (media_rule<->MediaRule.java)
+[15:31:36] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Initializing account details
+[15:31:36] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] The server is empty! ignoring voice chat.
+[15:31:36] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Loading aliases...
+[15:31:37] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Loaded 0 aliases
+[15:31:37] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Detected version type: LEGACY
+[15:31:37] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Enabling the 1.12 speaker system
+[15:31:37] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Hooking speakers attempt 1..
+[15:31:38] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Using ip: 94.21.136.224
+[15:31:38] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to start a cdn injector at port 8050. Timeout=5-seconds
+[15:31:44] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to start a cdn injector at port 8268. Timeout=5-seconds
+[15:31:49] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Continuing without the RestDirect feature! None of the listed ports were accessible or available. Please contact support, your server/host might not be compatible!
+[15:31:49] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Starting and loading took 47749MS
+[15:31:49] [Server thread/INFO]: [FastLeafDecay] Enabling FastLeafDecay v1.12-compat-1.0
+[15:31:49] [Server thread/INFO]: [EnderChestVault] Enabling EnderChestVault v1.2
+[15:31:49] [Server thread/ERROR]: Error occurred while enabling EnderChestVault v1.2 (Is it up to date?)
+java.lang.NoClassDefFoundError: net/milkbowl/vault/permission/Permission
+	at com.deadshotmdf.EnderChestVault.Main.setupPermissions(Main.java:73) ~[?:?]
+	at com.deadshotmdf.EnderChestVault.Main.onEnable(Main.java:51) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:337) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:403) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.enablePlugin(CraftServer.java:381) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.enablePlugins(CraftServer.java:330) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.t(MinecraftServer.java:422) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.l(MinecraftServer.java:383) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.a(MinecraftServer.java:338) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.init(DedicatedServer.java:272) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:545) [server.jar:git-Spigot-79a30d7-f4830a1]
 	at java.lang.Thread.run(Thread.java:829) [?:?]
-Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
-	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
-	... 15 more
-[00:41:44] [Server thread/INFO]: KellSo issued server command: /tps
-[00:48:32] [Server thread/INFO]: KellSo issued server command: /home
-[00:48:37] [Server thread/WARN]: [SetHome] Task #22419 for SetHome v5.1.2 generated an exception
-java.lang.NoSuchFieldError: ENTITY_ENDERMAN_TELEPORT
-	at me.downthepark.sethome.SetHome.sendPlayerHome(SetHome.java:127) ~[?:?]
-	at me.downthepark.sethome.SetHome.lambda$onCommand$0(SetHome.java:77) ~[?:?]
-	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:76) ~[server.jar:git-Spigot-79a30d7-f4830a1]
-	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:361) [server.jar:git-Spigot-79a30d7-f4830a1]
-	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [server.jar:git-Spigot-79a30d7-f4830a1]
-	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [server.jar:git-Spigot-79a30d7-f4830a1]
-	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [server.jar:git-Spigot-79a30d7-f4830a1]
-	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [server.jar:git-Spigot-79a30d7-f4830a1]
-	at java.lang.Thread.run(Thread.java:829) [?:?]
-[00:51:00] [Server thread/INFO]: KellSo lost connection: Disconnected
-[00:51:00] [Server thread/INFO]: KellSo left the game
-[05:46:00] [Craft Scheduler Thread - 485/INFO]: [OpenAudioMc] [OpenAudioMc] Starting mojang cleanup, this can take a while...
-[05:46:00] [Craft Scheduler Thread - 485/INFO]: [OpenAudioMc] [OpenAudioMc] Purging old accounts of inactive players
-[05:46:00] [Craft Scheduler Thread - 485/INFO]: [OpenAudioMc] [OpenAudioMc] Removed the profile of 2 players
-[05:46:00] [Craft Scheduler Thread - 485/INFO]: [OpenAudioMc] [OpenAudioMc] Finished cleanup
-[15:24:32] [User Authenticator #7/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
-[15:24:33] [Server thread/INFO]: KellSo[/192.168.1.169:56218] logged in with entity id 232765 at ([world]985.5627119763103, 66.0, -1258.23770968511)
-[15:24:33] [Craft Scheduler Thread - 986/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
-[15:24:34] [Craft Scheduler Thread - 985/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
-[15:24:35] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
-[15:24:46] [Server thread/INFO]: KellSo issued server command: /tps
-[15:24:57] [Server thread/INFO]: KellSo issued server command: /stop
-[15:24:57] [Server thread/INFO]: [KellSo: Stopping the server]
-[15:24:57] [Server thread/INFO]: Stopping server
-[15:24:57] [Server thread/INFO]: [ChunkLoaderX] Disabling ChunkLoaderX v1.0
-[15:24:57] [Server thread/INFO]: [RampenDrills] Disabling RampenDrills v4.5.2-Beta
-[15:24:57] [Server thread/INFO]: [TreeCapitator] Disabling TreeCapitator v1.0
-[15:24:57] [Server thread/INFO]: [SimpleEnderChest] Disabling SimpleEnderChest v1.3
-[15:24:57] [Server thread/INFO]: SimpleEnderChest Version 1.3 has been disabled!
-[15:24:57] [Server thread/INFO]: Thanks for using! Goodbye.
-[15:24:57] [Server thread/INFO]: [Graves] Disabling Graves v4.7
-[15:24:57] [Server thread/INFO]: [OneManSleep] Disabling OneManSleep v1.0
-[15:24:57] [Server thread/INFO]: [AutomatedCrafting] Disabling AutomatedCrafting v2.4
-[15:24:57] [Server thread/INFO]: [EnderChestVault] Disabling EnderChestVault v1.2
-[15:24:57] [Server thread/INFO]: [FastLeafDecay] Disabling FastLeafDecay v1.12-compat-1.0
-[15:24:57] [Server thread/INFO]: [OpenAudioMc] Disabling OpenAudioMc v6.7.4
-[15:24:57] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Shutting down
-[15:24:57] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Saving world cache...
-[15:24:57] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
-[15:24:57] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
-[15:24:57] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
-[15:24:58] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] An async task was requested but server is already stopping, so I'm doing it now. Original requester was from executeAsync in RestRequest.java
-[15:24:58] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] An async task was requested but server is already stopping, so I'm doing it now. Original requester was from executeAsync in RestRequest.java
-[15:24:58] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] An async task was requested but server is already stopping, so I'm doing it now. Original requester was from executeAsync in RestRequest.java
-[15:24:58] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Stopped OpenAudioMc. Goodbye.
-[15:24:58] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1.9;caf0ad9
-[15:24:58] [Server thread/INFO]: [SetHome] Disabling SetHome v5.1.2
-[15:24:58] [Server thread/INFO]: Saving players
-[15:24:58] [Server thread/INFO]: KellSo lost connection: Server closed
-[15:24:58] [Server thread/INFO]: KellSo left the game
-[15:24:58] [Server thread/INFO]: Saving worlds
-[15:24:58] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[15:25:00] [Server thread/INFO]: Saving chunks for level 'world_nether'/the_nether
-[15:25:00] [Server thread/INFO]: Saving chunks for level 'world_the_end'/the_end
+Caused by: java.lang.ClassNotFoundException: net.milkbowl.vault.permission.Permission
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:476) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:152) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:100) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:589) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:522) ~[?:?]
+	... 13 more
+[15:31:49] [Server thread/INFO]: [OneManSleep] Enabling OneManSleep v1.0
+[15:31:49] [Server thread/INFO]: [Graves] Enabling Graves v4.7
+[15:31:49] [Server thread/INFO]: [Graves] Integration: WorldEdit 6.1.9;caf0ad9 detected, Only WorldEdit 7+ is supported.Disabling WorldEdit support.
+[15:31:49] [Server thread/INFO]: [SimpleEnderChest] Enabling SimpleEnderChest v1.3
+[15:31:49] [Server thread/INFO]: SimpleEnderChest Version 1.3 has been enabled!
+[15:31:50] [Server thread/INFO]: [TreeCapitator] Enabling TreeCapitator v1.0
+[15:31:50] [Server thread/INFO]: [RampenDrills] Enabling RampenDrills v4.5.2-Beta
+[15:31:50] [Server thread/INFO]: [RampenDrills] CHARCOAL is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] DRIED_KELP_BLOCK is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] ACACIA_PLANKS is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] BIRCH_PLANKS is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] DARK_OAK_PLANKS is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] JUNGLE_PLANKS is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] SPRUCE_PLANKS is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] OAK_PLANKS is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] ACACIA_WOOD is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] BIRCH_WOOD is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] DARK_OAK_WOOD is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] JUNGLE_WOOD is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] SPRUCE_WOOD is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] OAK_WOOD is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] ACACIA_LOG is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] BIRCH_LOG is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] DARK_OAK_LOG is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] JUNGLE_LOG is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] SPRUCE_LOG is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] OAK_LOG is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] STRIPPED_ACACIA_LOG is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] STRIPPED_BIRCH_LOG is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] STRIPPED_DARK_OAK_LOG is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] STRIPPED_JUNGLE_LOG is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] STRIPPED_SPRUCE_LOG is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] STRIPPED_OAK_LOG is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] OAK_FENCE is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] OAK_FENCE_GATE is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] BIRCH_STAIRS is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] JUNGLE_STAIRS is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] SPRUCE_STAIRS is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] OAK_STAIRS is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] ACACIA_BUTTON is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] BIRCH_BUTTON is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] DARK_OAK_BUTTON is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] JUNGLE_BUTTON is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] SPRUCE_BUTTON is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] OAK_BUTTON is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] ACACIA_SLAB is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] BIRCH_SLAB is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] DARK_OAK_SLAB is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] JUNGLE_SLAB is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] SPRUCE_SLAB is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] OAK_SLAB is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] ACACIA_SIGN is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] BIRCH_SIGN is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] DARK_OAK_SIGN is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] JUNGLE_SIGN is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] SPRUCE_SIGN is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] OAK_SIGN is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] ACACIA_SAPLING is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] BIRCH_SAPLING is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] DARK_OAK_SAPLING is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] JUNGLE_SAPLING is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] SPRUCE_SAPLING is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] OAK_SAPLING is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] ACACIA_BOAT is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] BIRCH_BOAT is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] DARK_OAK_BOAT is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] JUNGLE_BOAT is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] SPRUCE_BOAT is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] OAK_BOAT is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] ACACIA_PRESSURE_PLATE is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] BIRCH_PRESSURE_PLATE is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] DARK_OAK_PRESSURE_PLATE is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] JUNGLE_PRESSURE_PLATE is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] SPRUCE_PRESSURE_PLATE is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] OAK_PRESSURE_PLATE is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] ACACIA_TRAPDOOR is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] BIRCH_TRAPDOOR is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] DARK_OAK_TRAPDOOR is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] JUNGLE_TRAPDOOR is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] SPRUCE_TRAPDOOR is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] OAK_TRAPDOOR is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] OAK_DOOR is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] LECTERN is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] COMPOSTER is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] BARREL is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] SCAFFOLDING is not a valid fuel material!
+[15:31:50] [Server thread/INFO]: [RampenDrills] BAMBOO is not a valid fuel material!
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'END_PORTAL_FRAME' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'END_PORTAL' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'SPAWNER' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'SKELETON_SKULL' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'SKELETON_WALL_SKULL' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'WITHER_SKELETON_SKULL' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'WITHER_SKELETON_WALL_SKULL' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'CREEPER_HEAD' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'CREEPER_WALL_HEAD' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'DRAGON_HEAD' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'DRAGON_WALL_HEAD' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'PLAYER_HEAD' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'PLAYER_WALL_HEAD' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'ZOMBIE_HEAD' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'ZOMBIE_WALL_HEAD' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'LIGHT_GRAY_SHULKER_BOX' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'SHULKER_BOX' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'BARREL' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'BELL' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'BLAST_FURNACE' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'CAMPFIRE' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'CARTOGRAPHY_TABLE' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'COMPOSTER' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'FLETCHING_TABLE' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'GRINDSTONE' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'JIGSAW' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'LECTERN' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'LOOM' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'SMITHING_TABLE' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'SMOKER' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'STONECUTTER' to the blacklist.
+[15:31:50] [Server thread/INFO]: [RampenDrills] ENTITY_ENDERMAN_TELEPORT is not a valid sound
+[15:31:50] [Server thread/INFO]: [RampenDrills] ENTITY_SNOW_GOLEM_HURT is not a valid sound
+[15:31:50] [Server thread/INFO]: [RampenDrills] RAIL is not a valid material
+[15:31:50] [Server thread/INFO]: [RampenDrills] RAIL is not a valid material
+[15:31:50] [Server thread/INFO]: [RampenDrills] RAIL is not a valid material
+[15:31:50] [Server thread/INFO]: [RampenDrills] RAIL is not a valid material
+[15:31:50] [Server thread/INFO]: [RampenDrills] RAIL is not a valid material
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'END_PORTAL_FRAME' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'END_PORTAL' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'SPAWNER' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'SKELETON_SKULL' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'SKELETON_WALL_SKULL' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'WITHER_SKELETON_SKULL' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'WITHER_SKELETON_WALL_SKULL' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'CREEPER_HEAD' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'CREEPER_WALL_HEAD' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'DRAGON_HEAD' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'DRAGON_WALL_HEAD' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'PLAYER_HEAD' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'PLAYER_WALL_HEAD' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'ZOMBIE_HEAD' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'ZOMBIE_WALL_HEAD' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'LIGHT_GRAY_SHULKER_BOX' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'SHULKER_BOX' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'BARREL' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'BELL' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'BLAST_FURNACE' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'CAMPFIRE' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'CARTOGRAPHY_TABLE' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'COMPOSTER' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'FLETCHING_TABLE' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'GRINDSTONE' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'JIGSAW' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'LECTERN' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'LOOM' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'SMITHING_TABLE' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'SMOKER' to the blacklist.
+[15:31:50] [Server thread/WARN]: [RampenDrills] Could not add material 'STONECUTTER' to the blacklist.
+[15:31:50] [Server thread/INFO]: [ChunkLoaderX] Enabling ChunkLoaderX v1.0
+[15:31:50] [Server thread/INFO]: [ChunkLoaderX] Loaded 4 chunks.
+[15:31:50] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:31:50] [Server thread/INFO]: Done (47,862s)! For help, type "help" or "?"
+[15:31:50] [Server thread/INFO]: Starting GS4 status listener
+[15:31:50] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
+[15:31:50] [Server thread/INFO]: [AutomatedCrafting] (Re)loading recipes...
+[15:31:50] [Server thread/INFO]: [AutomatedCrafting] (Re)loaded 443 bukkit recipes, took 31 ms...
+[15:31:50] [Server thread/INFO]: [Graves] Information: Legacy version detected, Graves will run but may have problems with material names, the default config is setup for the latest version of the game, you can alter the config manually to fix any issues you encounter, you will need to find the names of materials and sounds for your version.
+[15:31:50] [Server thread/INFO]: [Graves] Update: Outdated version detected 4.7, latest version is 4.9, https://www.spigotmc.org/resources/graves.74208/
+[15:32:01] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] New Identity = iPfIagazQVkwHoyYiu1kcEH9v
+[15:32:02] [User Authenticator #1/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[15:32:03] [Server thread/INFO]: KellSo[/192.168.1.169:64027] logged in with entity id 2729 at ([world]983.7894478454226, 66.0, -1215.4156152749272)
+[15:32:03] [Craft Scheduler Thread - 1/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[15:32:04] [Craft Scheduler Thread - 3/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[15:32:04] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[15:32:15] [Server thread/INFO]: KellSo issued server command: /tps
+[15:32:39] [Server thread/INFO]: KellSo issued server command: /gamemode 3
+[15:32:39] [Server thread/INFO]: [KellSo: Set own game mode to Spectator Mode]
+[15:33:08] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[15:33:08] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[15:33:31] [Server thread/INFO]: KellSo issued server command: /gamemode 3
+[15:33:31] [Server thread/INFO]: [KellSo: Set own game mode to Spectator Mode]
+[15:33:32] [Server thread/INFO]: KellSo issued server command: /tps
+[15:33:50] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[15:33:50] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[15:33:50] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[15:33:58] [Server thread/INFO]: KellSo issued server command: /tps
+[15:34:00] [Server thread/INFO]: KellSo issued server command: /tps
+[15:34:01] [Server thread/INFO]: KellSo issued server command: /tps
+[15:35:06] [Server thread/INFO]: KellSo lost connection: Disconnected
+[15:35:06] [Server thread/INFO]: KellSo left the game
