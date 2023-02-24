@@ -119,3 +119,7 @@ java.lang.NoSuchFieldError: ENTITY_ENDERMAN_TELEPORT
 	at java.lang.Thread.run(Thread.java:829) [?:?]
 [00:51:00] [Server thread/INFO]: KellSo lost connection: Disconnected
 [00:51:00] [Server thread/INFO]: KellSo left the game
+[05:46:00] [Craft Scheduler Thread - 485/INFO]: [OpenAudioMc] [OpenAudioMc] Starting mojang cleanup, this can take a while...
+[05:46:00] [Craft Scheduler Thread - 485/INFO]: [OpenAudioMc] [OpenAudioMc] Purging old accounts of inactive players
+[05:46:00] [Craft Scheduler Thread - 485/INFO]: [OpenAudioMc] [OpenAudioMc] Removed the profile of 2 players
+[05:46:00] [Craft Scheduler Thread - 485/INFO]: [OpenAudioMc] [OpenAudioMc] Finished cleanup
