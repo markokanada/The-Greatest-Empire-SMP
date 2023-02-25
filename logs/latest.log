@@ -391,3 +391,4 @@ Caused by: java.lang.ClassNotFoundException: net.milkbowl.vault.permission.Permi
 [21:13:26] [Craft Scheduler Thread - 1/INFO]: [OpenAudioMc] [OpenAudioMc] The server is empty! ignoring voice chat.
 [21:13:26] [Craft Scheduler Thread - 1/INFO]: [OpenAudioMc] [OpenAudioMc] Successfully accepted a temporary license. Please make an account on account.craftmend.com and link your server to keep access to this license for a month, or upgrade to get more slots.
 [21:13:36] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] New Identity = oV1Bj85MR88pp3Mt0gFCSUWH-
+[22:59:09] [Server thread/INFO]: [@: Teleported NPC_724919024 to 941.5, 77.0, -1194.5]
