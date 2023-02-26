@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2023-02-26 20:41:39 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2023-02-26 20:24:05 +0100"
@@ -49,6 +55,7 @@
       "forest_hills": "2023-02-26 20:17:54 +0100",
       "plains": "2023-02-26 20:15:04 +0100",
       "ocean": "2023-02-26 20:32:22 +0100",
+      "extreme_hills": "2023-02-26 20:39:22 +0100",
       "river": "2023-02-26 20:16:15 +0100"
     },
     "done": false
