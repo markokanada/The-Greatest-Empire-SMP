@@ -593,3 +593,10 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
 	... 15 more
+[21:53:43] [Server thread/WARN]: Leevy23 moved wrongly!
+[21:53:55] [Server thread/INFO]: KellSo issued server command: /tp Exo KellSo
+[21:53:55] [Server thread/INFO]: Exo has made the advancement [The End?]
+[21:53:55] [Server thread/INFO]: [KellSo: Teleported Exo to KellSo]
+[21:54:00] [Server thread/INFO]: Exo has reached the goal [The End... Again...]
+[21:54:58] [Server thread/INFO]: David_alja lost connection: Timed out
+[21:54:58] [Server thread/INFO]: David_alja left the game
