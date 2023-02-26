@@ -30,3 +30,20 @@
 [17:16:28] [Craft Scheduler Thread - 1107/INFO]: [OpenAudioMc] [OpenAudioMc] Purging old accounts of inactive players
 [17:16:28] [Craft Scheduler Thread - 1107/INFO]: [OpenAudioMc] [OpenAudioMc] Removed the profile of 0 players
 [17:16:28] [Craft Scheduler Thread - 1107/INFO]: [OpenAudioMc] [OpenAudioMc] Finished cleanup
+[18:45:32] [User Authenticator #2/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[18:45:33] [Server thread/INFO]: KellSo[/192.168.0.1:62372] logged in with entity id 223654 at ([world]942.7048687335629, 66.0, -1225.9090868291753)
+[18:45:33] [Craft Scheduler Thread - 1192/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[18:45:34] [Craft Scheduler Thread - 1194/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[18:45:34] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[18:45:42] [Server thread/INFO]: KellSo issued server command: /tps
+[18:47:20] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[18:47:20] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[18:47:20] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[18:48:12] [User Authenticator #3/INFO]: UUID of player David_alja is 42e1c43e-8966-3dee-9d53-94807b81117b
+[18:48:13] [Server thread/INFO]: David_alja[/100.84.137.210:51812] logged in with entity id 224161 at ([world]1041.2786679116412, 90.91393479033945, -1279.2919039197764)
+[18:48:13] [Craft Scheduler Thread - 1191/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[18:48:13] [Craft Scheduler Thread - 1194/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[18:48:13] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[18:50:00] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[18:50:00] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[18:50:00] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
