@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_the_recipe": "2023-02-26 20:50:31 +0100"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2023-02-26 20:34:48 +0100"
@@ -47,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2023-02-26 20:50:31 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2023-02-26 20:30:16 +0100"
@@ -70,6 +82,12 @@
       "cooked_porkchop": "2023-02-26 20:34:48 +0100"
     },
     "done": false
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2023-02-26 20:52:27 +0100"
+    },
+    "done": true
   },
   "minecraft:recipes/transportation/boat": {
     "criteria": {
