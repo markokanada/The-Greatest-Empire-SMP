@@ -406,3 +406,6 @@ Caused by: java.lang.ClassNotFoundException: net.milkbowl.vault.permission.Permi
 [19:37:51] [Server thread/INFO]: KellSo issued server command: /butcher
 [19:37:56] [Server thread/INFO]: KellSo issued server command: /butcher
 [19:38:05] [Server thread/INFO]: KellSo issued server command: /tps
+[19:41:00] [Server thread/INFO]: David_alja issued server command: /butcher
+[19:43:55] [Server thread/INFO]: KellSo issued server command: /toggledownfall
+[19:43:55] [Server thread/INFO]: [KellSo: Toggled downfall]
