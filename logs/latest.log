@@ -409,3 +409,11 @@ Caused by: java.lang.ClassNotFoundException: net.milkbowl.vault.permission.Permi
 [19:41:00] [Server thread/INFO]: David_alja issued server command: /butcher
 [19:43:55] [Server thread/INFO]: KellSo issued server command: /toggledownfall
 [19:43:55] [Server thread/INFO]: [KellSo: Toggled downfall]
+[19:52:53] [Server thread/INFO]: David_alja issued server command: /tp KellSo
+[19:52:53] [Server thread/INFO]: [David_alja: Teleported David_alja to KellSo]
+[19:54:24] [Server thread/INFO]: KellSo issued server command: /tps
+[19:54:31] [Server thread/INFO]: KellSo issued server command: /gamemode 3
+[19:54:31] [Server thread/INFO]: [KellSo: Set own game mode to Spectator Mode]
+[19:54:39] [Server thread/INFO]: David_alja issued server command: /butcher
+[19:54:48] [Server thread/INFO]: KellSo issued server command: /tp David_alja KellSo
+[19:54:48] [Server thread/INFO]: [KellSo: Teleported David_alja to KellSo]
