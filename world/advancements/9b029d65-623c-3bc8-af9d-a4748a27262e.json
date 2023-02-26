@@ -37,7 +37,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "slime": "2023-02-26 21:23:32 +0100"
+      "slime": "2023-02-26 21:23:32 +0100",
+      "zombie": "2023-02-26 21:38:16 +0100"
     },
     "done": false
   },
@@ -71,6 +72,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2023-02-26 21:23:41 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stonebrick": {
     "criteria": {
       "has_stone": "2023-02-26 21:21:47 +0100"
@@ -83,9 +90,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2023-02-26 21:24:14 +0100"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2023-02-26 20:56:53 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2023-02-26 21:23:41 +0100"
     },
     "done": true
   },
@@ -157,6 +176,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_the_recipe": "2023-02-26 21:23:43 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2023-02-26 21:21:47 +0100"
@@ -190,6 +215,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2023-02-26 20:26:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2023-02-26 21:23:43 +0100"
     },
     "done": true
   }
