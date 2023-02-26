@@ -387,3 +387,17 @@ Caused by: java.lang.ClassNotFoundException: net.milkbowl.vault.permission.Permi
 [19:24:43] [Server thread/INFO]: [KellSo: Set own game mode to Spectator Mode]
 [19:24:57] [Server thread/INFO]: KellSo issued server command: /gamemode 0
 [19:24:57] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
+[19:25:10] [Server thread/INFO]: KellSo issued server command: /butcher
+[19:25:12] [Server thread/INFO]: KellSo issued server command: /butcher
+[19:25:31] [Server thread/INFO]: David_alja issued server command: /butcher
+[19:25:35] [Server thread/INFO]: David_alja issued server command: /butcher
+[19:25:38] [Server thread/INFO]: David_alja issued server command: /butcher
+[19:25:40] [Server thread/INFO]: David_alja issued server command: /butcher
+[19:25:43] [Server thread/INFO]: David_alja issued server command: /butcher
+[19:25:55] [Server thread/INFO]: David_alja issued server command: /butcher
+[19:26:22] [Server thread/INFO]: David_alja issued server command: /gamemode 0
+[19:26:22] [Server thread/INFO]: [David_alja: Set own game mode to Survival Mode]
+[19:26:44] [Server thread/INFO]: David_alja issued server command: /butcher
+[19:27:42] [Server thread/INFO]: KellSo issued server command: /toggledownfall
+[19:27:42] [Server thread/INFO]: [KellSo: Toggled downfall]
+[19:27:53] [Server thread/WARN]: David_alja moved too quickly! -4.013470185629899,0.0,9.45289597942201
