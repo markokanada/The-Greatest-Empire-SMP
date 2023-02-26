@@ -330,6 +330,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2023-02-26 21:05:51 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2023-02-26 20:23:47 +0100"
@@ -469,6 +475,12 @@
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_stone": "2023-02-26 20:51:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2023-02-26 21:07:18 +0100"
     },
     "done": true
   },
