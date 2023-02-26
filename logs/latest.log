@@ -417,3 +417,29 @@ Caused by: java.lang.ClassNotFoundException: net.milkbowl.vault.permission.Permi
 [19:54:39] [Server thread/INFO]: David_alja issued server command: /butcher
 [19:54:48] [Server thread/INFO]: KellSo issued server command: /tp David_alja KellSo
 [19:54:48] [Server thread/INFO]: [KellSo: Teleported David_alja to KellSo]
+[19:55:47] [Server thread/INFO]: KellSo issued server command: /gamemode 3 David_alja
+[19:55:47] [Server thread/INFO]: [KellSo: Set David_alja's game mode to Spectator Mode]
+[19:55:49] [Server thread/INFO]: KellSo issued server command: /tp David_alja KellSol
+[19:55:49] [Server thread/INFO]: [KellSo: Entity 'KellSol' cannot be found]
+[19:55:50] [Server thread/INFO]: KellSo issued server command: /tp David_alja KellSo
+[19:55:50] [Server thread/INFO]: [KellSo: Teleported David_alja to KellSo]
+[19:56:23] [Server thread/INFO]: David_alja issued server command: /gamemode 1
+[19:56:23] [Server thread/INFO]: [David_alja: Set own game mode to Creative Mode]
+[19:56:30] [Server thread/INFO]: David_alja issued server command: /gamemode 2
+[19:56:30] [Server thread/INFO]: [David_alja: Set own game mode to Adventure Mode]
+[19:56:37] [Server thread/INFO]: David_alja issued server command: /gamemode 1
+[19:56:37] [Server thread/INFO]: [David_alja: Set own game mode to Creative Mode]
+[19:56:48] [Server thread/INFO]: David_alja issued server command: /gamemode 3
+[19:56:48] [Server thread/INFO]: [David_alja: Set own game mode to Spectator Mode]
+[19:57:00] [Server thread/INFO]: KellSo issued server command: /tp David_alja KellSo
+[19:57:00] [Server thread/INFO]: [KellSo: Teleported David_alja to KellSo]
+[19:57:14] [Server thread/INFO]: KellSo issued server command: /tp David_alja KellSo
+[19:57:14] [Server thread/INFO]: [KellSo: Teleported David_alja to KellSo]
+[19:57:23] [Server thread/INFO]: KellSo issued server command: /tp David_alja KellSo
+[19:57:23] [Server thread/INFO]: [KellSo: Teleported David_alja to KellSo]
+[19:57:39] [Server thread/INFO]: KellSo issued server command: /gamemode 0
+[19:57:39] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
+[19:58:30] [Server thread/INFO]: David_alja issued server command: /gamemode 1
+[19:58:30] [Server thread/INFO]: [David_alja: Set own game mode to Creative Mode]
+[19:59:35] [Server thread/INFO]: David_alja issued server command: /gamemode 0
+[19:59:35] [Server thread/INFO]: [David_alja: Set own game mode to Survival Mode]
