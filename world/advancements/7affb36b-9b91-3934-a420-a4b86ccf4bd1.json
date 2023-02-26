@@ -1,7 +1,25 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2023-02-26 21:00:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2023-02-26 21:00:33 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2023-02-26 20:41:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/string_to_wool": {
+    "criteria": {
+      "has_string": "2023-02-26 21:00:33 +0100"
     },
     "done": true
   },
@@ -186,6 +204,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2023-02-26 21:00:34 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2023-02-26 20:23:11 +0100"
@@ -321,7 +345,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "slime": "2023-02-26 20:51:35 +0100",
-      "zombie": "2023-02-26 20:26:20 +0100"
+      "skeleton": "2023-02-26 20:57:34 +0100",
+      "zombie": "2023-02-26 20:26:20 +0100",
+      "spider": "2023-02-26 20:57:34 +0100",
+      "creeper": "2023-02-26 21:01:08 +0100"
     },
     "done": false
   },
@@ -391,6 +418,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2023-02-26 21:00:33 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2023-02-26 20:23:11 +0100"
@@ -418,6 +451,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2023-02-26 20:23:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2023-02-26 20:57:36 +0100"
     },
     "done": true
   },
