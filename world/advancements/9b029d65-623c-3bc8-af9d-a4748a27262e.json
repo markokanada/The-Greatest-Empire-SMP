@@ -1,4 +1,58 @@
 {
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2023-02-26 20:44:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2023-02-26 20:43:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2023-02-26 20:34:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "entered_water": "2023-02-26 20:26:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2023-02-26 20:43:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2023-02-26 20:40:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "entered_water": "2023-02-26 20:26:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2023-02-26 20:44:45 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2023-02-26 20:30:16 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "entered_water": "2023-02-26 20:26:41 +0100"
@@ -17,30 +71,6 @@
     },
     "done": false
   },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2023-02-26 20:34:48 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/dark_oak_boat": {
-    "criteria": {
-      "entered_water": "2023-02-26 20:26:41 +0100"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_helmet": "2023-02-26 20:40:55 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "entered_water": "2023-02-26 20:26:41 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/boat": {
     "criteria": {
       "entered_water": "2023-02-26 20:26:41 +0100"
@@ -50,12 +80,6 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2023-02-26 20:26:41 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2023-02-26 20:30:16 +0100"
     },
     "done": true
   },
@@ -70,9 +94,11 @@
       "forest": "2023-02-26 20:26:39 +0100",
       "deep_ocean": "2023-02-26 20:32:30 +0100",
       "beaches": "2023-02-26 20:32:03 +0100",
+      "extreme_hills_with_trees": "2023-02-26 20:47:57 +0100",
       "forest_hills": "2023-02-26 20:33:21 +0100",
       "plains": "2023-02-26 20:26:27 +0100",
       "ocean": "2023-02-26 20:32:23 +0100",
+      "extreme_hills": "2023-02-26 20:47:26 +0100",
       "river": "2023-02-26 20:32:56 +0100"
     },
     "done": false
