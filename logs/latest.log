@@ -75,3 +75,6 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 	... 15 more
 [18:58:35] [Server thread/INFO]: KellSo issued server command: /toggledownfall
 [18:58:35] [Server thread/INFO]: [KellSo: Toggled downfall]
+[19:15:58] [Server thread/INFO]: KellSo issued server command: /toggledownfall
+[19:15:58] [Server thread/INFO]: [KellSo: Toggled downfall]
+[19:16:06] [Server thread/INFO]: KellSo issued server command: /tps
