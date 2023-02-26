@@ -657,3 +657,9 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 	... 15 more
 [22:07:37] [Server thread/INFO]: KellSo issued server command: /tp Exo KellSo
 [22:07:37] [Server thread/INFO]: [KellSo: Teleported Exo to KellSo]
+[22:12:56] [Server thread/INFO]: Exo has made the advancement [Diamonds!]
+[22:13:00] [Server thread/INFO]: KellSo issued server command: /tp ee
+[22:13:00] [Server thread/INFO]: [KellSo: Entity 'ee' cannot be found]
+[22:13:02] [Server thread/INFO]: KellSo issued server command: /tp Exo
+[22:13:02] [Server thread/INFO]: [KellSo: Teleported KellSo to Exo]
+[22:15:00] [Server thread/INFO]: Exo has made the advancement [Enchanter]
