@@ -663,3 +663,4 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [22:13:02] [Server thread/INFO]: KellSo issued server command: /tp Exo
 [22:13:02] [Server thread/INFO]: [KellSo: Teleported KellSo to Exo]
 [22:15:00] [Server thread/INFO]: Exo has made the advancement [Enchanter]
+[22:16:01] [Server thread/WARN]: Leevy23 moved wrongly!
