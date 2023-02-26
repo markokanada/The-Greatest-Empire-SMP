@@ -47,3 +47,5 @@
 [18:50:00] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
 [18:50:00] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
 [18:50:00] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[18:52:28] [Server thread/INFO]: KellSo issued server command: /toggledownfall
+[18:52:28] [Server thread/INFO]: [KellSo: Toggled downfall]
