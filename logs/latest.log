@@ -443,3 +443,11 @@ Caused by: java.lang.ClassNotFoundException: net.milkbowl.vault.permission.Permi
 [19:58:30] [Server thread/INFO]: [David_alja: Set own game mode to Creative Mode]
 [19:59:35] [Server thread/INFO]: David_alja issued server command: /gamemode 0
 [19:59:35] [Server thread/INFO]: [David_alja: Set own game mode to Survival Mode]
+[20:05:02] [Server thread/INFO]: KellSo issued server command: /timeset
+[20:05:04] [Server thread/INFO]: KellSo issued server command: /time set
+[20:05:06] [Server thread/INFO]: KellSo issued server command: /time set 0
+[20:05:06] [Server thread/INFO]: [KellSo: Set the time to 0]
+[20:05:17] [Server thread/INFO]: KellSo issued server command: /time set 100000
+[20:05:17] [Server thread/INFO]: [KellSo: Set the time to 100000]
+[20:05:23] [Server thread/INFO]: KellSo issued server command: /time set 0
+[20:05:23] [Server thread/INFO]: [KellSo: Set the time to 0]
