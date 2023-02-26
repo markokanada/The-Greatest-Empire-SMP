@@ -205,7 +205,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_chicken": "2023-02-26 20:24:11 +0100"
+      "cooked_chicken": "2023-02-26 20:24:11 +0100",
+      "carrot": "2023-02-26 22:08:00 +0100"
     },
     "done": false
   },
