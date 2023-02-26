@@ -26,3 +26,7 @@
 [16:48:56] [Server thread/INFO]: KellSo issued server command: /tps
 [16:50:03] [Server thread/INFO]: KellSo lost connection: Disconnected
 [16:50:03] [Server thread/INFO]: KellSo left the game
+[17:16:28] [Craft Scheduler Thread - 1107/INFO]: [OpenAudioMc] [OpenAudioMc] Starting mojang cleanup, this can take a while...
+[17:16:28] [Craft Scheduler Thread - 1107/INFO]: [OpenAudioMc] [OpenAudioMc] Purging old accounts of inactive players
+[17:16:28] [Craft Scheduler Thread - 1107/INFO]: [OpenAudioMc] [OpenAudioMc] Removed the profile of 0 players
+[17:16:28] [Craft Scheduler Thread - 1107/INFO]: [OpenAudioMc] [OpenAudioMc] Finished cleanup
