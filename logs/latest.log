@@ -451,3 +451,15 @@ Caused by: java.lang.ClassNotFoundException: net.milkbowl.vault.permission.Permi
 [20:05:17] [Server thread/INFO]: [KellSo: Set the time to 100000]
 [20:05:23] [Server thread/INFO]: KellSo issued server command: /time set 0
 [20:05:23] [Server thread/INFO]: [KellSo: Set the time to 0]
+[20:15:02] [User Authenticator #3/INFO]: UUID of player Leevy23 is 7affb36b-9b91-3934-a420-a4b86ccf4bd1
+[20:15:03] [Server thread/INFO]: Leevy23[/84.3.115.47:57871] logged in with entity id 122951 at ([world]-92.5, 70.0, 242.5)
+[20:15:03] [Craft Scheduler Thread - 27/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[20:15:03] [Craft Scheduler Thread - 36/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[20:15:04] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[20:15:18] [Server thread/INFO]: KellSo issued server command: /tp Leevy23 KellSo
+[20:15:18] [Server thread/INFO]: [KellSo: Teleported Leevy23 to KellSo]
+[20:16:50] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[20:16:50] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[20:16:50] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[20:18:57] [Server thread/INFO]: Leevy23 has made the advancement [Suit Up]
+[20:19:26] [Server thread/INFO]: David_alja issued server command: /butcher
