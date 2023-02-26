@@ -2,3 +2,27 @@
 [07:15:40] [Craft Scheduler Thread - 528/INFO]: [OpenAudioMc] [OpenAudioMc] Purging old accounts of inactive players
 [07:15:40] [Craft Scheduler Thread - 528/INFO]: [OpenAudioMc] [OpenAudioMc] Removed the profile of 0 players
 [07:15:40] [Craft Scheduler Thread - 528/INFO]: [OpenAudioMc] [OpenAudioMc] Finished cleanup
+[16:46:38] [User Authenticator #1/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[16:46:39] [Server thread/INFO]: KellSo[/192.168.1.169:55709] logged in with entity id 203314 at ([world]989.7200399828738, 77.22366393089202, -1155.5506657665187)
+[16:46:39] [Craft Scheduler Thread - 1080/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[16:46:40] [Craft Scheduler Thread - 1076/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[16:46:40] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[16:46:55] [Server thread/INFO]: KellSo issued server command: /difficulty 3
+[16:46:55] [Server thread/INFO]: [KellSo: Set game difficulty to Hard]
+[16:47:35] [Server thread/INFO]: KellSo issued server command: /tps
+[16:47:41] [Server thread/INFO]: KellSo issued server command: /tps
+[16:47:43] [Server thread/INFO]: KellSo issued server command: /tps
+[16:47:44] [Server thread/INFO]: KellSo issued server command: /tps
+[16:47:45] [Server thread/INFO]: KellSo issued server command: /gamemode 0
+[16:47:45] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
+[16:48:27] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[16:48:27] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[16:48:27] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[16:48:29] [Server thread/INFO]: KellSo issued server command: /gamerule
+[16:48:35] [Server thread/INFO]: KellSo issued server command: /gamerule spawnRadius
+[16:48:44] [Server thread/INFO]: KellSo issued server command: /tps
+[16:48:51] [Server thread/INFO]: KellSo issued server command: /tps
+[16:48:54] [Server thread/INFO]: KellSo issued server command: /tps
+[16:48:56] [Server thread/INFO]: KellSo issued server command: /tps
+[16:50:03] [Server thread/INFO]: KellSo lost connection: Disconnected
+[16:50:03] [Server thread/INFO]: KellSo left the game
