@@ -88,3 +88,5 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [21:24:57] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
 [21:24:57] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
 [21:24:57] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[21:31:56] [Server thread/INFO]: KellSo lost connection: Disconnected
+[21:31:56] [Server thread/INFO]: KellSo left the game
