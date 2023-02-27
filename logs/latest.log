@@ -22,3 +22,14 @@
 [17:19:33] [Craft Scheduler Thread - 1070/INFO]: [OpenAudioMc] [OpenAudioMc] Purging old accounts of inactive players
 [17:19:33] [Craft Scheduler Thread - 1070/INFO]: [OpenAudioMc] [OpenAudioMc] Removed the profile of 0 players
 [17:19:33] [Craft Scheduler Thread - 1070/INFO]: [OpenAudioMc] [OpenAudioMc] Finished cleanup
+[18:50:49] [User Authenticator #5/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[18:50:49] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Requesting automatic license
+[18:50:49] [Server thread/INFO]: KellSo[/192.168.0.1:61415] logged in with entity id 674003 at ([world]863.6517946860773, 24.0, -879.3000000119209)
+[18:50:50] [Craft Scheduler Thread - 1153/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[18:50:50] [Craft Scheduler Thread - 1153/INFO]: [OpenAudioMc] [OpenAudioMc] Successfully accepted a temporary license. Please make an account on account.craftmend.com and link your server to keep access to this license for a month, or upgrade to get more slots.
+[18:50:51] [Craft Scheduler Thread - 1153/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[18:50:52] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[18:52:37] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[18:52:37] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[18:52:37] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[18:54:43] [Server thread/WARN]: KellSo moved wrongly!
