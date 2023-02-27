@@ -68,3 +68,4 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [19:34:50] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
 [19:34:50] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
 [19:34:50] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[19:38:36] [Server thread/WARN]: KellSo moved wrongly!
