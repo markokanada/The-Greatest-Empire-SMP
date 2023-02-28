@@ -1,99 +1,14 @@
-[02:40:33] [Server thread/INFO]: [@: Teleported NPC_547015502 to 941.5, 77.0, -1194.5]
-[05:01:23] [Server thread/INFO]: [@: Teleported NPC_950420101 to 941.5, 77.0, -1194.5]
-[05:01:24] [Server thread/INFO]: [@: Teleported NPC_605963757 to 941.5, 77.0, -1194.5]
-[05:01:30] [Server thread/INFO]: [@: Teleported NPC_642197872 to 941.5, 77.0, -1194.5]
-[05:20:53] [Server thread/INFO]: [@: Teleported NPC_783688460 to 941.5, 77.0, -1194.5]
-[05:20:54] [Server thread/INFO]: [@: Teleported NPC_299180838 to 941.5, 77.0, -1194.5]
-[05:50:53] [Server thread/INFO]: [@: Teleported NPC_299180838 to 1036.5, 205.0, -1185.5]
-[05:50:53] [Server thread/INFO]: [@: Teleported NPC_605963757 to 1036.5, 205.0, -1185.5]
-[05:50:53] [Server thread/INFO]: [@: Teleported NPC_547015502 to 1036.5, 205.0, -1185.5]
-[05:51:23] [Server thread/INFO]: [@: Teleported NPC_950420101 to 1036.5, 205.0, -1185.5]
-[05:51:24] [Server thread/INFO]: [@: Teleported NPC_642197872 to 1036.5, 205.0, -1185.5]
-[06:43:49] [Server thread/INFO]: [@: Teleported NPC_299180838 to 941.5, 77.0, -1194.5]
-[07:19:16] [Craft Scheduler Thread - 495/INFO]: [OpenAudioMc] [OpenAudioMc] Starting mojang cleanup, this can take a while...
-[07:19:16] [Craft Scheduler Thread - 495/INFO]: [OpenAudioMc] [OpenAudioMc] Purging old accounts of inactive players
-[07:19:16] [Craft Scheduler Thread - 495/INFO]: [OpenAudioMc] [OpenAudioMc] Removed the profile of 0 players
-[07:19:16] [Craft Scheduler Thread - 495/INFO]: [OpenAudioMc] [OpenAudioMc] Finished cleanup
-[08:20:44] [Server thread/INFO]: [@: Teleported NPC_605963757 to 941.5, 77.0, -1194.5]
-[16:56:17] [Server thread/INFO]: [@: Teleported NPC_547015502 to 941.5, 77.0, -1194.5]
-[16:56:24] [Server thread/INFO]: [@: Teleported NPC_950420101 to 941.5, 77.0, -1194.5]
-[16:56:24] [Server thread/INFO]: [@: Teleported NPC_642197872 to 941.5, 77.0, -1194.5]
-[17:19:33] [Craft Scheduler Thread - 1070/INFO]: [OpenAudioMc] [OpenAudioMc] Starting mojang cleanup, this can take a while...
-[17:19:33] [Craft Scheduler Thread - 1070/INFO]: [OpenAudioMc] [OpenAudioMc] Purging old accounts of inactive players
-[17:19:33] [Craft Scheduler Thread - 1070/INFO]: [OpenAudioMc] [OpenAudioMc] Removed the profile of 0 players
-[17:19:33] [Craft Scheduler Thread - 1070/INFO]: [OpenAudioMc] [OpenAudioMc] Finished cleanup
-[18:50:49] [User Authenticator #5/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
-[18:50:49] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Requesting automatic license
-[18:50:49] [Server thread/INFO]: KellSo[/192.168.0.1:61415] logged in with entity id 674003 at ([world]863.6517946860773, 24.0, -879.3000000119209)
-[18:50:50] [Craft Scheduler Thread - 1153/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
-[18:50:50] [Craft Scheduler Thread - 1153/INFO]: [OpenAudioMc] [OpenAudioMc] Successfully accepted a temporary license. Please make an account on account.craftmend.com and link your server to keep access to this license for a month, or upgrade to get more slots.
-[18:50:51] [Craft Scheduler Thread - 1153/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
-[18:50:52] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
-[18:52:37] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
-[18:52:37] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
-[18:52:37] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
-[18:54:43] [Server thread/WARN]: KellSo moved wrongly!
-[19:00:39] [Server thread/INFO]: KellSo issued server command: /echest
-[19:00:39] [Server thread/INFO]: [SimpleEnderChest] KellSo opened his EnderChest at Location{world=CraftWorld{name=world},x=867.3953983412096,y=90.31733312662885,z=-1042.0620220102999,pitch=-9.921193,yaw=207.53748} !
-[19:00:39] [Server thread/ERROR]: null
-org.bukkit.command.CommandException: Unhandled exception executing command 'echest' in plugin SimpleEnderChest v1.3
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46) ~[server.jar:git-Spigot-79a30d7-f4830a1]
-	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) ~[server.jar:git-Spigot-79a30d7-f4830a1]
-	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:648) ~[server.jar:git-Spigot-79a30d7-f4830a1]
-	at net.minecraft.server.v1_12_R1.PlayerConnection.handleCommand(PlayerConnection.java:1401) [server.jar:git-Spigot-79a30d7-f4830a1]
-	at net.minecraft.server.v1_12_R1.PlayerConnection.a(PlayerConnection.java:1236) [server.jar:git-Spigot-79a30d7-f4830a1]
-	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [server.jar:git-Spigot-79a30d7-f4830a1]
-	at net.minecraft.server.v1_12_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [server.jar:git-Spigot-79a30d7-f4830a1]
-	at net.minecraft.server.v1_12_R1.PlayerConnectionUtils$1.run(SourceFile:13) [server.jar:git-Spigot-79a30d7-f4830a1]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) [?:?]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:264) [?:?]
-	at net.minecraft.server.v1_12_R1.SystemUtils.a(SourceFile:46) [server.jar:git-Spigot-79a30d7-f4830a1]
-	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:748) [server.jar:git-Spigot-79a30d7-f4830a1]
-	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [server.jar:git-Spigot-79a30d7-f4830a1]
-	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [server.jar:git-Spigot-79a30d7-f4830a1]
-	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [server.jar:git-Spigot-79a30d7-f4830a1]
-	at java.lang.Thread.run(Thread.java:829) [?:?]
-Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
-	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
-	... 15 more
-[19:07:49] [Server thread/WARN]: KellSo moved wrongly!
-[19:20:31] [Server thread/INFO]: KellSo lost connection: Disconnected
-[19:20:31] [Server thread/INFO]: KellSo left the game
-[19:33:03] [User Authenticator #6/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
-[19:33:03] [Server thread/INFO]: KellSo[/192.168.0.1:50202] logged in with entity id 695186 at ([world]854.9125573046078, 24.0, -872.5499931491073)
-[19:33:03] [Craft Scheduler Thread - 1194/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
-[19:33:04] [Craft Scheduler Thread - 1199/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
-[19:33:04] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
-[19:34:50] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
-[19:34:50] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
-[19:34:50] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
-[19:38:36] [Server thread/WARN]: KellSo moved wrongly!
-[19:49:34] [Server thread/WARN]: KellSo moved wrongly!
-[20:00:20] [Server thread/WARN]: KellSo moved wrongly!
-[20:13:29] [Server thread/WARN]: KellSo moved wrongly!
-[20:24:32] [Server thread/WARN]: KellSo moved wrongly!
-[20:35:14] [Server thread/WARN]: KellSo moved wrongly!
-[20:39:00] [Server thread/INFO]: KellSo issued server command: /toggledownfall
-[20:39:00] [Server thread/INFO]: [KellSo: Toggled downfall]
-[20:45:46] [Server thread/WARN]: KellSo moved wrongly!
-[20:56:54] [Server thread/INFO]: KellSo lost connection: Disconnected
-[20:56:54] [Server thread/INFO]: KellSo left the game
-[21:23:07] [User Authenticator #7/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
-[21:23:07] [Server thread/INFO]: KellSo[/192.168.0.1:63937] logged in with entity id 757532 at ([world]804.5519600402469, 26.0, -917.423904396398)
-[21:23:07] [Craft Scheduler Thread - 1296/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
-[21:23:08] [Craft Scheduler Thread - 1298/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
-[21:23:09] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
-[21:23:18] [Server thread/WARN]: KellSo moved wrongly!
-[21:24:57] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
-[21:24:57] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
-[21:24:57] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
-[21:31:56] [Server thread/INFO]: KellSo lost connection: Disconnected
-[21:31:56] [Server thread/INFO]: KellSo left the game
-[22:23:27] [Server thread/INFO]: [@: Teleported NPC_939223892 to 941.5, 77.0, -1194.5]
-[22:23:27] [Server thread/INFO]: [@: Teleported NPC_779947493 to 941.5, 77.0, -1194.5]
-[22:23:28] [Server thread/INFO]: [@: Teleported NPC_628276684 to 941.5, 77.0, -1194.5]
-[22:23:30] [Server thread/INFO]: [@: Teleported NPC_890752442 to 941.5, 77.0, -1194.5]
-[22:23:46] [Server thread/INFO]: [@: Teleported NPC_875619623 to 941.5, 77.0, -1194.5]
-[22:23:54] [Server thread/INFO]: [@: Teleported NPC_351430685 to 941.5, 77.0, -1194.5]
-[22:24:00] [Server thread/INFO]: [@: Teleported NPC_92123839 to 941.5, 77.0, -1194.5]
+[03:20:09] [Craft Scheduler Thread - 1620/INFO]: [OpenAudioMc] [OpenAudioMc] Starting mojang cleanup, this can take a while...
+[03:20:10] [Craft Scheduler Thread - 1620/INFO]: [OpenAudioMc] [OpenAudioMc] Purging old accounts of inactive players
+[03:20:10] [Craft Scheduler Thread - 1620/INFO]: [OpenAudioMc] [OpenAudioMc] Removed the profile of 0 players
+[03:20:10] [Craft Scheduler Thread - 1620/INFO]: [OpenAudioMc] [OpenAudioMc] Finished cleanup
+[03:24:05] [Server thread/INFO]: [@: Teleported NPC_938942321 to 941.5, 77.0, -1194.5]
+[03:24:06] [Server thread/INFO]: [@: Teleported NPC_855252480 to 941.5, 77.0, -1194.5]
+[03:24:06] [Server thread/INFO]: [@: Teleported NPC_277327711 to 941.5, 77.0, -1194.5]
+[03:24:07] [Server thread/INFO]: [@: Teleported NPC_909371070 to 941.5, 77.0, -1194.5]
+[03:24:09] [Server thread/INFO]: [@: Teleported NPC_703909486 to 941.5, 77.0, -1194.5]
+[03:24:30] [Server thread/INFO]: [@: Teleported NPC_777066122 to 941.5, 77.0, -1194.5]
+[03:24:40] [Server thread/INFO]: [@: Teleported NPC_969437214 to 941.5, 77.0, -1194.5]
+[03:24:44] [Server thread/INFO]: [@: Teleported NPC_333068870 to 941.5, 77.0, -1194.5]
+[03:24:53] [Server thread/INFO]: [@: Teleported NPC_587859156 to 941.5, 77.0, -1194.5]
+[03:24:56] [Server thread/INFO]: [@: Teleported NPC_952211430 to 941.5, 77.0, -1194.5]
