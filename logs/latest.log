@@ -432,3 +432,15 @@ java.lang.NoSuchFieldError: ENTITY_ENDERMAN_TELEPORT
 [20:48:29] [Server thread/INFO]: KellSo issued server command: /butcher
 [20:49:46] [Server thread/INFO]: KellSo issued server command: /butcher
 [20:49:54] [Server thread/WARN]: KellSo moved wrongly!
+[20:51:10] [Server thread/INFO]: KellSo lost connection: Disconnected
+[20:51:10] [Server thread/INFO]: KellSo left the game
+[20:51:45] [User Authenticator #25/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[20:51:46] [Server thread/INFO]: KellSo[/192.168.0.1:64275] logged in with entity id 2543470 at ([world]832.8594925749338, 23.0, -895.879874226725)
+[20:51:46] [Craft Scheduler Thread - 4025/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[20:51:46] [Craft Scheduler Thread - 4020/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[20:51:47] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[20:51:52] [Server thread/INFO]: KellSo issued server command: /butcher
+[20:53:33] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[20:53:33] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[20:53:33] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[20:53:54] [Server thread/INFO]: KellSo issued server command: /butcher
