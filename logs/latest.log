@@ -210,3 +210,5 @@ java.lang.NoSuchFieldError: ENTITY_ENDERMAN_TELEPORT
 [10:19:36] [Server thread/INFO]: molmardo issued server command: /sethome ads
 [10:19:42] [Server thread/INFO]: molmardo issued server command: /tp csm
 [10:19:42] [Server thread/INFO]: [molmardo: Teleported molmardo to csm]
+[10:23:44] [Server thread/INFO]: csm lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: A kapcsolatot bontotta a távoli fél
+[10:23:44] [Server thread/INFO]: csm left the game
