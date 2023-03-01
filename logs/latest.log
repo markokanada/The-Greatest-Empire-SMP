@@ -405,3 +405,30 @@ java.lang.NoSuchFieldError: ENTITY_ENDERMAN_TELEPORT
 [20:16:14] [Server thread/INFO]: KellSo issued server command: /butcher
 [20:16:39] [Server thread/INFO]: KellSo lost connection: Disconnected
 [20:16:39] [Server thread/INFO]: KellSo left the game
+[20:37:33] [User Authenticator #23/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[20:37:33] [Server thread/INFO]: KellSo[/192.168.1.169:55243] logged in with entity id 2455980 at ([world]841.0426197562723, 24.0, -901.0834664422645)
+[20:37:33] [Craft Scheduler Thread - 4008/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[20:37:34] [Craft Scheduler Thread - 4007/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[20:37:34] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[20:37:42] [Server thread/INFO]: KellSo issued server command: /butcher
+[20:39:01] [Server thread/INFO]: KellSo issued server command: /butcher
+[20:39:12] [Server thread/INFO]: KellSo issued server command: /time set 0
+[20:39:12] [Server thread/INFO]: [KellSo: Set the time to 0]
+[20:39:13] [Server thread/INFO]: KellSo issued server command: /butcher
+[20:39:23] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[20:39:23] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[20:39:23] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[20:45:20] [Server thread/INFO]: KellSo issued server command: /butcher
+[20:45:22] [Server thread/INFO]: KellSo lost connection: Disconnected
+[20:45:22] [Server thread/INFO]: KellSo left the game
+[20:46:13] [User Authenticator #24/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[20:46:14] [Server thread/INFO]: KellSo[/192.168.0.1:54260] logged in with entity id 2504691 at ([world]862.1854760349545, 22.0, -892.0297168602906)
+[20:46:14] [Craft Scheduler Thread - 4016/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[20:46:14] [Craft Scheduler Thread - 4016/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[20:46:14] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[20:48:00] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[20:48:00] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[20:48:00] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[20:48:29] [Server thread/INFO]: KellSo issued server command: /butcher
+[20:49:46] [Server thread/INFO]: KellSo issued server command: /butcher
+[20:49:54] [Server thread/WARN]: KellSo moved wrongly!
