@@ -374,3 +374,5 @@ java.lang.NoSuchFieldError: ENTITY_ENDERMAN_TELEPORT
 [12:07:45] [Server thread/INFO]: KellSo issued server command: /toggledownfall
 [12:07:45] [Server thread/INFO]: [KellSo: Toggled downfall]
 [12:08:22] [Server thread/WARN]: KellSo moved wrongly!
+[12:15:20] [Server thread/INFO]: KellSo lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: A kapcsolatot bontotta a távoli fél
+[12:15:20] [Server thread/INFO]: KellSo left the game
