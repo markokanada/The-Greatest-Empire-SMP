@@ -312,3 +312,7 @@ java.lang.NoSuchFieldError: ENTITY_ENDERMAN_TELEPORT
 [10:47:27] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
 [10:47:27] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
 [10:47:27] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[10:53:17] [Server thread/INFO]: molmardo lost connection: Disconnected
+[10:53:17] [Server thread/INFO]: molmardo left the game
+[10:54:07] [Server thread/INFO]: KellSo lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: A kapcsolatot bontotta a távoli fél
+[10:54:07] [Server thread/INFO]: KellSo left the game
