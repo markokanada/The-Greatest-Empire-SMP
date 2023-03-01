@@ -371,3 +371,6 @@ java.lang.NoSuchFieldError: ENTITY_ENDERMAN_TELEPORT
 [12:03:40] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
 [12:03:40] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
 [12:03:40] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[12:07:45] [Server thread/INFO]: KellSo issued server command: /toggledownfall
+[12:07:45] [Server thread/INFO]: [KellSo: Toggled downfall]
+[12:08:22] [Server thread/WARN]: KellSo moved wrongly!
