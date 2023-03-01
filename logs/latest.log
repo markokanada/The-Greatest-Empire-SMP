@@ -260,3 +260,10 @@ java.lang.NoSuchFieldError: ENTITY_ENDERMAN_TELEPORT
 [10:31:50] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
 [10:31:50] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
 [10:31:50] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[10:38:57] [Server thread/WARN]: molmardo moved wrongly!
+[10:39:17] [Server thread/WARN]: KellSo moved wrongly!
+[10:39:47] [User Authenticator #14/INFO]: UUID of player csm is e4b5d62e-136e-3d1d-8298-6c49498fbec9
+[10:39:48] [Server thread/INFO]: csm[/176.77.140.33:38342] logged in with entity id 1562209 at ([world]791.0379937657934, 28.5625, -915.5341388105849)
+[10:39:48] [Craft Scheduler Thread - 3438/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[10:39:48] [Craft Scheduler Thread - 3440/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[10:39:49] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
