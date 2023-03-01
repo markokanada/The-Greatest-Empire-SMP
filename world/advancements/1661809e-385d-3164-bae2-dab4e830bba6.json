@@ -5,9 +5,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2023-03-01 09:43:08 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2023-01-19 20:30:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2023-03-01 09:43:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/string_to_wool": {
+    "criteria": {
+      "has_string": "2023-03-01 09:43:08 +0100"
     },
     "done": true
   },
@@ -329,7 +347,8 @@
     "criteria": {
       "slime": "2023-01-19 20:05:07 +0100",
       "skeleton": "2023-01-19 20:23:22 +0100",
-      "zombie": "2023-01-19 20:57:29 +0100"
+      "zombie": "2023-01-19 20:57:29 +0100",
+      "spider": "2023-03-01 09:43:07 +0100"
     },
     "done": false
   },
@@ -390,6 +409,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2023-01-19 20:03:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2023-03-01 09:43:08 +0100"
     },
     "done": true
   },
