@@ -363,3 +363,11 @@ java.lang.NoSuchFieldError: ENTITY_ENDERMAN_TELEPORT
 [11:57:47] [Server thread/WARN]: KellSo moved wrongly!
 [11:57:58] [Server thread/INFO]: KellSo lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: A kapcsolatot bontotta a távoli fél
 [11:57:58] [Server thread/INFO]: KellSo left the game
+[12:01:54] [User Authenticator #20/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[12:01:55] [Server thread/INFO]: KellSo[/176.77.140.33:38277] logged in with entity id 1732454 at ([world]838.5, 20.0, -926.5)
+[12:01:55] [Craft Scheduler Thread - 3498/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[12:01:56] [Craft Scheduler Thread - 3500/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[12:01:56] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[12:03:40] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[12:03:40] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[12:03:40] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
