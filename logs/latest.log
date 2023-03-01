@@ -466,3 +466,7 @@ java.lang.NoSuchFieldError: ENTITY_ENDERMAN_TELEPORT
 [21:04:55] [Craft Scheduler Thread - 4035/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
 [21:04:56] [Craft Scheduler Thread - 4039/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
 [21:04:56] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[21:05:46] [Server thread/INFO]: KellSo issued server command: /butcher
+[21:06:43] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[21:06:43] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[21:06:43] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
