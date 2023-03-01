@@ -292,3 +292,23 @@ java.lang.NoSuchFieldError: ENTITY_ENDERMAN_TELEPORT
 [10:44:51] [Server thread/WARN]: KellSo moved wrongly!
 [10:44:54] [Server thread/WARN]: KellSo moved wrongly!
 [10:45:01] [Server thread/INFO]: molmardo issued server command: /graves
+[10:45:02] [Server thread/INFO]: molmardo issued server command: /back
+[10:45:13] [Server thread/INFO]: molmardo issued server command: /tp KellSo
+[10:45:13] [Server thread/INFO]: [molmardo: Teleported molmardo to KellSo]
+[10:45:28] [Server thread/INFO]: KellSo issued server command: /kick molmardo
+[10:45:28] [Server thread/INFO]: molmardo lost connection: Kicked by an operator.
+[10:45:28] [Server thread/INFO]: molmardo left the game
+[10:45:28] [Server thread/INFO]: [KellSo: Kicked molmardo from the game]
+[10:45:28] [Server thread/WARN]: handleDisconnection() called twice
+[10:45:38] [User Authenticator #15/INFO]: UUID of player molmardo is 1661809e-385d-3164-bae2-dab4e830bba6
+[10:45:38] [Server thread/INFO]: molmardo[/176.77.140.33:38182] logged in with entity id 1577038 at ([world]961.0722705502517, 63.0, -1163.67012541437)
+[10:45:38] [Craft Scheduler Thread - 3446/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[10:45:39] [Craft Scheduler Thread - 3447/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[10:45:40] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[10:45:57] [Server thread/INFO]: molmardo issued server command: /tp KellSo
+[10:45:57] [Server thread/INFO]: [molmardo: Teleported molmardo to KellSo]
+[10:45:59] [Server thread/INFO]: molmardo fell from a high place
+[10:46:09] [Server thread/INFO]: molmardo issued server command: /graves
+[10:47:27] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[10:47:27] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[10:47:27] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
