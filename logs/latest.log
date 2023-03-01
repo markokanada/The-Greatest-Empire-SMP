@@ -484,3 +484,6 @@ java.lang.NoSuchFieldError: ENTITY_ENDERMAN_TELEPORT
 [21:17:35] [Server thread/INFO]: KellSo issued server command: /tps
 [21:18:48] [Server thread/INFO]: csm lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: A kapcsolatot bontotta a távoli fél
 [21:18:48] [Server thread/INFO]: csm left the game
+[21:22:10] [Server thread/WARN]: KellSo moved wrongly!
+[21:24:47] [Server thread/INFO]: KellSo issued server command: /difficulty 0
+[21:24:47] [Server thread/INFO]: [KellSo: Set game difficulty to Peaceful]
