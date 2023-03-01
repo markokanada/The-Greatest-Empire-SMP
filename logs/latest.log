@@ -14,3 +14,19 @@
 [09:34:42] [Craft Scheduler Thread - 3379/INFO]: [OpenAudioMc] [OpenAudioMc] Successfully accepted a temporary license. Please make an account on account.craftmend.com and link your server to keep access to this license for a month, or upgrade to get more slots.
 [09:34:42] [Craft Scheduler Thread - 3379/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
 [09:34:43] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[09:35:31] [Async Chat Thread - #0/INFO]: <molmardo> hello
+[09:35:37] [Async Chat Thread - #0/INFO]: <csm> nem
+[09:35:48] [Async Chat Thread - #0/INFO]: <csm> sex
+[09:36:30] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[09:36:30] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[09:36:30] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[09:37:34] [Server thread/INFO]: molmardo issued server command: /tp csm
+[09:37:34] [Server thread/INFO]: [molmardo: Teleported molmardo to csm]
+[09:41:52] [Server thread/INFO]: molmardo issued server command: /tp csm
+[09:41:52] [Server thread/INFO]: [molmardo: Teleported molmardo to csm]
+[09:43:25] [Server thread/INFO]: molmardo issued server command: /tp csm
+[09:43:25] [Server thread/INFO]: [molmardo: Teleported molmardo to csm]
+[09:44:10] [Server thread/INFO]: molmardo issued server command: /tp csm
+[09:44:10] [Server thread/INFO]: [molmardo: Teleported molmardo to csm]
+[09:45:00] [Server thread/INFO]: molmardo issued server command: /tp csm
+[09:45:00] [Server thread/INFO]: [molmardo: Teleported molmardo to csm]
