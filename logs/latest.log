@@ -7,3 +7,10 @@
 [09:25:10] [Craft Scheduler Thread - 3368/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
 [09:25:11] [Craft Scheduler Thread - 3367/INFO]: [OpenAudioMc] [OpenAudioMc] Your account doesn't actually have permissions for voicechat, shutting down.
 [09:26:43] [Server thread/WARN]: csm moved wrongly!
+[09:34:40] [User Authenticator #11/INFO]: UUID of player molmardo is 1661809e-385d-3164-bae2-dab4e830bba6
+[09:34:40] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Requesting automatic license
+[09:34:41] [Server thread/INFO]: molmardo[/176.77.140.33:38297] logged in with entity id 1447991 at ([world]865.6300504107992, 48.0, -955.5061826260352)
+[09:34:42] [Craft Scheduler Thread - 3379/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[09:34:42] [Craft Scheduler Thread - 3379/INFO]: [OpenAudioMc] [OpenAudioMc] Successfully accepted a temporary license. Please make an account on account.craftmend.com and link your server to keep access to this license for a month, or upgrade to get more slots.
+[09:34:42] [Craft Scheduler Thread - 3379/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[09:34:43] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
