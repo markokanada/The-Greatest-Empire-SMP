@@ -388,3 +388,7 @@ java.lang.NoSuchFieldError: ENTITY_ENDERMAN_TELEPORT
 [12:36:37] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
 [12:45:34] [Server thread/INFO]: KellSo lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: A kapcsolatot bontotta a távoli fél
 [12:45:34] [Server thread/INFO]: KellSo left the game
+[19:21:59] [Craft Scheduler Thread - 3935/INFO]: [OpenAudioMc] [OpenAudioMc] Starting mojang cleanup, this can take a while...
+[19:21:59] [Craft Scheduler Thread - 3935/INFO]: [OpenAudioMc] [OpenAudioMc] Purging old accounts of inactive players
+[19:21:59] [Craft Scheduler Thread - 3935/INFO]: [OpenAudioMc] [OpenAudioMc] Removed the profile of 0 players
+[19:21:59] [Craft Scheduler Thread - 3935/INFO]: [OpenAudioMc] [OpenAudioMc] Finished cleanup
