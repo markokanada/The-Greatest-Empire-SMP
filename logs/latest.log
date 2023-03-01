@@ -267,3 +267,28 @@ java.lang.NoSuchFieldError: ENTITY_ENDERMAN_TELEPORT
 [10:39:48] [Craft Scheduler Thread - 3438/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
 [10:39:48] [Craft Scheduler Thread - 3440/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
 [10:39:49] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[10:40:09] [Server thread/INFO]: csm lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: A kapcsolatot bontotta a távoli fél
+[10:40:09] [Server thread/INFO]: csm left the game
+[10:40:58] [Server thread/INFO]: molmardo was slain by Slime
+[10:41:10] [Server thread/INFO]: molmardo issued server command: /graves
+[10:41:30] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[10:41:30] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[10:41:30] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[10:44:27] [Server thread/INFO]: KellSo issued server command: /home
+[10:44:32] [Server thread/WARN]: [SetHome] Task #222013 for SetHome v5.1.2 generated an exception
+java.lang.NoSuchFieldError: ENTITY_ENDERMAN_TELEPORT
+	at me.downthepark.sethome.SetHome.sendPlayerHome(SetHome.java:127) ~[?:?]
+	at me.downthepark.sethome.SetHome.lambda$onCommand$0(SetHome.java:77) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:76) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:361) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[10:44:37] [Server thread/WARN]: KellSo moved wrongly!
+[10:44:39] [Server thread/WARN]: KellSo moved wrongly!
+[10:44:42] [Server thread/WARN]: KellSo moved wrongly!
+[10:44:51] [Server thread/WARN]: KellSo moved wrongly!
+[10:44:54] [Server thread/WARN]: KellSo moved wrongly!
+[10:45:01] [Server thread/INFO]: molmardo issued server command: /graves
