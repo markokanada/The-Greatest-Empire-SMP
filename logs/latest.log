@@ -212,3 +212,46 @@ java.lang.NoSuchFieldError: ENTITY_ENDERMAN_TELEPORT
 [10:19:42] [Server thread/INFO]: [molmardo: Teleported molmardo to csm]
 [10:23:44] [Server thread/INFO]: csm lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: A kapcsolatot bontotta a távoli fél
 [10:23:44] [Server thread/INFO]: csm left the game
+[10:27:13] [Server thread/INFO]: molmardo issued server command: /home asd
+[10:27:18] [Server thread/WARN]: [SetHome] Task #220816 for SetHome v5.1.2 generated an exception
+java.lang.NoSuchFieldError: ENTITY_ENDERMAN_TELEPORT
+	at me.downthepark.sethome.SetHome.sendPlayerHome(SetHome.java:127) ~[?:?]
+	at me.downthepark.sethome.SetHome.lambda$onCommand$0(SetHome.java:77) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:76) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:361) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[10:27:47] [Server thread/INFO]: molmardo issued server command: /tp KellSo
+[10:27:47] [Server thread/INFO]: [molmardo: Teleported molmardo to KellSo]
+[10:28:28] [Server thread/INFO]: KellSo issued server command: /home
+[10:28:33] [Server thread/WARN]: [SetHome] Task #220891 for SetHome v5.1.2 generated an exception
+java.lang.NoSuchFieldError: ENTITY_ENDERMAN_TELEPORT
+	at me.downthepark.sethome.SetHome.sendPlayerHome(SetHome.java:127) ~[?:?]
+	at me.downthepark.sethome.SetHome.lambda$onCommand$0(SetHome.java:77) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:76) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:361) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:739) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[10:28:44] [Server thread/WARN]: KellSo moved wrongly!
+[10:28:49] [Server thread/INFO]: KellSo issued server command: /tp molmardo
+[10:28:49] [Server thread/INFO]: [KellSo: Teleported KellSo to molmardo]
+[10:29:17] [Server thread/INFO]: molmardo issued server command: /tp KellSo
+[10:29:17] [Server thread/INFO]: [molmardo: Teleported molmardo to KellSo]
+[10:29:47] [Server thread/INFO]: molmardo was shot by Skeleton
+[10:29:51] [Server thread/WARN]: molmardo was kicked for floating too long!
+[10:29:51] [Server thread/INFO]: molmardo lost connection: Flying is not enabled on this server
+[10:29:51] [Server thread/INFO]: molmardo left the game
+[10:29:51] [Server thread/WARN]: handleDisconnection() called twice
+[10:29:52] [Server thread/INFO]: KellSo issued server command: /toggledownfall
+[10:29:52] [Server thread/INFO]: [KellSo: Toggled downfall]
+[10:29:59] [User Authenticator #13/INFO]: UUID of player molmardo is 1661809e-385d-3164-bae2-dab4e830bba6
+[10:30:00] [Server thread/INFO]: molmardo[/176.77.140.33:38198] logged in with entity id 1539034 at ([world]834.7449643568597, 24.944870251287135, -922.4801600806296)
+[10:30:00] [Craft Scheduler Thread - 3431/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[10:30:01] [Craft Scheduler Thread - 3430/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[10:30:01] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
