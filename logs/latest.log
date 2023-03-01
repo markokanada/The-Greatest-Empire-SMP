@@ -358,3 +358,8 @@ java.lang.NoSuchFieldError: ENTITY_ENDERMAN_TELEPORT
 [11:36:39] [Server thread/INFO]: csm fell from a high place
 [11:37:07] [Server thread/INFO]: csm issued server command: /graves
 [11:46:49] [Server thread/WARN]: KellSo moved wrongly!
+[11:56:12] [Server thread/INFO]: csm lost connection: Disconnected
+[11:56:12] [Server thread/INFO]: csm left the game
+[11:57:47] [Server thread/WARN]: KellSo moved wrongly!
+[11:57:58] [Server thread/INFO]: KellSo lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: A kapcsolatot bontotta a távoli fél
+[11:57:58] [Server thread/INFO]: KellSo left the game
