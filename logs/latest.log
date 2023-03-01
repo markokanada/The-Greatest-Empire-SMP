@@ -470,3 +470,14 @@ java.lang.NoSuchFieldError: ENTITY_ENDERMAN_TELEPORT
 [21:06:43] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
 [21:06:43] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
 [21:06:43] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[21:11:26] [Server thread/WARN]: csm moved wrongly!
+[21:11:27] [Server thread/INFO]: KellSo lost connection: Disconnected
+[21:11:27] [Server thread/INFO]: KellSo left the game
+[21:13:10] [User Authenticator #28/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[21:13:11] [Server thread/INFO]: KellSo[/192.168.0.1:50995] logged in with entity id 2634301 at ([world]798.5951795175018, 22.0, -881.511259691277)
+[21:13:11] [Craft Scheduler Thread - 4039/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[21:13:11] [Craft Scheduler Thread - 4047/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[21:13:12] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[21:14:57] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[21:14:57] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[21:14:57] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
