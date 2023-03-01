@@ -2,3 +2,8 @@
 [09:21:06] [Craft Scheduler Thread - 3362/INFO]: [OpenAudioMc] [OpenAudioMc] Purging old accounts of inactive players
 [09:21:06] [Craft Scheduler Thread - 3362/INFO]: [OpenAudioMc] [OpenAudioMc] Removed the profile of 0 players
 [09:21:06] [Craft Scheduler Thread - 3362/INFO]: [OpenAudioMc] [OpenAudioMc] Finished cleanup
+[09:25:10] [User Authenticator #10/INFO]: UUID of player csm is e4b5d62e-136e-3d1d-8298-6c49498fbec9
+[09:25:10] [Server thread/INFO]: csm[/176.77.140.33:38227] logged in with entity id 1443761 at ([world]1264.077356607832, 78.0, -896.0439003592232)
+[09:25:10] [Craft Scheduler Thread - 3368/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[09:25:11] [Craft Scheduler Thread - 3367/INFO]: [OpenAudioMc] [OpenAudioMc] Your account doesn't actually have permissions for voicechat, shutting down.
+[09:26:43] [Server thread/WARN]: csm moved wrongly!
