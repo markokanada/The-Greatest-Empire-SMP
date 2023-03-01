@@ -316,3 +316,37 @@ java.lang.NoSuchFieldError: ENTITY_ENDERMAN_TELEPORT
 [10:53:17] [Server thread/INFO]: molmardo left the game
 [10:54:07] [Server thread/INFO]: KellSo lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: A kapcsolatot bontotta a távoli fél
 [10:54:07] [Server thread/INFO]: KellSo left the game
+[11:25:07] [User Authenticator #16/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[11:25:07] [Server thread/INFO]: KellSo[/176.77.140.33:38240] logged in with entity id 1634665 at ([world]868.153473986396, 21.0, -866.4446678749773)
+[11:25:07] [Craft Scheduler Thread - 3482/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[11:25:08] [Craft Scheduler Thread - 3485/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[11:25:08] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[11:25:21] [Server thread/INFO]: KellSo lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: A kapcsolatot bontotta a távoli fél
+[11:25:21] [Server thread/INFO]: KellSo left the game
+[11:26:25] [User Authenticator #17/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[11:26:25] [Server thread/INFO]: KellSo[/176.77.140.33:38171] logged in with entity id 1637543 at ([world]874.0348610616261, 22.70852442749603, -866.9851546771062)
+[11:26:34] [Server thread/INFO]: KellSo lost connection: Disconnected
+[11:26:34] [Server thread/INFO]: KellSo left the game
+[11:26:42] [User Authenticator #18/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[11:26:43] [Server thread/INFO]: KellSo[/176.77.140.33:38216] logged in with entity id 1638297 at ([world]873.2238565831498, 22.0, -867.229039320986)
+[11:26:49] [Server thread/INFO]: KellSo was slain by Zombie
+[11:26:53] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[11:26:53] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[11:26:53] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[11:26:57] [User Authenticator #19/INFO]: UUID of player csm is e4b5d62e-136e-3d1d-8298-6c49498fbec9
+[11:26:58] [Server thread/INFO]: csm[/176.77.140.33:38233] logged in with entity id 1638788 at ([world]791.0379937657934, 28.0, -915.5341388105849)
+[11:26:58] [Craft Scheduler Thread - 3485/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[11:26:58] [Craft Scheduler Thread - 3492/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[11:26:58] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[11:27:01] [Server thread/INFO]: KellSo issued server command: /graves
+[11:27:08] [Server thread/INFO]: KellSo issued server command: /graves
+[11:27:20] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[11:27:20] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[11:27:26] [Server thread/INFO]: KellSo issued server command: /butcher
+[11:27:31] [Server thread/INFO]: KellSo issued server command: /gamemode 0
+[11:27:31] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
+[11:27:37] [Server thread/INFO]: KellSo issued server command: /xp 100000
+[11:27:37] [Server thread/INFO]: [KellSo: Given 100000 experience to KellSo]
+[11:28:40] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[11:28:40] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[11:28:40] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
