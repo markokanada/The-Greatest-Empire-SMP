@@ -2,3 +2,7 @@
 [05:22:20] [Craft Scheduler Thread - 4526/INFO]: [OpenAudioMc] [OpenAudioMc] Purging old accounts of inactive players
 [05:22:20] [Craft Scheduler Thread - 4526/INFO]: [OpenAudioMc] [OpenAudioMc] Removed the profile of 0 players
 [05:22:20] [Craft Scheduler Thread - 4526/INFO]: [OpenAudioMc] [OpenAudioMc] Finished cleanup
+[15:22:28] [Craft Scheduler Thread - 5122/INFO]: [OpenAudioMc] [OpenAudioMc] Starting mojang cleanup, this can take a while...
+[15:22:28] [Craft Scheduler Thread - 5122/INFO]: [OpenAudioMc] [OpenAudioMc] Purging old accounts of inactive players
+[15:22:28] [Craft Scheduler Thread - 5122/INFO]: [OpenAudioMc] [OpenAudioMc] Removed the profile of 0 players
+[15:22:28] [Craft Scheduler Thread - 5122/INFO]: [OpenAudioMc] [OpenAudioMc] Finished cleanup
