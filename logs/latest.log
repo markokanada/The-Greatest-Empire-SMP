@@ -26,3 +26,5 @@
 [20:04:47] [Server thread/INFO]: csm issued server command: /tp 869 29 -859
 [20:04:47] [Server thread/INFO]: [csm: Teleported csm to 869.5, 29.0, -858.5]
 [20:06:32] [Server thread/WARN]: csm moved wrongly!
+[20:28:26] [Server thread/INFO]: csm lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: A kapcsolatot bontotta a távoli fél
+[20:28:26] [Server thread/INFO]: csm left the game
