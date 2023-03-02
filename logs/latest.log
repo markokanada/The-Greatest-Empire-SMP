@@ -21,3 +21,8 @@
 [19:42:07] [Server thread/INFO]: [csm: Teleported csm to 869.5, 29.0, -859.5]
 [19:44:09] [Server thread/WARN]: csm moved wrongly!
 [19:55:28] [Server thread/WARN]: csm moved wrongly!
+[20:03:58] [Server thread/INFO]: csm issued server command: /tp 1279 90 -910
+[20:03:58] [Server thread/INFO]: [csm: Teleported csm to 1279.5, 90.0, -909.5]
+[20:04:47] [Server thread/INFO]: csm issued server command: /tp 869 29 -859
+[20:04:47] [Server thread/INFO]: [csm: Teleported csm to 869.5, 29.0, -858.5]
+[20:06:32] [Server thread/WARN]: csm moved wrongly!
