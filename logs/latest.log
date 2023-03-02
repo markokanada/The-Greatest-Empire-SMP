@@ -12,3 +12,5 @@
 [19:24:05] [Craft Scheduler Thread - 5365/INFO]: [OpenAudioMc] [OpenAudioMc] Your account doesn't actually have permissions for voicechat, shutting down.
 [19:24:32] [Server thread/INFO]: csm issued server command: /tp 1279 90 -910
 [19:24:32] [Server thread/INFO]: [csm: Teleported csm to 1279.5, 90.0, -909.5]
+[19:27:21] [Server thread/INFO]: csm issued server command: /tp 869 29 -850
+[19:27:21] [Server thread/INFO]: [csm: Teleported csm to 869.5, 29.0, -849.5]
