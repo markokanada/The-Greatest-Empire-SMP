@@ -435,3 +435,15 @@ Caused by: java.lang.ClassNotFoundException: net.milkbowl.vault.permission.Permi
 [21:09:23] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
 [21:09:23] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
 [21:09:23] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[21:15:11] [User Authenticator #4/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[21:15:12] [Server thread/INFO]: KellSo[/192.168.1.169:60253] logged in with entity id 445643 at ([world]826.0330972514295, 22.0, -887.6503455216524)
+[21:15:12] [Craft Scheduler Thread - 881/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[21:15:13] [Craft Scheduler Thread - 879/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[21:15:13] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[21:17:03] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[21:17:03] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[21:17:03] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[21:17:47] [Server thread/INFO]: csm issued server command: /tp KellSo
+[21:17:47] [Server thread/INFO]: [csm: Teleported csm to KellSo]
+[21:18:39] [Server thread/INFO]: csm issued server command: /tp 869 29 -859
+[21:18:39] [Server thread/INFO]: [csm: Teleported csm to 869.5, 29.0, -858.5]
