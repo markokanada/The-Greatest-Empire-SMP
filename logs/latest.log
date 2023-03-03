@@ -395,3 +395,27 @@ Caused by: java.lang.ClassNotFoundException: net.milkbowl.vault.permission.Permi
 [04:59:38] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] New Identity = CbQlZNXkPd4Ih25HBLM5DxChL
 [06:14:20] [Server thread/INFO]: [@: Teleported NPC_120413147 to 941.5, 77.0, -1194.5]
 [07:35:15] [Server thread/INFO]: [@: Teleported NPC_389375163 to 941.5, 77.0, -1194.5]
+[09:12:44] [User Authenticator #1/INFO]: UUID of player shepan is 2fe7e2bc-14bd-30b9-a320-55d7e9f8569b
+[09:12:44] [Async Chat Thread - #0/INFO]: <shepan> https://discord.gg/hr9eF4N5J9
+[09:12:44] [Server thread/INFO]: shepan[/86.94.221.29:33820] logged in with entity id 152893 at ([world]-82.5, 69.0, 240.5)
+[09:12:44] [Craft Scheduler Thread - 188/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[09:12:44] [Server thread/INFO]: shepan lost connection: Disconnected
+[09:12:44] [Server thread/INFO]: shepan left the game
+[09:12:45] [Craft Scheduler Thread - 190/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[09:12:45] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[09:12:45] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[09:12:45] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[09:12:45] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[09:12:55] [User Authenticator #2/INFO]: UUID of player sipacid is 10c7c83a-5b30-3404-8962-7c860d57efeb
+[09:12:55] [Server thread/INFO]: sipacid[/86.94.221.29:51033] logged in with entity id 152914 at ([world]-81.5, 64.0, 254.5)
+[09:12:55] [Craft Scheduler Thread - 190/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[09:12:56] [Craft Scheduler Thread - 189/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[09:12:56] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[09:13:04] [Server thread/WARN]: sipacid moved too quickly! 16.696198250779403,0.0,23.621028219883442
+[09:13:06] [Server thread/WARN]: sipacid was kicked for floating too long!
+[09:13:06] [Server thread/INFO]: sipacid lost connection: Flying is not enabled on this server
+[09:13:06] [Server thread/INFO]: sipacid left the game
+[09:13:06] [Server thread/WARN]: handleDisconnection() called twice
+[09:14:27] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[09:14:27] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[09:14:27] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
