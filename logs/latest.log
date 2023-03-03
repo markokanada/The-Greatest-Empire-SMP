@@ -608,3 +608,4 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
 	... 15 more
 [22:17:08] [Server thread/WARN]: Leevy23 moved wrongly!
+[22:28:08] [Server thread/WARN]: Leevy23 moved wrongly!
