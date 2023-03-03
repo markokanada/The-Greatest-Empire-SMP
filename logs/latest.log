@@ -611,3 +611,6 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [22:28:08] [Server thread/WARN]: Leevy23 moved wrongly!
 [22:33:16] [Server thread/INFO]: Leevy23 lost connection: Disconnected
 [22:33:16] [Server thread/INFO]: Leevy23 left the game
+[22:55:00] [Server thread/INFO]: [@: Teleported NPC_293208488 to 941.5, 77.0, -1194.5]
+[22:55:00] [Server thread/INFO]: [@: Teleported NPC_637356809 to 941.5, 77.0, -1194.5]
+[22:55:00] [Server thread/INFO]: [@: Teleported NPC_366305876 to 941.5, 77.0, -1194.5]
