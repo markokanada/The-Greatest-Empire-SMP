@@ -426,3 +426,12 @@ Caused by: java.lang.ClassNotFoundException: net.milkbowl.vault.permission.Permi
 [15:00:50] [Craft Scheduler Thread - 522/INFO]: [OpenAudioMc] [OpenAudioMc] Purging old accounts of inactive players
 [15:00:50] [Craft Scheduler Thread - 522/INFO]: [OpenAudioMc] [OpenAudioMc] Removed the profile of 0 players
 [15:00:50] [Craft Scheduler Thread - 522/INFO]: [OpenAudioMc] [OpenAudioMc] Finished cleanup
+[21:07:33] [User Authenticator #3/INFO]: UUID of player csm is e4b5d62e-136e-3d1d-8298-6c49498fbec9
+[21:07:34] [Server thread/INFO]: csm[/176.63.3.40:41161] logged in with entity id 440636 at ([world]800.4301996218081, 20.0, -862.5481814030647)
+[21:07:34] [Craft Scheduler Thread - 874/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[21:07:35] [Craft Scheduler Thread - 873/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[21:07:36] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[21:08:51] [Server thread/WARN]: csm moved wrongly!
+[21:09:23] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[21:09:23] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[21:09:23] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
