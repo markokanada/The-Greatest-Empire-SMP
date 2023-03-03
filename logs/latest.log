@@ -522,3 +522,5 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 	... 15 more
 [21:29:12] [Server thread/INFO]: csm lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: A kapcsolatot bontotta a távoli fél
 [21:29:12] [Server thread/INFO]: csm left the game
+[21:32:21] [Server thread/INFO]: KellSo lost connection: Disconnected
+[21:32:21] [Server thread/INFO]: KellSo left the game
