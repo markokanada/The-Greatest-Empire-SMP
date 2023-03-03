@@ -1,30 +1,4 @@
-[05:22:20] [Craft Scheduler Thread - 4526/INFO]: [OpenAudioMc] [OpenAudioMc] Starting mojang cleanup, this can take a while...
-[05:22:20] [Craft Scheduler Thread - 4526/INFO]: [OpenAudioMc] [OpenAudioMc] Purging old accounts of inactive players
-[05:22:20] [Craft Scheduler Thread - 4526/INFO]: [OpenAudioMc] [OpenAudioMc] Removed the profile of 0 players
-[05:22:20] [Craft Scheduler Thread - 4526/INFO]: [OpenAudioMc] [OpenAudioMc] Finished cleanup
-[15:22:28] [Craft Scheduler Thread - 5122/INFO]: [OpenAudioMc] [OpenAudioMc] Starting mojang cleanup, this can take a while...
-[15:22:28] [Craft Scheduler Thread - 5122/INFO]: [OpenAudioMc] [OpenAudioMc] Purging old accounts of inactive players
-[15:22:28] [Craft Scheduler Thread - 5122/INFO]: [OpenAudioMc] [OpenAudioMc] Removed the profile of 0 players
-[15:22:28] [Craft Scheduler Thread - 5122/INFO]: [OpenAudioMc] [OpenAudioMc] Finished cleanup
-[19:24:04] [User Authenticator #29/INFO]: UUID of player csm is e4b5d62e-136e-3d1d-8298-6c49498fbec9
-[19:24:05] [Server thread/INFO]: csm[/176.63.3.40:41023] logged in with entity id 9217572 at ([world]838.5535657831587, 22.0, -884.698042959407)
-[19:24:05] [Craft Scheduler Thread - 5362/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
-[19:24:05] [Craft Scheduler Thread - 5365/INFO]: [OpenAudioMc] [OpenAudioMc] Your account doesn't actually have permissions for voicechat, shutting down.
-[19:24:32] [Server thread/INFO]: csm issued server command: /tp 1279 90 -910
-[19:24:32] [Server thread/INFO]: [csm: Teleported csm to 1279.5, 90.0, -909.5]
-[19:27:21] [Server thread/INFO]: csm issued server command: /tp 869 29 -850
-[19:27:21] [Server thread/INFO]: [csm: Teleported csm to 869.5, 29.0, -849.5]
-[19:33:25] [Server thread/WARN]: csm moved wrongly!
-[19:40:57] [Server thread/INFO]: csm issued server command: /tp 1279 90 -910
-[19:40:57] [Server thread/INFO]: [csm: Teleported csm to 1279.5, 90.0, -909.5]
-[19:42:07] [Server thread/INFO]: csm issued server command: /tp 869 29 -860
-[19:42:07] [Server thread/INFO]: [csm: Teleported csm to 869.5, 29.0, -859.5]
-[19:44:09] [Server thread/WARN]: csm moved wrongly!
-[19:55:28] [Server thread/WARN]: csm moved wrongly!
-[20:03:58] [Server thread/INFO]: csm issued server command: /tp 1279 90 -910
-[20:03:58] [Server thread/INFO]: [csm: Teleported csm to 1279.5, 90.0, -909.5]
-[20:04:47] [Server thread/INFO]: csm issued server command: /tp 869 29 -859
-[20:04:47] [Server thread/INFO]: [csm: Teleported csm to 869.5, 29.0, -858.5]
-[20:06:32] [Server thread/WARN]: csm moved wrongly!
-[20:28:26] [Server thread/INFO]: csm lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: A kapcsolatot bontotta a távoli fél
-[20:28:26] [Server thread/INFO]: csm left the game
+[01:22:37] [Craft Scheduler Thread - 5722/INFO]: [OpenAudioMc] [OpenAudioMc] Starting mojang cleanup, this can take a while...
+[01:22:37] [Craft Scheduler Thread - 5722/INFO]: [OpenAudioMc] [OpenAudioMc] Purging old accounts of inactive players
+[01:22:37] [Craft Scheduler Thread - 5722/INFO]: [OpenAudioMc] [OpenAudioMc] Removed the profile of 0 players
+[01:22:37] [Craft Scheduler Thread - 5722/INFO]: [OpenAudioMc] [OpenAudioMc] Finished cleanup
