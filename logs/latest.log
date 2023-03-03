@@ -533,3 +533,4 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [21:44:00] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
 [21:44:00] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
 [21:45:58] [Server thread/INFO]: Leevy23 has made the advancement [Diamonds!]
+[21:54:03] [Server thread/WARN]: Leevy23 moved wrongly!
