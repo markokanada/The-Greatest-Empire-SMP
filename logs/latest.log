@@ -387,3 +387,20 @@ Caused by: java.lang.ClassNotFoundException: net.milkbowl.vault.permission.Permi
 [17:40:15] [Craft Scheduler Thread - 1/INFO]: [OpenAudioMc] [OpenAudioMc] The server is empty! ignoring voice chat.
 [17:40:15] [Craft Scheduler Thread - 1/INFO]: [OpenAudioMc] [OpenAudioMc] Successfully accepted a temporary license. Please make an account on account.craftmend.com and link your server to keep access to this license for a month, or upgrade to get more slots.
 [17:40:37] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] New Identity = YY7GwqrtQoTXFxyXbH3dRgNMg
+[18:21:40] [User Authenticator #1/INFO]: UUID of player csm is e4b5d62e-136e-3d1d-8298-6c49498fbec9
+[18:21:41] [Server thread/INFO]: csm[/176.63.3.40:41181] logged in with entity id 18910 at ([world]872.9624118322597, 22.0, -870.183356266956)
+[18:21:41] [Craft Scheduler Thread - 15/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[18:21:43] [Craft Scheduler Thread - 19/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[18:21:43] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[18:22:07] [Server thread/INFO]: csm lost connection: Timed out
+[18:22:07] [Server thread/INFO]: csm left the game
+[18:22:41] [User Authenticator #2/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[18:22:42] [Server thread/INFO]: KellSo[/192.168.1.169:63098] logged in with entity id 19609 at ([world]946.2746470324015, 79.0, -1231.645643769527)
+[18:23:27] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[18:23:27] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[18:23:27] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[18:24:39] [User Authenticator #3/INFO]: UUID of player David_alja is 42e1c43e-8966-3dee-9d53-94807b81117b
+[18:24:40] [Server thread/INFO]: David_alja[/100.84.139.52:53330] logged in with entity id 20797 at ([world]1068.3567103603912, 93.0, -1274.7015077389076)
+[18:24:40] [Craft Scheduler Thread - 19/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[18:24:40] [Craft Scheduler Thread - 19/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[18:24:40] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
