@@ -190,3 +190,200 @@ org.bukkit.plugin.UnknownDependencyException: ItemNBTAPI
 [17:40:01] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Hooking speakers attempt 1..
 [17:40:01] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Using ip: 94.21.136.224
 [17:40:01] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to start a cdn injector at port 8050. Timeout=5-seconds
+[17:40:07] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to start a cdn injector at port 5560. Timeout=5-seconds
+[17:40:12] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Continuing without the RestDirect feature! None of the listed ports were accessible or available. Please contact support, your server/host might not be compatible!
+[17:40:12] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Starting and loading took 42681MS
+[17:40:12] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Requesting automatic license
+[17:40:12] [Server thread/INFO]: [FastLeafDecay] Enabling FastLeafDecay v1.12-compat-1.0
+[17:40:12] [Server thread/INFO]: [EnderChestVault] Enabling EnderChestVault v1.2
+[17:40:12] [Server thread/ERROR]: Error occurred while enabling EnderChestVault v1.2 (Is it up to date?)
+java.lang.NoClassDefFoundError: net/milkbowl/vault/permission/Permission
+	at com.deadshotmdf.EnderChestVault.Main.setupPermissions(Main.java:73) ~[?:?]
+	at com.deadshotmdf.EnderChestVault.Main.onEnable(Main.java:51) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:337) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:403) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.enablePlugin(CraftServer.java:381) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.enablePlugins(CraftServer.java:330) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.t(MinecraftServer.java:422) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.l(MinecraftServer.java:383) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.a(MinecraftServer.java:338) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.init(DedicatedServer.java:272) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:545) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+Caused by: java.lang.ClassNotFoundException: net.milkbowl.vault.permission.Permission
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:476) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:152) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:100) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:589) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:522) ~[?:?]
+	... 13 more
+[17:40:12] [Server thread/INFO]: [OneManSleep] Enabling OneManSleep v1.0
+[17:40:12] [Server thread/INFO]: [Graves] Enabling Graves v4.7
+[17:40:12] [Server thread/INFO]: [Graves] Integration: WorldEdit 6.1.9;caf0ad9 detected, Only WorldEdit 7+ is supported.Disabling WorldEdit support.
+[17:40:14] [Server thread/INFO]: [SimpleEnderChest] Enabling SimpleEnderChest v1.3
+[17:40:14] [Server thread/INFO]: SimpleEnderChest Version 1.3 has been enabled!
+[17:40:14] [Server thread/INFO]: [TreeCapitator] Enabling TreeCapitator v1.0
+[17:40:14] [Server thread/INFO]: [RampenDrills] Enabling RampenDrills v4.5.2-Beta
+[17:40:14] [Server thread/INFO]: [RampenDrills] CHARCOAL is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] DRIED_KELP_BLOCK is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] ACACIA_PLANKS is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] BIRCH_PLANKS is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] DARK_OAK_PLANKS is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] JUNGLE_PLANKS is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] SPRUCE_PLANKS is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] OAK_PLANKS is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] ACACIA_WOOD is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] BIRCH_WOOD is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] DARK_OAK_WOOD is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] JUNGLE_WOOD is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] SPRUCE_WOOD is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] OAK_WOOD is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] ACACIA_LOG is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] BIRCH_LOG is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] DARK_OAK_LOG is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] JUNGLE_LOG is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] SPRUCE_LOG is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] OAK_LOG is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] STRIPPED_ACACIA_LOG is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] STRIPPED_BIRCH_LOG is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] STRIPPED_DARK_OAK_LOG is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] STRIPPED_JUNGLE_LOG is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] STRIPPED_SPRUCE_LOG is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] STRIPPED_OAK_LOG is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] OAK_FENCE is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] OAK_FENCE_GATE is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] BIRCH_STAIRS is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] JUNGLE_STAIRS is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] SPRUCE_STAIRS is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] OAK_STAIRS is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] ACACIA_BUTTON is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] BIRCH_BUTTON is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] DARK_OAK_BUTTON is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] JUNGLE_BUTTON is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] SPRUCE_BUTTON is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] OAK_BUTTON is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] ACACIA_SLAB is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] BIRCH_SLAB is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] DARK_OAK_SLAB is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] JUNGLE_SLAB is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] SPRUCE_SLAB is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] OAK_SLAB is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] ACACIA_SIGN is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] BIRCH_SIGN is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] DARK_OAK_SIGN is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] JUNGLE_SIGN is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] SPRUCE_SIGN is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] OAK_SIGN is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] ACACIA_SAPLING is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] BIRCH_SAPLING is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] DARK_OAK_SAPLING is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] JUNGLE_SAPLING is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] SPRUCE_SAPLING is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] OAK_SAPLING is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] ACACIA_BOAT is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] BIRCH_BOAT is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] DARK_OAK_BOAT is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] JUNGLE_BOAT is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] SPRUCE_BOAT is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] OAK_BOAT is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] ACACIA_PRESSURE_PLATE is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] BIRCH_PRESSURE_PLATE is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] DARK_OAK_PRESSURE_PLATE is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] JUNGLE_PRESSURE_PLATE is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] SPRUCE_PRESSURE_PLATE is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] OAK_PRESSURE_PLATE is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] ACACIA_TRAPDOOR is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] BIRCH_TRAPDOOR is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] DARK_OAK_TRAPDOOR is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] JUNGLE_TRAPDOOR is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] SPRUCE_TRAPDOOR is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] OAK_TRAPDOOR is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] OAK_DOOR is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] LECTERN is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] COMPOSTER is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] BARREL is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] SCAFFOLDING is not a valid fuel material!
+[17:40:14] [Server thread/INFO]: [RampenDrills] BAMBOO is not a valid fuel material!
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'END_PORTAL_FRAME' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'END_PORTAL' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'SPAWNER' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'SKELETON_SKULL' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'SKELETON_WALL_SKULL' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'WITHER_SKELETON_SKULL' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'WITHER_SKELETON_WALL_SKULL' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'CREEPER_HEAD' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'CREEPER_WALL_HEAD' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'DRAGON_HEAD' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'DRAGON_WALL_HEAD' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'PLAYER_HEAD' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'PLAYER_WALL_HEAD' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'ZOMBIE_HEAD' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'ZOMBIE_WALL_HEAD' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'LIGHT_GRAY_SHULKER_BOX' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'SHULKER_BOX' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'BARREL' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'BELL' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'BLAST_FURNACE' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'CAMPFIRE' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'CARTOGRAPHY_TABLE' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'COMPOSTER' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'FLETCHING_TABLE' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'GRINDSTONE' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'JIGSAW' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'LECTERN' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'LOOM' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'SMITHING_TABLE' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'SMOKER' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'STONECUTTER' to the blacklist.
+[17:40:14] [Server thread/INFO]: [RampenDrills] ENTITY_ENDERMAN_TELEPORT is not a valid sound
+[17:40:14] [Server thread/INFO]: [RampenDrills] ENTITY_SNOW_GOLEM_HURT is not a valid sound
+[17:40:14] [Server thread/INFO]: [RampenDrills] RAIL is not a valid material
+[17:40:14] [Server thread/INFO]: [RampenDrills] RAIL is not a valid material
+[17:40:14] [Server thread/INFO]: [RampenDrills] RAIL is not a valid material
+[17:40:14] [Server thread/INFO]: [RampenDrills] RAIL is not a valid material
+[17:40:14] [Server thread/INFO]: [RampenDrills] RAIL is not a valid material
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'END_PORTAL_FRAME' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'END_PORTAL' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'SPAWNER' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'SKELETON_SKULL' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'SKELETON_WALL_SKULL' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'WITHER_SKELETON_SKULL' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'WITHER_SKELETON_WALL_SKULL' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'CREEPER_HEAD' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'CREEPER_WALL_HEAD' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'DRAGON_HEAD' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'DRAGON_WALL_HEAD' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'PLAYER_HEAD' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'PLAYER_WALL_HEAD' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'ZOMBIE_HEAD' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'ZOMBIE_WALL_HEAD' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'LIGHT_GRAY_SHULKER_BOX' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'SHULKER_BOX' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'BARREL' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'BELL' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'BLAST_FURNACE' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'CAMPFIRE' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'CARTOGRAPHY_TABLE' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'COMPOSTER' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'FLETCHING_TABLE' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'GRINDSTONE' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'JIGSAW' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'LECTERN' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'LOOM' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'SMITHING_TABLE' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'SMOKER' to the blacklist.
+[17:40:14] [Server thread/WARN]: [RampenDrills] Could not add material 'STONECUTTER' to the blacklist.
+[17:40:14] [Server thread/INFO]: [ChunkLoaderX] Enabling ChunkLoaderX v1.0
+[17:40:14] [Server thread/INFO]: [ChunkLoaderX] Loaded 4 chunks.
+[17:40:14] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:40:14] [Server thread/INFO]: Done (44,218s)! For help, type "help" or "?"
+[17:40:14] [Server thread/INFO]: Starting GS4 status listener
+[17:40:14] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
+[17:40:14] [Server thread/INFO]: [AutomatedCrafting] (Re)loading recipes...
+[17:40:14] [Server thread/INFO]: [AutomatedCrafting] (Re)loaded 443 bukkit recipes, took 32 ms...
+[17:40:14] [Server thread/INFO]: [Graves] Information: Legacy version detected, Graves will run but may have problems with material names, the default config is setup for the latest version of the game, you can alter the config manually to fix any issues you encounter, you will need to find the names of materials and sounds for your version.
+[17:40:14] [Server thread/INFO]: [Graves] Update: Outdated version detected 4.7, latest version is 4.9, https://www.spigotmc.org/resources/graves.74208/
+[17:40:15] [Craft Scheduler Thread - 1/INFO]: [OpenAudioMc] [OpenAudioMc] The server is empty! ignoring voice chat.
+[17:40:15] [Craft Scheduler Thread - 1/INFO]: [OpenAudioMc] [OpenAudioMc] Successfully accepted a temporary license. Please make an account on account.craftmend.com and link your server to keep access to this license for a month, or upgrade to get more slots.
+[17:40:37] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] New Identity = YY7GwqrtQoTXFxyXbH3dRgNMg
