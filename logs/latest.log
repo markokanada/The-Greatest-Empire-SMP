@@ -491,3 +491,15 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
 	... 15 more
+[18:36:17] [User Authenticator #5/INFO]: UUID of player David_alja is 42e1c43e-8966-3dee-9d53-94807b81117b
+[18:36:17] [Server thread/INFO]: David_alja[/100.84.139.52:54792] logged in with entity id 31940 at ([world]1073.2696684190262, 94.0, -1280.1796074336594)
+[18:36:17] [Craft Scheduler Thread - 27/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[18:36:18] [Craft Scheduler Thread - 31/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[18:36:18] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[18:37:45] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[18:37:45] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[18:38:00] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[18:38:00] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[18:38:00] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[18:38:11] [Server thread/INFO]: KellSo issued server command: /gamemode 0
+[18:38:11] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
