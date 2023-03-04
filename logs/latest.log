@@ -10,3 +10,7 @@
 [01:08:52] [Server thread/INFO]: [@: Teleported NPC_578196042 to 941.5, 77.0, -1194.5]
 [01:09:02] [Server thread/INFO]: [@: Teleported NPC_257887788 to 941.5, 77.0, -1194.5]
 [01:09:08] [Server thread/INFO]: [@: Teleported NPC_900259389 to 941.5, 77.0, -1194.5]
+[11:04:43] [Craft Scheduler Thread - 1648/INFO]: [OpenAudioMc] [OpenAudioMc] Starting mojang cleanup, this can take a while...
+[11:04:43] [Craft Scheduler Thread - 1648/INFO]: [OpenAudioMc] [OpenAudioMc] Purging old accounts of inactive players
+[11:04:43] [Craft Scheduler Thread - 1648/INFO]: [OpenAudioMc] [OpenAudioMc] Removed the profile of 0 players
+[11:04:43] [Craft Scheduler Thread - 1648/INFO]: [OpenAudioMc] [OpenAudioMc] Finished cleanup
