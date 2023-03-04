@@ -608,3 +608,6 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [19:06:31] [Server thread/INFO]: KellSo left the game
 [19:08:58] [Server thread/INFO]: David_alja lost connection: Timed out
 [19:08:58] [Server thread/INFO]: David_alja left the game
+[20:05:17] [Server thread/INFO]: [@: Teleported NPC_832765254 to 941.5, 77.0, -1194.5]
+[20:05:17] [Server thread/INFO]: [@: Teleported NPC_836097576 to 941.5, 77.0, -1194.5]
+[20:05:18] [Server thread/INFO]: [@: Teleported NPC_249955685 to 941.5, 77.0, -1194.5]
