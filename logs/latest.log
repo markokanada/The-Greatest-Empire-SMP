@@ -87,3 +87,15 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [15:19:42] [Craft Scheduler Thread - 1166/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
 [15:19:43] [Craft Scheduler Thread - 1170/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
 [15:19:43] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[15:21:27] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[15:21:27] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[15:21:27] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[15:22:17] [Server thread/INFO]: KellSo issued server command: //save
+[15:22:22] [Server thread/INFO]: KellSo issued server command: //schem
+[15:22:24] [Server thread/INFO]: KellSo issued server command: //schem save
+[15:22:30] [Server thread/INFO]: KellSo issued server command: //schem save a
+[15:22:34] [Server thread/INFO]: KellSo issued server command: //copy
+[15:22:35] [Server thread/INFO]: KellSo issued server command: //schem save a
+[15:22:36] [Server thread/INFO]: [WorldEdit] KellSo saved /media/Minecraft/server/The-Greatest-Empire-SMP/plugins/WorldEdit/schematics/a.schematic
+[15:22:56] [Server thread/INFO]: KellSo lost connection: Disconnected
+[15:22:57] [Server thread/INFO]: KellSo left the game
