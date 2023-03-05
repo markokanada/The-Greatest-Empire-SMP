@@ -229,3 +229,5 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [19:19:08] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
 [19:19:11] [Server thread/INFO]: KellSo issued server command: /toggledownfall
 [19:19:11] [Server thread/INFO]: [KellSo: Toggled downfall]
+[20:22:32] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[20:22:32] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
