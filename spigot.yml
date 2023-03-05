@@ -14,6 +14,16 @@ config-version: 11
 settings:
   debug: false
   save-user-cache-on-stop-only: false
+  moved-too-quickly-multiplier: 10.0
+  item-dirty-ticks: 20
+  bungeecord: false
+  late-bind: false
+  sample-count: 12
+  player-shuffle: 0
+  filter-creative-items: true
+  user-cache-size: 1000
+  int-cache-limit: 1024
+  moved-wrongly-threshold: 0.0625
   timeout-time: 60
   restart-on-crash: true
   restart-script: ./start.sh
@@ -25,16 +35,6 @@ settings:
       max: 2048.0
     attackDamage:
       max: 2048.0
-  bungeecord: false
-  late-bind: false
-  sample-count: 12
-  player-shuffle: 0
-  filter-creative-items: true
-  user-cache-size: 1000
-  int-cache-limit: 1024
-  moved-wrongly-threshold: 0.0625
-  moved-too-quickly-multiplier: 10.0
-  item-dirty-ticks: 20
 commands:
   tab-complete: 0
   log: true
@@ -53,13 +53,13 @@ messages:
   outdated-client: Outdated client! Please use {0}
   outdated-server: Outdated server! I'm still on {0}
   restart: Server is restarting
-stats:
-  disable-saving: false
-  forced-stats: {}
 advancements:
   disable-saving: false
   disabled:
   - minecraft:story/disabled
+stats:
+  disable-saving: false
+  forced-stats: {}
 world-settings:
   default:
     verbose: true
@@ -111,11 +111,11 @@ world-settings:
       entity: 50
     squid-spawn-range:
       min: 45.0
-    arrow-despawn-rate: 1200
     item-despawn-rate: 6000
     merge-radius:
       item: 2.5
       exp: 3.0
+    arrow-despawn-rate: 1200
     enable-zombie-pigmen-portal-spawns: true
     wither-spawn-sound-radius: 0
     view-distance: 64
