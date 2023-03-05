@@ -396,3 +396,5 @@ Caused by: java.lang.ClassNotFoundException: net.milkbowl.vault.permission.Permi
 [21:33:07] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
 [21:33:07] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
 [21:33:07] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[21:36:38] [Server thread/INFO]: KellSo issued server command: //cut
+[21:38:19] [Server thread/INFO]: KellSo issued server command: //cut
