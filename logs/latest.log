@@ -203,3 +203,10 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [18:55:54] [Async Chat Thread - #0/INFO]: <KellSo> 6*64, 49
 [18:58:36] [Server thread/INFO]: KellSo lost connection: Disconnected
 [18:58:36] [Server thread/INFO]: KellSo left the game
+[19:04:37] [User Authenticator #11/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[19:04:37] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Requesting automatic license
+[19:04:38] [Server thread/INFO]: KellSo[/192.168.1.169:63592] logged in with entity id 498628 at ([world]951.6939972683201, 77.0, -1238.879664237153)
+[19:04:38] [Craft Scheduler Thread - 1380/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[19:04:38] [Craft Scheduler Thread - 1380/INFO]: [OpenAudioMc] [OpenAudioMc] Successfully accepted a temporary license. Please make an account on account.craftmend.com and link your server to keep access to this license for a month, or upgrade to get more slots.
+[19:04:39] [Craft Scheduler Thread - 1380/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[19:04:39] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
