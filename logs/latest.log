@@ -669,3 +669,22 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
 	... 15 more
+[23:30:22] [Server thread/INFO]: KellSo issued server command: /gamemode 3
+[23:30:22] [Server thread/INFO]: [KellSo: Set own game mode to Spectator Mode]
+[23:30:52] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[23:30:52] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[23:30:56] [Server thread/INFO]: KellSo issued server command: /gamemode 0
+[23:30:56] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
+[23:30:57] [Server thread/INFO]: KellSo issued server command: /gamemode 3
+[23:30:57] [Server thread/INFO]: [KellSo: Set own game mode to Spectator Mode]
+[23:31:32] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[23:31:32] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[23:31:45] [Server thread/INFO]: KellSo issued server command: /gamemode 3
+[23:31:45] [Server thread/INFO]: [KellSo: Set own game mode to Spectator Mode]
+[23:31:50] [Server thread/INFO]: KellSo issued server command: /gamemode
+[23:31:52] [Server thread/INFO]: KellSo issued server command: /gamemode 0
+[23:31:52] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
+[23:32:40] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[23:32:40] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[23:33:01] [Server thread/INFO]: KellSo issued server command: /gamemode 0
+[23:33:01] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
