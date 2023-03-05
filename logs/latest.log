@@ -378,3 +378,21 @@ Caused by: java.lang.ClassNotFoundException: net.milkbowl.vault.permission.Permi
 [21:25:27] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
 [21:26:44] [Server thread/INFO]: KellSo lost connection: Disconnected
 [21:26:44] [Server thread/INFO]: KellSo left the game
+[21:31:18] [User Authenticator #2/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[21:31:19] [Server thread/INFO]: KellSo[/192.168.1.169:64364] logged in with entity id 5974 at ([world]995.6900311887334, 48.037862255897906, -1172.1660525154894)
+[21:31:19] [Craft Scheduler Thread - 6/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[21:31:19] [Craft Scheduler Thread - 0/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[21:31:20] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[21:31:42] [Server thread/INFO]: KellSo issued server command: /tp @e[dx=5,dy=5,dz=5] KellSo
+[21:31:42] [Server thread/INFO]: [KellSo: Teleported KellSo to KellSo]
+[21:31:42] [Server thread/INFO]: [KellSo: Teleported Minecart with Chest to KellSo]
+[21:31:42] [Server thread/INFO]: [KellSo: Teleported Minecart with Chest to KellSo]
+[21:32:02] [Server thread/INFO]: KellSo issued server command: /tp @e[dx=5,dy=5,dz=5] KellSo
+[21:32:02] [Server thread/INFO]: [KellSo: Teleported KellSo to KellSo]
+[21:32:04] [Server thread/INFO]: KellSo issued server command: /tp @e[dx=5,dy=5,dz=5] KellSo
+[21:32:04] [Server thread/INFO]: [KellSo: Teleported KellSo to KellSo]
+[21:32:04] [Server thread/INFO]: [KellSo: Teleported Minecart with Chest to KellSo]
+[21:32:04] [Server thread/INFO]: [KellSo: Teleported Minecart with Chest to KellSo]
+[21:33:07] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[21:33:07] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[21:33:07] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
