@@ -15,3 +15,22 @@
 [00:29:25] [Server thread/INFO]: [KellSo: Set own game mode to Spectator Mode]
 [00:29:28] [Server thread/INFO]: KellSo issued server command: /gamemode 1
 [00:29:28] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[00:30:02] [Server thread/INFO]: KellSo issued server command: /gamemode 3
+[00:30:02] [Server thread/INFO]: [KellSo: Set own game mode to Spectator Mode]
+[00:30:04] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[00:30:04] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[00:31:21] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[00:31:21] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[00:31:23] [Server thread/INFO]: KellSo issued server command: /gamemode 3
+[00:31:23] [Server thread/INFO]: [KellSo: Set own game mode to Spectator Mode]
+[00:32:22] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[00:32:22] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[00:32:30] [Server thread/INFO]: KellSo issued server command: /gamemode 3
+[00:32:30] [Server thread/INFO]: [KellSo: Set own game mode to Spectator Mode]
+[00:32:38] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[00:32:38] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[00:32:59] [Server thread/INFO]: KellSo issued server command: /gamemode 3
+[00:32:59] [Server thread/INFO]: [KellSo: Set own game mode to Spectator Mode]
+[00:33:25] [Server thread/WARN]: KellSo moved too quickly! 0.5275257721029902,0.0,-48.26351653443521
+[00:33:59] [Server thread/INFO]: KellSo lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
+[00:33:59] [Server thread/INFO]: KellSo left the game
