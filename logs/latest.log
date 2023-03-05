@@ -210,3 +210,16 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [19:04:38] [Craft Scheduler Thread - 1380/INFO]: [OpenAudioMc] [OpenAudioMc] Successfully accepted a temporary license. Please make an account on account.craftmend.com and link your server to keep access to this license for a month, or upgrade to get more slots.
 [19:04:39] [Craft Scheduler Thread - 1380/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
 [19:04:39] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[19:06:27] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[19:06:27] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[19:06:27] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[19:07:09] [Server thread/INFO]: KellSo issued server command: /toggledownfall
+[19:07:09] [Server thread/INFO]: [KellSo: Toggled downfall]
+[19:09:44] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[19:09:44] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[19:09:59] [Server thread/INFO]: KellSo issued server command: /gamemode 0
+[19:09:59] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
+[19:14:03] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[19:14:03] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[19:14:08] [Server thread/INFO]: KellSo issued server command: /gamemode 0
+[19:14:08] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
