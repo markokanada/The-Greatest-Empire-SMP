@@ -920,12 +920,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_blue_carpet": {
-    "criteria": {
-      "has_light_blue_wool": "2023-03-05 21:08:41 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/golden_rail": {
     "criteria": {
       "has_rail": "2022-03-29 19:41:05 +0200"
@@ -1192,12 +1186,6 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2022-03-28 20:57:15 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_banner": {
-    "criteria": {
-      "has_light_blue_wool": "2023-03-05 21:08:41 +0100"
     },
     "done": true
   },
@@ -2599,12 +2587,6 @@
   "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
       "has_planks": "2022-03-28 20:55:34 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_bed": {
-    "criteria": {
-      "has_light_blue_wool": "2023-03-05 21:08:41 +0100"
     },
     "done": true
   },
