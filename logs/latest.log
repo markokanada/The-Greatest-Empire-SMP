@@ -432,3 +432,7 @@ Caused by: java.lang.ClassNotFoundException: net.milkbowl.vault.permission.Permi
 [22:09:38] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
 [22:09:57] [Server thread/INFO]: KellSo issued server command: /gamemode 0
 [22:09:57] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
+[22:10:14] [Server thread/INFO]: KellSo issued server command: /gamemode 3
+[22:10:14] [Server thread/INFO]: [KellSo: Set own game mode to Spectator Mode]
+[22:10:30] [Server thread/INFO]: KellSo issued server command: /gamemode 0
+[22:10:30] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
