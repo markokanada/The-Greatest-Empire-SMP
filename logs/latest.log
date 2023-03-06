@@ -118,3 +118,10 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [20:09:30] [Server thread/INFO]: [KellSo: Set own game mode to Spectator Mode]
 [20:10:22] [Server thread/INFO]: KellSo lost connection: Disconnected
 [20:10:22] [Server thread/INFO]: KellSo left the game
+[21:59:29] [User Authenticator #4/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[21:59:29] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] Requesting automatic license
+[21:59:29] [Server thread/INFO]: KellSo[/192.168.1.169:53011] logged in with entity id 480332 at ([world]965.1124989009423, 48.69432440660169, -1175.4575447256143)
+[21:59:30] [Craft Scheduler Thread - 1318/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[21:59:30] [Craft Scheduler Thread - 1318/INFO]: [OpenAudioMc] [OpenAudioMc] Successfully accepted a temporary license. Please make an account on account.craftmend.com and link your server to keep access to this license for a month, or upgrade to get more slots.
+[21:59:31] [Craft Scheduler Thread - 1318/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[21:59:31] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
