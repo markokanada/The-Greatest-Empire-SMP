@@ -90,3 +90,19 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [19:59:25] [Server thread/INFO]: [KellSo: Set own game mode to Spectator Mode]
 [19:59:43] [Server thread/INFO]: KellSo issued server command: /gamemode 1
 [19:59:43] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[20:00:12] [Server thread/INFO]: KellSo issued server command: /gamemode 3
+[20:00:12] [Server thread/INFO]: [KellSo: Set own game mode to Spectator Mode]
+[20:00:15] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[20:00:15] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[20:00:45] [Server thread/INFO]: KellSo issued server command: /gamemode 0
+[20:00:45] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
+[20:01:28] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[20:01:28] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[20:01:39] [Server thread/INFO]: KellSo issued server command: /gamemode 0
+[20:01:39] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
+[20:02:37] [Server thread/INFO]: KellSo issued server command: /gamemode 3
+[20:02:37] [Server thread/INFO]: [KellSo: Set own game mode to Spectator Mode]
+[20:02:51] [Server thread/INFO]: KellSo issued server command: /gamemode 0
+[20:02:51] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
+[20:02:52] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[20:02:52] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
