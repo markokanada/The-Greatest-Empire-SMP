@@ -125,3 +125,8 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [21:59:30] [Craft Scheduler Thread - 1318/INFO]: [OpenAudioMc] [OpenAudioMc] Successfully accepted a temporary license. Please make an account on account.craftmend.com and link your server to keep access to this license for a month, or upgrade to get more slots.
 [21:59:31] [Craft Scheduler Thread - 1318/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
 [21:59:31] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[22:01:20] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[22:01:20] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[22:01:20] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[22:03:05] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[22:03:05] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
