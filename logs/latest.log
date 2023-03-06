@@ -35,3 +35,7 @@
 [00:33:59] [Server thread/INFO]: KellSo lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
 [00:33:59] [Server thread/INFO]: KellSo left the game
 [07:20:11] [Server thread/INFO]: [@: Teleported NPC_811945288 to 941.5, 77.0, -1194.5]
+[07:25:37] [Craft Scheduler Thread - 495/INFO]: [OpenAudioMc] [OpenAudioMc] Starting mojang cleanup, this can take a while...
+[07:25:37] [Craft Scheduler Thread - 495/INFO]: [OpenAudioMc] [OpenAudioMc] Purging old accounts of inactive players
+[07:25:37] [Craft Scheduler Thread - 495/INFO]: [OpenAudioMc] [OpenAudioMc] Removed the profile of 1 players
+[07:25:37] [Craft Scheduler Thread - 495/INFO]: [OpenAudioMc] [OpenAudioMc] Finished cleanup
