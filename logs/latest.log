@@ -649,3 +649,8 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [17:57:29] [Server thread/INFO]: [KellSo: Toggled downfall]
 [18:09:54] [Server thread/INFO]: KellSo lost connection: Disconnected
 [18:09:54] [Server thread/INFO]: KellSo left the game
+[19:58:28] [User Authenticator #3/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[19:58:28] [Server thread/INFO]: KellSo[/192.168.1.169:59763] logged in with entity id 197227 at ([world]1347.65709637426, 79.0, -1409.4010053674021)
+[19:58:28] [Craft Scheduler Thread - 453/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[19:58:30] [Craft Scheduler Thread - 456/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[19:58:30] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
