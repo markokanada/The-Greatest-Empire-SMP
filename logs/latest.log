@@ -398,3 +398,13 @@ Caused by: java.lang.ClassNotFoundException: net.milkbowl.vault.permission.Permi
 [11:27:38] [Server thread/INFO]: [Graves] Information: Legacy version detected, Graves will run but may have problems with material names, the default config is setup for the latest version of the game, you can alter the config manually to fix any issues you encounter, you will need to find the names of materials and sounds for your version.
 [11:27:38] [Server thread/INFO]: [Graves] Update: Outdated version detected 4.7, latest version is 4.9, https://www.spigotmc.org/resources/graves.74208/
 [11:27:47] [Server thread/INFO]: [OpenAudioMc] [OpenAudioMc] New Identity = y8tH0D7EBxXyKTcyz_9XG61Fg
+[12:33:27] [User Authenticator #1/INFO]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[12:33:28] [Server thread/INFO]: KellSo[/192.168.1.169:57963] logged in with entity id 24346 at ([world]962.7169392865031, 55.47724379545335, -1175.95086946759)
+[12:33:28] [Craft Scheduler Thread - 53/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
+[12:33:29] [Craft Scheduler Thread - 55/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
+[12:33:30] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[12:33:37] [Server thread/INFO]: KellSo issued server command: /tps
+[12:33:40] [Server thread/INFO]: KellSo issued server command: /gamemode 3
+[12:33:40] [Server thread/INFO]: [KellSo: Set own game mode to Spectator Mode]
+[12:34:05] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[12:34:05] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
