@@ -519,3 +519,9 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[server.jar:git-Spigot-79a30d7-f4830a1]
 	... 15 more
+[17:36:57] [Server thread/INFO]: KellSo issued server command: /gamemode 3
+[17:36:57] [Server thread/INFO]: [KellSo: Set own game mode to Spectator Mode]
+[17:38:42] [Server thread/INFO]: KellSo issued server command: /gamemode 0
+[17:38:42] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
+[17:38:48] [Server thread/INFO]: KellSo issued server command: /toggledownfall
+[17:38:48] [Server thread/INFO]: [KellSo: Toggled downfall]
