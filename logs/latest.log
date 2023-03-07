@@ -749,3 +749,84 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [21:31:12] [Craft Scheduler Thread - 528/INFO]: [OpenAudioMc] [OpenAudioMc] Purging old accounts of inactive players
 [21:31:12] [Craft Scheduler Thread - 528/INFO]: [OpenAudioMc] [OpenAudioMc] Removed the profile of 0 players
 [21:31:12] [Craft Scheduler Thread - 528/INFO]: [OpenAudioMc] [OpenAudioMc] Finished cleanup
+[21:38:19] [Thread-1/INFO]: Stopping server
+[21:38:19] [Thread-1/INFO]: [ChunkLoaderX] Disabling ChunkLoaderX v1.0
+[21:38:19] [Server thread/ERROR]: Encountered an unexpected exception
+net.minecraft.server.v1_12_R1.ReportedException: Exception ticking world entities
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:828) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+Caused by: java.util.ConcurrentModificationException
+	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1511) ~[?:?]
+	at java.util.HashMap$KeyIterator.next(HashMap.java:1534) ~[?:?]
+	at net.minecraft.server.v1_12_R1.EntityTracker.untrackEntity(EntityTracker.java:160) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.WorldManager.b(WorldManager.java:29) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.World.c(World.java:1101) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.WorldServer.c(WorldServer.java:1182) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.World.tickEntities(World.java:1458) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.WorldServer.tickEntities(WorldServer.java:668) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:817) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	... 4 more
+[21:38:19] [Server thread/ERROR]: 	Cause of unexpected exception was
+java.util.ConcurrentModificationException: null
+	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1511) ~[?:?]
+	at java.util.HashMap$KeyIterator.next(HashMap.java:1534) ~[?:?]
+	at net.minecraft.server.v1_12_R1.EntityTracker.untrackEntity(EntityTracker.java:160) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.WorldManager.b(WorldManager.java:29) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.World.c(World.java:1101) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.WorldServer.c(WorldServer.java:1182) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.World.tickEntities(World.java:1458) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.WorldServer.tickEntities(WorldServer.java:668) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.D(MinecraftServer.java:817) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.D(DedicatedServer.java:406) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.C(MinecraftServer.java:679) ~[server.jar:git-Spigot-79a30d7-f4830a1]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:577) [server.jar:git-Spigot-79a30d7-f4830a1]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[21:38:19] [Server thread/ERROR]: This crash report has been saved to: /media/Minecraft/server/The-Greatest-Empire-SMP/./crash-reports/crash-2023-03-07_21.38.19-server.txt
+[21:38:20] [Thread-1/WARN]: java.net.UnknownHostException: account.craftmend.com: A név vagy a szolgáltatás nem ismert
+[21:38:20] [Thread-1/WARN]: 	at java.base/java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+[21:38:20] [Thread-1/WARN]: 	at java.base/java.net.InetAddress$PlatformNameService.lookupAllHostAddr(InetAddress.java:929)
+[21:38:20] [Thread-1/WARN]: 	at java.base/java.net.InetAddress.getAddressesFromNameService(InetAddress.java:1534)
+[21:38:20] [Thread-1/WARN]: 	at java.base/java.net.InetAddress$NameServiceAddresses.get(InetAddress.java:848)
+[21:38:20] [Thread-1/WARN]: 	at java.base/java.net.InetAddress.getAllByName0(InetAddress.java:1524)
+[21:38:20] [Thread-1/WARN]: 	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1382)
+[21:38:20] [Thread-1/WARN]: 	at java.base/java.net.InetAddress.getAllByName(InetAddress.java:1306)
+[21:38:20] [Thread-1/WARN]: 	at com.craftmend.thirdparty.okhttp3.Dns$Companion$DnsSystem.lookup(Dns.kt:49)
+[21:38:20] [Thread-1/WARN]: 	at com.craftmend.thirdparty.okhttp3.internal.connection.RouteSelector.resetNextInetSocketAddress(RouteSelector.kt:164)
+[21:38:20] [Thread-1/WARN]: 	at com.craftmend.thirdparty.okhttp3.internal.connection.RouteSelector.nextProxy(RouteSelector.kt:129)
+[21:38:20] [Thread-1/WARN]: 	at com.craftmend.thirdparty.okhttp3.internal.connection.RouteSelector.next(RouteSelector.kt:71)
+[21:38:20] [Thread-1/WARN]: 	at com.craftmend.thirdparty.okhttp3.internal.connection.ExchangeFinder.findConnection(ExchangeFinder.kt:213)
+[21:38:20] [Thread-1/WARN]: 	at com.craftmend.thirdparty.okhttp3.internal.connection.ExchangeFinder.findHealthyConnection(ExchangeFinder.kt:108)
+[21:38:20] [Thread-1/WARN]: 	at com.craftmend.thirdparty.okhttp3.internal.connection.ExchangeFinder.find(ExchangeFinder.kt:76)
+[21:38:20] [Thread-1/WARN]: 	at com.craftmend.thirdparty.okhttp3.internal.connection.RealCall.initExchange$okhttp(RealCall.kt:245)
+[21:38:20] [Thread-1/WARN]: 	at com.craftmend.thirdparty.okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.kt:32)
+[21:38:20] [Thread-1/WARN]: 	at com.craftmend.thirdparty.okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:100)
+[21:38:20] [Thread-1/WARN]: 	at com.craftmend.thirdparty.okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.kt:96)
+[21:38:20] [Thread-1/WARN]: 	at com.craftmend.thirdparty.okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:100)
+[21:38:20] [Thread-1/WARN]: 	at com.craftmend.thirdparty.okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.kt:83)
+[21:38:20] [Thread-1/WARN]: 	at com.craftmend.thirdparty.okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:100)
+[21:38:20] [Thread-1/WARN]: 	at com.craftmend.thirdparty.okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.kt:76)
+[21:38:20] [Thread-1/WARN]: 	at com.craftmend.thirdparty.okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:100)
+[21:38:20] [Thread-1/WARN]: 	at com.craftmend.thirdparty.okhttp3.internal.connection.RealCall.getResponseWithInterceptorChain$okhttp(RealCall.kt:197)
+[21:38:20] [Thread-1/WARN]: 	at com.craftmend.thirdparty.okhttp3.internal.connection.RealCall.execute(RealCall.kt:148)
+[21:38:20] [Thread-1/WARN]: 	at com.craftmend.openaudiomc.generic.networking.rest.RestRequest.readHttp(RestRequest.java:117)
+[21:38:20] [Thread-1/WARN]: 	at com.craftmend.openaudiomc.generic.networking.rest.RestRequest.executeInThread(RestRequest.java:69)
+[21:38:20] [Thread-1/WARN]: 	at com.craftmend.openaudiomc.generic.craftmend.tasks.PlayerStateStreamer.update(PlayerStateStreamer.java:102)
+[21:38:20] [Thread-1/WARN]: 	at com.craftmend.openaudiomc.generic.craftmend.tasks.PlayerStateStreamer.deleteAll(PlayerStateStreamer.java:51)
+[21:38:20] [Thread-1/WARN]: 	at com.craftmend.openaudiomc.generic.craftmend.CraftmendService.shutdown(CraftmendService.java:127)
+[21:38:20] [Thread-1/WARN]: 	at com.craftmend.openaudiomc.OpenAudioMc.disable(OpenAudioMc.java:164)
+[21:38:20] [Thread-1/WARN]: 	at com.craftmend.openaudiomc.spigot.OpenAudioMcSpigot.onDisable(OpenAudioMcSpigot.java:147)
+[21:38:20] [Thread-1/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:266)
+[21:38:20] [Thread-1/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:361)
+[21:38:20] [Thread-1/WARN]: 	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:422)
+[21:38:20] [Thread-1/WARN]: 	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:415)
+[21:38:20] [Thread-1/WARN]: 	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.disablePlugins(CraftServer.java:349)
+[21:38:20] [Thread-1/WARN]: 	at net.minecraft.server.v1_12_R1.MinecraftServer.stop(MinecraftServer.java:465)
+[21:38:20] [Thread-1/WARN]: 	at org.bukkit.craftbukkit.v1_12_R1.util.ServerShutdownThread.run(ServerShutdownThread.java:17)
+[21:38:20] [Thread-1/INFO]: Saving players
+[21:38:20] [Thread-1/INFO]: Saving worlds
+[21:38:20] [Thread-1/INFO]: Saving chunks for level 'world'/overworld
+[21:38:21] [Thread-1/INFO]: Saving chunks for level 'world_nether'/the_nether
+[21:38:21] [Thread-1/INFO]: Saving chunks for level 'world_the_end'/the_end
