@@ -654,3 +654,6 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [19:58:28] [Craft Scheduler Thread - 453/INFO]: [OpenAudioMc] [OpenAudioMc] VoiceChat seems to be enabled for this account! Requesting RTC and Password...
 [19:58:30] [Craft Scheduler Thread - 456/INFO]: [OpenAudioMc] [OpenAudioMc] Attempting to login to voice chat...
 [19:58:30] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Connected to voicechat!
+[20:00:10] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[20:00:10] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[20:00:10] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
