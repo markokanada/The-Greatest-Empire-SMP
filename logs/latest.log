@@ -709,3 +709,6 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [20:21:33] [Server thread/INFO]: [KellSo: Set the time to 1000]
 [20:21:43] [Server thread/INFO]: KellSo issued server command: /toggledownfall
 [20:21:43] [Server thread/INFO]: [KellSo: Toggled downfall]
+[20:31:19] [Server thread/INFO]: KellSo issued server command: /give KellSo minecraft:bed
+[20:31:19] [Server thread/INFO]: [KellSo: Given [White Bed] * 1 to KellSo]
+[20:31:24] [Server thread/WARN]: KellSo moved wrongly!
