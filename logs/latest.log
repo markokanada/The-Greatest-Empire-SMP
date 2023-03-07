@@ -16092,3 +16092,115 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [00:14:54] [Server thread/INFO] [FML]: Unloading dimension -1
 [00:14:54] [Server thread/INFO] [FML]: Unloading dimension 1
 [00:14:54] [Server thread/INFO] [FML]: Unloading dimension -11325
+[00:15:23] [User Authenticator #1/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[00:15:24] [Server thread/DEBUG] [projecte]: Clearing offline data cache in preparation to load online data
+[00:15:24] [Server thread/TRACE] [FML]: Handshake channel activating
+[00:15:24] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[00:15:24] [Server thread/DEBUG] [FML]:   Next: HELLO
+[00:15:24] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[00:15:24] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[00:15:24] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ModList:43 mods->FMLHandshakeServerState$2:HELLO
+[00:15:24] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 43 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.179,ptrmodellib@1.0.5,simplyjetpacks@1.12.2-2.2.19.0,immersiveengineering@0.12-98,redstoneflux@2.1.1,valkyrielib@1.12.2-2.0.20.1,universalmodifiers@1.12.2-1.0.16.1,rftools@7.73,jei@4.16.1.1001,chickenchunks@2.4.2.74,movingworld@1.12-6.342,projecte@1.12.2-PE1.4.1,extrautils2@1.0,com.elytradev.movingworld.common.asm.coremod@,mantle@1.12-1.3.3.55,simplegenerators@1.12.2-2.0.20.2,mcp@9.42,collective@3.0,storagedrawers@5.2.2,galacticraftcore@4.0.5,chameleon@1.12-4.1.3,FML@8.0.99.99,malilib@0.10.0-dev.23,structurize@1.12.2-0.10.277-RELEASE,davincisvessels@@DVESSELSVER@,worldedit@6.1.10,minecolonies@1.12.2-0.11.841-ALPHA,computercraft@1.80pr1,litematica@0.0.0-dev.20191217.195055,moreoverlays@1.15.1,bigreactors@1.12.2-0.4.5.68,waila@1.8.26,props@2.6.3.7,galacticraftplanets@4.0.5,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.5,mcjtylib_ng@3.5.4,forge@14.23.5.2860,holoinventory@2.1.1.151,stackrefill@2.0,codechickenlib@3.2.3.358,zerocore@1.12.2-0.1.2.9
+[00:15:24] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: WAITINGCACK
+[00:15:24] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[00:15:24] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: COMPLETE
+[00:15:24] [Netty Epoll Server IO #2/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[00:15:26] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[00:15:26] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: DONE
+[00:15:26] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[00:15:26] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[00:15:26] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:15:27] [Server thread/INFO] [Waila]: Player EntityPlayerMP['KellSo'/352, uuid='2f743db9-a916-3145-9b53-c628e038f8ad', l='world', x=961,30, y=51,00, z=-1173,60, cx=60, cd=-74, tl=23257415, v=true, d=false](KellSo at 961.3000000119209,51.0,-1173.5992842047701) connected. Sending ping
+[00:15:27] [Server thread/DEBUG] [projecte]: EMC data size: 24752 bytes
+[00:15:27] [Server thread/DEBUG] [projecte]: Sent knowledge and bag data to KellSo
+[00:15:27] [Server thread/DEBUG] [extrautils2]: OTL: Check Packet SERVER
+[00:15:27] [Server thread/DEBUG] [extrautils2]: OTL: Encode Packet: com.rwtema.extrautils2.items.ItemLawSword$PacketLawSwordNotifier
+[00:15:27] [Server thread/INFO] [structurize]: New Server UUID eab9ecb4-c1f7-40a5-a300-cf5bcde1b47f
+[00:15:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo has made the advancement [Vanilla Jetpacks]
+[00:15:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo has made the advancement [Immersive Engineering Jetpacks]
+[00:15:27] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: KellSo[/192.168.1.169:63986] logged in with entity id 352 at ([world]961.3000000119209, 51.0, -1173.5992842047701)
+[00:15:27] [Server thread/DEBUG] [extrautils2]: OTL: Encode Packet: com.rwtema.extrautils2.power.PowerManager$PacketPower
+[00:15:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo has completed the challenge [Simply Jetpacks 2]
+[00:15:33] [Netty Epoll Server IO #2/DEBUG] [extrautils2]: OTL: Decode Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt
+[00:15:33] [Netty Epoll Server IO #2/DEBUG] [extrautils2]: OTL: Handle Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt : SERVER
+[00:15:33] [Netty Epoll Server IO #2/DEBUG] [extrautils2]: OTL: Scheduling Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt : SERVER
+[00:15:45] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 3
+[00:15:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Spectator Mode]
+[00:15:50] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /tps
+[00:15:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /tps
+[00:15:56] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /tps
+[00:15:56] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /tps
+[00:15:57] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /tps
+[00:16:07] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /tps
+[00:16:09] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /tps
+[00:16:11] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /tps
+[00:16:12] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /tps
+[00:16:26] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /echest
+[00:16:26] [Server thread/INFO] [Minecraft]: [SimpleEnderChest] KellSo opened his EnderChest at Location{world=CraftWorld{name=world},x=917.1263724734566,y=66.04329998197632,z=-1110.8643337550425,pitch=4.2380977,yaw=17.0094} !
+[00:16:26] [Server thread/ERROR] [net.minecraft.network.NetHandlerPlayServer]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'echest' in plugin SimpleEnderChest v1.3
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[PluginCommand.class:1.12.2-b43297ee]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:153) ~[SimpleCommandMap.class:1.12.2-b43297ee]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:689) ~[CraftServer.class:1.12.2-b43297ee]
+	at net.minecraft.network.NetHandlerPlayServer.func_147361_d(NetHandlerPlayServer.java:1604) ~[pa.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147354_a(NetHandlerPlayServer.java:1452) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(CPacketChatMessage.java:50) ~[la.class:?]
+	at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(CPacketChatMessage.java:11) ~[la.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:14) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_292]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_292]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:861) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:800) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:672) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_292]
+Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
+	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[PluginCommand.class:1.12.2-b43297ee]
+	... 15 more
+[00:17:18] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /tps
+[00:17:26] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /time set 0
+[00:17:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set the time to 0]
+[00:19:14] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /home
+[00:19:20] [Server thread/WARN] [me.downthepark.sethome.SetHome]: [SetHome] Task #191 for SetHome v5.1.2 generated an exception
+java.lang.NoSuchFieldError: ENTITY_ENDERMAN_TELEPORT
+	at me.downthepark.sethome.SetHome.sendPlayerHome(SetHome.java:127) ~[?:?]
+	at me.downthepark.sethome.SetHome.lambda$onCommand$0(SetHome.java:77) ~[?:?]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftTask.run(CraftTask.java:65) ~[CraftTask.class:1.12.2-b43297ee]
+	at org.bukkit.craftbukkit.v1_12_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:429) [CraftScheduler.class:1.12.2-b43297ee]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:852) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:800) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:672) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_292]
+[00:19:20] [Server thread/ERROR] [global]: TIMING_STACK_CORRUPTION - Report this to the plugin SetHome(Look for errors above this in the logs) (TimingIdentifier{id=SetHome:Task: me.downthepark.sethome.SetHome$$Lambda$1079/221970497 (Single)} did not stopTiming)
+java.lang.Throwable: null
+	at co.aikar.timings.TimingHandler.stopTiming(TimingHandler.java:113) [TimingHandler.class:1.12.2-b43297ee]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:853) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:800) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:672) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_292]
+[00:20:07] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[00:20:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[00:20:30] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo lost connection: Disconnected
+[00:20:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo left the game
+[00:20:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:25:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:28:18] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer]: Exception handling console input
+java.io.IOException: Kimeneti/bemeneti hiba
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_292]
+	at java.io.FileInputStream.read(FileInputStream.java:255) ~[?:1.8.0_292]
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246) ~[?:1.8.0_292]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:265) ~[?:1.8.0_292]
+	at jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:245) ~[NonBlockingInputStream.class:?]
+	at jline.internal.InputStreamReader.read(InputStreamReader.java:257) ~[InputStreamReader.class:?]
+	at jline.internal.InputStreamReader.read(InputStreamReader.java:194) ~[InputStreamReader.class:?]
+	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2136) ~[ConsoleReader.class:?]
+	at jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2126) ~[ConsoleReader.class:?]
+	at jline.console.ConsoleReader.readLineSimple(ConsoleReader.java:3228) ~[ConsoleReader.class:?]
+	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2441) ~[ConsoleReader.class:?]
+	at jline.console.ConsoleReader.readLine(ConsoleReader.java:2372) ~[ConsoleReader.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer$2.run(DedicatedServer.java:124) [nz$2.class:?]
+[00:28:18] [Thread-3/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
