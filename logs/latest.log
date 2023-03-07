@@ -408,3 +408,30 @@ Caused by: java.lang.ClassNotFoundException: net.milkbowl.vault.permission.Permi
 [12:33:40] [Server thread/INFO]: [KellSo: Set own game mode to Spectator Mode]
 [12:34:05] [Server thread/INFO]: KellSo issued server command: /gamemode 1
 [12:34:05] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[12:35:05] [Server thread/INFO]: KellSo issued server command: /gamemode 3
+[12:35:05] [Server thread/INFO]: [KellSo: Set own game mode to Spectator Mode]
+[12:35:08] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[12:35:08] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[12:35:10] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closing:  - 1000
+[12:35:10] [OaVoiceAPI/INFO]: [OpenAudioMc] [OpenAudioMc] Voicechat ws closed:  - 1000
+[12:35:10] [EventThread/INFO]: [OpenAudioMc] [OpenAudioMc] Expected voicechat shut down.
+[12:39:06] [Server thread/INFO]: KellSo issued server command: /gamemode 3
+[12:39:06] [Server thread/INFO]: [KellSo: Set own game mode to Spectator Mode]
+[12:39:20] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[12:39:20] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[12:39:51] [Server thread/INFO]: KellSo issued server command: /gamemode 0
+[12:39:51] [Server thread/INFO]: [KellSo: Set own game mode to Survival Mode]
+[12:39:54] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[12:39:54] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[12:39:59] [Server thread/INFO]: KellSo issued server command: /gamemode 3
+[12:39:59] [Server thread/INFO]: [KellSo: Set own game mode to Spectator Mode]
+[12:40:09] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[12:40:09] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[12:41:36] [Server thread/INFO]: KellSo issued server command: /gamemode 3
+[12:41:36] [Server thread/INFO]: [KellSo: Set own game mode to Spectator Mode]
+[12:41:54] [Server thread/INFO]: KellSo issued server command: /gamemode 1
+[12:41:54] [Server thread/INFO]: [KellSo: Set own game mode to Creative Mode]
+[12:41:59] [Server thread/INFO]: KellSo issued server command: /gamemode 3
+[12:41:59] [Server thread/INFO]: [KellSo: Set own game mode to Spectator Mode]
+[12:42:27] [Server thread/INFO]: KellSo lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: A kapcsolatot bontotta a távoli fél
+[12:42:27] [Server thread/INFO]: KellSo left the game
