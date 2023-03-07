@@ -647,3 +647,5 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 	... 15 more
 [17:57:29] [Server thread/INFO]: KellSo issued server command: /toggledownfall
 [17:57:29] [Server thread/INFO]: [KellSo: Toggled downfall]
+[18:09:54] [Server thread/INFO]: KellSo lost connection: Disconnected
+[18:09:54] [Server thread/INFO]: KellSo left the game
