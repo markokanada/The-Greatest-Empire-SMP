@@ -1,0 +1,169 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  IELoadingPlugin (ImmersiveEngineering-core-0.12-98.jar)
+  LitematicaCore (litematica-forge-1.12.2-0.0.0-dev.20191217.195055.jar)
+  MaLiLibCore (malilib-forge-1.12.2-0.10.0-dev.23.jar)
+  MicdoodlePlugin (Galacticraft-1.12.2-4.0.5.jar)
+  MovingWorldCore (movingworld-1.12-6.342-full.jar)
+  TLSkinCapeHookLoader (tlskincape_1.12.2-1.4.jar)
+Contact their authors BEFORE contacting forge
+
+// You're mean.
+
+Time: 2023.03.08. 0:04
+Description: Exception in server tick loop
+
+net.minecraftforge.fml.common.LoaderExceptionModCrash: Caught exception from MaLiLib (malilib)
+Caused by: java.lang.NoClassDefFoundError: net/minecraftforge/client/event/GuiScreenEvent$KeyboardInputEvent$Pre
+	at java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.lang.Class.privateGetDeclaredMethods(Class.java:2701)
+	at java.lang.Class.privateGetPublicMethods(Class.java:2902)
+	at java.lang.Class.getMethods(Class.java:1615)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.register(EventBus.java:84)
+	at fi.dy.masa.malilib.MaLiLib.preInit(MaLiLib.java:32)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:637)
+	at sun.reflect.GeneratedMethodAccessor3.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136)
+	at net.minecraftforge.fml.common.Loader.preinitializeMods(Loader.java:600)
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:103)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:337)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:169)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:623)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.ClassNotFoundException: net.minecraftforge.client.event.GuiScreenEvent$KeyboardInputEvent$Pre
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:223)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351)
+	... 41 more
+Caused by: java.lang.NoClassDefFoundError: net/minecraftforge/client/event/GuiScreenEvent$KeyboardInputEvent
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:756)
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:189)
+	... 43 more
+Caused by: java.lang.ClassNotFoundException: net.minecraftforge.client.event.GuiScreenEvent$KeyboardInputEvent
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:110)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351)
+	... 47 more
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Magma Version: 1.12.2-b43297ee
+	Operating System: Linux (amd64) version 6.0.0-0.deb11.6-amd64
+	Java Version: 1.8.0_292, AdoptOpenJDK
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), AdoptOpenJDK
+	Memory: 2289304728 bytes (2183 MB) / 3398434816 bytes (3241 MB) up to 11226054656 bytes (10706 MB)
+	JVM Flags: 0 total; 
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP 9.42 Powered by Forge 14.23.5.2860 40 mods loaded, 40 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State | ID                                           | Version                 | Source                                          | Signature                                |
+	|:----- |:-------------------------------------------- |:----------------------- |:----------------------------------------------- |:---------------------------------------- |
+	| LCH   | minecraft                                    | 1.12.2                  | minecraft.jar                                   | None                                     |
+	| LCH   | mcp                                          | 9.42                    | minecraft.jar                                   | None                                     |
+	| LCH   | FML                                          | 8.0.99.99               | Magma-1.12.2-b43297ee.jar                       | None                                     |
+	| LCH   | forge                                        | 14.23.5.2860            | Magma-1.12.2-b43297ee.jar                       | None                                     |
+	| LCH   | micdoodlecore                                | 4.0.5                   | minecraft.jar                                   | None                                     |
+	| LCH   | com.elytradev.movingworld.common.asm.coremod |                         | minecraft.jar                                   | None                                     |
+	| LCH   | chameleon                                    | 1.12-4.1.3              | Chameleon-1.12-4.1.3.jar                        | None                                     |
+	| LCH   | codechickenlib                               | 3.2.3.358               | CodeChickenLib-1.12.2-3.2.3.358-universal.jar   | f1850c39b2516232a2108a7bd84d1cb5df93b261 |
+	| LCH   | chickenchunks                                | 2.4.2.74                | ChickenChunks-1.12.2-2.4.2.74-universal.jar     | f1850c39b2516232a2108a7bd84d1cb5df93b261 |
+	| LCH   | collective                                   | 3.0                     | collective-1.12.2-3.0.jar                       | None                                     |
+	| LCH   | computercraft                                | 1.80pr1                 | ComputerCraft-Mod-1.12.2.jar                    | None                                     |
+	| LCH   | movingworld                                  | 1.12-6.342              | movingworld-1.12-6.342-full.jar                 | None                                     |
+	| LCH   | davincisvessels                              | @DVESSELSVER@           | davincisvessels-1.12-6.340-full.jar             | None                                     |
+	| LCH   | props                                        | 2.6.3.7                 | Decocraft-2.6.3.7_1.12.2.jar                    | None                                     |
+	| LCH   | jei                                          | 4.16.1.1001             | jei_1.12.2-4.16.1.1001.jar                      | None                                     |
+	| LCH   | mantle                                       | 1.12-1.3.3.55           | Mantle-1.12-1.3.3.55.jar                        | None                                     |
+	| LCH   | tconstruct                                   | 1.12.2-2.13.0.179       | TConstruct-1.12.2-2.13.0.179.jar                | None                                     |
+	| LCH   | extrautils2                                  | 1.0                     | extrautils2-1.12-1.9.9.jar                      | None                                     |
+	| LCH   | zerocore                                     | 1.12.2-0.1.2.9          | zerocore-1.12.2-0.1.2.9.jar                     | None                                     |
+	| LCH   | bigreactors                                  | 1.12.2-0.4.5.68         | ExtremeReactors-1.12.2-0.4.5.68.jar             | None                                     |
+	| LCH   | galacticraftcore                             | 4.0.5                   | Galacticraft-1.12.2-4.0.5.jar                   | None                                     |
+	| LCH   | galacticraftplanets                          | 4.0.5                   | Galacticraft-1.12.2-4.0.5.jar                   | None                                     |
+	| LCH   | holoinventory                                | 2.1.1.151               | HoloInventory-1.12.2-2.1.1.151.jar              | None                                     |
+	| LCH   | waila                                        | 1.8.26                  | Hwyla-1.8.26-B41_1.12.2.jar                     | None                                     |
+	| LCE   | malilib                                      | 0.10.0-dev.23           | malilib-forge-1.12.2-0.10.0-dev.23.jar          | 2b03e1423915a189b8094816baa18f239d576dff |
+	| LC    | mcjtylib_ng                                  | 3.5.4                   | mcjtylib-1.12-3.5.4.jar                         | None                                     |
+	| LC    | projecte                                     | 1.12.2-PE1.4.1          | ProjectE-1.12.2-PE1.4.1.jar                     | None                                     |
+	| LC    | redstoneflux                                 | 2.1.1                   | RedstoneFlux-1.12-2.1.1.1-universal.jar         | None                                     |
+	| LC    | rftools                                      | 7.73                    | rftools-1.12-7.73.jar                           | None                                     |
+	| LC    | valkyrielib                                  | 1.12.2-2.0.20.1         | valkyrielib-1.12.2-2.0.20.1.jar                 | None                                     |
+	| LC    | simplegenerators                             | 1.12.2-2.0.20.2         | simplegenerators-1.12.2-2.0.20.2.jar            | None                                     |
+	| LC    | immersiveengineering                         | 0.12-98                 | ImmersiveEngineering-0.12-98.jar                | None                                     |
+	| LC    | simplyjetpacks                               | 1.12.2-2.2.19.0         | SimplyJetpacks2-1.12.2-2.2.19.0.jar             | None                                     |
+	| LC    | stackrefill                                  | 2.0                     | stackrefill_1.12.2-2.0.jar                      | None                                     |
+	| LC    | storagedrawers                               | 5.2.2                   | StorageDrawers-1.12.2-5.4.2.jar                 | None                                     |
+	| LC    | tlauncher_custom_cape_skin                   | 1.4                     | tlskincape_1.12.2-1.4.jar                       | None                                     |
+	| LC    | universalmodifiers                           | 1.12.2-1.0.16.1         | valkyrielib-1.12.2-2.0.20.1.jar                 | None                                     |
+	| LC    | worldedit                                    | 6.1.10                  | worldedit-forge-mc1.12.2-6.1.10-dist.jar        | None                                     |
+	| LC    | structurize                                  | 1.12.2-0.10.277-RELEASE | structurize-1.12.2-0.10.277-RELEASE.jar         | None                                     |
+	| LC    | minecolonies                                 | 1.12.2-0.11.841-ALPHA   | minecolonies-1.12.2-0.11.841-BETA-universal.jar | None                                     |
+
+	Loaded coremods (and transformers): 
+IELoadingPlugin (ImmersiveEngineering-core-0.12-98.jar)
+  blusunrize.immersiveengineering.common.asm.IEClassTransformer
+LitematicaCore (litematica-forge-1.12.2-0.0.0-dev.20191217.195055.jar)
+  
+MaLiLibCore (malilib-forge-1.12.2-0.10.0-dev.23.jar)
+  
+MicdoodlePlugin (Galacticraft-1.12.2-4.0.5.jar)
+  micdoodle8.mods.miccore.MicdoodleTransformer
+MovingWorldCore (movingworld-1.12-6.342-full.jar)
+  
+TLSkinCapeHookLoader (tlskincape_1.12.2-1.4.jar)
+  gloomyfolken.hooklib.minecraft.PrimaryClassTransformer
+	Pulsar/tconstruct loaded Pulses: 
+		- TinkerCommons (Enabled/Forced)
+		- TinkerWorld (Enabled/Not Forced)
+		- TinkerTools (Enabled/Not Forced)
+		- TinkerHarvestTools (Enabled/Forced)
+		- TinkerMeleeWeapons (Enabled/Forced)
+		- TinkerRangedWeapons (Enabled/Forced)
+		- TinkerModifiers (Enabled/Forced)
+		- TinkerSmeltery (Enabled/Not Forced)
+		- TinkerGadgets (Enabled/Not Forced)
+		- TinkerOredict (Enabled/Forced)
+		- TinkerIntegration (Enabled/Forced)
+		- TinkerFluids (Enabled/Forced)
+		- TinkerMaterials (Enabled/Forced)
+		- TinkerModelRegister (Enabled/Forced)
+		- wailaIntegration (Enabled/Not Forced)
+
+	Profiler Position: N/A (disabled)
+	Is Modded: Definitely; Server brand changed to 'Magma'
+	Type: Dedicated Server (map_server.txt)
