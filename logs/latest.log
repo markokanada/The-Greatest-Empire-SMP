@@ -745,3 +745,7 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [20:56:55] [Server thread/INFO]: KellSo issued server command: /pl
 [21:06:38] [Server thread/INFO]: KellSo lost connection: Disconnected
 [21:06:38] [Server thread/INFO]: KellSo left the game
+[21:31:12] [Craft Scheduler Thread - 528/INFO]: [OpenAudioMc] [OpenAudioMc] Starting mojang cleanup, this can take a while...
+[21:31:12] [Craft Scheduler Thread - 528/INFO]: [OpenAudioMc] [OpenAudioMc] Purging old accounts of inactive players
+[21:31:12] [Craft Scheduler Thread - 528/INFO]: [OpenAudioMc] [OpenAudioMc] Removed the profile of 0 players
+[21:31:12] [Craft Scheduler Thread - 528/INFO]: [OpenAudioMc] [OpenAudioMc] Finished cleanup
