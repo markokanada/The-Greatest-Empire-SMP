@@ -16615,3 +16615,21 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [20:24:10] [Server thread/INFO] [minecolonies]: Colony 1 - new AbstractBuilding for class com.minecolonies.coremod.blocks.huts.BlockHutLibrary at BlockPos{x=1066, y=70, z=-1329}
 [20:24:10] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1066, y=70, z=-1329} is using schematics/Nordic/Library1 instead of schematics/Nordic/Library1
 [20:24:10] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1066, y=70, z=-1329} is using schematics/Nordic/Library1 instead of schematics/Nordic/Library1
+[20:25:15] [Server thread/INFO] [minecolonies]: Colony 1 - new AbstractBuilding for class com.minecolonies.coremod.blocks.huts.BlockHutSwineHerder at BlockPos{x=1042, y=70, z=-1302}
+[20:25:15] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1042, y=70, z=-1302} is using schematics/Nordic/SwineHerder1 instead of schematics/Nordic/SwineHerder1
+[20:25:15] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1042, y=70, z=-1302} is using schematics/Nordic/SwineHerder1 instead of schematics/Nordic/SwineHerder1
+[20:25:21] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: David_alja issued server command: /gamemode 1
+[20:25:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [David_alja: Set own game mode to Creative Mode]
+[20:26:21] [Server thread/INFO] [minecolonies]: Colony 1 - new AbstractBuilding for class com.minecolonies.coremod.blocks.huts.BlockHutLumberjack at BlockPos{x=967, y=64, z=-1378}
+[20:26:21] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=967, y=64, z=-1378} is using schematics/wooden/Lumberjack1 instead of schematics/wooden/Lumberjack1
+[20:26:21] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=967, y=64, z=-1378} is using schematics/wooden/Lumberjack1 instead of schematics/wooden/Lumberjack1
+[20:26:38] [Server thread/INFO] [minecolonies]: Colony 1 - new AbstractBuilding for class com.minecolonies.coremod.blocks.huts.BlockHutLumberjack at BlockPos{x=945, y=66, z=-1381}
+[20:26:38] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=945, y=66, z=-1381} is using schematics/wooden/Lumberjack1 instead of schematics/wooden/Lumberjack1
+[20:26:38] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=945, y=66, z=-1381} is using schematics/wooden/Lumberjack1 instead of schematics/wooden/Lumberjack1
+[20:26:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:27:27] [Server thread/INFO] [minecolonies]: Colony 1 - new AbstractBuilding for class com.minecolonies.coremod.blocks.huts.BlockHutMiner at BlockPos{x=931, y=64, z=-1382}
+[20:27:27] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=931, y=64, z=-1382} is using schematics/Nordic/Miner1 instead of schematics/Nordic/Miner1
+[20:27:27] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=931, y=64, z=-1382} is using schematics/Nordic/Miner1 instead of schematics/Nordic/Miner1
+[20:28:11] [Server thread/INFO] [minecolonies]: Colony 1 - new AbstractBuilding for class com.minecolonies.coremod.blocks.huts.BlockHutMiner at BlockPos{x=928, y=63, z=-1336}
+[20:28:11] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=928, y=63, z=-1336} is using schematics/wooden/Miner1 instead of schematics/wooden/Miner1
+[20:28:11] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=928, y=63, z=-1336} is using schematics/wooden/Miner1 instead of schematics/wooden/Miner1
