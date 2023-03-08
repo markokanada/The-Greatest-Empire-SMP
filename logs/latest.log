@@ -16210,3 +16210,11 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [13:03:31] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /tps
 [13:03:36] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
 [13:03:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[13:07:00] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /tps
+[13:07:05] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /tps
+[13:07:09] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /tps
+[13:07:49] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /tps
+[13:08:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[13:11:59] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo lost connection: Disconnected
+[13:11:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo left the game
+[13:13:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
