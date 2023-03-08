@@ -562,6 +562,12 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/root": {
+    "criteria": {
+      "tick": "2023-03-08 20:02:56 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_bonemeal": "2022-04-02 17:12:45 +0200"
@@ -1150,6 +1156,12 @@
     },
     "done": true
   },
+  "simplyjetpacks:root": {
+    "criteria": {
+      "location": "2023-03-08 20:02:57 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2022-04-09 20:57:14 +0200"
@@ -1345,6 +1357,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
       "has_bonemeal": "2022-04-02 17:12:45 +0200"
+    },
+    "done": true
+  },
+  "simplyjetpacks:ie/root_ie": {
+    "criteria": {
+      "code_trigger": "2023-03-08 20:02:56 +0100"
     },
     "done": true
   },
@@ -1594,6 +1612,12 @@
     },
     "done": true
   },
+  "simplyjetpacks:vanilla/root_vanilla": {
+    "criteria": {
+      "code_trigger": "2023-03-08 20:02:56 +0100"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2022-03-28 21:02:04 +0200"
@@ -1651,6 +1675,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_the_recipe": "2022-03-28 21:16:51 +0200"
+    },
+    "done": true
+  },
+  "computercraft:recipes/normal_pocket_computer": {
+    "criteria": {
+      "has_apple": "2023-03-08 20:02:56 +0100"
     },
     "done": true
   },
@@ -2074,6 +2104,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2022-03-28 20:57:34 +0200"
+    },
+    "done": true
+  },
+  "computercraft:recipes/advanced_pocket_computer": {
+    "criteria": {
+      "has_apple": "2023-03-08 20:02:56 +0100"
     },
     "done": true
   },
