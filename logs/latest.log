@@ -16603,3 +16603,15 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [20:17:35] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: David_alja issued server command: /gamemode 0
 [20:17:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [David_alja: Set own game mode to Survival Mode]
 [20:19:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:20:09] [Server thread/INFO] [minecolonies]: Colony 1 - new AbstractBuilding for class com.minecolonies.coremod.blocks.huts.BlockHutChickenHerder at BlockPos{x=1114, y=70, z=-1322}
+[20:20:09] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1114, y=70, z=-1322} is using schematics/Nordic/ChickenHerder1 instead of schematics/Nordic/ChickenHerder1
+[20:20:09] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1114, y=70, z=-1322} is using schematics/Nordic/ChickenHerder1 instead of schematics/Nordic/ChickenHerder1
+[20:21:13] [Server thread/INFO] [minecolonies]: Colony 1 - new AbstractBuilding for class com.minecolonies.coremod.blocks.huts.BlockHutComposter at BlockPos{x=1088, y=70, z=-1321}
+[20:21:13] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1088, y=70, z=-1321} is using schematics/Nordic/Composter1 instead of schematics/Nordic/Composter1
+[20:21:13] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1088, y=70, z=-1321} is using schematics/Nordic/Composter1 instead of schematics/Nordic/Composter1
+[20:22:23] [Server thread/INFO] [minecolonies]: Colony 1 - new AbstractBuilding for class com.minecolonies.coremod.blocks.huts.BlockHutCowboy at BlockPos{x=1104, y=70, z=-1301}
+[20:22:23] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1104, y=70, z=-1301} is using schematics/Nordic/Cowboy1 instead of schematics/Nordic/Cowboy1
+[20:22:23] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1104, y=70, z=-1301} is using schematics/Nordic/Cowboy1 instead of schematics/Nordic/Cowboy1
+[20:24:10] [Server thread/INFO] [minecolonies]: Colony 1 - new AbstractBuilding for class com.minecolonies.coremod.blocks.huts.BlockHutLibrary at BlockPos{x=1066, y=70, z=-1329}
+[20:24:10] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1066, y=70, z=-1329} is using schematics/Nordic/Library1 instead of schematics/Nordic/Library1
+[20:24:10] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1066, y=70, z=-1329} is using schematics/Nordic/Library1 instead of schematics/Nordic/Library1
