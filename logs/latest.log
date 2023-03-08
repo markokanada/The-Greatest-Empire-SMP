@@ -16885,3 +16885,9 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[PluginCommand.class:1.12.2-b43297ee]
 	... 15 more
+[21:09:09] [Netty Epoll Server IO #1/DEBUG] [FML]: Muted NetworkDispatcher exception
+io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
+	at io.netty.channel.unix.FileDescriptor.readAddress(..)(Unknown Source) ~[FileDescriptor.class:?]
+[21:09:09] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: David_alja lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
+[21:09:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: David_alja left the game
+[21:09:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
