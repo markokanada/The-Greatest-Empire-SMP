@@ -16596,3 +16596,10 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [20:05:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [20:12:01] [Server thread/INFO] []: com.valkyrieofnight.vliblegacy.m_guide.item.ItemGuide$GuiRegistryID@3443e058
 [20:12:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:15:04] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: David_alja issued server command: /gamemode 1
+[20:15:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [David_alja: Set own game mode to Creative Mode]
+[20:17:31] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: David_alja issued server command: /gamemode 01
+[20:17:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [David_alja: Set own game mode to Creative Mode]
+[20:17:35] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: David_alja issued server command: /gamemode 0
+[20:17:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [David_alja: Set own game mode to Survival Mode]
+[20:19:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
