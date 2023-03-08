@@ -2200,6 +2200,12 @@
     },
     "done": true
   },
+  "projecte:alchemical_chest": {
+    "criteria": {
+      "alch_chest": "2023-03-08 17:39:00 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2022-03-28 21:52:58 +0200"
