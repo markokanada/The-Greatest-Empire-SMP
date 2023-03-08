@@ -16557,3 +16557,11 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [19:49:40] [Server thread/INFO] [minecolonies]: Colony 1 - new AbstractBuilding for class com.minecolonies.coremod.blocks.huts.BlockHutBuilder at BlockPos{x=941, y=64, z=-1326}
 [19:49:40] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=941, y=64, z=-1326} is using schematics/Nordic/Builder1 instead of schematics/Nordic/Builder1
 [19:49:40] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=941, y=64, z=-1326} is using schematics/Nordic/Builder1 instead of schematics/Nordic/Builder1
+[19:50:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:53:17] [Server thread/INFO] [minecolonies]: Colony 1 - new AbstractBuilding for class com.minecolonies.coremod.blocks.huts.BlockHutBuilder at BlockPos{x=1039, y=64, z=-1253}
+[19:53:17] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1039, y=64, z=-1253} is using schematics/Nordic/Builder1 instead of schematics/Nordic/Builder1
+[19:53:17] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1039, y=64, z=-1253} is using schematics/Nordic/Builder1 instead of schematics/Nordic/Builder1
+[19:57:06] [Server thread/INFO] [minecolonies]: Colony 1 - new AbstractBuilding for class com.minecolonies.coremod.blocks.huts.BlockHutBaker at BlockPos{x=1087, y=63, z=-1254}
+[19:57:06] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1087, y=63, z=-1254} is using schematics/Nordic/Baker1 instead of schematics/Nordic/Baker1
+[19:57:06] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1087, y=63, z=-1254} is using schematics/Nordic/Baker1 instead of schematics/Nordic/Baker1
+[19:57:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
