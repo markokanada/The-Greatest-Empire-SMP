@@ -16481,3 +16481,7 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [19:00:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [19:07:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [19:14:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:18:02] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /give KellSo minecraft:book
+[19:18:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Given [Book] * 1 to KellSo]
+[19:20:00] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /give KellSo 116
+[19:20:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: There is no such item with name minecraft:116]
