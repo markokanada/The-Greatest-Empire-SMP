@@ -16667,3 +16667,27 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [20:38:14] [Server thread/INFO] [minecolonies]: Colony 1 - new AbstractBuilding for class com.minecolonies.coremod.blocks.huts.BlockHutShepherd at BlockPos{x=1037, y=64, z=-1334}
 [20:38:14] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1037, y=64, z=-1334} is using schematics/wooden/Shepherd1 instead of schematics/wooden/Shepherd1
 [20:38:14] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1037, y=64, z=-1334} is using schematics/wooden/Shepherd1 instead of schematics/wooden/Shepherd1
+[20:40:15] [Server thread/INFO] [minecolonies]: Colony 1 - new AbstractBuilding for class com.minecolonies.coremod.blocks.huts.BlockHutWareHouse at BlockPos{x=1114, y=63, z=-1243}
+[20:40:15] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1114, y=63, z=-1243} is using schematics/wooden/WareHouse1 instead of schematics/wooden/WareHouse1
+[20:40:15] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1114, y=63, z=-1243} is using schematics/wooden/WareHouse1 instead of schematics/wooden/WareHouse1
+[20:40:36] [Server thread/INFO] [minecolonies]: Colony 1 - new AbstractBuilding for class com.minecolonies.coremod.blocks.huts.BlockHutCitizen at BlockPos{x=1127, y=63, z=-1238}
+[20:40:36] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1127, y=63, z=-1238} is using schematics/wooden/Citizen1 instead of schematics/wooden/Citizen1
+[20:40:36] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1127, y=63, z=-1238} is using schematics/wooden/Citizen1 instead of schematics/wooden/Citizen1
+[20:40:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:43:03] [Server thread/INFO] [minecolonies]: Colony 1 - new AbstractBuilding for class com.minecolonies.coremod.blocks.huts.BlockHutDeliveryman at BlockPos{x=1082, y=70, z=-1304}
+[20:43:03] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1082, y=70, z=-1304} is using schematics/wooden/Deliveryman1 instead of schematics/wooden/Deliveryman1
+[20:43:03] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1082, y=70, z=-1304} is using schematics/wooden/Deliveryman1 instead of schematics/wooden/Deliveryman1
+[20:43:21] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /tps
+[20:43:36] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /tps
+[20:43:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /tps
+[20:43:38] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /tps
+[20:43:39] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /tps
+[20:43:40] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /tps
+[20:43:40] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /tps
+[20:43:41] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /tps
+[20:43:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /tps
+[20:43:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /tps
+[20:43:43] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /tps
+[20:43:58] [Server thread/INFO] [minecolonies]: Colony 1 - new AbstractBuilding for class com.minecolonies.coremod.blocks.huts.BlockHutDeliveryman at BlockPos{x=1059, y=70, z=-1304}
+[20:43:58] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1059, y=70, z=-1304} is using schematics/wooden/Deliveryman1 instead of schematics/wooden/Deliveryman1
+[20:43:58] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1059, y=70, z=-1304} is using schematics/wooden/Deliveryman1 instead of schematics/wooden/Deliveryman1
