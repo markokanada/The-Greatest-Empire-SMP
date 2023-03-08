@@ -16594,3 +16594,5 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [20:02:58] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1096, y=63, z=-1238} is using schematics/Medieval Oak/Blacksmith1 instead of schematics/Medieval Oak/Blacksmith1
 [20:02:58] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1096, y=63, z=-1238} is using schematics/Medieval Oak/Blacksmith1 instead of schematics/Medieval Oak/Blacksmith1
 [20:05:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:12:01] [Server thread/INFO] []: com.valkyrieofnight.vliblegacy.m_guide.item.ItemGuide$GuiRegistryID@3443e058
+[20:12:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
