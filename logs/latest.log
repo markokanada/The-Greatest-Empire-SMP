@@ -16691,3 +16691,48 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [20:43:58] [Server thread/INFO] [minecolonies]: Colony 1 - new AbstractBuilding for class com.minecolonies.coremod.blocks.huts.BlockHutDeliveryman at BlockPos{x=1059, y=70, z=-1304}
 [20:43:58] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1059, y=70, z=-1304} is using schematics/wooden/Deliveryman1 instead of schematics/wooden/Deliveryman1
 [20:43:58] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1059, y=70, z=-1304} is using schematics/wooden/Deliveryman1 instead of schematics/wooden/Deliveryman1
+[20:45:18] [Server thread/INFO] [minecolonies]: Colony 1 - new AbstractBuilding for class com.minecolonies.coremod.blocks.huts.BlockHutCitizen at BlockPos{x=913, y=66, z=-1294}
+[20:45:18] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=913, y=66, z=-1294} is using schematics/Nordic/Citizen1 instead of schematics/Nordic/Citizen1
+[20:45:18] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=913, y=66, z=-1294} is using schematics/Nordic/Citizen1 instead of schematics/Nordic/Citizen1
+[20:45:45] [Server thread/INFO] [minecolonies]: Colony 1 - new AbstractBuilding for class com.minecolonies.coremod.blocks.huts.BlockHutCitizen at BlockPos{x=921, y=64, z=-1309}
+[20:45:45] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=921, y=64, z=-1309} is using schematics/wooden/Citizen1 instead of schematics/wooden/Citizen1
+[20:45:45] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=921, y=64, z=-1309} is using schematics/wooden/Citizen1 instead of schematics/wooden/Citizen1
+[20:46:03] [Server thread/INFO] [minecolonies]: Colony 1 - new AbstractBuilding for class com.minecolonies.coremod.blocks.huts.BlockHutCitizen at BlockPos{x=908, y=66, z=-1275}
+[20:46:03] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=908, y=66, z=-1275} is using schematics/wooden/Citizen1 instead of schematics/wooden/Citizen1
+[20:46:03] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=908, y=66, z=-1275} is using schematics/wooden/Citizen1 instead of schematics/wooden/Citizen1
+[20:46:17] [Server thread/INFO] [minecolonies]: Colony 1 - new AbstractBuilding for class com.minecolonies.coremod.blocks.huts.BlockHutCitizen at BlockPos{x=909, y=66, z=-1258}
+[20:46:17] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=909, y=66, z=-1258} is using schematics/wooden/Citizen1 instead of schematics/wooden/Citizen1
+[20:46:17] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=909, y=66, z=-1258} is using schematics/wooden/Citizen1 instead of schematics/wooden/Citizen1
+[20:46:34] [Server thread/INFO] [minecolonies]: Colony 1 - new AbstractBuilding for class com.minecolonies.coremod.blocks.huts.BlockHutFarmer at BlockPos{x=908, y=66, z=-1240}
+[20:46:34] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=908, y=66, z=-1240} is using schematics/wooden/Farmer1 instead of schematics/wooden/Farmer1
+[20:46:34] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=908, y=66, z=-1240} is using schematics/wooden/Farmer1 instead of schematics/wooden/Farmer1
+[20:47:16] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1012, y=65, z=-1366} is using schematics/wooden/TownHall1 instead of schematics/wooden/TownHall1
+[20:47:32] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=985, y=64, z=-1354} is using schematics/Nordic/Builder1 instead of schematics/Nordic/Builder1
+[20:47:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo has made the advancement [Start your Builder]
+[20:48:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:48:59] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1039, y=64, z=-1253} is using schematics/Nordic/Builder1 instead of schematics/Nordic/Builder1
+[20:49:50] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=941, y=64, z=-1326} is using schematics/Nordic/Builder1 instead of schematics/Nordic/Builder1
+[20:50:00] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /echest
+[20:50:00] [Server thread/INFO] [Minecraft]: [SimpleEnderChest] KellSo opened his EnderChest at Location{world=CraftWorld{name=world},x=951.2620709630723,y=64.0,z=-1324.427418213373,pitch=22.393248,yaw=275.1621} !
+[20:50:00] [Server thread/ERROR] [net.minecraft.network.NetHandlerPlayServer]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'echest' in plugin SimpleEnderChest v1.3
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[PluginCommand.class:1.12.2-b43297ee]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:153) ~[SimpleCommandMap.class:1.12.2-b43297ee]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:689) ~[CraftServer.class:1.12.2-b43297ee]
+	at net.minecraft.network.NetHandlerPlayServer.func_147361_d(NetHandlerPlayServer.java:1604) ~[pa.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147354_a(NetHandlerPlayServer.java:1452) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(CPacketChatMessage.java:50) ~[la.class:?]
+	at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(CPacketChatMessage.java:11) ~[la.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:14) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_292]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_292]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:861) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:800) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:672) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_292]
+Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
+	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[PluginCommand.class:1.12.2-b43297ee]
+	... 15 more

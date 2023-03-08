@@ -1912,6 +1912,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/create_build_request_1_builder": {
+    "criteria": {
+      "builder_request": "2023-03-08 20:47:32 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2022-03-28 21:08:07 +0200"
