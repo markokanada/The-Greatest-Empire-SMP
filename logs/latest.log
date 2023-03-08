@@ -16893,3 +16893,5 @@ io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connect
 [21:09:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [21:16:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [21:23:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:29:13] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /difficulty 3
+[21:29:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set game difficulty to Hard]
