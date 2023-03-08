@@ -16654,3 +16654,16 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [20:34:59] [Server thread/INFO] [minecolonies]: Colony 1 - new AbstractBuilding for class com.minecolonies.coremod.blocks.huts.BlockHutFlorist at BlockPos{x=974, y=64, z=-1311}
 [20:34:59] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=974, y=64, z=-1311} is using schematics/Nordic/Florist1 instead of schematics/Nordic/Florist1
 [20:34:59] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=974, y=64, z=-1311} is using schematics/Nordic/Florist1 instead of schematics/Nordic/Florist1
+[20:35:18] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 3
+[20:35:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Spectator Mode]
+[20:35:33] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[20:35:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[20:36:10] [Server thread/INFO] [minecolonies]: Colony 1 - new AbstractBuilding for class com.minecolonies.coremod.blocks.huts.BlockHutSawmill at BlockPos{x=1014, y=64, z=-1352}
+[20:36:10] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1014, y=64, z=-1352} is using schematics/Medieval Spruce/Sawmill1 instead of schematics/Medieval Spruce/Sawmill1
+[20:36:10] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1014, y=64, z=-1352} is using schematics/Medieval Spruce/Sawmill1 instead of schematics/Medieval Spruce/Sawmill1
+[20:37:20] [Server thread/INFO] [minecolonies]: Colony 1 - new AbstractBuilding for class com.minecolonies.coremod.blocks.huts.BlockHutSifter at BlockPos{x=1029, y=64, z=-1354}
+[20:37:20] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1029, y=64, z=-1354} is using schematics/Medieval Spruce/Sifter1 instead of schematics/Medieval Spruce/Sifter1
+[20:37:20] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1029, y=64, z=-1354} is using schematics/Medieval Spruce/Sifter1 instead of schematics/Medieval Spruce/Sifter1
+[20:38:14] [Server thread/INFO] [minecolonies]: Colony 1 - new AbstractBuilding for class com.minecolonies.coremod.blocks.huts.BlockHutShepherd at BlockPos{x=1037, y=64, z=-1334}
+[20:38:14] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1037, y=64, z=-1334} is using schematics/wooden/Shepherd1 instead of schematics/wooden/Shepherd1
+[20:38:14] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1037, y=64, z=-1334} is using schematics/wooden/Shepherd1 instead of schematics/wooden/Shepherd1
