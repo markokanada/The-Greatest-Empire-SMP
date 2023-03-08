@@ -16536,3 +16536,24 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[PluginCommand.class:1.12.2-b43297ee]
 	... 15 more
+[19:42:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo has made the advancement [Start Your Colony]
+[19:42:39] [Server thread/INFO] [minecolonies]: New Colony Id: 1 by KellSo
+[19:42:39] [Server thread/INFO] [minecolonies]: Colony 1 - new AbstractBuilding for class com.minecolonies.coremod.blocks.huts.BlockHutTownHall at BlockPos{x=1012, y=65, z=-1366}
+[19:42:39] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1012, y=65, z=-1366} is using schematics/wooden/TownHall1 instead of schematics/wooden/TownHall1
+[19:42:39] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1012, y=65, z=-1366} is using schematics/wooden/TownHall1 instead of schematics/wooden/TownHall1
+[19:42:46] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 3
+[19:42:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Spectator Mode]
+[19:42:56] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[19:42:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[19:43:13] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[19:43:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[19:43:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:45:25] [Server thread/INFO] [minecolonies]: Colony 1 - new AbstractBuilding for class com.minecolonies.coremod.blocks.huts.BlockHutCrusher at BlockPos{x=1029, y=69, z=-1376}
+[19:45:25] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1029, y=69, z=-1376} is using schematics/Nordic/Crusher1 instead of schematics/Nordic/Crusher1
+[19:45:25] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1029, y=69, z=-1376} is using schematics/Nordic/Crusher1 instead of schematics/Nordic/Crusher1
+[19:47:09] [Server thread/INFO] [minecolonies]: Colony 1 - new AbstractBuilding for class com.minecolonies.coremod.blocks.huts.BlockHutBuilder at BlockPos{x=985, y=64, z=-1354}
+[19:47:09] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=985, y=64, z=-1354} is using schematics/Nordic/Builder1 instead of schematics/Nordic/Builder1
+[19:47:09] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=985, y=64, z=-1354} is using schematics/Nordic/Builder1 instead of schematics/Nordic/Builder1
+[19:49:40] [Server thread/INFO] [minecolonies]: Colony 1 - new AbstractBuilding for class com.minecolonies.coremod.blocks.huts.BlockHutBuilder at BlockPos{x=941, y=64, z=-1326}
+[19:49:40] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=941, y=64, z=-1326} is using schematics/Nordic/Builder1 instead of schematics/Nordic/Builder1
+[19:49:40] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=941, y=64, z=-1326} is using schematics/Nordic/Builder1 instead of schematics/Nordic/Builder1
