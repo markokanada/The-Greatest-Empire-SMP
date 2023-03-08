@@ -16633,3 +16633,24 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [20:28:11] [Server thread/INFO] [minecolonies]: Colony 1 - new AbstractBuilding for class com.minecolonies.coremod.blocks.huts.BlockHutMiner at BlockPos{x=928, y=63, z=-1336}
 [20:28:11] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=928, y=63, z=-1336} is using schematics/wooden/Miner1 instead of schematics/wooden/Miner1
 [20:28:11] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=928, y=63, z=-1336} is using schematics/wooden/Miner1 instead of schematics/wooden/Miner1
+[20:30:54] [Server thread/INFO] [minecolonies]: Colony 1 - new AbstractBuilding for class com.minecolonies.coremod.blocks.huts.BlockHutFisherman at BlockPos{x=1057, y=63, z=-1240}
+[20:30:54] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1057, y=63, z=-1240} is using schematics/Nordic/Fisherman1 instead of schematics/Nordic/Fisherman1
+[20:30:54] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1057, y=63, z=-1240} is using schematics/Nordic/Fisherman1 instead of schematics/Nordic/Fisherman1
+[20:31:13] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: David_alja issued server command: /gamemode 0
+[20:31:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [David_alja: Set own game mode to Survival Mode]
+[20:31:38] [Server thread/INFO] [minecolonies]: Colony 1 - new AbstractBuilding for class com.minecolonies.coremod.blocks.huts.BlockHutCitizen at BlockPos{x=1043, y=64, z=-1238}
+[20:31:38] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1043, y=64, z=-1238} is using schematics/Nordic/Citizen1 instead of schematics/Nordic/Citizen1
+[20:31:38] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1043, y=64, z=-1238} is using schematics/Nordic/Citizen1 instead of schematics/Nordic/Citizen1
+[20:32:26] [Server thread/INFO] [minecolonies]: Colony 1 - new AbstractBuilding for class com.minecolonies.coremod.blocks.huts.BlockHutCitizen at BlockPos{x=1030, y=65, z=-1263}
+[20:32:26] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1030, y=65, z=-1263} is using schematics/wooden/Citizen1 instead of schematics/wooden/Citizen1
+[20:32:26] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1030, y=65, z=-1263} is using schematics/wooden/Citizen1 instead of schematics/wooden/Citizen1
+[20:33:37] [Server thread/INFO] [minecolonies]: Colony 1 - new AbstractBuilding for class com.minecolonies.coremod.blocks.huts.BlockHutCook at BlockPos{x=1017, y=66, z=-1315}
+[20:33:37] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1017, y=66, z=-1315} is using schematics/Nordic/Cook1 instead of schematics/Nordic/Cook1
+[20:33:37] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1017, y=66, z=-1315} is using schematics/Nordic/Cook1 instead of schematics/Nordic/Cook1
+[20:33:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:34:08] [Server thread/INFO] [minecolonies]: Colony 1 - new AbstractBuilding for class com.minecolonies.coremod.blocks.huts.BlockHutEnchanter at BlockPos{x=991, y=71, z=-1322}
+[20:34:08] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=991, y=71, z=-1322} is using schematics/wooden/Enchanter1 instead of schematics/wooden/Enchanter1
+[20:34:08] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=991, y=71, z=-1322} is using schematics/wooden/Enchanter1 instead of schematics/wooden/Enchanter1
+[20:34:59] [Server thread/INFO] [minecolonies]: Colony 1 - new AbstractBuilding for class com.minecolonies.coremod.blocks.huts.BlockHutFlorist at BlockPos{x=974, y=64, z=-1311}
+[20:34:59] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=974, y=64, z=-1311} is using schematics/Nordic/Florist1 instead of schematics/Nordic/Florist1
+[20:34:59] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=974, y=64, z=-1311} is using schematics/Nordic/Florist1 instead of schematics/Nordic/Florist1
