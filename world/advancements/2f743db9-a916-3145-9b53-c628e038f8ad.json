@@ -2224,6 +2224,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/click_gui_button_fulfill": {
+    "criteria": {
+      "click_gui_button_fulfill": "2023-03-08 20:59:32 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_bricks": {
     "criteria": {
       "has_end_stone": "2022-05-13 20:38:15 +0200"
