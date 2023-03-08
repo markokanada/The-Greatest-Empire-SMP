@@ -42,9 +42,6 @@ settings:
       max: 2048.0
     attackDamage:
       max: 2048.0
-  moved-wrongly-threshold: 0.0625
-  moved-too-quickly-multiplier: 10.0
-  item-dirty-ticks: 20
   timeout-time: 60
   restart-on-crash: true
   restart-script: ./start.sh
@@ -55,6 +52,9 @@ settings:
   filter-creative-items: true
   user-cache-size: 1000
   int-cache-limit: 1024
+  moved-wrongly-threshold: 0.0625
+  moved-too-quickly-multiplier: 10.0
+  item-dirty-ticks: 20
   debug: false
 advancements:
   disable-saving: false
@@ -63,7 +63,6 @@ advancements:
 world-settings:
   default:
     verbose: true
-    mob-spawn-range: 4
     growth:
       cactus-modifier: 100
       cane-modifier: 100
@@ -106,8 +105,8 @@ world-settings:
       entity: 50
     squid-spawn-range:
       min: 45.0
+    mob-spawn-range: 4
     zombie-aggressive-towards-villager: true
-    nerf-spawner-mobs: false
     merge-radius:
       exp: 3.0
       item: 2.5
@@ -118,6 +117,7 @@ world-settings:
       monsters: 48
       misc: 32
       other: 64
+    nerf-spawner-mobs: false
     arrow-despawn-rate: 1200
     enable-zombie-pigmen-portal-spawns: true
     wither-spawn-sound-radius: 0
