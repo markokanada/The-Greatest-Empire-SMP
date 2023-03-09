@@ -390,3 +390,15 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[PluginCommand.class:1.12.2-b43297ee]
 	... 15 more
 [18:19:16] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /tps
+[18:20:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:23:22] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 3
+[18:23:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Spectator Mode]
+[18:23:58] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[18:23:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[18:24:01] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 3
+[18:24:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Spectator Mode]
+[18:24:23] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[18:24:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[18:26:40] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo lost connection: Disconnected
+[18:26:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo left the game
+[18:27:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
