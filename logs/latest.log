@@ -16563,3 +16563,16 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[PluginCommand.class:1.12.2-b43297ee]
 	... 15 more
+[16:55:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /toggledownfall
+[16:55:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Toggled downfall]
+[16:55:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:57:31] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[16:57:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[16:57:39] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[16:57:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[16:59:02] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /give KellSo minecraft:glass_pane
+[16:59:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Given [Glass Pane] * 1 to KellSo]
+[16:59:14] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /give KellSo minecraft:glass
+[16:59:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Given [Glass] * 1 to KellSo]
+[16:59:49] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[16:59:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
