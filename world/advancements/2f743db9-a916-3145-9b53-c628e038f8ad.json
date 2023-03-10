@@ -1381,6 +1381,12 @@
     },
     "done": true
   },
+  "rftools:alltheitems": {
+    "criteria": {
+      "placed_storage": "2023-03-10 23:39:02 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_the_recipe": "2022-04-01 20:26:05 +0200"

@@ -17074,3 +17074,10 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [23:39:13] [Netty Epoll Server IO #0/DEBUG] [extrautils2]: OTL: Handle Packet: com.rwtema.extrautils2.power.PacketPowerInfo : SERVER
 [23:39:13] [Netty Epoll Server IO #0/DEBUG] [extrautils2]: OTL: Scheduling Packet: com.rwtema.extrautils2.power.PacketPowerInfo : SERVER
 [23:39:13] [Server thread/DEBUG] [extrautils2]: OTL: Encode Packet: com.rwtema.extrautils2.power.PacketPowerInfo
+[23:40:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:43:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[23:43:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[23:43:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[23:43:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[23:44:24] [Server thread/INFO] []: filePath = /assets/rftools/gui/booster.gui
+[23:44:43] [Async Chat Thread - #0/INFO] []: <KellSo> ^ech
