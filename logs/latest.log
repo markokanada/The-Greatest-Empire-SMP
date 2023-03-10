@@ -16695,3 +16695,5 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [17:54:28] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /help mineColonies
 [17:54:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /minecolonies check
 [17:54:58] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /minecolonies citizens
+[17:55:08] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /minecolonies citizens info
+[17:57:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
