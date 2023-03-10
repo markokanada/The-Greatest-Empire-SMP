@@ -16643,3 +16643,6 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [17:17:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Given [Glass Pane] * 32 to KellSo]
 [17:18:44] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=909, y=66, z=-1258} is using schematics/wooden/Citizen1 instead of schematics/wooden/Citizen1
 [17:18:49] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=908, y=66, z=-1275} is using schematics/wooden/Citizen1 instead of schematics/wooden/Citizen1
+[17:21:26] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /give KellSo minecraft:bed
+[17:21:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Given [White Bed] * 1 to KellSo]
+[17:23:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
