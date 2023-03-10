@@ -2344,6 +2344,12 @@
     },
     "done": true
   },
+  "simplyjetpacks:vanilla/jetpack_vanilla1": {
+    "criteria": {
+      "jetpack_vanilla1": "2023-03-10 23:47:42 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2022-03-28 20:57:15 +0200"
