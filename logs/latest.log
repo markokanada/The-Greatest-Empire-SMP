@@ -16990,3 +16990,12 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[PluginCommand.class:1.12.2-b43297ee]
 	... 15 more
 [20:50:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:57:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:58:43] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 3
+[20:58:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Spectator Mode]
+[20:58:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[20:58:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[20:59:01] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 3
+[20:59:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Spectator Mode]
+[20:59:10] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[20:59:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
