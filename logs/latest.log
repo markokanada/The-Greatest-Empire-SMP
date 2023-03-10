@@ -16788,3 +16788,55 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[PluginCommand.class:1.12.2-b43297ee]
 	... 15 more
+[19:12:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:16:01] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /echest
+[19:16:01] [Server thread/INFO] [Minecraft]: [SimpleEnderChest] KellSo opened his EnderChest at Location{world=CraftWorld{name=world},x=951.6584697991184,y=77.0,z=-1239.699999988079,pitch=29.398945,yaw=177.81451} !
+[19:16:01] [Server thread/ERROR] [net.minecraft.network.NetHandlerPlayServer]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'echest' in plugin SimpleEnderChest v1.3
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[PluginCommand.class:1.12.2-b43297ee]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:153) ~[SimpleCommandMap.class:1.12.2-b43297ee]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:689) ~[CraftServer.class:1.12.2-b43297ee]
+	at net.minecraft.network.NetHandlerPlayServer.func_147361_d(NetHandlerPlayServer.java:1604) ~[pa.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147354_a(NetHandlerPlayServer.java:1452) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(CPacketChatMessage.java:50) ~[la.class:?]
+	at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(CPacketChatMessage.java:11) ~[la.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:14) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_292]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_292]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:861) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:800) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:672) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_292]
+Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
+	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[PluginCommand.class:1.12.2-b43297ee]
+	... 15 more
+[19:18:58] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /echest
+[19:18:58] [Server thread/INFO] [Minecraft]: [SimpleEnderChest] KellSo opened his EnderChest at Location{world=CraftWorld{name=world},x=967.5218072627699,y=99.69386353008986,z=-1343.7938377408698,pitch=-12.675137,yaw=116.55203} !
+[19:18:58] [Server thread/ERROR] [net.minecraft.network.NetHandlerPlayServer]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'echest' in plugin SimpleEnderChest v1.3
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[PluginCommand.class:1.12.2-b43297ee]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:153) ~[SimpleCommandMap.class:1.12.2-b43297ee]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:689) ~[CraftServer.class:1.12.2-b43297ee]
+	at net.minecraft.network.NetHandlerPlayServer.func_147361_d(NetHandlerPlayServer.java:1604) ~[pa.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147354_a(NetHandlerPlayServer.java:1452) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(CPacketChatMessage.java:50) ~[la.class:?]
+	at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(CPacketChatMessage.java:11) ~[la.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:14) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_292]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_292]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:861) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:800) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:672) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_292]
+Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
+	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[PluginCommand.class:1.12.2-b43297ee]
+	... 15 more
+[19:19:10] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=967, y=64, z=-1378} is using schematics/wooden/Lumberjack1 instead of schematics/wooden/Lumberjack1
+[19:19:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:19:51] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=945, y=66, z=-1381} is using schematics/wooden/Lumberjack1 instead of schematics/wooden/Lumberjack1
