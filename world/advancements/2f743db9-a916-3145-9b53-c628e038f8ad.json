@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/complete_build_request_1_citizen": {
+    "criteria": {
+      "citizens_hut": "2023-03-10 18:05:37 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2022-03-28 21:37:15 +0200"
