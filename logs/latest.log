@@ -16682,3 +16682,16 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[PluginCommand.class:1.12.2-b43297ee]
 	... 15 more
+[17:50:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:51:35] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=928, y=63, z=-1336} is using schematics/wooden/Miner1 instead of schematics/wooden/Miner1
+[17:53:12] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 3
+[17:53:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Spectator Mode]
+[17:53:21] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[17:53:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[17:53:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 3
+[17:53:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Spectator Mode]
+[17:53:30] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[17:53:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[17:54:28] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /help mineColonies
+[17:54:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /minecolonies check
+[17:54:58] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /minecolonies citizens
