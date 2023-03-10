@@ -16868,3 +16868,17 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [19:27:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo has made the advancement [Enchanting Experience]
 [19:27:35] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=991, y=71, z=-1322} is using schematics/wooden/Enchanter1 instead of schematics/wooden/Enchanter1
 [19:33:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:38:23] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=921, y=64, z=-1309} is using schematics/wooden/Citizen1 instead of schematics/wooden/Citizen1
+[19:39:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:41:26] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /give KellSo minecraft:white_bed
+[19:41:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: There is no such item with name minecraft:white_bed]
+[19:41:30] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /give KellSo minecraft:bed
+[19:41:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Given [White Bed] * 1 to KellSo]
+[19:41:33] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /give KellSo minecraft:bed
+[19:41:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Given [White Bed] * 1 to KellSo]
+[19:43:03] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /give KellSo minecraft:red_bed
+[19:43:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: There is no such item with name minecraft:red_bed]
+[19:43:08] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[19:43:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[19:43:14] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[19:43:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
