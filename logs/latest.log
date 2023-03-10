@@ -16999,3 +16999,6 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [20:59:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Spectator Mode]
 [20:59:10] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
 [20:59:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[21:00:36] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo lost connection: Disconnected
+[21:00:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo left the game
+[21:02:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
