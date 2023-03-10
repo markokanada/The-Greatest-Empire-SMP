@@ -16737,3 +16737,5 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [18:51:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [18:53:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo has made the advancement [Build the Miner]
 [18:53:32] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=928, y=63, z=-1336} is using schematics/wooden/Miner1 instead of schematics/wooden/Miner1
+[18:58:03] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1066, y=70, z=-1329} is using schematics/Nordic/Library1 instead of schematics/Nordic/Library1
+[18:58:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
