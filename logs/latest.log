@@ -16303,3 +16303,4 @@ Caused by: java.util.ConcurrentModificationException
 [16:12:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: David_alja left the game
 [16:12:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [16:17:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:22:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
