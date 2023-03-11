@@ -16297,3 +16297,8 @@ Caused by: java.util.ConcurrentModificationException
 [16:05:34] [Netty Epoll Server IO #3/DEBUG] [extrautils2]: OTL: Scheduling Packet: com.rwtema.extrautils2.power.PacketPowerInfo : SERVER
 [16:05:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: David_alja has made the advancement [Iron Jetpack]
 [16:07:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:12:24] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo lost connection: Disconnected
+[16:12:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo left the game
+[16:12:35] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: David_alja lost connection: Disconnected
+[16:12:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: David_alja left the game
+[16:12:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
