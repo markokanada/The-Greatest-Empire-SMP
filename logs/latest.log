@@ -16223,3 +16223,17 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [22:29:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
 [22:29:14] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
 [22:29:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[22:30:17] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /give KellSo minecraft:rail 64
+[22:30:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Given [Rail] * 64 to KellSo]
+[22:30:55] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1014, y=64, z=-1352} is using schematics/Medieval Spruce/Sawmill1 instead of schematics/Medieval Spruce/Sawmill1
+[22:31:25] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /give KellSo minecraft:sign 64
+[22:31:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: The number you have entered (64) is too big, it must be at most 16]
+[22:31:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /give KellSo minecraft:sign 16
+[22:31:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Given [Sign] * 16 to KellSo]
+[22:32:25] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[22:32:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[22:32:35] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[22:32:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[22:33:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[22:33:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[22:33:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
