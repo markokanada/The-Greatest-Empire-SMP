@@ -1450,6 +1450,12 @@
     },
     "done": true
   },
+  "simplyjetpacks:vanilla/jetpack_vanilla1": {
+    "criteria": {
+      "jetpack_vanilla1": "2023-03-11 16:05:46 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2022-03-28 21:42:32 +0200"
