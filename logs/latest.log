@@ -16364,3 +16364,23 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [23:04:35] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: //set 5:5
 [23:04:53] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 3
 [23:04:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Spectator Mode]
+[23:05:04] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[23:05:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[23:05:29] [Netty Epoll Server IO #3/DEBUG] [extrautils2]: OTL: Decode Packet: com.rwtema.extrautils2.power.PacketPowerInfo
+[23:05:29] [Netty Epoll Server IO #3/DEBUG] [extrautils2]: OTL: Handle Packet: com.rwtema.extrautils2.power.PacketPowerInfo : SERVER
+[23:05:29] [Netty Epoll Server IO #3/DEBUG] [extrautils2]: OTL: Scheduling Packet: com.rwtema.extrautils2.power.PacketPowerInfo : SERVER
+[23:05:29] [Server thread/DEBUG] [extrautils2]: OTL: Encode Packet: com.rwtema.extrautils2.power.PacketPowerInfo
+[23:07:35] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[23:07:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[23:08:07] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[23:08:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[23:09:02] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[23:09:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[23:09:16] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[23:09:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[23:09:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:09:30] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /game 1
+[23:09:35] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[23:09:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[23:09:40] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[23:09:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
