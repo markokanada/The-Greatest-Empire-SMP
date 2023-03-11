@@ -266,6 +266,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/complete_build_request_1_florist": {
+    "criteria": {
+      "florist": "2023-03-11 23:00:25 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_carpet": {
     "criteria": {
       "has_blue_wool": "2022-04-09 22:04:50 +0200"
