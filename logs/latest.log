@@ -16392,3 +16392,6 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [19:50:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [19:54:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo has made the advancement [Feeding the Masses]
 [19:54:31] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1017, y=66, z=-1315} is using schematics/Nordic/Cook1 instead of schematics/Nordic/Cook1
+[19:56:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:57:05] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1114, y=63, z=-1243} is using schematics/wooden/WareHouse1 instead of schematics/wooden/WareHouse1
+[19:57:48] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1096, y=63, z=-1238} is using schematics/Medieval Oak/Blacksmith1 instead of schematics/Medieval Oak/Blacksmith1
