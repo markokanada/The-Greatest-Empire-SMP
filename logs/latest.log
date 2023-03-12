@@ -16363,3 +16363,10 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [18:43:23] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /give KellSo minecraft:rail
 [18:43:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Given [Rail] * 1 to KellSo]
 [18:44:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:51:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:54:22] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[18:54:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[18:54:29] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[18:54:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[18:54:31] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[18:54:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
