@@ -16347,3 +16347,10 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [18:24:56] [Server thread/INFO] [structurize]: New Server UUID 49bd7cdd-d128-47a8-9112-33f0842429bd
 [18:24:56] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: KellSo[/192.168.1.169:54570] logged in with entity id 322 at ([world]938.5309973192296, 54.0, -1198.9828229743252)
 [18:24:56] [Server thread/DEBUG] [extrautils2]: OTL: Encode Packet: com.rwtema.extrautils2.power.PowerManager$PacketPower
+[18:25:02] [Netty Epoll Server IO #2/DEBUG] [extrautils2]: OTL: Decode Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt
+[18:25:02] [Netty Epoll Server IO #2/DEBUG] [extrautils2]: OTL: Handle Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt : SERVER
+[18:25:02] [Netty Epoll Server IO #2/DEBUG] [extrautils2]: OTL: Scheduling Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt : SERVER
+[18:25:39] [Netty Epoll Server IO #2/DEBUG] [extrautils2]: OTL: Decode Packet: com.rwtema.extrautils2.power.PacketPowerInfo
+[18:25:39] [Netty Epoll Server IO #2/DEBUG] [extrautils2]: OTL: Handle Packet: com.rwtema.extrautils2.power.PacketPowerInfo : SERVER
+[18:25:39] [Netty Epoll Server IO #2/DEBUG] [extrautils2]: OTL: Scheduling Packet: com.rwtema.extrautils2.power.PacketPowerInfo : SERVER
+[18:25:39] [Server thread/DEBUG] [extrautils2]: OTL: Encode Packet: com.rwtema.extrautils2.power.PacketPowerInfo
