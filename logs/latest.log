@@ -16352,3 +16352,14 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [18:17:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [18:19:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [@: Teleported KellSo to 1036.5, 205.0, -1185.5]
 [18:19:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [@: Teleported KellSo to 941.5, 77.0, -1194.5]
+[18:22:27] [Netty Epoll Server IO #1/DEBUG] [extrautils2]: OTL: Decode Packet: com.rwtema.extrautils2.power.PacketPowerInfo
+[18:22:27] [Netty Epoll Server IO #1/DEBUG] [extrautils2]: OTL: Handle Packet: com.rwtema.extrautils2.power.PacketPowerInfo : SERVER
+[18:22:27] [Netty Epoll Server IO #1/DEBUG] [extrautils2]: OTL: Scheduling Packet: com.rwtema.extrautils2.power.PacketPowerInfo : SERVER
+[18:22:27] [Server thread/DEBUG] [extrautils2]: OTL: Encode Packet: com.rwtema.extrautils2.power.PacketPowerInfo
+[18:23:29] [Server thread/DEBUG] [extrautils2]: OTL: Encode Packet: com.rwtema.extrautils2.gui.backend.DynamicContainer$PacketGUIData
+[18:23:43] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[18:23:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[18:24:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:24:05] [Netty Epoll Server IO #1/DEBUG] [extrautils2]: OTL: Decode Packet: com.rwtema.extrautils2.crafting.Radar$PacketPing
+[18:24:05] [Netty Epoll Server IO #1/DEBUG] [extrautils2]: OTL: Handle Packet: com.rwtema.extrautils2.crafting.Radar$PacketPing : SERVER
+[18:24:05] [Netty Epoll Server IO #1/DEBUG] [extrautils2]: OTL: Scheduling Packet: com.rwtema.extrautils2.crafting.Radar$PacketPing : SERVER
