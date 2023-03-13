@@ -2062,6 +2062,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/complete_build_request_1_crusher": {
+    "criteria": {
+      "smeltery": "2023-03-13 18:28:27 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2022-03-29 19:41:05 +0200"
