@@ -16374,3 +16374,6 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [18:30:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [18:32:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo has made the advancement [Diamond in the Rough]
 [18:32:47] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1029, y=64, z=-1354} is using schematics/Medieval Spruce/Sifter1 instead of schematics/Medieval Spruce/Sifter1
+[18:37:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:38:03] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /toggledownfall
+[18:38:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Toggled downfall]
