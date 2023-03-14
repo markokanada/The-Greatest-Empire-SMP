@@ -16498,3 +16498,9 @@ java.lang.Throwable: null
 [21:08:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [21:15:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [21:22:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:27:06] [Netty Epoll Server IO #1/DEBUG] [FML]: Muted NetworkDispatcher exception
+io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
+	at io.netty.channel.unix.FileDescriptor.readAddress(..)(Unknown Source) ~[FileDescriptor.class:?]
+[21:27:06] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: David_alja lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
+[21:27:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: David_alja left the game
+[21:28:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
