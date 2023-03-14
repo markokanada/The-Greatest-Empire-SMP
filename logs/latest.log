@@ -16472,3 +16472,4 @@ java.lang.Throwable: null
 	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_292]
 [18:50:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [18:50:57] [Server thread/DEBUG] [extrautils2]: OTL: Encode Packet: com.rwtema.extrautils2.network.SpecialChat
+[18:57:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
