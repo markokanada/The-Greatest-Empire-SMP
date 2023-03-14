@@ -16405,3 +16405,6 @@ Tinkers' Mechworks: Requires version 2.0 but mod is not found on client.
 [18:17:54] [Server thread/DEBUG] [extrautils2]: OTL: Encode Packet: com.rwtema.extrautils2.power.PacketPowerInfo
 [18:18:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: David_alja has made the advancement [Diamond Jetpack]
 [18:18:48] [Server thread/DEBUG] [extrautils2]: OTL: Encode Packet: com.rwtema.extrautils2.gui.backend.DynamicContainer$PacketGUIData
+[18:23:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:24:34] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: David_alja issued server command: /tp KellSo
+[18:24:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [David_alja: Teleported David_alja to KellSo]
