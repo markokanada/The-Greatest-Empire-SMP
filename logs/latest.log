@@ -303,3 +303,17 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [17:25:07] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
 [17:25:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
 [17:27:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:31:18] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode
+[17:31:20] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[17:31:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[17:32:24] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[17:32:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[17:34:24] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /toggledownfall
+[17:34:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Toggled downfall]
+[17:34:47] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /give KellSo minecraft:wooden_pickaxe 2
+[17:34:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: The number you have entered (2) is too big, it must be at most 1]
+[17:34:49] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /give KellSo minecraft:wooden_pickaxe
+[17:34:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Given [Wooden Pickaxe] * 1 to KellSo]
+[17:34:50] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /give KellSo minecraft:wooden_pickaxe
+[17:34:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Given [Wooden Pickaxe] * 1 to KellSo]
+[17:35:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
