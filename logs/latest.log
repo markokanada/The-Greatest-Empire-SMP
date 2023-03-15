@@ -325,3 +325,4 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [17:57:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo has made the advancement [Pocket storage!]
 [17:57:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
 [17:57:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[18:03:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
