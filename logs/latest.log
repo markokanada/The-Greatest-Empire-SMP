@@ -295,3 +295,8 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [17:03:47] [Async Chat Thread - #0/INFO] []: <KellSo> 8
 [17:06:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [17:13:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:17:21] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /toggledownfall
+[17:17:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Toggled downfall]
+[17:20:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:23:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[17:23:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
