@@ -319,3 +319,9 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [17:35:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [17:42:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [17:49:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:56:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:57:09] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[17:57:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[17:57:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo has made the advancement [Pocket storage!]
+[17:57:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[17:57:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
