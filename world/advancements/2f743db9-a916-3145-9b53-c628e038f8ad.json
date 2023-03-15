@@ -800,6 +800,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/multiblock_blastfurnace": {
+    "criteria": {
+      "form_blastfurnace": "2023-03-15 16:41:31 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_lapis": "2022-03-30 18:48:41 +0200"
@@ -2599,6 +2605,12 @@
   "minecraft:recipes/building_blocks/pink_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2022-04-18 20:16:19 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_hammer": {
+    "criteria": {
+      "craft_hammer": "2023-03-15 16:39:18 +0100"
     },
     "done": true
   },
