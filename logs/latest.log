@@ -16679,3 +16679,4 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [18:06:07] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: David_alja issued server command: /graves
 [18:07:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /tp David_alja KellSo
 [18:07:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Teleported David_alja to KellSo]
+[18:10:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
