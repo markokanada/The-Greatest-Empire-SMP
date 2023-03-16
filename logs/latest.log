@@ -16681,3 +16681,21 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [18:07:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Teleported David_alja to KellSo]
 [18:10:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [18:17:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:20:50] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /tp David_alja
+[18:20:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Teleported KellSo to David_alja]
+[18:23:58] [Async Chat Thread - #2/INFO] []: <KellSo> ^tp David_alja
+[18:23:59] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /tp d
+[18:23:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Entity 'd' cannot be found]
+[18:24:01] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /tp David_alja
+[18:24:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Teleported KellSo to David_alja]
+[18:24:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:28:50] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /tp David_alja KellSo
+[18:28:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Teleported David_alja to KellSo]
+[18:29:23] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: David_alja issued server command: /tp KellSo
+[18:29:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [David_alja: Teleported David_alja to KellSo]
+[18:30:04] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /tp David_alja
+[18:30:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Teleported KellSo to David_alja]
+[18:30:51] [Async Chat Thread - #3/INFO] []: <KellSo> mindjárt jövök
+[18:31:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:33:04] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: David_alja issued server command: /tp KellSo
+[18:33:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [David_alja: Teleported David_alja to KellSo]
