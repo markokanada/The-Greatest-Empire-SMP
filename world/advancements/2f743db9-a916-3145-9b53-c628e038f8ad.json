@@ -2206,6 +2206,12 @@
     },
     "done": true
   },
+  "projecte:dark_matter": {
+    "criteria": {
+      "dm": "2023-03-16 17:27:01 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2022-03-28 21:17:37 +0200"
