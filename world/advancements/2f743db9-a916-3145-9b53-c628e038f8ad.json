@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/complete_build_request_2_builder": {
+    "criteria": {
+      "builders_hut": "2023-03-16 16:01:58 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-03-28 21:05:04 +0200"
