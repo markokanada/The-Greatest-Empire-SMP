@@ -440,6 +440,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2023-03-16 17:57:59 +0100"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2022-03-28 21:49:19 +0200",
@@ -769,6 +775,12 @@
     },
     "done": true
   },
+  "projecte:red_matter_pickaxe": {
+    "criteria": {
+      "rm_pick": "2023-03-16 17:57:33 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2022-03-28 22:20:28 +0200"
@@ -1048,6 +1060,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2023-03-16 17:57:59 +0100"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2022-03-29 21:35:26 +0200"
@@ -1111,6 +1129,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_red_flower": "2022-04-10 18:53:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-03-16 17:57:59 +0100"
     },
     "done": true
   },
@@ -1597,6 +1621,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2022-03-28 22:09:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wooden_slab": {
+    "criteria": {
+      "has_planks": "2023-03-16 17:57:59 +0100"
     },
     "done": true
   },
@@ -2146,6 +2176,12 @@
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_the_recipe": "2022-03-29 21:09:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2023-03-16 17:57:59 +0100"
     },
     "done": true
   },
