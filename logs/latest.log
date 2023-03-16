@@ -16434,3 +16434,6 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [16:19:33] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /toggledownfall
 [16:19:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Toggled downfall]
 [16:23:47] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=941, y=64, z=-1326} is using schematics/Nordic/Builder2 instead of schematics/Nordic/Builder2
+[16:25:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:26:54] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1012, y=65, z=-1366} is using schematics/wooden/TownHall1 instead of schematics/wooden/TownHall1
+[16:26:54] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1012, y=65, z=-1366} is using schematics/wooden/TownHall2 instead of schematics/wooden/TownHall2
