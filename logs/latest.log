@@ -16575,3 +16575,4 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 io.netty.handler.timeout.ReadTimeoutException: null
 [17:31:39] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: David_alja lost connection: Timed out
 [17:31:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: David_alja left the game
+[17:37:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
