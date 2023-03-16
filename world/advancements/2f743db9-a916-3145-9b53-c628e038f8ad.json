@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "projecte:red_matter": {
+    "criteria": {
+      "rm": "2023-03-16 17:41:32 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
     "criteria": {
       "has_red_flower": "2022-04-03 19:37:18 +0200"
@@ -1987,6 +1993,12 @@
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2022-03-29 20:35:34 +0200"
+    },
+    "done": true
+  },
+  "projecte:red_matter_pickaxe": {
+    "criteria": {
+      "rm_pick": "2023-03-16 17:42:56 +0100"
     },
     "done": true
   },
