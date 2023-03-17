@@ -503,3 +503,14 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [20:38:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
 [20:39:04] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
 [20:39:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[20:40:05] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: David_alja issued server command: /tp KellSo
+[20:40:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [David_alja: Teleported David_alja to KellSo]
+[20:40:50] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: David_alja lost connection: Disconnected
+[20:40:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: David_alja left the game
+[20:40:56] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[20:40:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[20:41:01] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[20:41:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[20:41:21] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo lost connection: Disconnected
+[20:41:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo left the game
+[20:41:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
