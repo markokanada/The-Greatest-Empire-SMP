@@ -452,3 +452,10 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [20:11:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [20:13:22] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /tp David_alja KellSo
 [20:13:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Teleported David_alja to KellSo]
+[20:15:51] [Server thread/DEBUG] [extrautils2]: OTL: Encode Packet: com.rwtema.extrautils2.gui.backend.DynamicContainer$PacketGUIData
+[20:17:44] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /to d
+[20:17:46] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /tp David_alja
+[20:17:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Teleported KellSo to David_alja]
+[20:19:31] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /tp David_alja
+[20:19:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Teleported KellSo to David_alja]
+[20:19:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
