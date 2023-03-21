@@ -247,3 +247,5 @@
 [20:32:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [20:37:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [20:42:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:47:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:47:57] [Thread-3/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
