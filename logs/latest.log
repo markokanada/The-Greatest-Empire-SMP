@@ -16370,3 +16370,8 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [16:40:01] [Server thread/INFO] [structurize]: New Server UUID 1732257f-90ba-49a7-add8-4d444f09e06a
 [16:40:01] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: KellSo[/192.168.1.169:51063] logged in with entity id 300 at ([world]1183.4355784120407, 63.0, -1339.5095541460698)
 [16:40:01] [Server thread/DEBUG] [extrautils2]: OTL: Encode Packet: com.rwtema.extrautils2.power.PowerManager$PacketPower
+[16:40:06] [Netty Epoll Server IO #1/DEBUG] [extrautils2]: OTL: Decode Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt
+[16:40:06] [Netty Epoll Server IO #1/DEBUG] [extrautils2]: OTL: Handle Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt : SERVER
+[16:40:06] [Netty Epoll Server IO #1/DEBUG] [extrautils2]: OTL: Scheduling Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt : SERVER
+[16:43:23] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[16:43:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
