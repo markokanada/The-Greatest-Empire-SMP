@@ -16378,3 +16378,6 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [16:46:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [16:53:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [16:59:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:00:35] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo lost connection: Disconnected
+[17:00:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo left the game
+[17:03:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
