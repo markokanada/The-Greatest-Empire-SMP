@@ -287,3 +287,6 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [16:14:53] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1014, y=67, z=-1352} is using schematics/Medieval Spruce/Sawmill1 instead of schematics/Medieval Spruce/Sawmill1
 [16:14:53] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1014, y=64, z=-1352} is using schematics/Medieval Spruce/Sawmill1 instead of schematics/Medieval Spruce/Sawmill1
 [16:14:53] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1014, y=67, z=-1352} is using schematics/Medieval Spruce/Sawmill1 instead of schematics/Medieval Spruce/Sawmill1
+[16:15:20] [Server thread/INFO] [minecolonies]: Colony 1 - removed AbstractBuilding BlockPos{x=1014, y=64, z=-1352} of type Sawmill
+[16:15:20] [Server thread/INFO] [minecolonies.requestsystem.1]: Removing provider: StandardToken{id=9fc007dd-9b78-4ccc-93c4-222701ff4b3a}
+[16:19:23] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1057, y=63, z=-1240} is using schematics/Nordic/Fisherman1 instead of schematics/Nordic/Fisherman1
