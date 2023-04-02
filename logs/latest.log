@@ -16461,3 +16461,11 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [19:44:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [19:45:18] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /toggledownfall
 [19:45:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Toggled downfall]
+[19:50:23] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[19:50:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[19:50:32] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[19:50:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[19:51:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:52:00] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /toggledownfall
+[19:52:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Toggled downfall]
+[19:53:42] [Server thread/DEBUG] [extrautils2]: OTL: Encode Packet: com.rwtema.extrautils2.gui.backend.DynamicContainer$PacketGUIData
