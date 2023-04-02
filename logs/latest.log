@@ -1,292 +1,1231 @@
-[00:02:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[00:07:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[00:12:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[00:17:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[00:22:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[00:27:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[00:32:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[00:37:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[00:42:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[00:47:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[00:52:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[00:57:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[01:02:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[01:07:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[01:12:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[01:17:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[01:22:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[01:27:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[01:32:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[01:37:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[01:42:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[01:47:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[01:52:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[01:57:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[02:02:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[02:07:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[02:12:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[02:17:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[02:22:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[02:27:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[02:32:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[02:37:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[02:42:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[02:47:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[02:52:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[02:57:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[03:02:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[03:07:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[03:12:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[03:17:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[03:22:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[03:27:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[03:32:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[03:37:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[03:42:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[03:47:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[03:52:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[03:57:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[04:02:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[04:07:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[04:12:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[04:17:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[04:22:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[04:27:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[04:32:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[04:37:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[04:42:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[04:47:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[04:52:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[04:57:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[05:02:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[05:07:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[05:12:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[05:17:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[05:22:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[05:27:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[05:32:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[05:37:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[05:42:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[05:47:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[05:52:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[05:57:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[06:02:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[06:07:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[06:12:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[06:17:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[06:22:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[06:27:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[06:32:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[06:37:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[06:42:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[06:47:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[06:52:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[06:57:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[07:02:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[07:07:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[07:12:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[07:17:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[07:22:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[07:27:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[07:32:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[07:37:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[07:42:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[07:47:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[07:52:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[07:57:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[08:02:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[08:07:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[08:12:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[08:17:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[08:22:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[08:27:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[08:32:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[08:37:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[08:42:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[08:47:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[08:52:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[08:57:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[09:02:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[09:07:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[09:12:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[09:17:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[09:22:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[09:27:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[09:32:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[09:37:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[09:42:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[09:47:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[09:52:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[09:57:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[10:02:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[10:07:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[10:12:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[10:17:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[10:22:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[10:27:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[10:32:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[10:37:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[10:42:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[10:47:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[10:52:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[10:57:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[11:02:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[11:07:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[11:12:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[11:17:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[11:22:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[11:27:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[11:32:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[11:37:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[11:42:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[11:47:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[11:52:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[11:57:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[12:02:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[12:07:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[12:12:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[12:17:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[12:22:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[12:27:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[12:32:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[12:37:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[12:42:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[12:47:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[12:52:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[12:57:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[13:02:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[13:07:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[13:12:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[13:17:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[13:22:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[13:27:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[13:32:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[13:37:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[13:42:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[13:47:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[13:52:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[13:57:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[14:02:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[14:07:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[14:12:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[14:17:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[14:22:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[14:27:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[14:32:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[14:37:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[14:42:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[14:47:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[14:52:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[14:57:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[15:02:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[15:07:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[15:12:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[15:17:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[15:22:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[15:27:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[15:32:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[15:37:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[15:42:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[15:47:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[15:52:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[15:52:34] [User Authenticator #1/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
-[15:52:34] [Server thread/DEBUG] [projecte]: Clearing offline data cache in preparation to load online data
-[15:52:34] [Server thread/TRACE] [FML]: Handshake channel activating
-[15:52:34] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
-[15:52:34] [Server thread/DEBUG] [FML]:   Next: HELLO
-[15:52:34] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
-[15:52:34] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
-[15:52:34] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ModList:44 mods->FMLHandshakeServerState$2:HELLO
-[15:52:34] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 44 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.179,ptrmodellib@1.0.5,simplyjetpacks@1.12.2-2.2.19.0,immersiveengineering@0.12-98,redstoneflux@2.1.1,valkyrielib@1.12.2-2.0.20.1,universalmodifiers@1.12.2-1.0.16.1,rftools@7.73,jei@4.16.1.1001,chickenchunks@2.4.2.74,movingworld@1.12-6.342,projecte@1.12.2-PE1.4.1,extrautils2@1.0,com.elytradev.movingworld.common.asm.coremod@,mantle@1.12-1.3.3.55,simplegenerators@1.12.2-2.0.20.2,mcp@9.42,collective@3.0,storagedrawers@5.2.2,galacticraftcore@4.0.5,chameleon@1.12-4.1.3,FML@8.0.99.99,malilib@0.10.0-dev.23,structurize@1.12.2-0.10.277-RELEASE,davincisvessels@@DVESSELSVER@,worldedit@6.1.10,minecolonies@1.12.2-0.11.841-ALPHA,computercraft@1.80pr1,litematica@0.0.0-dev.20191217.195055,moreoverlays@1.15.1,bigreactors@1.12.2-0.4.5.68,waila@1.8.26,props@2.6.3.7,galacticraftplanets@4.0.5,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.5,tmechworks@2.0,mcjtylib_ng@3.5.4,forge@14.23.5.2860,holoinventory@2.1.1.151,stackrefill@2.0,codechickenlib@3.2.3.358,zerocore@1.12.2-0.1.2.9
-[15:52:34] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: WAITINGCACK
-[15:52:34] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
-[15:52:34] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: COMPLETE
-[15:52:34] [Netty Epoll Server IO #1/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
-[15:52:36] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
-[15:52:36] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: DONE
-[15:52:36] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
-[15:52:36] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
-[15:52:36] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[15:52:37] [Server thread/INFO] [Waila]: Player EntityPlayerMP['KellSo'/337, uuid='2f743db9-a916-3145-9b53-c628e038f8ad', l='world', x=944,87, y=64,00, z=-1326,55, cx=59, cd=-83, tl=24599617, v=true, d=false](KellSo at 944.8716342590294,64.0,-1326.548153352848) connected. Sending ping
-[15:52:37] [Server thread/DEBUG] [projecte]: EMC data size: 24832 bytes
-[15:52:37] [Server thread/DEBUG] [projecte]: Sent knowledge and bag data to KellSo
-[15:52:37] [Server thread/DEBUG] [extrautils2]: OTL: Check Packet SERVER
-[15:52:37] [Server thread/DEBUG] [extrautils2]: OTL: Encode Packet: com.rwtema.extrautils2.items.ItemLawSword$PacketLawSwordNotifier
-[15:52:37] [Server thread/INFO] [structurize]: New Server UUID ad416d41-8750-4de1-8c24-bb8e41bad7d8
-[15:52:37] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: KellSo[/192.168.1.169:59869] logged in with entity id 337 at ([world]944.8716342590294, 64.0, -1326.548153352848)
-[15:52:37] [Server thread/DEBUG] [extrautils2]: OTL: Encode Packet: com.rwtema.extrautils2.power.PowerManager$PacketPower
-[15:52:44] [Netty Epoll Server IO #1/DEBUG] [extrautils2]: OTL: Decode Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt
-[15:52:44] [Netty Epoll Server IO #1/DEBUG] [extrautils2]: OTL: Handle Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt : SERVER
-[15:52:44] [Netty Epoll Server IO #1/DEBUG] [extrautils2]: OTL: Scheduling Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt : SERVER
-[15:53:30] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /toggledownfall
-[15:53:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Toggled downfall]
-[15:54:00] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /echest
-[15:54:00] [Server thread/INFO] [Minecraft]: [SimpleEnderChest] KellSo opened his EnderChest at Location{world=CraftWorld{name=world},x=928.7535583504907,y=64.0,z=-1317.8888585055313,pitch=8.454977,yaw=-22.183277} !
-[15:54:00] [Server thread/ERROR] [net.minecraft.network.NetHandlerPlayServer]: null
-org.bukkit.command.CommandException: Unhandled exception executing command 'echest' in plugin SimpleEnderChest v1.3
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[PluginCommand.class:1.12.2-d04e549e]
-	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:153) ~[SimpleCommandMap.class:1.12.2-d04e549e]
-	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:689) ~[CraftServer.class:1.12.2-d04e549e]
-	at net.minecraft.network.NetHandlerPlayServer.func_147361_d(NetHandlerPlayServer.java:1604) ~[pa.class:?]
-	at net.minecraft.network.NetHandlerPlayServer.func_147354_a(NetHandlerPlayServer.java:1452) ~[pa.class:?]
-	at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(CPacketChatMessage.java:50) ~[la.class:?]
-	at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(CPacketChatMessage.java:11) ~[la.class:?]
-	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:14) ~[hv.class:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_292]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_292]
-	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
-	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:861) [MinecraftServer.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
-	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:800) [MinecraftServer.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:672) [MinecraftServer.class:?]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_292]
-Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
-	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[PluginCommand.class:1.12.2-d04e549e]
-	... 15 more
-[15:54:22] [Netty Epoll Server IO #1/DEBUG] [extrautils2]: OTL: Decode Packet: com.rwtema.extrautils2.power.PacketPowerInfo
-[15:54:22] [Netty Epoll Server IO #1/DEBUG] [extrautils2]: OTL: Handle Packet: com.rwtema.extrautils2.power.PacketPowerInfo : SERVER
-[15:54:22] [Netty Epoll Server IO #1/DEBUG] [extrautils2]: OTL: Scheduling Packet: com.rwtema.extrautils2.power.PacketPowerInfo : SERVER
-[15:54:22] [Server thread/DEBUG] [extrautils2]: OTL: Encode Packet: com.rwtema.extrautils2.power.PacketPowerInfo
-[15:59:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[16:03:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
-[16:03:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
-[16:03:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
-[16:03:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
-[16:06:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[16:10:55] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /toggledownfall
-[16:10:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Toggled downfall]
-[16:11:05] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /echest
-[16:11:05] [Server thread/INFO] [Minecraft]: [SimpleEnderChest] KellSo opened his EnderChest at Location{world=CraftWorld{name=world},x=1026.5,y=66.0,z=-1253.5,pitch=30.973988,yaw=199.06726} !
-[16:11:05] [Server thread/ERROR] [net.minecraft.network.NetHandlerPlayServer]: null
-org.bukkit.command.CommandException: Unhandled exception executing command 'echest' in plugin SimpleEnderChest v1.3
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[PluginCommand.class:1.12.2-d04e549e]
-	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:153) ~[SimpleCommandMap.class:1.12.2-d04e549e]
-	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:689) ~[CraftServer.class:1.12.2-d04e549e]
-	at net.minecraft.network.NetHandlerPlayServer.func_147361_d(NetHandlerPlayServer.java:1604) ~[pa.class:?]
-	at net.minecraft.network.NetHandlerPlayServer.func_147354_a(NetHandlerPlayServer.java:1452) ~[pa.class:?]
-	at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(CPacketChatMessage.java:50) ~[la.class:?]
-	at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(CPacketChatMessage.java:11) ~[la.class:?]
-	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:14) ~[hv.class:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_292]
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_292]
-	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
-	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:861) [MinecraftServer.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
-	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:800) [MinecraftServer.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:672) [MinecraftServer.class:?]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_292]
-Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
-	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[PluginCommand.class:1.12.2-d04e549e]
-	... 15 more
-[16:13:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo has made the advancement [Crafting Wood!]
-[16:13:54] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1014, y=64, z=-1352} is using schematics/Medieval Spruce/Sawmill1 instead of schematics/Medieval Spruce/Sawmill1
-[16:14:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
-[16:14:53] [Server thread/INFO] [minecolonies]: Colony 1 - new AbstractBuilding for class com.minecolonies.coremod.blocks.huts.BlockHutSawmill at BlockPos{x=1014, y=67, z=-1352}
-[16:14:53] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1014, y=67, z=-1352} is using schematics/Medieval Spruce/Sawmill1 instead of schematics/Medieval Spruce/Sawmill1
-[16:14:53] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1014, y=64, z=-1352} is using schematics/Medieval Spruce/Sawmill1 instead of schematics/Medieval Spruce/Sawmill1
-[16:14:53] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1014, y=67, z=-1352} is using schematics/Medieval Spruce/Sawmill1 instead of schematics/Medieval Spruce/Sawmill1
-[16:15:20] [Server thread/INFO] [minecolonies]: Colony 1 - removed AbstractBuilding BlockPos{x=1014, y=64, z=-1352} of type Sawmill
-[16:15:20] [Server thread/INFO] [minecolonies.requestsystem.1]: Removing provider: StandardToken{id=9fc007dd-9b78-4ccc-93c4-222701ff4b3a}
-[16:19:23] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1057, y=63, z=-1240} is using schematics/Nordic/Fisherman1 instead of schematics/Nordic/Fisherman1
+[16:29:40] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[16:29:40] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[16:29:40] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[16:29:40] [main/DEBUG] [FML]: Injecting tracing printstreams for STDOUT/STDERR.
+[16:29:40] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[16:29:40] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_292, running on Linux:amd64:6.0.0-0.deb11.6-amd64, installed at /usr/lib/jvm/adoptopenjdk-8-hotspot-amd64/jre
+[16:29:40] [main/DEBUG] [FML]: Java classpath at launch is:
+[16:29:40] [main/DEBUG] [FML]:     Magma-1.12.2-b43297ee.jar
+[16:29:40] [main/DEBUG] [FML]: Java library path at launch is:
+[16:29:40] [main/DEBUG] [FML]:     /usr/java/packages/lib/amd64
+[16:29:40] [main/DEBUG] [FML]:     /usr/lib64
+[16:29:40] [main/DEBUG] [FML]:     /lib64
+[16:29:40] [main/DEBUG] [FML]:     /lib
+[16:29:40] [main/DEBUG] [FML]:     /usr/lib
+[16:29:40] [main/DEBUG] [FML]: Determined Minecraft Libraries Root: /media/Minecraft/server/The-Greatest-Empire-SMP/libraries
+[16:29:40] [main/DEBUG] [FML]: Cleaning up mods folder: ./mods
+[16:29:40] [main/DEBUG] [FML]: Examining file: jei_1.12.2-4.16.1.1001.jar
+[16:29:40] [main/DEBUG] [FML]: Examining file: collective-1.12.2-3.0.jar
+[16:29:40] [main/DEBUG] [FML]: Examining file: extrautils2-1.12-1.9.9.jar
+[16:29:40] [main/DEBUG] [FML]: Examining file: StorageDrawers-1.12.2-5.4.2.jar
+[16:29:40] [main/DEBUG] [FML]: Examining file: RedstoneFlux-1.12-2.1.1.1-universal.jar
+[16:29:40] [main/DEBUG] [FML]: Examining file: Decocraft-2.6.3.7_1.12.2.jar
+[16:29:40] [main/DEBUG] [FML]: Examining file: Chameleon-1.12-4.1.3.jar
+[16:29:40] [main/DEBUG] [FML]: Examining file: valkyrielib-1.12.2-2.0.20.1.jar
+[16:29:40] [main/DEBUG] [FML]: Examining file: zerocore-1.12.2-0.1.2.9.jar
+[16:29:40] [main/DEBUG] [FML]: Examining file: ImmersiveEngineering-0.12-98.jar
+[16:29:41] [main/DEBUG] [FML]: Found existing ContainedDep META-INF/libraries/ImmersiveEngineering-0.12-98-core.jar(blusunrize:ImmersiveEngineering-core:0.12-98) from /media/Minecraft/server/The-Greatest-Empire-SMP/mods/memory_repo/blusunrize/ImmersiveEngineering-core/0.12-98/ImmersiveEngineering-core-0.12-98.jar extracted to ./mods/ImmersiveEngineering-0.12-98.jar, skipping extraction
+[16:29:41] [main/DEBUG] [FML]: Examining file: ImmersiveEngineering-core-0.12-98.jar
+[16:29:41] [main/DEBUG] [FML]: Making maven link for blusunrize:ImmersiveEngineering:0.12-98 in memory to /media/Minecraft/server/The-Greatest-Empire-SMP/./mods/ImmersiveEngineering-0.12-98.jar.
+[16:29:41] [main/DEBUG] [FML]: Examining file: Mantle-1.12-1.3.3.55.jar
+[16:29:41] [main/DEBUG] [FML]: Examining file: PTRLib-1.0.5.jar
+[16:29:41] [main/DEBUG] [FML]: Examining file: ProjectE-1.12.2-PE1.4.1.jar
+[16:29:41] [main/DEBUG] [FML]: Examining file: ComputerCraft-Mod-1.12.2.jar
+[16:29:41] [main/DEBUG] [FML]: Examining file: minecolonies-1.12.2-0.11.841-BETA-universal.jar
+[16:29:41] [main/DEBUG] [FML]: Found existing ContainedDep META-INF/libraries/structurize-1.12.2-0.10.277-RELEASE.jar(com.ldtteam:structurize:1.12.2-0.10.277-RELEASE) from /media/Minecraft/server/The-Greatest-Empire-SMP/mods/memory_repo/com/ldtteam/structurize/1.12.2-0.10.277-RELEASE/structurize-1.12.2-0.10.277-RELEASE.jar extracted to ./mods/minecolonies-1.12.2-0.11.841-BETA-universal.jar, skipping extraction
+[16:29:41] [main/DEBUG] [FML]: Examining file: structurize-1.12.2-0.10.277-RELEASE.jar
+[16:29:41] [main/DEBUG] [FML]: Found existing ContainDep extracted to /media/Minecraft/server/The-Greatest-Empire-SMP/mods/1.12.2/MathParser.org-mXparser-4.0.0.jar, skipping extraction
+[16:29:41] [main/DEBUG] [FML]: Making maven link for com.minecolonies:minecolonies:1.12.2-0.11.841-ALPHA:universal in memory to /media/Minecraft/server/The-Greatest-Empire-SMP/./mods/minecolonies-1.12.2-0.11.841-BETA-universal.jar.
+[16:29:41] [main/DEBUG] [FML]: Examining file: Hwyla-1.8.26-B41_1.12.2.jar
+[16:29:41] [main/DEBUG] [FML]: Examining file: HoloInventory-1.12.2-2.1.1.151.jar
+[16:29:41] [main/DEBUG] [FML]: Examining file: worldedit-forge-mc1.12.2-6.1.10-dist.jar
+[16:29:41] [main/DEBUG] [FML]: Examining file: CodeChickenLib-1.12.2-3.2.3.358-universal.jar
+[16:29:41] [main/DEBUG] [FML]: Examining file: Tinkers-Mechworks-Fork-Mod-Forge-1.12.2.jar
+[16:29:41] [main/DEBUG] [FML]: Examining file: moreoverlays-1.15.1-mc1.12.2.jar
+[16:29:41] [main/DEBUG] [FML]: Examining file: simplegenerators-1.12.2-2.0.20.2.jar
+[16:29:41] [main/DEBUG] [FML]: Examining file: davincisvessels-1.12-6.340-full.jar
+[16:29:41] [main/DEBUG] [FML]: Examining file: movingworld-1.12-6.342-full.jar
+[16:29:41] [main/DEBUG] [FML]: Examining file: SimplyJetpacks2-1.12.2-2.2.19.0.jar
+[16:29:41] [main/DEBUG] [FML]: Examining file: ChickenChunks-1.12.2-2.4.2.74-universal.jar
+[16:29:41] [main/DEBUG] [FML]: Examining file: TConstruct-1.12.2-2.13.0.179.jar
+[16:29:41] [main/DEBUG] [FML]: Examining file: ExtremeReactors-1.12.2-0.4.5.68.jar
+[16:29:41] [main/DEBUG] [FML]: Examining file: rftools-1.12-7.73.jar
+[16:29:41] [main/DEBUG] [FML]: Examining file: mcjtylib-1.12-3.5.4.jar
+[16:29:41] [main/DEBUG] [FML]: Examining file: stackrefill_1.12.2-2.0.jar
+[16:29:41] [main/DEBUG] [FML]: Examining file: OptiFine-OptiFine-1.12.2_HD_U_G5.jar
+[16:29:41] [main/DEBUG] [FML]: Examining file: Galacticraft-1.12.2-4.0.5.jar
+[16:29:41] [main/DEBUG] [FML]: Cleaning up mods folder: ./mods/1.12.2
+[16:29:41] [main/DEBUG] [FML]: Examining file: MathParser.org-mXparser-4.0.0.jar
+[16:29:41] [main/DEBUG] [FML]: File already proccessed /media/Minecraft/server/The-Greatest-Empire-SMP/./mods/memory_repo/blusunrize/ImmersiveEngineering-core/0.12-98/ImmersiveEngineering-core-0.12-98.jar, Skipping
+[16:29:41] [main/DEBUG] [FML]: File already proccessed /media/Minecraft/server/The-Greatest-Empire-SMP/./mods/ImmersiveEngineering-0.12-98.jar, Skipping
+[16:29:41] [main/DEBUG] [FML]: File already proccessed /media/Minecraft/server/The-Greatest-Empire-SMP/./mods/memory_repo/com/ldtteam/structurize/1.12.2-0.10.277-RELEASE/structurize-1.12.2-0.10.277-RELEASE.jar, Skipping
+[16:29:41] [main/DEBUG] [FML]: File already proccessed /media/Minecraft/server/The-Greatest-Empire-SMP/./mods/minecolonies-1.12.2-0.11.841-BETA-universal.jar, Skipping
+[16:29:41] [main/DEBUG] [FML]: Enabling runtime deobfuscation
+[16:29:41] [main/DEBUG] [FML]: Instantiating coremod class FMLCorePlugin
+[16:29:41] [main/WARN] [FML]: The coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin) is not signed!
+[16:29:41] [main/DEBUG] [FML]: Added access transformer class net.minecraftforge.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
+[16:29:41] [main/DEBUG] [FML]: Enqueued coremod FMLCorePlugin
+[16:29:41] [main/DEBUG] [FML]: Instantiating coremod class FMLForgePlugin
+[16:29:41] [main/WARN] [FML]: The coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin) is not signed!
+[16:29:41] [main/DEBUG] [FML]: Enqueued coremod FMLForgePlugin
+[16:29:41] [main/DEBUG] [FML]: Instantiating coremod class MagmaCorePlugin
+[16:29:41] [main/WARN] [FML]: The coremod MagmaCorePlugin (org.magmafoundation.magma.MagmaCorePlugin) is not signed!
+[16:29:41] [main/INFO] [FML]: 4 mod patches loaded!
+[16:29:41] [main/INFO] [FML]: FTB-Quest loaded
+[16:29:41] [main/INFO] [FML]: FirstAid loaded
+[16:29:41] [main/INFO] [FML]: naturessompass loaded
+[16:29:41] [main/INFO] [FML]: FastWorkBench loaded
+[16:29:41] [main/DEBUG] [FML]: Enqueued coremod MagmaCorePlugin
+[16:29:41] [main/DEBUG] [FML]: All fundamental core mods are successfully located
+[16:29:41] [main/DEBUG] [FML]: Discovering coremods
+[16:29:41] [main/INFO] [FML]: Searching /media/Minecraft/server/The-Greatest-Empire-SMP/./mods for mods
+[16:29:41] [main/DEBUG] [FML]:   Adding jei_1.12.2-4.16.1.1001.jar to the mod list
+[16:29:41] [main/DEBUG] [FML]:   Adding collective-1.12.2-3.0.jar to the mod list
+[16:29:41] [main/DEBUG] [FML]:   Adding extrautils2-1.12-1.9.9.jar to the mod list
+[16:29:41] [main/DEBUG] [FML]:   Adding StorageDrawers-1.12.2-5.4.2.jar to the mod list
+[16:29:41] [main/DEBUG] [FML]:   Adding RedstoneFlux-1.12-2.1.1.1-universal.jar to the mod list
+[16:29:41] [main/DEBUG] [FML]:   Adding Decocraft-2.6.3.7_1.12.2.jar to the mod list
+[16:29:41] [main/DEBUG] [FML]:   Adding Chameleon-1.12-4.1.3.jar to the mod list
+[16:29:41] [main/DEBUG] [FML]:   Adding valkyrielib-1.12.2-2.0.20.1.jar to the mod list
+[16:29:41] [main/DEBUG] [FML]:   Adding zerocore-1.12.2-0.1.2.9.jar to the mod list
+[16:29:41] [main/DEBUG] [FML]:   Adding ImmersiveEngineering-0.12-98.jar to the mod list
+[16:29:41] [main/DEBUG] [FML]:   Adding Mantle-1.12-1.3.3.55.jar to the mod list
+[16:29:41] [main/DEBUG] [FML]:   Adding PTRLib-1.0.5.jar to the mod list
+[16:29:41] [main/DEBUG] [FML]:   Adding ProjectE-1.12.2-PE1.4.1.jar to the mod list
+[16:29:41] [main/DEBUG] [FML]:   Adding ComputerCraft-Mod-1.12.2.jar to the mod list
+[16:29:41] [main/DEBUG] [FML]:   Adding minecolonies-1.12.2-0.11.841-BETA-universal.jar to the mod list
+[16:29:41] [main/DEBUG] [FML]:   Adding Hwyla-1.8.26-B41_1.12.2.jar to the mod list
+[16:29:41] [main/DEBUG] [FML]:   Adding HoloInventory-1.12.2-2.1.1.151.jar to the mod list
+[16:29:41] [main/DEBUG] [FML]:   Adding worldedit-forge-mc1.12.2-6.1.10-dist.jar to the mod list
+[16:29:41] [main/DEBUG] [FML]:   Adding CodeChickenLib-1.12.2-3.2.3.358-universal.jar to the mod list
+[16:29:41] [main/DEBUG] [FML]:   Adding Tinkers-Mechworks-Fork-Mod-Forge-1.12.2.jar to the mod list
+[16:29:41] [main/DEBUG] [FML]:   Adding moreoverlays-1.15.1-mc1.12.2.jar to the mod list
+[16:29:41] [main/DEBUG] [FML]:   Adding simplegenerators-1.12.2-2.0.20.2.jar to the mod list
+[16:29:41] [main/DEBUG] [FML]:   Adding davincisvessels-1.12-6.340-full.jar to the mod list
+[16:29:41] [main/DEBUG] [FML]:   Adding movingworld-1.12-6.342-full.jar to the mod list
+[16:29:41] [main/DEBUG] [FML]:   Adding SimplyJetpacks2-1.12.2-2.2.19.0.jar to the mod list
+[16:29:41] [main/DEBUG] [FML]:   Adding ChickenChunks-1.12.2-2.4.2.74-universal.jar to the mod list
+[16:29:41] [main/DEBUG] [FML]:   Adding TConstruct-1.12.2-2.13.0.179.jar to the mod list
+[16:29:41] [main/DEBUG] [FML]:   Adding ExtremeReactors-1.12.2-0.4.5.68.jar to the mod list
+[16:29:41] [main/DEBUG] [FML]:   Adding rftools-1.12-7.73.jar to the mod list
+[16:29:41] [main/DEBUG] [FML]:   Adding mcjtylib-1.12-3.5.4.jar to the mod list
+[16:29:41] [main/DEBUG] [FML]:   Adding stackrefill_1.12.2-2.0.jar to the mod list
+[16:29:41] [main/DEBUG] [FML]:   Adding OptiFine-OptiFine-1.12.2_HD_U_G5.jar to the mod list
+[16:29:41] [main/DEBUG] [FML]:   Adding Galacticraft-1.12.2-4.0.5.jar to the mod list
+[16:29:41] [main/INFO] [FML]: Searching /media/Minecraft/server/The-Greatest-Empire-SMP/./mods/1.12.2 for mods
+[16:29:41] [main/DEBUG] [FML]:   Adding MathParser.org-mXparser-4.0.0.jar to the mod list
+[16:29:41] [main/DEBUG] [FML]: Examining for coremod candidacy Chameleon-1.12-4.1.3.jar
+[16:29:41] [main/DEBUG] [FML]: Not found coremod data in Chameleon-1.12-4.1.3.jar
+[16:29:41] [main/DEBUG] [FML]: Examining for coremod candidacy ChickenChunks-1.12.2-2.4.2.74-universal.jar
+[16:29:41] [main/DEBUG] [FML]: Not found coremod data in ChickenChunks-1.12.2-2.4.2.74-universal.jar
+[16:29:41] [main/DEBUG] [FML]: Examining for coremod candidacy CodeChickenLib-1.12.2-3.2.3.358-universal.jar
+[16:29:41] [main/DEBUG] [FML]: Not found coremod data in CodeChickenLib-1.12.2-3.2.3.358-universal.jar
+[16:29:41] [main/DEBUG] [FML]: Examining for coremod candidacy collective-1.12.2-3.0.jar
+[16:29:41] [main/DEBUG] [FML]: Not found coremod data in collective-1.12.2-3.0.jar
+[16:29:41] [main/DEBUG] [FML]: Examining for coremod candidacy ComputerCraft-Mod-1.12.2.jar
+[16:29:41] [main/DEBUG] [FML]: Not found coremod data in ComputerCraft-Mod-1.12.2.jar
+[16:29:41] [main/DEBUG] [FML]: Examining for coremod candidacy davincisvessels-1.12-6.340-full.jar
+[16:29:41] [main/DEBUG] [FML]: Not found coremod data in davincisvessels-1.12-6.340-full.jar
+[16:29:41] [main/DEBUG] [FML]: Examining for coremod candidacy Decocraft-2.6.3.7_1.12.2.jar
+[16:29:41] [main/DEBUG] [FML]: Not found coremod data in Decocraft-2.6.3.7_1.12.2.jar
+[16:29:41] [main/DEBUG] [FML]: Examining for coremod candidacy extrautils2-1.12-1.9.9.jar
+[16:29:41] [main/DEBUG] [FML]: Not found coremod data in extrautils2-1.12-1.9.9.jar
+[16:29:41] [main/DEBUG] [FML]: Examining for coremod candidacy ExtremeReactors-1.12.2-0.4.5.68.jar
+[16:29:41] [main/DEBUG] [FML]: Not found coremod data in ExtremeReactors-1.12.2-0.4.5.68.jar
+[16:29:41] [main/DEBUG] [FML]: Examining for coremod candidacy Galacticraft-1.12.2-4.0.5.jar
+[16:29:41] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Galacticraft-1.12.2-4.0.5.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[16:29:41] [main/DEBUG] [FML]: Instantiating coremod class MicdoodlePlugin
+[16:29:41] [main/DEBUG] [FML]: The coremod micdoodle8.mods.miccore.MicdoodlePlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[16:29:41] [main/WARN] [FML]: The coremod MicdoodlePlugin (micdoodle8.mods.miccore.MicdoodlePlugin) is not signed!
+[16:29:41] [main/DEBUG] [FML]: Added access transformer class micdoodle8.mods.miccore.MicdoodleAccessTransformer to enqueued access transformers
+[16:29:41] [main/DEBUG] [FML]: Enqueued coremod MicdoodlePlugin
+[16:29:41] [main/DEBUG] [FML]: Examining for coremod candidacy HoloInventory-1.12.2-2.1.1.151.jar
+[16:29:41] [main/DEBUG] [FML]: Not found coremod data in HoloInventory-1.12.2-2.1.1.151.jar
+[16:29:41] [main/DEBUG] [FML]: Examining for coremod candidacy Hwyla-1.8.26-B41_1.12.2.jar
+[16:29:41] [main/DEBUG] [FML]: Not found coremod data in Hwyla-1.8.26-B41_1.12.2.jar
+[16:29:41] [main/DEBUG] [FML]: Examining for coremod candidacy jei_1.12.2-4.16.1.1001.jar
+[16:29:41] [main/DEBUG] [FML]: Not found coremod data in jei_1.12.2-4.16.1.1001.jar
+[16:29:41] [main/DEBUG] [FML]: Examining for coremod candidacy Mantle-1.12-1.3.3.55.jar
+[16:29:41] [main/DEBUG] [FML]: Not found coremod data in Mantle-1.12-1.3.3.55.jar
+[16:29:41] [main/DEBUG] [FML]: Examining for coremod candidacy MathParser.org-mXparser-4.0.0.jar
+[16:29:41] [main/DEBUG] [FML]: Not found coremod data in MathParser.org-mXparser-4.0.0.jar
+[16:29:41] [main/DEBUG] [FML]: Examining for coremod candidacy mcjtylib-1.12-3.5.4.jar
+[16:29:41] [main/DEBUG] [FML]: Not found coremod data in mcjtylib-1.12-3.5.4.jar
+[16:29:41] [main/DEBUG] [FML]: Examining for coremod candidacy moreoverlays-1.15.1-mc1.12.2.jar
+[16:29:41] [main/DEBUG] [FML]: Not found coremod data in moreoverlays-1.15.1-mc1.12.2.jar
+[16:29:41] [main/DEBUG] [FML]: Examining for coremod candidacy movingworld-1.12-6.342-full.jar
+[16:29:41] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from movingworld-1.12-6.342-full.jar
+[16:29:41] [main/DEBUG] [FML]: Examining for coremod candidacy OptiFine-OptiFine-1.12.2_HD_U_G5.jar
+[16:29:41] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine-OptiFine-1.12.2_HD_U_G5.jar
+[16:29:41] [main/DEBUG] [FML]: Examining for coremod candidacy ProjectE-1.12.2-PE1.4.1.jar
+[16:29:41] [main/DEBUG] [FML]: Not found coremod data in ProjectE-1.12.2-PE1.4.1.jar
+[16:29:41] [main/DEBUG] [FML]: Examining for coremod candidacy PTRLib-1.0.5.jar
+[16:29:41] [main/DEBUG] [FML]: Not found coremod data in PTRLib-1.0.5.jar
+[16:29:41] [main/DEBUG] [FML]: Examining for coremod candidacy RedstoneFlux-1.12-2.1.1.1-universal.jar
+[16:29:41] [main/DEBUG] [FML]: Not found coremod data in RedstoneFlux-1.12-2.1.1.1-universal.jar
+[16:29:41] [main/DEBUG] [FML]: Examining for coremod candidacy rftools-1.12-7.73.jar
+[16:29:41] [main/DEBUG] [FML]: Not found coremod data in rftools-1.12-7.73.jar
+[16:29:41] [main/DEBUG] [FML]: Examining for coremod candidacy simplegenerators-1.12.2-2.0.20.2.jar
+[16:29:41] [main/DEBUG] [FML]: Not found coremod data in simplegenerators-1.12.2-2.0.20.2.jar
+[16:29:41] [main/DEBUG] [FML]: Examining for coremod candidacy SimplyJetpacks2-1.12.2-2.2.19.0.jar
+[16:29:41] [main/DEBUG] [FML]: Not found coremod data in SimplyJetpacks2-1.12.2-2.2.19.0.jar
+[16:29:41] [main/DEBUG] [FML]: Examining for coremod candidacy stackrefill_1.12.2-2.0.jar
+[16:29:41] [main/DEBUG] [FML]: Not found coremod data in stackrefill_1.12.2-2.0.jar
+[16:29:41] [main/DEBUG] [FML]: Examining for coremod candidacy StorageDrawers-1.12.2-5.4.2.jar
+[16:29:41] [main/DEBUG] [FML]: Not found coremod data in StorageDrawers-1.12.2-5.4.2.jar
+[16:29:41] [main/DEBUG] [FML]: Examining for coremod candidacy TConstruct-1.12.2-2.13.0.179.jar
+[16:29:41] [main/DEBUG] [FML]: Not found coremod data in TConstruct-1.12.2-2.13.0.179.jar
+[16:29:41] [main/DEBUG] [FML]: Examining for coremod candidacy Tinkers-Mechworks-Fork-Mod-Forge-1.12.2.jar
+[16:29:41] [main/DEBUG] [FML]: Not found coremod data in Tinkers-Mechworks-Fork-Mod-Forge-1.12.2.jar
+[16:29:41] [main/DEBUG] [FML]: Examining for coremod candidacy valkyrielib-1.12.2-2.0.20.1.jar
+[16:29:41] [main/DEBUG] [FML]: Not found coremod data in valkyrielib-1.12.2-2.0.20.1.jar
+[16:29:41] [main/DEBUG] [FML]: Examining for coremod candidacy worldedit-forge-mc1.12.2-6.1.10-dist.jar
+[16:29:41] [main/DEBUG] [FML]: Not found coremod data in worldedit-forge-mc1.12.2-6.1.10-dist.jar
+[16:29:41] [main/DEBUG] [FML]: Examining for coremod candidacy zerocore-1.12.2-0.1.2.9.jar
+[16:29:41] [main/DEBUG] [FML]: Not found coremod data in zerocore-1.12.2-0.1.2.9.jar
+[16:29:41] [main/DEBUG] [FML]: Examining for coremod candidacy ImmersiveEngineering-core-0.12-98.jar
+[16:29:41] [main/TRACE] [FML]: Adding ImmersiveEngineering-core-0.12-98.jar to the list of known coremods, it will not be examined again
+[16:29:41] [main/DEBUG] [FML]: Instantiating coremod class IELoadingPlugin
+[16:29:41] [main/WARN] [FML]: The coremod blusunrize.immersiveengineering.common.asm.IELoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:29:41] [main/WARN] [FML]: The coremod IELoadingPlugin (blusunrize.immersiveengineering.common.asm.IELoadingPlugin) is not signed!
+[16:29:41] [main/DEBUG] [FML]: Enqueued coremod IELoadingPlugin
+[16:29:41] [main/DEBUG] [FML]: Examining for coremod candidacy ImmersiveEngineering-0.12-98.jar
+[16:29:41] [main/DEBUG] [FML]: Not found coremod data in ImmersiveEngineering-0.12-98.jar
+[16:29:41] [main/DEBUG] [FML]: Examining for coremod candidacy structurize-1.12.2-0.10.277-RELEASE.jar
+[16:29:41] [main/DEBUG] [FML]: Not found coremod data in structurize-1.12.2-0.10.277-RELEASE.jar
+[16:29:41] [main/DEBUG] [FML]: Examining for coremod candidacy minecolonies-1.12.2-0.11.841-BETA-universal.jar
+[16:29:41] [main/DEBUG] [FML]: Not found coremod data in minecolonies-1.12.2-0.11.841-BETA-universal.jar
+[16:29:41] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[16:29:41] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[16:29:41] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.7.4 Source=file:/media/Minecraft/server/The-Greatest-Empire-SMP/./mods/movingworld-1.12-6.342-full.jar Service=LaunchWrapper Env=SERVER
+[16:29:41] [main/DEBUG] [mixin]: Adding new mixin transformer proxy #1
+[16:29:41] [main/DEBUG] [mixin]: Initialising Mixin Platform Manager
+[16:29:41] [main/DEBUG] [mixin]: Mixin platform: primary container is file:/media/Minecraft/server/The-Greatest-Empire-SMP/./mods/movingworld-1.12-6.342-full.jar
+[16:29:41] [main/DEBUG] [mixin]: Adding mixin platform agents for container file:/media/Minecraft/server/The-Greatest-Empire-SMP/./mods/movingworld-1.12-6.342-full.jar
+[16:29:41] [main/DEBUG] [mixin]: Instancing new MixinPlatformAgentFML for file:/media/Minecraft/server/The-Greatest-Empire-SMP/./mods/movingworld-1.12-6.342-full.jar
+[16:29:41] [main/DEBUG] [mixin]: ForceLoadAsMod was specified for movingworld-1.12-6.342-full.jar, attempting force-load
+[16:29:41] [main/DEBUG] [mixin]: Adding movingworld-1.12-6.342-full.jar to reparseable coremod collection
+[16:29:41] [main/DEBUG] [mixin]: movingworld-1.12-6.342-full.jar has core plugin com.elytradev.movingworld.common.asm.coremod.MovingWorldCoreMod. Injecting it into FML for co-initialisation:
+[16:29:41] [main/DEBUG] [FML]: Instantiating coremod class MovingWorldCoreMod
+[16:29:41] [main/TRACE] [FML]: coremod named MovingWorldCore is loading
+[16:29:41] [main/WARN] [FML]: The coremod com.elytradev.movingworld.common.asm.coremod.MovingWorldCoreMod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:29:41] [main/WARN] [FML]: The coremod MovingWorldCore (com.elytradev.movingworld.common.asm.coremod.MovingWorldCoreMod) is not signed!
+[16:29:41] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[16:29:41] [main/ERROR] [mixin]: Mixin config mixins.movingworld.json does not specify "minVersion" property
+[16:29:41] [main/DEBUG] [FML]: Enqueued coremod MovingWorldCore
+[16:29:41] [main/DEBUG] [mixin]: Instancing new MixinPlatformAgentDefault for file:/media/Minecraft/server/The-Greatest-Empire-SMP/./mods/movingworld-1.12-6.342-full.jar
+[16:29:41] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/Magma-1.12.2-b43297ee.jar for mixin tweaker
+[16:29:41] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/me/tongfei/progressbar/0.9.2/progressbar-0.9.2.jar for mixin tweaker
+[16:29:41] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/com/google/code/gson/gson/2.8.7/gson-2.8.7.jar for mixin tweaker
+[16:29:41] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/jline/jline/3.21.0/jline-3.21.0.jar for mixin tweaker
+[16:29:41] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/minecraft_server.1.12.2.jar for mixin tweaker
+[16:29:41] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar for mixin tweaker
+[16:29:41] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/ow2/asm/asm-all/5.2/asm-all-5.2.jar for mixin tweaker
+[16:29:41] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/net/md-5/bungeecord-chat/1.12-SNAPSHOT/bungeecord-chat-1.12-20180712.114550-97.jar for mixin tweaker
+[16:29:41] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar for mixin tweaker
+[16:29:41] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/commons-lang/commons-lang/2.6/commons-lang-2.6.jar for mixin tweaker
+[16:29:41] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/net/md-5/SpecialSource/1.8.5/SpecialSource-1.8.5.jar for mixin tweaker
+[16:29:41] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/com/typesafe/config/1.3.1/config-1.3.1.jar for mixin tweaker
+[16:29:41] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/javassist/javassist/3.12.1.GA/javassist-3.12.1.GA.jar for mixin tweaker
+[16:29:41] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/jline/jline/3.5.1/jline-3.5.1.jar for mixin tweaker
+[16:29:41] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/jline/jline/2.13/jline-2.13.jar for mixin tweaker
+[16:29:41] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar for mixin tweaker
+[16:29:41] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar for mixin tweaker
+[16:29:41] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar for mixin tweaker
+[16:29:41] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar for mixin tweaker
+[16:29:41] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/apache/logging/log4j/log4j-api/2.17.2/log4j-api-2.17.2.jar for mixin tweaker
+[16:29:41] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/apache/logging/log4j/log4j-core/2.17.2/log4j-core-2.17.2.jar for mixin tweaker
+[16:29:41] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30.jar for mixin tweaker
+[16:29:41] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/slf4j/slf4j-nop/1.7.30/slf4j-nop-1.7.30.jar for mixin tweaker
+[16:29:41] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/apache/logging/log4j/log4j-iostreams/2.17.2/log4j-iostreams-2.17.2.jar for mixin tweaker
+[16:29:41] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/lzma/lzma/0.0.1/lzma-0.0.1.jar for mixin tweaker
+[16:29:41] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar for mixin tweaker
+[16:29:41] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/mysql/mysql-connector-java/5.1.46/mysql-connector-java-5.1.46.jar for mixin tweaker
+[16:29:41] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/reflections/reflections/0.9.10/reflections-0.9.10.jar for mixin tweaker
+[16:29:41] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar for mixin tweaker
+[16:29:41] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar for mixin tweaker
+[16:29:41] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar for mixin tweaker
+[16:29:41] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar for mixin tweaker
+[16:29:41] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar for mixin tweaker
+[16:29:41] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar for mixin tweaker
+[16:29:41] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar for mixin tweaker
+[16:29:41] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/scala-lang/modules/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar for mixin tweaker
+[16:29:41] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar for mixin tweaker
+[16:29:41] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/yaml/snakeyaml/1.23/snakeyaml-1.23.jar for mixin tweaker
+[16:29:41] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/xerial/sqlite-jdbc/3.21.0.1/sqlite-jdbc-3.21.0.1.jar for mixin tweaker
+[16:29:41] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar for mixin tweaker
+[16:29:41] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/javax/vecmath/vecmath/1.5.2/vecmath-1.5.2.jar for mixin tweaker
+[16:29:41] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/./mods/Galacticraft-1.12.2-4.0.5.jar for mixin tweaker
+[16:29:41] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/./mods/OptiFine-OptiFine-1.12.2_HD_U_G5.jar for mixin tweaker
+[16:29:41] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/./mods/memory_repo/blusunrize/ImmersiveEngineering-core/0.12-98/ImmersiveEngineering-core-0.12-98.jar for mixin tweaker
+[16:29:41] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
+[16:29:41] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[16:29:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[16:29:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[16:29:41] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
+[16:29:41] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[16:29:41] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: Forge server detected, skipping class transformer
+[16:29:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:29:41] [main/DEBUG] [FML]: Injecting coremod FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\} class transformers
+[16:29:41] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[16:29:41] [main/DEBUG] [mixin]: Preparing mixins for MixinEnvironment[PREINIT]
+[16:29:41] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[16:29:41] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[16:29:41] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SoundEngineFixTransformer
+[16:29:41] [main/DEBUG] [FML]: Injection complete
+[16:29:41] [main/DEBUG] [FML]: Running coremod plugin for FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\}
+[16:29:41] [main/DEBUG] [FML]: Running coremod plugin FMLCorePlugin
+[16:29:43] [main/DEBUG] [FML]: Read 1400 binary patches
+[16:29:43] [main/DEBUG] [FML]: Loading deobfuscation resource /deobfuscation_data-1.12.2.lzma with 36083 records
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.settings.GameSettings$2, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.settings.GameSettings$Options, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.settings.GameSettings, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.LoadingScreenRenderer, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.util.ScreenShotHelper, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.FontRenderer, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiIngame$1, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiIngame, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiOverlayDebug$1, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiOverlayDebug, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiSlot, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiMainMenu, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.gui.GuiVideoSettings, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.model.TexturedQuad, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.model.ModelBox, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.model.ModelRenderer, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient$1, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient$2, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient$3, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient$4, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.multiplayer.WorldClient, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager$1, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager$2, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager$3, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager$4, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.particle.ParticleManager, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.entity.AbstractClientPlayer, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BufferBuilder$1, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BufferBuilder$2, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BufferBuilder$State, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BufferBuilder, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer$1, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer$2, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer$3, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer$4, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.EntityRenderer, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.ItemRenderer$1, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.ItemRenderer, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderGlobal$1, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderGlobal$2, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderGlobal$ContainerLocalRenderInformation, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderGlobal, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockFluidRenderer, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$1, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$EnumNeighborInfo, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$AmbientOcclusionFace, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$VertexTranslations, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer$Orientation, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.BlockModelRenderer, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.BakedQuad, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.BakedQuadRetextured, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.FaceBakery$5, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.FaceBakery, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ItemOverrideList, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.tileentity.TileEntityRendererDispatcher, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.tileentity.TileEntitySpecialRenderer, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$1, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$2, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$3, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher$PendingUpload, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.ChunkRenderDispatcher, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.chunk.RenderChunk, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.RenderManager, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.RenderItemFrame, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$1, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$10, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$2, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$3, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$4, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$5, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$6, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$7, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$8, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem$9, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.RenderItem, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.RenderLivingBase$1, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.RenderLivingBase, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.entity.layers.LayerArmorBase, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.LayeredColorMaskTexture, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.Stitcher$Holder, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.Stitcher$Slot, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.Stitcher, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureMap$1, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureMap$2, but received non-empty
+[16:29:43] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureMap$3, but received non-empty
+[16:29:44] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureMap, but received non-empty
+[16:29:44] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureAtlasSprite$1, but received non-empty
+[16:29:44] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureAtlasSprite, but received non-empty
+[16:29:44] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureManager$1, but received non-empty
+[16:29:44] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureManager, but received non-empty
+[16:29:44] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.texture.TextureUtil, but received non-empty
+[16:29:44] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.resources.ResourcePackRepository$2, but received non-empty
+[16:29:44] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.resources.ResourcePackRepository$3, but received non-empty
+[16:29:44] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.resources.ResourcePackRepository$Entry, but received non-empty
+[16:29:44] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.resources.ResourcePackRepository, but received non-empty
+[16:29:44] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelRotation, but received non-empty
+[16:29:44] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelBakery$1, but received non-empty
+[16:29:44] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelBakery$2, but received non-empty
+[16:29:44] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelBakery$3, but received non-empty
+[16:29:44] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.block.model.ModelBakery, but received non-empty
+[16:29:44] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.server.integrated.IntegratedServer$1, but received non-empty
+[16:29:44] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.server.integrated.IntegratedServer$2, but received non-empty
+[16:29:44] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.server.integrated.IntegratedServer$3, but received non-empty
+[16:29:44] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.server.integrated.IntegratedServer, but received non-empty
+[16:29:44] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.OpenGlHelper$1, but received non-empty
+[16:29:44] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.OpenGlHelper$FboMode, but received non-empty
+[16:29:44] [main/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.client.renderer.OpenGlHelper, but received non-empty
+[16:29:44] [main/DEBUG] [FML]: Coremod plugin class FMLCorePlugin run successfully
+[16:29:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:29:44] [main/DEBUG] [FML]: Injecting coremod FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\} class transformers
+[16:29:44] [main/DEBUG] [FML]: Injection complete
+[16:29:44] [main/DEBUG] [FML]: Running coremod plugin for FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\}
+[16:29:44] [main/DEBUG] [FML]: Running coremod plugin FMLForgePlugin
+[16:29:44] [main/DEBUG] [FML]: Coremod plugin class FMLForgePlugin run successfully
+[16:29:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:29:44] [main/DEBUG] [FML]: Injecting coremod MagmaCorePlugin \{org.magmafoundation.magma.MagmaCorePlugin\} class transformers
+[16:29:44] [main/TRACE] [FML]: Registering transformer org.magmafoundation.magma.modPatcher.patches.FTBQuestPatch
+[16:29:44] [main/TRACE] [FML]: Registering transformer org.magmafoundation.magma.modPatcher.patches.FirstAidPatch
+[16:29:44] [main/TRACE] [FML]: Registering transformer org.magmafoundation.magma.modPatcher.patches.NaturesCompassPatch
+[16:29:44] [main/TRACE] [FML]: Registering transformer org.magmafoundation.magma.modPatcher.patches.FastBenchPatch
+[16:29:44] [main/DEBUG] [FML]: Injection complete
+[16:29:44] [main/DEBUG] [FML]: Running coremod plugin for MagmaCorePlugin \{org.magmafoundation.magma.MagmaCorePlugin\}
+[16:29:44] [main/DEBUG] [FML]: Running coremod plugin MagmaCorePlugin
+[16:29:44] [main/DEBUG] [FML]: Coremod plugin class MagmaCorePlugin run successfully
+[16:29:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:29:44] [main/DEBUG] [FML]: Injecting coremod MicdoodlePlugin \{micdoodle8.mods.miccore.MicdoodlePlugin\} class transformers
+[16:29:44] [main/INFO] [MicdoodleCore]: Successfully Registered Transformer
+[16:29:44] [main/TRACE] [FML]: Registering transformer micdoodle8.mods.miccore.MicdoodleTransformer
+[16:29:44] [main/DEBUG] [FML]: Injection complete
+[16:29:44] [main/DEBUG] [FML]: Running coremod plugin for MicdoodlePlugin \{micdoodle8.mods.miccore.MicdoodlePlugin\}
+[16:29:44] [main/DEBUG] [FML]: Running coremod plugin MicdoodlePlugin
+[16:29:44] [main/DEBUG] [FML]: Coremod plugin class MicdoodlePlugin run successfully
+[16:29:44] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[16:29:44] [main/DEBUG] [mixin]: Processing prepare() for PlatformAgent[MixinPlatformAgentFML:file:/media/Minecraft/server/The-Greatest-Empire-SMP/./mods/movingworld-1.12-6.342-full.jar]
+[16:29:44] [main/DEBUG] [mixin]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:file:/media/Minecraft/server/The-Greatest-Empire-SMP/./mods/movingworld-1.12-6.342-full.jar]
+[16:29:44] [main/DEBUG] [mixin]: Registering mixin config: mixins.movingworld.json
+[16:29:44] [main/ERROR] [mixin]: Mixin config mixins.movingworld.json does not specify "minVersion" property
+[16:29:44] [main/DEBUG] [mixin]: Processing launch tasks for PlatformAgent[MixinPlatformAgentFML:file:/media/Minecraft/server/The-Greatest-Empire-SMP/./mods/movingworld-1.12-6.342-full.jar]
+[16:29:44] [main/DEBUG] [mixin]: Creating FML remapper adapter: org.spongepowered.asm.bridge.RemapperAdapterFML
+[16:29:44] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@41ffaeb8
+[16:29:44] [main/DEBUG] [mixin]: Processing launch tasks for PlatformAgent[MixinPlatformAgentDefault:file:/media/Minecraft/server/The-Greatest-Empire-SMP/./mods/movingworld-1.12-6.342-full.jar]
+[16:29:44] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/Magma-1.12.2-b43297ee.jar for mixin tweaker
+[16:29:44] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/me/tongfei/progressbar/0.9.2/progressbar-0.9.2.jar for mixin tweaker
+[16:29:44] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/com/google/code/gson/gson/2.8.7/gson-2.8.7.jar for mixin tweaker
+[16:29:44] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/jline/jline/3.21.0/jline-3.21.0.jar for mixin tweaker
+[16:29:44] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/minecraft_server.1.12.2.jar for mixin tweaker
+[16:29:44] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar for mixin tweaker
+[16:29:44] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/ow2/asm/asm-all/5.2/asm-all-5.2.jar for mixin tweaker
+[16:29:44] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/net/md-5/bungeecord-chat/1.12-SNAPSHOT/bungeecord-chat-1.12-20180712.114550-97.jar for mixin tweaker
+[16:29:44] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar for mixin tweaker
+[16:29:44] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/commons-lang/commons-lang/2.6/commons-lang-2.6.jar for mixin tweaker
+[16:29:44] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/net/md-5/SpecialSource/1.8.5/SpecialSource-1.8.5.jar for mixin tweaker
+[16:29:44] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/com/typesafe/config/1.3.1/config-1.3.1.jar for mixin tweaker
+[16:29:44] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/javassist/javassist/3.12.1.GA/javassist-3.12.1.GA.jar for mixin tweaker
+[16:29:44] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/jline/jline/3.5.1/jline-3.5.1.jar for mixin tweaker
+[16:29:44] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/jline/jline/2.13/jline-2.13.jar for mixin tweaker
+[16:29:44] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar for mixin tweaker
+[16:29:44] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar for mixin tweaker
+[16:29:44] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar for mixin tweaker
+[16:29:44] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar for mixin tweaker
+[16:29:44] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/apache/logging/log4j/log4j-api/2.17.2/log4j-api-2.17.2.jar for mixin tweaker
+[16:29:44] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/apache/logging/log4j/log4j-core/2.17.2/log4j-core-2.17.2.jar for mixin tweaker
+[16:29:44] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30.jar for mixin tweaker
+[16:29:44] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/slf4j/slf4j-nop/1.7.30/slf4j-nop-1.7.30.jar for mixin tweaker
+[16:29:44] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/apache/logging/log4j/log4j-iostreams/2.17.2/log4j-iostreams-2.17.2.jar for mixin tweaker
+[16:29:44] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/lzma/lzma/0.0.1/lzma-0.0.1.jar for mixin tweaker
+[16:29:44] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar for mixin tweaker
+[16:29:44] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/mysql/mysql-connector-java/5.1.46/mysql-connector-java-5.1.46.jar for mixin tweaker
+[16:29:44] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/reflections/reflections/0.9.10/reflections-0.9.10.jar for mixin tweaker
+[16:29:44] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar for mixin tweaker
+[16:29:44] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar for mixin tweaker
+[16:29:44] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar for mixin tweaker
+[16:29:44] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar for mixin tweaker
+[16:29:44] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar for mixin tweaker
+[16:29:44] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar for mixin tweaker
+[16:29:44] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar for mixin tweaker
+[16:29:44] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/scala-lang/modules/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar for mixin tweaker
+[16:29:44] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar for mixin tweaker
+[16:29:44] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/yaml/snakeyaml/1.23/snakeyaml-1.23.jar for mixin tweaker
+[16:29:44] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/xerial/sqlite-jdbc/3.21.0.1/sqlite-jdbc-3.21.0.1.jar for mixin tweaker
+[16:29:44] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar for mixin tweaker
+[16:29:44] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/libraries/javax/vecmath/vecmath/1.5.2/vecmath-1.5.2.jar for mixin tweaker
+[16:29:44] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/./mods/Galacticraft-1.12.2-4.0.5.jar for mixin tweaker
+[16:29:44] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/./mods/OptiFine-OptiFine-1.12.2_HD_U_G5.jar for mixin tweaker
+[16:29:44] [main/DEBUG] [mixin]: Scanning file:/media/Minecraft/server/The-Greatest-Empire-SMP/./mods/memory_repo/blusunrize/ImmersiveEngineering-core/0.12-98/ImmersiveEngineering-core-0.12-98.jar for mixin tweaker
+[16:29:44] [main/DEBUG] [mixin]: Scanning asmgen:/ for mixin tweaker
+[16:29:44] [main/DEBUG] [mixin]: inject() running with 1 agents
+[16:29:44] [main/DEBUG] [mixin]: Processing inject() for PlatformAgent[MixinPlatformAgentFML:file:/media/Minecraft/server/The-Greatest-Empire-SMP/./mods/movingworld-1.12-6.342-full.jar]
+[16:29:44] [main/DEBUG] [mixin]: FML agent is co-initiralising coremod instance MovingWorldCore {[]} for file:/media/Minecraft/server/The-Greatest-Empire-SMP/./mods/movingworld-1.12-6.342-full.jar
+[16:29:44] [main/DEBUG] [FML]: Injecting coremod MovingWorldCore \{com.elytradev.movingworld.common.asm.coremod.MovingWorldCoreMod\} class transformers
+[16:29:44] [main/DEBUG] [FML]: Injection complete
+[16:29:44] [main/DEBUG] [FML]: Running coremod plugin for MovingWorldCore \{com.elytradev.movingworld.common.asm.coremod.MovingWorldCoreMod\}
+[16:29:44] [main/DEBUG] [FML]: Running coremod plugin MovingWorldCore
+[16:29:44] [main/DEBUG] [FML]: Coremod plugin class MovingWorldCoreMod run successfully
+[16:29:44] [main/DEBUG] [mixin]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:file:/media/Minecraft/server/The-Greatest-Empire-SMP/./mods/movingworld-1.12-6.342-full.jar]
+[16:29:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[16:29:44] [main/DEBUG] [FML]: Loaded 215 rules from AccessTransformer config file forge_at.cfg
+[16:29:44] [main/DEBUG] [FML]: Loaded 30 rules from AccessTransformer config file META-INF/accesstransformer.cfg
+[16:29:44] [main/DEBUG] [FML]: Loaded 17 rules from AccessTransformer mod jar file ./mods/minecolonies-1.12.2-0.11.841-BETA-universal.jar!META-INF/minecolonies_at.cfg
+
+[16:29:44] [main/DEBUG] [FML]: Loaded 8 rules from AccessTransformer mod jar file ./mods/Mantle-1.12-1.3.3.55.jar!META-INF/mantle_at.cfg
+
+[16:29:44] [main/DEBUG] [FML]: Loaded 29 rules from AccessTransformer mod jar file ./mods/ImmersiveEngineering-0.12-98.jar!META-INF/ImmersiveEngineering_at.cfg
+
+[16:29:44] [main/DEBUG] [FML]: Loaded 46 rules from AccessTransformer mod jar file ./mods/CodeChickenLib-1.12.2-3.2.3.358-universal.jar!META-INF/ccl_at.cfg
+
+[16:29:44] [main/DEBUG] [FML]: Loaded 39 rules from AccessTransformer mod jar file ./mods/TConstruct-1.12.2-2.13.0.179.jar!META-INF/tconstruct_at.cfg
+
+[16:29:44] [main/DEBUG] [FML]: Loaded 30 rules from AccessTransformer mod jar file ./mods/Galacticraft-1.12.2-4.0.5.jar!META-INF/accesstransformer.cfg
+
+[16:29:44] [main/DEBUG] [FML]: Loaded 1 rules from AccessTransformer mod jar file ./mods/Decocraft-2.6.3.7_1.12.2.jar!META-INF/decocraft_at.cfg
+
+[16:29:44] [main/DEBUG] [FML]: Loaded 4 rules from AccessTransformer mod jar file ./mods/ProjectE-1.12.2-PE1.4.1.jar!META-INF/pe_at.cfg
+
+[16:29:44] [main/DEBUG] [FML]: Loaded 7 rules from AccessTransformer mod jar file ./mods/rftools-1.12-7.73.jar!META-INF/rftools_at.cfg
+
+[16:29:44] [main/DEBUG] [FML]: Loaded 97 rules from AccessTransformer mod jar file ./mods/extrautils2-1.12-1.9.9.jar!META-INF/extrautils2_at.cfg
+
+[16:29:44] [main/DEBUG] [FML]: Loaded 13 rules from AccessTransformer mod jar file ./mods/jei_1.12.2-4.16.1.1001.jar!META-INF/jei_at.cfg
+
+[16:29:44] [main/DEBUG] [FML]: Loaded 2 rules from AccessTransformer mod jar file ./mods/ComputerCraft-Mod-1.12.2.jar!META-INF/computercraft_at.cfg
+
+[16:29:44] [main/DEBUG] [FML]: Loaded 2 rules from AccessTransformer mod jar file ./mods/mcjtylib-1.12-3.5.4.jar!META-INF/mcjtylib_ng_at.cfg
+
+[16:29:44] [main/DEBUG] [FML]: Loaded 1 rules from AccessTransformer mod jar file ./mods/worldedit-forge-mc1.12.2-6.1.10-dist.jar!META-INF/worldedit_at.cfg
+
+[16:29:44] [main/DEBUG] [FML]: Loaded 10 rules from AccessTransformer mod jar file ./mods/memory_repo/com/ldtteam/structurize/1.12.2-0.10.277-RELEASE/structurize-1.12.2-0.10.277-RELEASE.jar!META-INF/structurize_at.cfg
+
+[16:29:44] [main/DEBUG] [FML]: Loaded 3 rules from AccessTransformer mod jar file ./mods/ChickenChunks-1.12.2-2.4.2.74-universal.jar!META-INF/chickenchunks_at.cfg
+
+[16:29:44] [main/DEBUG] [FML]: Validating minecraft
+[16:29:44] [main/DEBUG] [FML]: Minecraft validated, launching...
+[16:29:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:29:44] [main/DEBUG] [FML]: Injecting coremod IELoadingPlugin \{blusunrize.immersiveengineering.common.asm.IELoadingPlugin\} class transformers
+[16:29:44] [main/TRACE] [FML]: Registering transformer blusunrize.immersiveengineering.common.asm.IEClassTransformer
+[16:29:44] [main/DEBUG] [FML]: Injection complete
+[16:29:44] [main/DEBUG] [FML]: Running coremod plugin for IELoadingPlugin \{blusunrize.immersiveengineering.common.asm.IELoadingPlugin\}
+[16:29:44] [main/DEBUG] [FML]: Running coremod plugin IELoadingPlugin
+[16:29:44] [main/DEBUG] [FML]: Coremod plugin class IELoadingPlugin run successfully
+[16:29:44] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[16:29:44] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[16:29:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[16:29:44] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[16:29:44] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[16:29:44] [main/DEBUG] [mixin]: Adding new mixin transformer proxy #2
+[16:29:44] [main/DEBUG] [mixin]: Preparing mixins for MixinEnvironment[DEFAULT]
+[16:29:44] [main/DEBUG] [mixin]: Selecting config mixins.movingworld.json
+[16:29:44] [main/WARN] [mixin]: Reference map 'movingworld.mixin.refmap.json' for mixins.movingworld.json could not be read. If this is a development environment you can ignore this message
+[16:29:44] [main/DEBUG] [mixin]: Preparing mixins.movingworld.json (5)
+[16:29:44] [main/DEBUG] [mixin]: Rebuilding transformer delegation list:
+[16:29:44] [main/DEBUG] [mixin]: Found name transformer: net.minecraftforge.fml.common.asm.transformers.DeobfuscationTransformer
+[16:29:44] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.PatchingTransformer
+[16:29:44] [main/DEBUG] [mixin]:   Excluding: org.spongepowered.asm.mixin.transformer.Proxy
+[16:29:44] [main/DEBUG] [mixin]:   Adding:    $wrapper.net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[16:29:44] [main/DEBUG] [mixin]:   Excluding: $wrapper.net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[16:29:44] [main/DEBUG] [mixin]:   Adding:    $wrapper.net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[16:29:44] [main/DEBUG] [mixin]:   Adding:    $wrapper.net.minecraftforge.fml.common.asm.transformers.SoundEngineFixTransformer
+[16:29:44] [main/DEBUG] [mixin]:   Adding:    $wrapper.org.magmafoundation.magma.modPatcher.patches.FTBQuestPatch
+[16:29:44] [main/DEBUG] [mixin]:   Adding:    $wrapper.org.magmafoundation.magma.modPatcher.patches.FirstAidPatch
+[16:29:44] [main/DEBUG] [mixin]:   Adding:    $wrapper.org.magmafoundation.magma.modPatcher.patches.NaturesCompassPatch
+[16:29:44] [main/DEBUG] [mixin]:   Adding:    $wrapper.org.magmafoundation.magma.modPatcher.patches.FastBenchPatch
+[16:29:44] [main/DEBUG] [mixin]:   Adding:    $wrapper.micdoodle8.mods.miccore.MicdoodleTransformer
+[16:29:44] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.DeobfuscationTransformer
+[16:29:44] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.AccessTransformer
+[16:29:44] [main/DEBUG] [mixin]:   Adding:    micdoodle8.mods.miccore.MicdoodleAccessTransformer
+[16:29:44] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.ModAccessTransformer
+[16:29:44] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.ItemStackTransformer
+[16:29:44] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.ItemBlockTransformer
+[16:29:44] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.ItemBlockSpecialTransformer
+[16:29:44] [main/DEBUG] [mixin]:   Adding:    net.minecraftforge.fml.common.asm.transformers.PotionEffectTransformer
+[16:29:44] [main/DEBUG] [mixin]:   Adding:    $wrapper.blusunrize.immersiveengineering.common.asm.IEClassTransformer
+[16:29:44] [main/DEBUG] [mixin]:   Excluding: net.minecraftforge.fml.common.asm.transformers.TerminalTransformer
+[16:29:44] [main/DEBUG] [mixin]:   Excluding: org.spongepowered.asm.mixin.transformer.Proxy
+[16:29:44] [main/DEBUG] [mixin]: Transformer delegation list created with 18 entries
+[16:29:44] [main/TRACE] [mixin]: Added class metadata for net/minecraft/world/World to metadata cache
+[16:29:44] [main/ERROR] [MicdoodleCore]: Potential problem: Galacticraft did not complete injection of bytecode into: vg (0 / 1)
+[16:29:44] [main/TRACE] [mixin]: Added class metadata for net/minecraft/entity/Entity to metadata cache
+[16:29:44] [main/TRACE] [mixin]: Added class metadata for net/minecraft/block/properties/PropertyEnum to metadata cache
+[16:29:44] [main/TRACE] [mixin]: Added class metadata for net/minecraft/block/properties/PropertyInteger to metadata cache
+[16:29:44] [main/TRACE] [mixin]: Added class metadata for net/minecraft/block/BlockSkull to metadata cache
+[16:29:44] [main/TRACE] [mixin]: Added class metadata for net/minecraft/util/EnumFacing$Axis to metadata cache
+[16:29:44] [main/TRACE] [mixin]: Added class metadata for net/minecraft/block/BlockLog$EnumAxis to metadata cache
+[16:29:44] [main/TRACE] [mixin]: Added class metadata for net/minecraft/block/BlockLever$EnumOrientation to metadata cache
+[16:29:44] [main/DEBUG] [mixin]: Prepared 5 mixins in 0.422 sec (84.4ms avg) (1ms load, 298ms transform, 0ms plugin)
+[16:29:45] [main/DEBUG] [mixin]: Mixing world.MixinWorld from mixins.movingworld.json into net.minecraft.world.World
+[16:29:45] [main/TRACE] [mixin]: Added class metadata for org/bukkit/event/entity/ProjectileLaunchEvent to metadata cache
+[16:29:45] [main/TRACE] [mixin]: Added class metadata for org/bukkit/event/vehicle/VehicleCreateEvent to metadata cache
+[16:29:45] [main/TRACE] [mixin]: Added class metadata for org/bukkit/event/entity/EntityEvent to metadata cache
+[16:29:45] [main/TRACE] [mixin]: Added class metadata for org/bukkit/event/Event to metadata cache
+[16:29:45] [main/TRACE] [mixin]: Added class metadata for org/bukkit/event/vehicle/VehicleEvent to metadata cache
+[16:29:45] [main/TRACE] [mixin]: Added class metadata for org/bukkit/event/entity/ItemSpawnEvent to metadata cache
+[16:29:45] [main/TRACE] [mixin]: Added class metadata for org/bukkit/event/entity/EntitySpawnEvent to metadata cache
+[16:29:45] [main/TRACE] [mixin]: Added class metadata for org/bukkit/event/entity/CreatureSpawnEvent to metadata cache
+[16:29:45] [main/ERROR] [MicdoodleCore]: Potential problem: Galacticraft did not complete injection of bytecode into: pl (2 / 4)
+[16:29:45] [main/ERROR] [MicdoodleCore]: Potential problem: Galacticraft did not complete injection of bytecode into: vg (0 / 1)
+[16:29:45] [main/DEBUG] [mixin]: Mixing entity.MixinEntity from mixins.movingworld.json into net.minecraft.entity.Entity
+[16:29:45] [main/TRACE] [mixin]: Added class metadata for com/elytradev/movingworld/common/entity/IMixinEntity to metadata cache
+[16:29:45] [main/TRACE] [mixin]: Added class metadata for net/minecraft/block/state/IBlockState to metadata cache
+[16:29:45] [main/TRACE] [mixin]: Added class metadata for net/minecraft/util/math/BlockPos to metadata cache
+[16:29:45] [main/TRACE] [mixin]: Added class metadata for java/util/List to metadata cache
+[16:29:45] [main/TRACE] [mixin]: Added class metadata for java/util/ArrayList to metadata cache
+[16:29:45] [main/TRACE] [mixin]: Added class metadata for java/util/AbstractList to metadata cache
+[16:29:45] [main/TRACE] [mixin]: Added class metadata for java/util/AbstractCollection to metadata cache
+[16:29:45] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[16:29:45] [main/DEBUG] [mixin]: Mixing block.property.MixinPropertyEnum from mixins.movingworld.json into net.minecraft.block.properties.PropertyEnum
+[16:29:45] [main/TRACE] [mixin]: Added class metadata for net/minecraft/block/properties/PropertyHelper to metadata cache
+[16:29:45] [main/TRACE] [mixin]: Added class metadata for com/elytradev/movingworld/api/rotation/IRotationProperty to metadata cache
+[16:29:45] [main/TRACE] [mixin]: Added class metadata for net/minecraft/util/EnumFacing to metadata cache
+[16:29:45] [main/TRACE] [mixin]: Added class metadata for java/lang/Enum to metadata cache
+[16:29:45] [main/TRACE] [mixin]: Added class metadata for java/io/Serializable to metadata cache
+[16:29:45] [main/TRACE] [mixin]: Added class metadata for java/lang/Comparable to metadata cache
+[16:29:45] [main/TRACE] [mixin]: Added class metadata for net/minecraft/util/IStringSerializable to metadata cache
+[16:29:45] [main/TRACE] [mixin]: Added class metadata for net/minecraft/block/properties/IProperty to metadata cache
+[16:29:46] [main/DEBUG] [mixin]: Mixing block.property.MixinPropertyInteger from mixins.movingworld.json into net.minecraft.block.properties.PropertyInteger
+[16:29:46] [main/TRACE] [mixin]: Added class metadata for java/lang/Integer to metadata cache
+[16:29:46] [main/TRACE] [mixin]: Added class metadata for com/elytradev/movingworld/common/util/RotationHelper to metadata cache
+[16:29:46] [main/TRACE] [mixin]: Added class metadata for java/lang/Number to metadata cache
+[16:29:46] [main/TRACE] [mixin]: Added class metadata for java/util/Collection to metadata cache
+[16:29:47] [main/DEBUG] [mixin]: Mixing block.MixinBlockSkull from mixins.movingworld.json into net.minecraft.block.BlockSkull
+[16:29:47] [main/TRACE] [mixin]: Added class metadata for net/minecraft/block/BlockContainer to metadata cache
+[16:29:47] [main/TRACE] [mixin]: Added class metadata for net/minecraft/block/Block to metadata cache
+[16:29:47] [main/TRACE] [mixin]: Added class metadata for net/minecraftforge/registries/IForgeRegistryEntry$Impl to metadata cache
+[16:29:47] [main/TRACE] [mixin]: Added class metadata for com/elytradev/movingworld/api/rotation/IRotationBlock to metadata cache
+[16:29:47] [main/TRACE] [mixin]: Added class metadata for com/elytradev/movingworld/common/chunk/LocatedBlock to metadata cache
+[16:29:47] [main/TRACE] [mixin]: Added class metadata for net/minecraft/tileentity/TileEntitySkull to metadata cache
+[16:29:47] [main/TRACE] [mixin]: Added class metadata for net/minecraft/tileentity/TileEntity to metadata cache
+[16:29:47] [main/TRACE] [mixin]: Added class metadata for net/minecraftforge/common/capabilities/ICapabilitySerializable to metadata cache
+[16:29:47] [main/TRACE] [mixin]: Added class metadata for net/minecraftforge/common/capabilities/ICapabilityProvider to metadata cache
+[16:29:47] [main/TRACE] [mixin]: Added class metadata for net/minecraftforge/common/util/INBTSerializable to metadata cache
+[16:29:47] [main/TRACE] [mixin]: Added class metadata for net/minecraft/util/ITickable to metadata cache
+[16:29:48] [main/DEBUG] [FML]: Creating vanilla freeze snapshot
+[16:29:48] [main/DEBUG] [FML]: Vanilla freeze snapshot created
+[16:29:49] [main/INFO] [FML]: 3 patches loaded!
+[16:29:49] [main/INFO] [FML]: CoreProtect [Changes Material to Magma's getBlockMaterial that has modded block materials ] loaded
+[16:29:49] [main/INFO] [FML]: dynmap [Remaps BukkitVersionHelperCB and BukkitVersionHelperGeneric to support Magma version] loaded
+[16:29:49] [main/INFO] [FML]: Essentials [Fixes Commands in Essentials] loaded
+[16:29:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[16:29:49] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[16:29:49] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[16:29:49] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[16:29:49] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[16:29:50] [Server thread/DEBUG] [FML]: File /media/Minecraft/server/The-Greatest-Empire-SMP/config/injectedDependencies.json not found. No dependencies injected
+[16:29:50] [Server thread/DEBUG] [FML]: Building injected Mod Containers [net.minecraftforge.fml.common.FMLContainer, net.minecraftforge.common.ForgeModContainer, micdoodle8.mods.miccore.MicdoodleModContainer, com.elytradev.movingworld.common.asm.coremod.MovingWorldModContainer]
+[16:29:50] [Server thread/DEBUG] [FML]: Attempting to load mods contained in the minecraft jar file and associated classes
+[16:29:50] [Server thread/DEBUG] [FML]: Found a minecraft related file at /media/Minecraft/server/The-Greatest-Empire-SMP/Magma-1.12.2-b43297ee.jar, examining for mod candidates
+[16:29:50] [Server thread/DEBUG] [FML]: Found a minecraft related file at /media/Minecraft/server/The-Greatest-Empire-SMP/libraries/me/tongfei/progressbar/0.9.2/progressbar-0.9.2.jar, examining for mod candidates
+[16:29:50] [Server thread/TRACE] [FML]: Skipping known library file /media/Minecraft/server/The-Greatest-Empire-SMP/libraries/com/google/code/gson/gson/2.8.7/gson-2.8.7.jar
+[16:29:50] [Server thread/TRACE] [FML]: Skipping known library file /media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/jline/jline/3.21.0/jline-3.21.0.jar
+[16:29:50] [Server thread/DEBUG] [FML]: Found a minecraft related file at /media/Minecraft/server/The-Greatest-Empire-SMP/libraries/minecraft_server.1.12.2.jar, examining for mod candidates
+[16:29:50] [Server thread/TRACE] [FML]: Skipping known library file /media/Minecraft/server/The-Greatest-Empire-SMP/libraries/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar
+[16:29:50] [Server thread/TRACE] [FML]: Skipping known library file /media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/ow2/asm/asm-all/5.2/asm-all-5.2.jar
+[16:29:50] [Server thread/DEBUG] [FML]: Found a minecraft related file at /media/Minecraft/server/The-Greatest-Empire-SMP/libraries/net/md-5/bungeecord-chat/1.12-SNAPSHOT/bungeecord-chat-1.12-20180712.114550-97.jar, examining for mod candidates
+[16:29:50] [Server thread/TRACE] [FML]: Skipping known library file /media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar
+[16:29:50] [Server thread/DEBUG] [FML]: Found a minecraft related file at /media/Minecraft/server/The-Greatest-Empire-SMP/libraries/commons-lang/commons-lang/2.6/commons-lang-2.6.jar, examining for mod candidates
+[16:29:50] [Server thread/DEBUG] [FML]: Found a minecraft related file at /media/Minecraft/server/The-Greatest-Empire-SMP/libraries/net/md-5/SpecialSource/1.8.5/SpecialSource-1.8.5.jar, examining for mod candidates
+[16:29:50] [Server thread/TRACE] [FML]: Skipping known library file /media/Minecraft/server/The-Greatest-Empire-SMP/libraries/com/typesafe/config/1.3.1/config-1.3.1.jar
+[16:29:50] [Server thread/DEBUG] [FML]: Found a minecraft related file at /media/Minecraft/server/The-Greatest-Empire-SMP/libraries/javassist/javassist/3.12.1.GA/javassist-3.12.1.GA.jar, examining for mod candidates
+[16:29:50] [Server thread/TRACE] [FML]: Skipping known library file /media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/jline/jline/3.5.1/jline-3.5.1.jar
+[16:29:50] [Server thread/TRACE] [FML]: Skipping known library file /media/Minecraft/server/The-Greatest-Empire-SMP/libraries/jline/jline/2.13/jline-2.13.jar
+[16:29:50] [Server thread/TRACE] [FML]: Skipping known library file /media/Minecraft/server/The-Greatest-Empire-SMP/libraries/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar
+[16:29:50] [Server thread/TRACE] [FML]: Skipping known library file /media/Minecraft/server/The-Greatest-Empire-SMP/libraries/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar
+[16:29:50] [Server thread/DEBUG] [FML]: Found a minecraft related file at /media/Minecraft/server/The-Greatest-Empire-SMP/libraries/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar, examining for mod candidates
+[16:29:50] [Server thread/TRACE] [FML]: Skipping known library file /media/Minecraft/server/The-Greatest-Empire-SMP/libraries/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar
+[16:29:50] [Server thread/TRACE] [FML]: Skipping known library file /media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/apache/logging/log4j/log4j-api/2.17.2/log4j-api-2.17.2.jar
+[16:29:50] [Server thread/TRACE] [FML]: Skipping known library file /media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/apache/logging/log4j/log4j-core/2.17.2/log4j-core-2.17.2.jar
+[16:29:50] [Server thread/DEBUG] [FML]: Found a minecraft related file at /media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30.jar, examining for mod candidates
+[16:29:50] [Server thread/DEBUG] [FML]: Found a minecraft related file at /media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/slf4j/slf4j-nop/1.7.30/slf4j-nop-1.7.30.jar, examining for mod candidates
+[16:29:50] [Server thread/DEBUG] [FML]: Found a minecraft related file at /media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/apache/logging/log4j/log4j-iostreams/2.17.2/log4j-iostreams-2.17.2.jar, examining for mod candidates
+[16:29:50] [Server thread/TRACE] [FML]: Skipping known library file /media/Minecraft/server/The-Greatest-Empire-SMP/libraries/lzma/lzma/0.0.1/lzma-0.0.1.jar
+[16:29:50] [Server thread/DEBUG] [FML]: Found a minecraft related file at /media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar, examining for mod candidates
+[16:29:50] [Server thread/DEBUG] [FML]: Found a minecraft related file at /media/Minecraft/server/The-Greatest-Empire-SMP/libraries/mysql/mysql-connector-java/5.1.46/mysql-connector-java-5.1.46.jar, examining for mod candidates
+[16:29:50] [Server thread/DEBUG] [FML]: Found a minecraft related file at /media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/reflections/reflections/0.9.10/reflections-0.9.10.jar, examining for mod candidates
+[16:29:50] [Server thread/TRACE] [FML]: Skipping known library file /media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar
+[16:29:50] [Server thread/TRACE] [FML]: Skipping known library file /media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar
+[16:29:50] [Server thread/TRACE] [FML]: Skipping known library file /media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar
+[16:29:50] [Server thread/TRACE] [FML]: Skipping known library file /media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar
+[16:29:50] [Server thread/TRACE] [FML]: Skipping known library file /media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar
+[16:29:50] [Server thread/TRACE] [FML]: Skipping known library file /media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar
+[16:29:50] [Server thread/TRACE] [FML]: Skipping known library file /media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar
+[16:29:50] [Server thread/TRACE] [FML]: Skipping known library file /media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/scala-lang/modules/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar
+[16:29:50] [Server thread/TRACE] [FML]: Skipping known library file /media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar
+[16:29:50] [Server thread/DEBUG] [FML]: Found a minecraft related file at /media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/yaml/snakeyaml/1.23/snakeyaml-1.23.jar, examining for mod candidates
+[16:29:50] [Server thread/DEBUG] [FML]: Found a minecraft related file at /media/Minecraft/server/The-Greatest-Empire-SMP/libraries/org/xerial/sqlite-jdbc/3.21.0.1/sqlite-jdbc-3.21.0.1.jar, examining for mod candidates
+[16:29:50] [Server thread/TRACE] [FML]: Skipping known library file /media/Minecraft/server/The-Greatest-Empire-SMP/libraries/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar
+[16:29:50] [Server thread/TRACE] [FML]: Skipping known library file /media/Minecraft/server/The-Greatest-Empire-SMP/libraries/javax/vecmath/vecmath/1.5.2/vecmath-1.5.2.jar
+[16:29:50] [Server thread/TRACE] [FML]: Skipping known library file /media/Minecraft/server/The-Greatest-Empire-SMP/./mods/Galacticraft-1.12.2-4.0.5.jar
+[16:29:50] [Server thread/TRACE] [FML]: Skipping known library file /media/Minecraft/server/The-Greatest-Empire-SMP/./mods/movingworld-1.12-6.342-full.jar
+[16:29:50] [Server thread/TRACE] [FML]: Skipping known library file /media/Minecraft/server/The-Greatest-Empire-SMP/./mods/OptiFine-OptiFine-1.12.2_HD_U_G5.jar
+[16:29:50] [Server thread/TRACE] [FML]: Skipping known library file /media/Minecraft/server/The-Greatest-Empire-SMP/./mods/memory_repo/blusunrize/ImmersiveEngineering-core/0.12-98/ImmersiveEngineering-core-0.12-98.jar
+[16:29:50] [Server thread/DEBUG] [FML]: Minecraft jar mods loaded successfully
+[16:29:50] [Server thread/INFO] [FML]: Searching /media/Minecraft/server/The-Greatest-Empire-SMP/./mods for mods
+[16:29:50] [Server thread/DEBUG] [FML]:   Adding jei_1.12.2-4.16.1.1001.jar to the mod list
+[16:29:50] [Server thread/DEBUG] [FML]:   Adding collective-1.12.2-3.0.jar to the mod list
+[16:29:50] [Server thread/DEBUG] [FML]:   Adding extrautils2-1.12-1.9.9.jar to the mod list
+[16:29:50] [Server thread/DEBUG] [FML]:   Adding StorageDrawers-1.12.2-5.4.2.jar to the mod list
+[16:29:50] [Server thread/DEBUG] [FML]:   Adding RedstoneFlux-1.12-2.1.1.1-universal.jar to the mod list
+[16:29:50] [Server thread/DEBUG] [FML]:   Adding Decocraft-2.6.3.7_1.12.2.jar to the mod list
+[16:29:50] [Server thread/DEBUG] [FML]:   Adding Chameleon-1.12-4.1.3.jar to the mod list
+[16:29:50] [Server thread/DEBUG] [FML]:   Adding valkyrielib-1.12.2-2.0.20.1.jar to the mod list
+[16:29:50] [Server thread/DEBUG] [FML]:   Adding zerocore-1.12.2-0.1.2.9.jar to the mod list
+[16:29:50] [Server thread/DEBUG] [FML]:   Adding ImmersiveEngineering-0.12-98.jar to the mod list
+[16:29:50] [Server thread/DEBUG] [FML]:   Adding Mantle-1.12-1.3.3.55.jar to the mod list
+[16:29:50] [Server thread/DEBUG] [FML]:   Adding PTRLib-1.0.5.jar to the mod list
+[16:29:50] [Server thread/DEBUG] [FML]:   Adding ProjectE-1.12.2-PE1.4.1.jar to the mod list
+[16:29:50] [Server thread/DEBUG] [FML]:   Adding ComputerCraft-Mod-1.12.2.jar to the mod list
+[16:29:50] [Server thread/DEBUG] [FML]:   Adding minecolonies-1.12.2-0.11.841-BETA-universal.jar to the mod list
+[16:29:50] [Server thread/DEBUG] [FML]:   Adding Hwyla-1.8.26-B41_1.12.2.jar to the mod list
+[16:29:50] [Server thread/DEBUG] [FML]:   Adding HoloInventory-1.12.2-2.1.1.151.jar to the mod list
+[16:29:50] [Server thread/DEBUG] [FML]:   Adding worldedit-forge-mc1.12.2-6.1.10-dist.jar to the mod list
+[16:29:50] [Server thread/DEBUG] [FML]:   Adding CodeChickenLib-1.12.2-3.2.3.358-universal.jar to the mod list
+[16:29:50] [Server thread/DEBUG] [FML]:   Adding Tinkers-Mechworks-Fork-Mod-Forge-1.12.2.jar to the mod list
+[16:29:50] [Server thread/DEBUG] [FML]:   Adding moreoverlays-1.15.1-mc1.12.2.jar to the mod list
+[16:29:50] [Server thread/DEBUG] [FML]:   Adding simplegenerators-1.12.2-2.0.20.2.jar to the mod list
+[16:29:50] [Server thread/DEBUG] [FML]:   Adding davincisvessels-1.12-6.340-full.jar to the mod list
+[16:29:50] [Server thread/DEBUG] [FML]:   Adding movingworld-1.12-6.342-full.jar to the mod list
+[16:29:50] [Server thread/DEBUG] [FML]:   Adding SimplyJetpacks2-1.12.2-2.2.19.0.jar to the mod list
+[16:29:50] [Server thread/DEBUG] [FML]:   Adding ChickenChunks-1.12.2-2.4.2.74-universal.jar to the mod list
+[16:29:50] [Server thread/DEBUG] [FML]:   Adding TConstruct-1.12.2-2.13.0.179.jar to the mod list
+[16:29:50] [Server thread/DEBUG] [FML]:   Adding ExtremeReactors-1.12.2-0.4.5.68.jar to the mod list
+[16:29:50] [Server thread/DEBUG] [FML]:   Adding rftools-1.12-7.73.jar to the mod list
+[16:29:50] [Server thread/DEBUG] [FML]:   Adding mcjtylib-1.12-3.5.4.jar to the mod list
+[16:29:50] [Server thread/DEBUG] [FML]:   Adding stackrefill_1.12.2-2.0.jar to the mod list
+[16:29:50] [Server thread/DEBUG] [FML]:   Adding OptiFine-OptiFine-1.12.2_HD_U_G5.jar to the mod list
+[16:29:50] [Server thread/DEBUG] [FML]:   Adding Galacticraft-1.12.2-4.0.5.jar to the mod list
+[16:29:50] [Server thread/INFO] [FML]: Searching /media/Minecraft/server/The-Greatest-Empire-SMP/./mods/1.12.2 for mods
+[16:29:50] [Server thread/DEBUG] [FML]:   Adding MathParser.org-mXparser-4.0.0.jar to the mod list
+[16:29:50] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file Chameleon-1.12-4.1.3.jar
+[16:29:50] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file ChickenChunks-1.12.2-2.4.2.74-universal.jar
+[16:29:50] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file CodeChickenLib-1.12.2-3.2.3.358-universal.jar
+[16:29:50] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file collective-1.12.2-3.0.jar
+[16:29:50] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file ComputerCraft-Mod-1.12.2.jar
+[16:29:50] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file davincisvessels-1.12-6.340-full.jar
+[16:29:50] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file Decocraft-2.6.3.7_1.12.2.jar
+[16:29:50] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file extrautils2-1.12-1.9.9.jar
+[16:29:50] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file ExtremeReactors-1.12.2-0.4.5.68.jar
+[16:29:50] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file Galacticraft-1.12.2-4.0.5.jar
+[16:29:50] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file HoloInventory-1.12.2-2.1.1.151.jar
+[16:29:50] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file Hwyla-1.8.26-B41_1.12.2.jar
+[16:29:50] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file jei_1.12.2-4.16.1.1001.jar
+[16:29:50] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file Mantle-1.12-1.3.3.55.jar
+[16:29:50] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file MathParser.org-mXparser-4.0.0.jar
+[16:29:50] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file mcjtylib-1.12-3.5.4.jar
+[16:29:50] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file moreoverlays-1.15.1-mc1.12.2.jar
+[16:29:50] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file movingworld-1.12-6.342-full.jar
+[16:29:50] [Server thread/TRACE] [FML]: Skipping already parsed coremod or tweaker OptiFine-OptiFine-1.12.2_HD_U_G5.jar
+[16:29:50] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file ProjectE-1.12.2-PE1.4.1.jar
+[16:29:50] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file PTRLib-1.0.5.jar
+[16:29:50] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file RedstoneFlux-1.12-2.1.1.1-universal.jar
+[16:29:50] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file rftools-1.12-7.73.jar
+[16:29:50] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file simplegenerators-1.12.2-2.0.20.2.jar
+[16:29:50] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file SimplyJetpacks2-1.12.2-2.2.19.0.jar
+[16:29:50] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file stackrefill_1.12.2-2.0.jar
+[16:29:50] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file StorageDrawers-1.12.2-5.4.2.jar
+[16:29:50] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file TConstruct-1.12.2-2.13.0.179.jar
+[16:29:50] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file Tinkers-Mechworks-Fork-Mod-Forge-1.12.2.jar
+[16:29:50] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file valkyrielib-1.12.2-2.0.20.1.jar
+[16:29:50] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file worldedit-forge-mc1.12.2-6.1.10-dist.jar
+[16:29:50] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file zerocore-1.12.2-0.1.2.9.jar
+[16:29:50] [Server thread/TRACE] [FML]: Skipping already parsed coremod or tweaker ImmersiveEngineering-core-0.12-98.jar
+[16:29:50] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file ImmersiveEngineering-0.12-98.jar
+[16:29:50] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file structurize-1.12.2-0.10.277-RELEASE.jar
+[16:29:50] [Server thread/DEBUG] [FML]: Found a candidate zip or jar file minecolonies-1.12.2-0.11.841-BETA-universal.jar
+[16:29:50] [Server thread/DEBUG] [FML]: Examining file Magma-1.12.2-b43297ee.jar for potential mods
+[16:29:50] [Server thread/DEBUG] [FML]: The mod container Magma-1.12.2-b43297ee.jar appears to be missing an mcmod.info file
+[16:29:50] [Server thread/DEBUG] [FML]: Examining file progressbar-0.9.2.jar for potential mods
+[16:29:50] [Server thread/DEBUG] [FML]: The mod container progressbar-0.9.2.jar appears to be missing an mcmod.info file
+[16:29:50] [Server thread/DEBUG] [FML]: Examining file minecraft_server.1.12.2.jar for potential mods
+[16:29:50] [Server thread/DEBUG] [FML]: The mod container minecraft_server.1.12.2.jar appears to be missing an mcmod.info file
+[16:29:52] [Server thread/DEBUG] [FML]: Examining file bungeecord-chat-1.12-20180712.114550-97.jar for potential mods
+[16:29:52] [Server thread/DEBUG] [FML]: The mod container bungeecord-chat-1.12-20180712.114550-97.jar appears to be missing an mcmod.info file
+[16:29:52] [Server thread/DEBUG] [FML]: Examining file commons-lang-2.6.jar for potential mods
+[16:29:52] [Server thread/DEBUG] [FML]: The mod container commons-lang-2.6.jar appears to be missing an mcmod.info file
+[16:29:52] [Server thread/DEBUG] [FML]: Examining file SpecialSource-1.8.5.jar for potential mods
+[16:29:52] [Server thread/DEBUG] [FML]: The mod container SpecialSource-1.8.5.jar appears to be missing an mcmod.info file
+[16:29:52] [Server thread/DEBUG] [FML]: Examining file javassist-3.12.1.GA.jar for potential mods
+[16:29:52] [Server thread/DEBUG] [FML]: The mod container javassist-3.12.1.GA.jar appears to be missing an mcmod.info file
+[16:29:52] [Server thread/DEBUG] [FML]: Examining file json-simple-1.1.1.jar for potential mods
+[16:29:52] [Server thread/DEBUG] [FML]: The mod container json-simple-1.1.1.jar appears to be missing an mcmod.info file
+[16:29:52] [Server thread/DEBUG] [FML]: Examining file slf4j-api-1.7.30.jar for potential mods
+[16:29:52] [Server thread/DEBUG] [FML]: The mod container slf4j-api-1.7.30.jar appears to be missing an mcmod.info file
+[16:29:52] [Server thread/DEBUG] [FML]: Examining file slf4j-nop-1.7.30.jar for potential mods
+[16:29:52] [Server thread/DEBUG] [FML]: The mod container slf4j-nop-1.7.30.jar appears to be missing an mcmod.info file
+[16:29:52] [Server thread/DEBUG] [FML]: Examining file log4j-iostreams-2.17.2.jar for potential mods
+[16:29:52] [Server thread/DEBUG] [FML]: The mod container log4j-iostreams-2.17.2.jar appears to be missing an mcmod.info file
+[16:29:52] [Server thread/DEBUG] [FML]: Examining file maven-artifact-3.5.3.jar for potential mods
+[16:29:52] [Server thread/DEBUG] [FML]: The mod container maven-artifact-3.5.3.jar appears to be missing an mcmod.info file
+[16:29:52] [Server thread/DEBUG] [FML]: Examining file mysql-connector-java-5.1.46.jar for potential mods
+[16:29:52] [Server thread/DEBUG] [FML]: The mod container mysql-connector-java-5.1.46.jar appears to be missing an mcmod.info file
+[16:29:52] [Server thread/DEBUG] [FML]: Examining file reflections-0.9.10.jar for potential mods
+[16:29:52] [Server thread/DEBUG] [FML]: The mod container reflections-0.9.10.jar appears to be missing an mcmod.info file
+[16:29:52] [Server thread/DEBUG] [FML]: Examining file snakeyaml-1.23.jar for potential mods
+[16:29:52] [Server thread/DEBUG] [FML]: The mod container snakeyaml-1.23.jar appears to be missing an mcmod.info file
+[16:29:52] [Server thread/DEBUG] [FML]: Examining file sqlite-jdbc-3.21.0.1.jar for potential mods
+[16:29:52] [Server thread/DEBUG] [FML]: The mod container sqlite-jdbc-3.21.0.1.jar appears to be missing an mcmod.info file
+[16:29:52] [Server thread/DEBUG] [FML]: Examining file Chameleon-1.12-4.1.3.jar for potential mods
+[16:29:52] [Server thread/TRACE] [FML]: Located mcmod.info file in file Chameleon-1.12-4.1.3.jar
+[16:29:52] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.jaquadro.minecraft.chameleon.Chameleon) - loading
+[16:29:52] [Server thread/TRACE] [FML]: Using mcmod dependency info for chameleon: [forge] [] []
+[16:29:52] [Server thread/DEBUG] [FML]: Examining file ChickenChunks-1.12.2-2.4.2.74-universal.jar for potential mods
+[16:29:52] [Server thread/TRACE] [FML]: Located mcmod.info file in file ChickenChunks-1.12.2-2.4.2.74-universal.jar
+[16:29:52] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (codechicken.chunkloader.ChickenChunks) - loading
+[16:29:52] [Server thread/TRACE] [FML]: Parsed dependency info for chickenchunks: Requirements: [codechickenlib@[3.2.3,)] After:[codechickenlib@[3.2.3,)] Before:[]
+[16:29:52] [Server thread/DEBUG] [FML]: Attempting to load the file version.properties from ChickenChunks-1.12.2-2.4.2.74-universal.jar to locate a version number for mod chickenchunks
+[16:29:52] [Server thread/WARN] [FML]: Mod chickenchunks is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.4.2.74
+[16:29:52] [Server thread/DEBUG] [FML]: Examining file CodeChickenLib-1.12.2-3.2.3.358-universal.jar for potential mods
+[16:29:52] [Server thread/TRACE] [FML]: Located mcmod.info file in file CodeChickenLib-1.12.2-3.2.3.358-universal.jar
+[16:29:52] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (codechicken.lib.CodeChickenLib) - loading
+[16:29:52] [Server thread/TRACE] [FML]: Parsed dependency info for codechickenlib: Requirements: [forge@[14.23.4.2718,)] After:[forge@[14.23.4.2718,)] Before:[]
+[16:29:52] [Server thread/DEBUG] [FML]: Attempting to load the file version.properties from CodeChickenLib-1.12.2-3.2.3.358-universal.jar to locate a version number for mod codechickenlib
+[16:29:52] [Server thread/WARN] [FML]: Mod codechickenlib is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 3.2.3.358
+[16:29:52] [Server thread/DEBUG] [FML]: Examining file collective-1.12.2-3.0.jar for potential mods
+[16:29:52] [Server thread/TRACE] [FML]: Located mcmod.info file in file collective-1.12.2-3.0.jar
+[16:29:52] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.natamus.collective.Main) - loading
+[16:29:52] [Server thread/TRACE] [FML]: Parsed dependency info for collective: Requirements: [] After:[] Before:[]
+[16:29:52] [Server thread/DEBUG] [FML]: Examining file ComputerCraft-Mod-1.12.2.jar for potential mods
+[16:29:52] [Server thread/TRACE] [FML]: Located mcmod.info file in file ComputerCraft-Mod-1.12.2.jar
+[16:29:52] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (dan200.computercraft.ComputerCraft) - loading
+[16:29:52] [Server thread/TRACE] [FML]: Parsed dependency info for computercraft: Requirements: [] After:[] Before:[]
+[16:29:52] [Server thread/DEBUG] [FML]: Examining file davincisvessels-1.12-6.340-full.jar for potential mods
+[16:29:52] [Server thread/TRACE] [FML]: Located mcmod.info file in file davincisvessels-1.12-6.340-full.jar
+[16:29:52] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.elytradev.davincisvessels.DavincisVesselsMod) - loading
+[16:29:52] [Server thread/TRACE] [FML]: Parsed dependency info for davincisvessels: Requirements: [movingworld] After:[movingworld] Before:[]
+[16:29:52] [Server thread/DEBUG] [FML]: Examining file Decocraft-2.6.3.7_1.12.2.jar for potential mods
+[16:29:52] [Server thread/TRACE] [FML]: Located mcmod.info file in file Decocraft-2.6.3.7_1.12.2.jar
+[16:29:54] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.mia.props.Props) - loading
+[16:29:54] [Server thread/TRACE] [FML]: Parsed dependency info for props: Requirements: [] After:[ptrmodellib] Before:[]
+[16:29:54] [Server thread/DEBUG] [FML]: Examining file extrautils2-1.12-1.9.9.jar for potential mods
+[16:29:54] [Server thread/TRACE] [FML]: Located mcmod.info file in file extrautils2-1.12-1.9.9.jar
+[16:29:55] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.rwtema.extrautils2.ExtraUtils2) - loading
+[16:29:55] [Server thread/TRACE] [FML]: Parsed dependency info for extrautils2: Requirements: [] After:[tconstruct] Before:[]
+[16:29:56] [Server thread/DEBUG] [FML]: Examining file ExtremeReactors-1.12.2-0.4.5.68.jar for potential mods
+[16:29:56] [Server thread/TRACE] [FML]: Located mcmod.info file in file ExtremeReactors-1.12.2-0.4.5.68.jar
+[16:29:56] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (erogenousbeef.bigreactors.common.BigReactors) - loading
+[16:29:56] [Server thread/TRACE] [FML]: Parsed dependency info for bigreactors: Requirements: [forge@[14.23.5.2847,), zerocore@[1.12.2-0.1.2.9,1.12.2-2.0.0.0)] After:[forge@[14.23.5.2847,), zerocore@[1.12.2-0.1.2.9,1.12.2-2.0.0.0), computercraft, opencomputers@[1.7.3.146,)] Before:[]
+[16:29:56] [Server thread/DEBUG] [FML]: Examining file Galacticraft-1.12.2-4.0.5.jar for potential mods
+[16:29:56] [Server thread/TRACE] [FML]: Located mcmod.info file in file Galacticraft-1.12.2-4.0.5.jar
+[16:29:56] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (micdoodle8.mods.galacticraft.core.GalacticraftCore) - loading
+[16:29:56] [Server thread/TRACE] [FML]: Parsed dependency info for galacticraftcore: Requirements: [micdoodlecore, forge@[14.23.5.2847,)] After:[forge@[14.23.5.2847,), micdoodlecore] Before:[]
+[16:29:56] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (micdoodle8.mods.galacticraft.planets.GalacticraftPlanets) - loading
+[16:29:56] [Server thread/TRACE] [FML]: Parsed dependency info for galacticraftplanets: Requirements: [galacticraftcore] After:[galacticraftcore] Before:[]
+[16:29:56] [Server thread/DEBUG] [FML]: Examining file HoloInventory-1.12.2-2.1.1.151.jar for potential mods
+[16:29:56] [Server thread/TRACE] [FML]: Located mcmod.info file in file HoloInventory-1.12.2-2.1.1.151.jar
+[16:29:56] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (net.dries007.holoInventory.HoloInventory) - loading
+[16:29:56] [Server thread/TRACE] [FML]: Using mcmod dependency info for holoinventory: [forge] [] []
+[16:29:56] [Server thread/DEBUG] [FML]: Attempting to load the file version.properties from HoloInventory-1.12.2-2.1.1.151.jar to locate a version number for mod holoinventory
+[16:29:56] [Server thread/WARN] [FML]: Mod holoinventory is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.1.1.151
+[16:29:56] [Server thread/DEBUG] [FML]: Examining file Hwyla-1.8.26-B41_1.12.2.jar for potential mods
+[16:29:56] [Server thread/TRACE] [FML]: Located mcmod.info file in file Hwyla-1.8.26-B41_1.12.2.jar
+[16:29:56] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (mcp.mobius.waila.Waila) - loading
+[16:29:56] [Server thread/TRACE] [FML]: Parsed dependency info for waila: Requirements: [] After:[] Before:[]
+[16:29:56] [Server thread/DEBUG] [FML]: Examining file jei_1.12.2-4.16.1.1001.jar for potential mods
+[16:29:56] [Server thread/TRACE] [FML]: Located mcmod.info file in file jei_1.12.2-4.16.1.1001.jar
+[16:29:56] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (mezz.jei.JustEnoughItems) - loading
+[16:29:56] [Server thread/TRACE] [FML]: Parsed dependency info for jei: Requirements: [forge@[14.23.5.2816,)] After:[forge@[14.23.5.2816,)] Before:[]
+[16:29:57] [Server thread/DEBUG] [FML]: Examining file Mantle-1.12-1.3.3.55.jar for potential mods
+[16:29:57] [Server thread/TRACE] [FML]: Located mcmod.info file in file Mantle-1.12-1.3.3.55.jar
+[16:29:57] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (slimeknights.mantle.Mantle) - loading
+[16:29:57] [Server thread/TRACE] [FML]: Parsed dependency info for mantle: Requirements: [forge@[14.21.1.2387,)] After:[forge@[14.21.1.2387,)] Before:[]
+[16:29:57] [Server thread/DEBUG] [FML]: Examining file MathParser.org-mXparser-4.0.0.jar for potential mods
+[16:29:57] [Server thread/DEBUG] [FML]: The mod container MathParser.org-mXparser-4.0.0.jar appears to be missing an mcmod.info file
+[16:29:57] [Server thread/DEBUG] [FML]: Examining file mcjtylib-1.12-3.5.4.jar for potential mods
+[16:29:57] [Server thread/TRACE] [FML]: Located mcmod.info file in file mcjtylib-1.12-3.5.4.jar
+[16:29:57] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (mcjty.lib.McJtyLib) - loading
+[16:29:57] [Server thread/TRACE] [FML]: Parsed dependency info for mcjtylib_ng: Requirements: [] After:[forge@[14.23.5.2800,), enderio@[5.0.21,)] Before:[]
+[16:29:57] [Server thread/DEBUG] [FML]: Examining file moreoverlays-1.15.1-mc1.12.2.jar for potential mods
+[16:29:57] [Server thread/TRACE] [FML]: Located mcmod.info file in file moreoverlays-1.15.1-mc1.12.2.jar
+[16:29:57] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (at.feldim2425.moreoverlays.MoreOverlays) - loading
+[16:29:57] [Server thread/INFO] [FML]: Disabling mod moreoverlays it is client side only.
+[16:29:57] [Server thread/DEBUG] [FML]: Skipping mod at.feldim2425.moreoverlays.MoreOverlays, container opted to not load.
+[16:29:57] [Server thread/DEBUG] [FML]: Examining file movingworld-1.12-6.342-full.jar for potential mods
+[16:29:57] [Server thread/TRACE] [FML]: Located mcmod.info file in file movingworld-1.12-6.342-full.jar
+[16:29:57] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.elytradev.movingworld.MovingWorldMod) - loading
+[16:29:57] [Server thread/TRACE] [FML]: Parsed dependency info for movingworld: Requirements: [] After:[] Before:[]
+[16:29:57] [Server thread/DEBUG] [FML]: Examining file ProjectE-1.12.2-PE1.4.1.jar for potential mods
+[16:29:57] [Server thread/TRACE] [FML]: Located mcmod.info file in file ProjectE-1.12.2-PE1.4.1.jar
+[16:29:57] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (moze_intel.projecte.PECore) - loading
+[16:29:57] [Server thread/TRACE] [FML]: Parsed dependency info for projecte: Requirements: [forge@[13.20.0.2253,)] After:[forge@[13.20.0.2253,), baubles@[1.3.3,), jei@[4.6.0,)] Before:[]
+[16:29:57] [Server thread/DEBUG] [FML]: Examining file PTRLib-1.0.5.jar for potential mods
+[16:29:57] [Server thread/TRACE] [FML]: Located mcmod.info file in file PTRLib-1.0.5.jar
+[16:29:57] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.mia.craftstudio.minecraft.forge.CSLibMod) - loading
+[16:29:57] [Server thread/INFO] [FML]: Disabling mod ptrmodellib it is client side only.
+[16:29:57] [Server thread/DEBUG] [FML]: Skipping mod com.mia.craftstudio.minecraft.forge.CSLibMod, container opted to not load.
+[16:29:57] [Server thread/DEBUG] [FML]: Examining file RedstoneFlux-1.12-2.1.1.1-universal.jar for potential mods
+[16:29:57] [Server thread/TRACE] [FML]: Located mcmod.info file in file RedstoneFlux-1.12-2.1.1.1-universal.jar
+[16:29:57] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (cofh.redstoneflux.RedstoneFlux) - loading
+[16:29:57] [Server thread/TRACE] [FML]: Parsed dependency info for redstoneflux: Requirements: [] After:[] Before:[]
+[16:29:57] [Server thread/DEBUG] [FML]: Examining file rftools-1.12-7.73.jar for potential mods
+[16:29:57] [Server thread/TRACE] [FML]: Located mcmod.info file in file rftools-1.12-7.73.jar
+[16:29:57] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (mcjty.rftools.RFTools) - loading
+[16:29:57] [Server thread/TRACE] [FML]: Parsed dependency info for rftools: Requirements: [mcjtylib_ng@[3.5.4,)] After:[mcjtylib_ng@[3.5.4,), forge@[14.22.0.2464,)] Before:[xnet@[1.7.0,)]
+[16:29:57] [Server thread/DEBUG] [FML]: Examining file simplegenerators-1.12.2-2.0.20.2.jar for potential mods
+[16:29:57] [Server thread/TRACE] [FML]: Located mcmod.info file in file simplegenerators-1.12.2-2.0.20.2.jar
+[16:29:57] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.valkyrieofnight.sg.SGMod) - loading
+[16:29:57] [Server thread/TRACE] [FML]: Parsed dependency info for simplegenerators: Requirements: [valkyrielib@[1.12.2-2.0.20.1,1.12.2-2.0.20.9999)] After:[valkyrielib@[1.12.2-2.0.20.1,1.12.2-2.0.20.9999)] Before:[]
+[16:29:57] [Server thread/DEBUG] [FML]: Examining file SimplyJetpacks2-1.12.2-2.2.19.0.jar for potential mods
+[16:29:57] [Server thread/TRACE] [FML]: Located mcmod.info file in file SimplyJetpacks2-1.12.2-2.2.19.0.jar
+[16:29:57] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (tonius.simplyjetpacks.SimplyJetpacks) - loading
+[16:29:57] [Server thread/TRACE] [FML]: Parsed dependency info for simplyjetpacks: Requirements: [] After:[thermalexpansion, thermaldynamics, enderio, redstonearsenal, redstonerepository, immersiveengineering, mekanism] Before:[]
+[16:29:57] [Server thread/DEBUG] [FML]: Attempting to load the file version.properties from SimplyJetpacks2-1.12.2-2.2.19.0.jar to locate a version number for mod simplyjetpacks
+[16:29:57] [Server thread/WARN] [FML]: Mod simplyjetpacks is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-2.2.19.0
+[16:29:57] [Server thread/DEBUG] [FML]: Examining file stackrefill_1.12.2-2.0.jar for potential mods
+[16:29:57] [Server thread/TRACE] [FML]: Located mcmod.info file in file stackrefill_1.12.2-2.0.jar
+[16:29:57] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.natamus.stackrefill.Main) - loading
+[16:29:57] [Server thread/TRACE] [FML]: Using mcmod dependency info for stackrefill: [forge, collective] [collective] []
+[16:29:57] [Server thread/DEBUG] [FML]: Examining file StorageDrawers-1.12.2-5.4.2.jar for potential mods
+[16:29:57] [Server thread/TRACE] [FML]: Located mcmod.info file in file StorageDrawers-1.12.2-5.4.2.jar
+[16:29:57] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.jaquadro.minecraft.storagedrawers.StorageDrawers) - loading
+[16:29:57] [Server thread/TRACE] [FML]: Using mcmod dependency info for storagedrawers: [forge, chameleon] [chameleon] []
+[16:29:57] [Server thread/DEBUG] [FML]: Examining file TConstruct-1.12.2-2.13.0.179.jar for potential mods
+[16:29:57] [Server thread/TRACE] [FML]: Located mcmod.info file in file TConstruct-1.12.2-2.13.0.179.jar
+[16:29:57] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (slimeknights.tconstruct.TConstruct) - loading
+[16:29:57] [Server thread/TRACE] [FML]: Parsed dependency info for tconstruct: Requirements: [forge@[14.23.1.2577,), mantle@[1.12-1.3.3.49,)] After:[forge@[14.23.1.2577,), mantle@[1.12-1.3.3.49,), jei@[4.8,), chisel, quark@[r1.6-177,)] Before:[taiga@(1.3.0,)]
+[16:29:57] [Server thread/DEBUG] [FML]: Examining file Tinkers-Mechworks-Fork-Mod-Forge-1.12.2.jar for potential mods
+[16:29:57] [Server thread/TRACE] [FML]: Located mcmod.info file in file Tinkers-Mechworks-Fork-Mod-Forge-1.12.2.jar
+[16:29:57] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (slimeknights.tmechworks.TMechworks) - loading
+[16:29:57] [Server thread/TRACE] [FML]: Parsed dependency info for tmechworks: Requirements: [mantle@[1.12-1.3.1,), forge@[14.23.4.2705,)] After:[forge@[14.23.4.2705,), mantle@[1.12-1.3.1,), jei@[4.2,), waila@[1.8,)] Before:[]
+[16:29:57] [Server thread/DEBUG] [FML]: Examining file valkyrielib-1.12.2-2.0.20.1.jar for potential mods
+[16:29:57] [Server thread/TRACE] [FML]: Located mcmod.info file in file valkyrielib-1.12.2-2.0.20.1.jar
+[16:29:58] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.valkyrieofnight.um.UniversalModifiers) - loading
+[16:29:58] [Server thread/TRACE] [FML]: Parsed dependency info for universalmodifiers: Requirements: [] After:[] Before:[]
+[16:29:58] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.valkyrieofnight.vliblegacy.ValkyrieLib) - loading
+[16:29:58] [Server thread/TRACE] [FML]: Parsed dependency info for valkyrielib: Requirements: [forge@[1.12.2-14.23.5.2768,)] After:[forge@[1.12.2-14.23.5.2768,)] Before:[]
+[16:29:58] [Server thread/DEBUG] [FML]: Examining file worldedit-forge-mc1.12.2-6.1.10-dist.jar for potential mods
+[16:29:58] [Server thread/TRACE] [FML]: Located mcmod.info file in file worldedit-forge-mc1.12.2-6.1.10-dist.jar
+[16:29:58] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.sk89q.worldedit.forge.ForgeWorldEdit) - loading
+[16:29:58] [Server thread/TRACE] [FML]: Parsed dependency info for worldedit: Requirements: [] After:[] Before:[]
+[16:29:58] [Server thread/DEBUG] [FML]: Examining file zerocore-1.12.2-0.1.2.9.jar for potential mods
+[16:29:58] [Server thread/TRACE] [FML]: Located mcmod.info file in file zerocore-1.12.2-0.1.2.9.jar
+[16:29:58] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (it.zerono.mods.zerocore.internal.ZeroCore) - loading
+[16:29:58] [Server thread/TRACE] [FML]: Parsed dependency info for zerocore: Requirements: [forge@[14.23.5.2847,)] After:[forge@[14.23.5.2847,), cofhcore, computercraft, opencomputers@[1.7.3.146,)] Before:[]
+[16:29:58] [Server thread/DEBUG] [FML]: Examining file ImmersiveEngineering-0.12-98.jar for potential mods
+[16:29:58] [Server thread/TRACE] [FML]: Located mcmod.info file in file ImmersiveEngineering-0.12-98.jar
+[16:29:58] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (blusunrize.immersiveengineering.ImmersiveEngineering) - loading
+[16:29:58] [Server thread/TRACE] [FML]: Parsed dependency info for immersiveengineering: Requirements: [forge@[14.23.5.2820,)] After:[forge@[14.23.5.2820,), jei@[4.8,), railcraft, tconstruct@[1.12-2.7.1,), theoneprobe@[1.4.4,)] Before:[]
+[16:29:58] [Server thread/DEBUG] [FML]: Examining file structurize-1.12.2-0.10.277-RELEASE.jar for potential mods
+[16:29:58] [Server thread/TRACE] [FML]: Located mcmod.info file in file structurize-1.12.2-0.10.277-RELEASE.jar
+[16:29:58] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.ldtteam.structurize.Structurize) - loading
+[16:29:58] [Server thread/TRACE] [FML]: Parsed dependency info for structurize: Requirements: [] After:[] Before:[]
+[16:29:58] [Server thread/DEBUG] [FML]: Examining file minecolonies-1.12.2-0.11.841-BETA-universal.jar for potential mods
+[16:29:58] [Server thread/TRACE] [FML]: Located mcmod.info file in file minecolonies-1.12.2-0.11.841-BETA-universal.jar
+[16:29:58] [Server thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.minecolonies.coremod.MineColonies) - loading
+[16:29:58] [Server thread/TRACE] [FML]: Parsed dependency info for minecolonies: Requirements: [structurize@[0.10.244-ALPHA,)] After:[gbook, structurize@[0.10.244-ALPHA,)] Before:[]
+[16:29:58] [Server thread/INFO] [FML]: Forge Mod Loader has identified 39 mods to load
+[16:29:58] [Server thread/DEBUG] [FML]: Found API dan200.computercraft.api.permissions (owned by ComputerCraft providing ComputerCraft|API|Permissions) embedded in computercraft
+[16:29:58] [Server thread/DEBUG] [FML]: Found API it.zerono.mods.zerocore.api.multiblock (owned by zerocore providing zerocore|API|multiblock) embedded in zerocore
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.tileentities (owned by minecolonies providing minecolonies-api|tileentities) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.blocks.types (owned by minecolonies providing minecolonies-api|blocks|types) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.entity.ai.statemachine.tickratestatemachine (owned by minecolonies providing minecolonies-api|entity|ai|statemachine|tickratestatemachine) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.colony.buildings.views (owned by minecolonies providing minecolonies-api|colony|buildings|views) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.entity.ai.citizen.guards (owned by minecolonies providing minecolonies-api|entity|ai|citizen|guards) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.client.render.modeltype.registry (owned by minecolonies providing minecolonies-api|client|render|modeltype) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.compatibility.gbook (owned by minecolonies providing minecolonies-api|compatibility|gbook) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.items (owned by minecolonies providing minecolonies-api|items) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.colony.requestsystem.resolver (owned by minecolonies providing minecolonies-api|colony|requestsystem|resolver) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.colony.requestsystem.data (owned by minecolonies providing minecolonies-api|colony|requestsystem|data) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.entity (owned by minecolonies providing minecolonies-api|entity) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API it.zerono.mods.zerocore.api.multiblock.validation (owned by zerocore providing zerocore|API|multiblock|validation) embedded in zerocore
+[16:29:58] [Server thread/DEBUG] [FML]: Found API micdoodle8.mods.galacticraft.api.galaxies (owned by galacticraftcore providing GalacticraftAPI|galaxies) embedded in galacticraftcore
+[16:29:58] [Server thread/DEBUG] [FML]: Found API micdoodle8.mods.galacticraft.api.galaxies (owned by galacticraftcore providing GalacticraftAPI|galaxies) embedded in galacticraftplanets
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.colony.requestsystem.requestable.crafting (owned by minecolonies providing minecolonies-api|colony|requestsystem|requestable|crafting) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.entity.mobs.pirates (owned by minecolonies providing minecolonies-api|entity|mobs|pirates) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.client.render.modeltype (owned by minecolonies providing minecolonies-api|client|render|modeltype|registry) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API cofh.redstoneflux (owned by redstoneflux providing redstonefluxapi) embedded in redstoneflux
+[16:29:58] [Server thread/DEBUG] [FML]: Found API dan200.computercraft.api.peripheral (owned by ComputerCraft providing ComputerCraft|API|Peripheral) embedded in computercraft
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.compatibility.candb (owned by minecolonies providing minecolonies-api|compatibility|candb) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API micdoodle8.mods.galacticraft.api.transmission.tile (owned by galacticraftcore providing GalacticraftAPI|trasmission|tile) embedded in galacticraftcore
+[16:29:58] [Server thread/DEBUG] [FML]: Found API micdoodle8.mods.galacticraft.api.transmission.tile (owned by galacticraftcore providing GalacticraftAPI|trasmission|tile) embedded in galacticraftplanets
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.entity.citizen (owned by minecolonies providing minecolonies-api|entity|citizen) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.util (owned by minecolonies providing minecolonies-api|util) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.jaquadro.minecraft.storagedrawers.api (owned by StorageDrawers providing StorageDrawersAPI) embedded in storagedrawers
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.configuration (owned by minecolonies providing minecolonies-api|configuration) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API micdoodle8.mods.galacticraft.api.vector (owned by galacticraftcore providing GalacticraftAPI|vector) embedded in galacticraftcore
+[16:29:58] [Server thread/DEBUG] [FML]: Found API micdoodle8.mods.galacticraft.api.vector (owned by galacticraftcore providing GalacticraftAPI|vector) embedded in galacticraftplanets
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.entity.ai.statemachine.states (owned by minecolonies providing minecolonies-api|entity|ai|statemachine|states) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.client.render (owned by minecolonies providing minecolonies-api|client|render) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.jaquadro.minecraft.storagedrawers.api.storage.attribute (owned by StorageDrawersAPI providing StorageDrawersAPI|storage-attribute) embedded in storagedrawers
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.blockout (owned by minecolonies providing minecolonies-blockout) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API micdoodle8.mods.galacticraft.api.event.wgen (owned by galacticraftcore providing GalacticraftAPI|event|worldgen) embedded in galacticraftcore
+[16:29:58] [Server thread/DEBUG] [FML]: Found API micdoodle8.mods.galacticraft.api.event.wgen (owned by galacticraftcore providing GalacticraftAPI|event|worldgen) embedded in galacticraftplanets
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.entity.ai.statemachine (owned by minecolonies providing minecolonies-api|entity|ai|statemachine) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.entity.citizen.citizenhandlers (owned by minecolonies providing minecolonies-api|entity|citizen|citizenhandlers) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API micdoodle8.mods.galacticraft.api.tile (owned by galacticraftcore providing GalacticraftAPI|tile) embedded in galacticraftcore
+[16:29:58] [Server thread/DEBUG] [FML]: Found API micdoodle8.mods.galacticraft.api.tile (owned by galacticraftcore providing GalacticraftAPI|tile) embedded in galacticraftplanets
+[16:29:58] [Server thread/DEBUG] [FML]: Found API blusunrize.immersiveengineering.api.energy.immersiveflux (owned by ImmersiveEngineering providing ImmersiveEngineering|ImmersiveFluxAPI) embedded in immersiveengineering
+[16:29:58] [Server thread/DEBUG] [FML]: Found API micdoodle8.mods.galacticraft.api.power (owned by galacticraftcore providing GalacticraftAPI|power) embedded in galacticraftcore
+[16:29:58] [Server thread/DEBUG] [FML]: Found API micdoodle8.mods.galacticraft.api.power (owned by galacticraftcore providing GalacticraftAPI|power) embedded in galacticraftplanets
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.blockout.views (owned by minecolonies providing minecolonies-blockout|views) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.creativetab (owned by minecolonies providing minecolonies-api|creativetab) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API micdoodle8.mods.galacticraft.api.event.client (owned by galacticraftcore providing GalacticraftAPI|event|client) embedded in galacticraftcore
+[16:29:58] [Server thread/DEBUG] [FML]: Found API micdoodle8.mods.galacticraft.api.event.client (owned by galacticraftcore providing GalacticraftAPI|event|client) embedded in galacticraftplanets
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.colony.buildings.registry (owned by minecolonies providing minecolonies-api|colony|buildings|registry) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API micdoodle8.mods.galacticraft.api.prefab.world.gen (owned by galacticraftcore providing GalacticraftAPI|prefab|worldgen) embedded in galacticraftcore
+[16:29:58] [Server thread/DEBUG] [FML]: Found API micdoodle8.mods.galacticraft.api.prefab.world.gen (owned by galacticraftcore providing GalacticraftAPI|prefab|worldgen) embedded in galacticraftplanets
+[16:29:58] [Server thread/DEBUG] [FML]: Found API micdoodle8.mods.galacticraft.api.item (owned by galacticraftcore providing GalacticraftAPI|item) embedded in galacticraftcore
+[16:29:58] [Server thread/DEBUG] [FML]: Found API micdoodle8.mods.galacticraft.api.item (owned by galacticraftcore providing GalacticraftAPI|item) embedded in galacticraftplanets
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.colony.jobs.registry (owned by minecolonies providing minecolonies-api|colony|jobs|registry) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API dan200.computercraft.api.network (owned by ComputerCraft providing ComputerCraft|API|Network) embedded in computercraft
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.colony.requestsystem.requester (owned by minecolonies providing minecolonies-api|colony|requestsystem|requester) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.colony.guardtype (owned by minecolonies providing minecolonies-api|colony|guardtype) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API dan200.computercraft.api.filesystem (owned by ComputerCraft providing ComputerCraft|API|FileSystem) embedded in computercraft
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.entity.ai.statemachine.basestatemachine (owned by minecolonies providing minecolonies-api|entity|ai|statemachine|basestatemachine) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.compatibility (owned by minecolonies providing minecolonies-api|compatibility) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.entity.ai.citizen.builder (owned by minecolonies providing minecolonies-api|entity|ai|citizen|builder) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.colony.guardtype.registry (owned by minecolonies providing minecolonies-api|colony|guardtype|registry) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API micdoodle8.mods.galacticraft.api (owned by galacticraftcore providing GalacticraftAPI) embedded in galacticraftcore
+[16:29:58] [Server thread/DEBUG] [FML]: Found API micdoodle8.mods.galacticraft.api (owned by galacticraftcore providing GalacticraftAPI) embedded in galacticraftplanets
+[16:29:58] [Server thread/DEBUG] [FML]: Found API micdoodle8.mods.galacticraft.api.transmission (owned by galacticraftcore providing GalacticraftAPI|transmission) embedded in galacticraftcore
+[16:29:58] [Server thread/DEBUG] [FML]: Found API micdoodle8.mods.galacticraft.api.transmission (owned by galacticraftcore providing GalacticraftAPI|transmission) embedded in galacticraftplanets
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.colony.permissions (owned by minecolonies providing minecolonies-api|colony|permissions) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API micdoodle8.mods.galacticraft.api.transmission.grid (owned by galacticraftcore providing GalacticraftAPI|transmission|grid) embedded in galacticraftcore
+[16:29:58] [Server thread/DEBUG] [FML]: Found API micdoodle8.mods.galacticraft.api.transmission.grid (owned by galacticraftcore providing GalacticraftAPI|transmission|grid) embedded in galacticraftplanets
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.entity.ai.statemachine.transitions (owned by minecolonies providing minecolonies-api|entity|ai|statemachine|transition) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.entity.ai.pathfinding (owned by minecolonies providing minecolonies-api|entity|ai|pathfinding) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.sounds (owned by minecolonies providing minecolonies-api|sounds) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.colony.requestsystem.token (owned by minecolonies providing minecolonies-api|colony|requestsystem|token) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.jaquadro.minecraft.storagedrawers.api.registry (owned by StorageDrawersAPI providing StorageDrawersAPI|registry) embedded in storagedrawers
+[16:29:58] [Server thread/DEBUG] [FML]: Found API micdoodle8.mods.galacticraft.api.prefab (owned by galacticraftcore providing GalacticraftAPI|prefab) embedded in galacticraftcore
+[16:29:58] [Server thread/DEBUG] [FML]: Found API micdoodle8.mods.galacticraft.api.prefab (owned by galacticraftcore providing GalacticraftAPI|prefab) embedded in galacticraftplanets
+[16:29:58] [Server thread/DEBUG] [FML]: Found API micdoodle8.mods.galacticraft.api.prefab.core (owned by galacticraftcore providing GalacticraftAPI|prefab|core) embedded in galacticraftcore
+[16:29:58] [Server thread/DEBUG] [FML]: Found API micdoodle8.mods.galacticraft.api.prefab.core (owned by galacticraftcore providing GalacticraftAPI|prefab|core) embedded in galacticraftplanets
+[16:29:58] [Server thread/DEBUG] [FML]: Found API it.zerono.mods.zerocore.api.multiblock.tier (owned by zerocore providing zerocore|API|multiblock|tier) embedded in zerocore
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.colony.buildings.workerbuildings (owned by minecolonies providing minecolonies-api|colony|buildings|workerbuildings) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.blocks (owned by minecolonies providing minecolonies-api|blocks) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API micdoodle8.mods.galacticraft.api.world (owned by galacticraftcore providing GalacticraftAPI|world) embedded in galacticraftcore
+[16:29:58] [Server thread/DEBUG] [FML]: Found API micdoodle8.mods.galacticraft.api.world (owned by galacticraftcore providing GalacticraftAPI|world) embedded in galacticraftplanets
+[16:29:58] [Server thread/DEBUG] [FML]: Found API blusunrize.immersiveengineering.api (owned by ImmersiveEngineering providing ImmersiveEngineering|API) embedded in immersiveengineering
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.blocks.huts (owned by minecolonies providing minecolonies-api|blocks|huts) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.colony.requestsystem.manager (owned by minecolonies providing minecolonies-api|colony|requestsystem|manager) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.jaquadro.minecraft.storagedrawers.api.event (owned by StorageDrawersAPI providing StorageDrawersAPI|event) embedded in storagedrawers
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.colony.requestsystem.resolver.player (owned by minecolonies providing minecolonies-api|colony|requestsystem|resolver|player) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API micdoodle8.mods.galacticraft.api.block (owned by galacticraftcore providing GalacticraftAPI|block) embedded in galacticraftcore
+[16:29:58] [Server thread/DEBUG] [FML]: Found API micdoodle8.mods.galacticraft.api.block (owned by galacticraftcore providing GalacticraftAPI|block) embedded in galacticraftplanets
+[16:29:58] [Server thread/DEBUG] [FML]: Found API erogenousbeef.bigreactors.api (owned by bigreactors providing bigreactors|API) embedded in bigreactors
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.entity.ai (owned by minecolonies providing minecolonies-api|entity|ai) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.achievements (owned by minecolonies providing minecolonies-api|achievements) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.colony.requestsystem (owned by minecolonies providing minecolonies-api|colony|requestsystem) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.compatibility.dynamictrees (owned by minecolonies providing minecolonies-api|compatibility|dynamictrees) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api (owned by minecolonies providing minecolonies-api) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.inventory.api (owned by minecolonies providing minecolonies-api|inventory|api) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API micdoodle8.mods.galacticraft.api.entity (owned by galacticraftcore providing GalacticraftAPI|entity) embedded in galacticraftcore
+[16:29:58] [Server thread/DEBUG] [FML]: Found API micdoodle8.mods.galacticraft.api.entity (owned by galacticraftcore providing GalacticraftAPI|entity) embedded in galacticraftplanets
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.entity.ai.registry (owned by minecolonies providing minecolonies-api|entity|ai|registry) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API mcp.mobius.waila.api (owned by Waila providing WailaAPI) embedded in waila
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.inventory (owned by minecolonies providing minecolonies-api|inventory) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.compatibility.tinkers (owned by minecolonies providing minecolonies-api|compatibility|tinkers) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.blockout.controls (owned by minecolonies providing minecolonies-blockout|controls) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.jaquadro.minecraft.storagedrawers.api.render (owned by StorageDrawersAPI providing StorageDrawersAPI|render) embedded in storagedrawers
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.colony.managers (owned by minecolonies providing minecolonies-api|colony|managers) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.colony.buildings (owned by minecolonies providing minecolonies-api|colony|buildings) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.blocks.decorative (owned by minecolonies providing minecolonies-api|blocks|decorative) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.client (owned by minecolonies providing minecolonies-api|client) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API dan200.computercraft.api.redstone (owned by ComputerCraft providing ComputerCraft|API|Redstone) embedded in computercraft
+[16:29:58] [Server thread/DEBUG] [FML]: Found API moze_intel.projecte.api (owned by projecte providing projecteapi) embedded in projecte
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.entity.pathfinding.registry (owned by minecolonies providing minecolonies-api|entity|pathfinding|registry) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.colony.requestsystem.location (owned by minecolonies providing minecolonies-api|colony|requestsystem|location) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.util.constant (owned by minecolonies providing minecolonies-api|util|constants) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.jaquadro.minecraft.storagedrawers.api.storage (owned by StorageDrawersAPI providing StorageDrawersAPI|storage) embedded in storagedrawers
+[16:29:58] [Server thread/DEBUG] [FML]: Found API it.zerono.mods.zerocore.api.multiblock.rectangular (owned by zerocore providing zerocore|API|multiblock|rectangular) embedded in zerocore
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.colony (owned by minecolonies providing minecolonies-api|colony) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.crafting (owned by minecolonies providing minecolonies-api|crafting) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.entity.mobs.util (owned by minecolonies providing minecolonies-api|entity|mobs|util) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API micdoodle8.mods.galacticraft.api.event.oxygen (owned by galacticraftcore providing GalacticraftAPI|event|oxygen) embedded in galacticraftcore
+[16:29:58] [Server thread/DEBUG] [FML]: Found API micdoodle8.mods.galacticraft.api.event.oxygen (owned by galacticraftcore providing GalacticraftAPI|event|oxygen) embedded in galacticraftplanets
+[16:29:58] [Server thread/DEBUG] [FML]: Found API micdoodle8.mods.galacticraft.api.recipe (owned by galacticraftcore providing GalacticraftAPI|recipe) embedded in galacticraftcore
+[16:29:58] [Server thread/DEBUG] [FML]: Found API micdoodle8.mods.galacticraft.api.recipe (owned by galacticraftcore providing GalacticraftAPI|recipe) embedded in galacticraftplanets
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.entity.mobs (owned by minecolonies providing minecolonies-api|entity|mobs) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API dan200.computercraft.api.turtle (owned by ComputerCraft providing ComputerCraft|API|Turtle) embedded in computercraft
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.colony.jobs (owned by minecolonies providing minecolonies-api|colony|jobs) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API mezz.jei.api (owned by jei providing JustEnoughItemsAPI) embedded in jei
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.entity.pathfinding (owned by minecolonies providing minecolonies-api|entity|pathfinding) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.colony.requestsystem.request (owned by minecolonies providing minecolonies-api|colony|requestsystem|request) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.colony.requestsystem.requestable (owned by minecolonies providing minecolonies-api|colony|requestsystem|requestable) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API dan200.computercraft.api.media (owned by ComputerCraft providing ComputerCraft|API|Media) embedded in computercraft
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.network (owned by minecolonies providing minecolonies-api|network) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API dan200.computercraft.api (owned by ComputerCraft providing ComputerCraft|API) embedded in computercraft
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.entity.mobs.barbarians (owned by minecolonies providing minecolonies-api|entity|mobs|barbarians) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.colony.requestsystem.resolver.retrying (owned by minecolonies providing minecolonies-api|colony|requestsystem|resolver|retrying) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.colony.workorders (owned by minecolonies providing minecolonies-api|colony|workorders) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.blocks.interfaces (owned by minecolonies providing minecolonies-api|blocks|interfaces) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.entity.ai.citizen (owned by minecolonies providing minecolonies-api|entity|ai|citizen) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API dan200.computercraft.api.lua (owned by ComputerCraft providing ComputerCraft|API|Lua) embedded in computercraft
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.colony.requestsystem.factory (owned by minecolonies providing minecolonies-api|colony|requestsystem|factory) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.colony.managers.interfaces (owned by minecolonies providing minecolonies-api|colony|managers|interfaces) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.minecolonies.api.colony.requestsystem.factory.standard (owned by minecolonies providing minecolonies-api|colony|requestsystem|factory|standard) embedded in minecolonies
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.valkyrieofnight.vliblegacy.api (owned by valkyrielib providing valkyrielib.api) embedded in universalmodifiers
+[16:29:58] [Server thread/DEBUG] [FML]: Found API com.valkyrieofnight.vliblegacy.api (owned by valkyrielib providing valkyrielib.api) embedded in valkyrielib
+[16:29:58] [Server thread/DEBUG] [FML]: Found API micdoodle8.mods.galacticraft.api.prefab.entity (owned by galacticraftcore providing GalacticraftAPI|prefab|entity) embedded in galacticraftcore
+[16:29:58] [Server thread/DEBUG] [FML]: Found API micdoodle8.mods.galacticraft.api.prefab.entity (owned by galacticraftcore providing GalacticraftAPI|prefab|entity) embedded in galacticraftplanets
+[16:29:58] [Server thread/TRACE] [FML]: Removing upstream parent StorageDrawers from APIContainer{StorageDrawersAPI|registry:2.1.0}
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API StorageDrawersAPI|registry: owner: StorageDrawersAPI, dependents: [storagedrawers]
+[16:29:58] [Server thread/TRACE] [FML]: Removing upstream parent StorageDrawers from APIContainer{StorageDrawersAPI|storage:2.1.0}
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API StorageDrawersAPI|storage: owner: StorageDrawersAPI, dependents: [storagedrawers]
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|colony|requestsystem|resolver: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API redstonefluxapi: owner: redstoneflux, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API WailaAPI: owner: Waila, dependents: [waila]
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|compatibility|candb: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API GalacticraftAPI|prefab|core: owner: galacticraftcore, dependents: [galacticraftplanets]
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|colony|managers|interfaces: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API zerocore|API|multiblock|validation: owner: zerocore, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|colony|buildings|registry: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|inventory|api: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API zerocore|API|multiblock: owner: zerocore, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|client|render: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|colony|workorders: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|items: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|colony|requestsystem|location: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API GalacticraftAPI|vector: owner: galacticraftcore, dependents: [galacticraftplanets]
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|entity|ai|citizen|guards: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API ComputerCraft|API|Turtle: owner: ComputerCraft, dependents: [computercraft]
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|colony|requestsystem: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|colony|guardtype: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API JustEnoughItemsAPI: owner: jei, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|entity|ai|citizen: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|colony|requestsystem|data: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API projecteapi: owner: projecte, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|util|constants: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-blockout|controls: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|colony|managers: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|colony|requestsystem|requestable|crafting: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|colony|requestsystem|token: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|colony|requestsystem|manager: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API ComputerCraft|API|FileSystem: owner: ComputerCraft, dependents: [computercraft]
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API ImmersiveEngineering|ImmersiveFluxAPI: owner: ImmersiveEngineering, dependents: [immersiveengineering]
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|entity|pathfinding: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|colony|guardtype|registry: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API ComputerCraft|API|Lua: owner: ComputerCraft, dependents: [computercraft]
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API StorageDrawersAPI: owner: StorageDrawers, dependents: [storagedrawers]
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|entity|ai: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|colony|jobs|registry: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|entity|ai|citizen|builder: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|creativetab: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API GalacticraftAPI|transmission|grid: owner: galacticraftcore, dependents: [galacticraftplanets]
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|util: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|colony|requestsystem|requestable: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API GalacticraftAPI|item: owner: galacticraftcore, dependents: [galacticraftplanets]
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API ComputerCraft|API|Network: owner: ComputerCraft, dependents: [computercraft]
+[16:29:58] [Server thread/TRACE] [FML]: Removing upstream parent StorageDrawers from APIContainer{StorageDrawersAPI|event:2.1.0}
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API StorageDrawersAPI|event: owner: StorageDrawersAPI, dependents: [storagedrawers]
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|entity|pathfinding|registry: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-blockout|views: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|network: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API GalacticraftAPI|prefab|entity: owner: galacticraftcore, dependents: [galacticraftplanets]
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API GalacticraftAPI|event|client: owner: galacticraftcore, dependents: [galacticraftplanets]
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|entity: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|colony|jobs: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API GalacticraftAPI|entity: owner: galacticraftcore, dependents: [galacticraftplanets]
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API CSLib|API: owner: ptrmodellib, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-blockout: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|colony|requestsystem|resolver|player: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|blocks|interfaces: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|entity|ai|statemachine|states: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|compatibility|tinkers: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|entity|ai|statemachine|transition: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API GalacticraftAPI|event|oxygen: owner: galacticraftcore, dependents: [galacticraftplanets]
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|blocks|huts: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|entity|ai|pathfinding: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API ComputerCraft|API|Peripheral: owner: ComputerCraft, dependents: [computercraft]
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|inventory: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|colony|buildings|workerbuildings: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|colony|permissions: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|colony|requestsystem|request: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|colony|requestsystem|resolver|retrying: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API GalacticraftAPI: owner: galacticraftcore, dependents: [galacticraftplanets]
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|colony|buildings: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|entity|ai|registry: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|colony|buildings|views: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API GalacticraftAPI|trasmission|tile: owner: galacticraftcore, dependents: [galacticraftplanets]
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|colony|requestsystem|factory: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API ComputerCraft|API: owner: ComputerCraft, dependents: [computercraft]
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|compatibility|gbook: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API GalacticraftAPI|power: owner: galacticraftcore, dependents: [galacticraftplanets]
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|entity|ai|statemachine: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/TRACE] [FML]: Removing upstream parent StorageDrawers from APIContainer{StorageDrawersAPI|render:2.1.0}
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API StorageDrawersAPI|render: owner: StorageDrawersAPI, dependents: [storagedrawers]
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|sounds: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|entity|mobs|pirates: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API GalacticraftAPI|world: owner: galacticraftcore, dependents: [galacticraftplanets]
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|colony|requestsystem|factory|standard: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API ComputerCraft|API|Media: owner: ComputerCraft, dependents: [computercraft]
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|colony|requestsystem|requester: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API ImmersiveEngineering|API: owner: ImmersiveEngineering, dependents: [immersiveengineering]
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API valkyrielib.api: owner: valkyrielib, dependents: [universalmodifiers]
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|entity|mobs|util: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|blocks: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|client|render|modeltype: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API GalacticraftAPI|recipe: owner: galacticraftcore, dependents: [galacticraftplanets]
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|blocks|decorative: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|compatibility: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|blocks|types: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API GalacticraftAPI|event|worldgen: owner: galacticraftcore, dependents: [galacticraftplanets]
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API bigreactors|API: owner: bigreactors, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|client: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|entity|mobs: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|tileentities: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|achievements: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API ComputerCraft|API|Redstone: owner: ComputerCraft, dependents: [computercraft]
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|colony: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API zerocore|API|multiblock|rectangular: owner: zerocore, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API ComputerCraft|API|Permissions: owner: ComputerCraft, dependents: [computercraft]
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|entity|citizen|citizenhandlers: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|crafting: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API GalacticraftAPI|transmission: owner: galacticraftcore, dependents: [galacticraftplanets]
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|entity|citizen: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|entity|mobs|barbarians: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|client|render|modeltype|registry: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API GalacticraftAPI|prefab: owner: galacticraftcore, dependents: [galacticraftplanets]
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|entity|ai|statemachine|basestatemachine: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API GalacticraftAPI|block: owner: galacticraftcore, dependents: [galacticraftplanets]
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API GalacticraftAPI|tile: owner: galacticraftcore, dependents: [galacticraftplanets]
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|compatibility|dynamictrees: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/TRACE] [FML]: Removing upstream parent StorageDrawers from APIContainer{StorageDrawersAPI|storage-attribute:2.1.0}
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API StorageDrawersAPI|storage-attribute: owner: StorageDrawersAPI, dependents: [storagedrawers]
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API GalacticraftAPI|prefab|worldgen: owner: galacticraftcore, dependents: [galacticraftplanets]
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|entity|ai|statemachine|tickratestatemachine: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API minecolonies-api|configuration: owner: minecolonies, dependents: []
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API GalacticraftAPI|galaxies: owner: galacticraftcore, dependents: [galacticraftplanets]
+[16:29:58] [Server thread/DEBUG] [FML]: Creating API container dummy for API zerocore|API|multiblock|tier: owner: zerocore, dependents: []
+[16:29:58] [Server thread/TRACE] [FML]: Received a system property request ''
+[16:29:58] [Server thread/TRACE] [FML]: System property request managing the state of 0 mods
+[16:29:58] [Server thread/DEBUG] [FML]: After merging, found state information for 0 mods
+[16:29:58] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[16:29:58] [Server thread/DEBUG] [FML]: Enabling mod chameleon
+[16:29:58] [Server thread/WARN] [FML]: Missing English translation for chameleon: assets/chameleon/lang/en_us.lang
+[16:29:58] [Server thread/DEBUG] [FML]: Enabling mod chickenchunks
+[16:29:59] [Server thread/DEBUG] [FML]: Enabling mod codechickenlib
+[16:29:59] [Server thread/WARN] [FML]: Missing English translation for codechickenlib: assets/codechickenlib/lang/en_us.lang
+[16:29:59] [Server thread/DEBUG] [FML]: Enabling mod collective
+[16:29:59] [Server thread/WARN] [FML]: Missing English translation for collective: assets/collective/lang/en_us.lang
+[16:29:59] [Server thread/DEBUG] [FML]: Enabling mod computercraft
+[16:29:59] [Server thread/DEBUG] [FML]: Enabling mod davincisvessels
+[16:29:59] [Server thread/DEBUG] [FML]: Enabling mod props
+[16:30:00] [Server thread/DEBUG] [FML]: Enabling mod extrautils2
+[16:30:00] [Server thread/DEBUG] [FML]: Enabling mod bigreactors
+[16:30:00] [Server thread/DEBUG] [FML]: Enabling mod galacticraftcore
+[16:30:00] [Server thread/DEBUG] [FML]: Enabling mod galacticraftplanets
+[16:30:00] [Server thread/DEBUG] [FML]: Enabling mod holoinventory
+[16:30:00] [Server thread/WARN] [FML]: Missing English translation for holoinventory: assets/holoinventory/lang/en_us.lang
+[16:30:00] [Server thread/DEBUG] [FML]: Enabling mod waila
+[16:30:00] [Server thread/DEBUG] [FML]: Enabling mod jei
+[16:30:00] [Server thread/DEBUG] [FML]: Enabling mod mantle
+[16:30:00] [Server thread/WARN] [FML]: Missing English translation for mantle: assets/mantle/lang/en_us.lang
+[16:30:00] [Server thread/DEBUG] [FML]: Enabling mod mcjtylib_ng
+[16:30:00] [Server thread/WARN] [FML]: Missing English translation for mcjtylib_ng: assets/mcjtylib_ng/lang/en_us.lang
+[16:30:00] [Server thread/DEBUG] [FML]: Enabling mod movingworld
+[16:30:00] [Server thread/WARN] [FML]: Missing English translation for movingworld: assets/movingworld/lang/en_us.lang
+[16:30:00] [Server thread/DEBUG] [FML]: Enabling mod projecte
+[16:30:01] [Server thread/DEBUG] [FML]: Enabling mod redstoneflux
+[16:30:01] [Server thread/WARN] [FML]: Missing English translation for redstoneflux: assets/redstoneflux/lang/en_us.lang
+[16:30:01] [Server thread/DEBUG] [FML]: Enabling mod rftools
+[16:30:01] [Server thread/DEBUG] [FML]: Enabling mod simplegenerators
+[16:30:01] [Server thread/DEBUG] [FML]: Enabling mod simplyjetpacks
