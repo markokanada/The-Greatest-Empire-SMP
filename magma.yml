@@ -91,7 +91,7 @@ magma:
       missing-mods: '&cYou are missing the following mods:'
 bukkit:
   max-potion-effect-amount: 1024
-  enable-reload: false
+  enable-reload: true
 forge:
   blacklistedmods:
     list: []
