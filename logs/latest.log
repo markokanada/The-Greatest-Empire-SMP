@@ -16350,3 +16350,6 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [17:51:18] [Netty Epoll Server IO #1/DEBUG] [extrautils2]: OTL: Decode Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt
 [17:51:18] [Netty Epoll Server IO #1/DEBUG] [extrautils2]: OTL: Handle Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt : SERVER
 [17:51:18] [Netty Epoll Server IO #1/DEBUG] [extrautils2]: OTL: Scheduling Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt : SERVER
+[17:57:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:59:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[17:59:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
