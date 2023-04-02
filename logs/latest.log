@@ -16372,3 +16372,4 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [20:17:06] [Netty Epoll Server IO #3/DEBUG] [extrautils2]: OTL: Decode Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt
 [20:17:06] [Netty Epoll Server IO #3/DEBUG] [extrautils2]: OTL: Handle Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt : SERVER
 [20:17:06] [Netty Epoll Server IO #3/DEBUG] [extrautils2]: OTL: Scheduling Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt : SERVER
+[20:23:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
