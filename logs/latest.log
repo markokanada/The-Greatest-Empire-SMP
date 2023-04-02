@@ -16358,3 +16358,7 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [18:01:24] [Netty Epoll Server IO #1/DEBUG] [extrautils2]: OTL: Scheduling Packet: com.rwtema.extrautils2.power.PacketPowerInfo : SERVER
 [18:01:24] [Server thread/DEBUG] [extrautils2]: OTL: Encode Packet: com.rwtema.extrautils2.power.PacketPowerInfo
 [18:03:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:10:01] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo lost connection: Disconnected
+[18:10:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo left the game
+[18:10:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:14:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
