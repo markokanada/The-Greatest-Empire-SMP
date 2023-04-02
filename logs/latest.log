@@ -253,3 +253,4 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [16:03:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
 [16:03:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
 [16:03:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[16:06:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
