@@ -16447,3 +16447,4 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [18:40:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [18:46:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [18:53:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:58:34] [Server thread/DEBUG] [extrautils2]: OTL: Encode Packet: com.rwtema.extrautils2.blocks.BlockCursedEarth$PacketEntityIsEvil
