@@ -473,3 +473,4 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [21:57:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo left the game
 [22:01:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [22:06:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:11:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
