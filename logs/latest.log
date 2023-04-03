@@ -361,3 +361,4 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [21:12:20] [Server thread/DEBUG] [projecte]: Sent knowledge and bag data to KellSo
 [21:12:20] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: KellSo[/192.168.1.169:65413] logged in with entity id 36491 at ([world]987.5322825763171, 79.0, -1325.2342509888333)
 [21:15:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:23:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
