@@ -206,3 +206,79 @@
 [17:05:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [17:10:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [17:15:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:20:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:21:31] [User Authenticator #2/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[17:21:32] [Server thread/DEBUG] [projecte]: Clearing offline data cache in preparation to load online data
+[17:21:32] [Server thread/TRACE] [FML]: Handshake channel activating
+[17:21:32] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[17:21:32] [Server thread/DEBUG] [FML]:   Next: HELLO
+[17:21:32] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[17:21:32] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[17:21:32] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ModList:44 mods->FMLHandshakeServerState$2:HELLO
+[17:21:32] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 44 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.179,ptrmodellib@1.0.5,simplyjetpacks@1.12.2-2.2.19.0,immersiveengineering@0.12-98,redstoneflux@2.1.1,valkyrielib@1.12.2-2.0.20.1,universalmodifiers@1.12.2-1.0.16.1,rftools@7.73,jei@4.16.1.1001,chickenchunks@2.4.2.74,movingworld@1.12-6.342,projecte@1.12.2-PE1.4.1,extrautils2@1.0,com.elytradev.movingworld.common.asm.coremod@,mantle@1.12-1.3.3.55,simplegenerators@1.12.2-2.0.20.2,mcp@9.42,collective@3.0,storagedrawers@5.2.2,galacticraftcore@4.0.5,chameleon@1.12-4.1.3,FML@8.0.99.99,malilib@0.10.0-dev.23,structurize@1.12.2-0.10.277-RELEASE,davincisvessels@@DVESSELSVER@,worldedit@6.1.10,minecolonies@1.12.2-0.11.841-ALPHA,computercraft@1.80pr1,litematica@0.0.0-dev.20191217.195055,moreoverlays@1.15.1,bigreactors@1.12.2-0.4.5.68,waila@1.8.26,props@2.6.3.7,galacticraftplanets@4.0.5,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.5,tmechworks@2.0,mcjtylib_ng@3.5.4,forge@14.23.5.2860,holoinventory@2.1.1.151,stackrefill@2.0,codechickenlib@3.2.3.358,zerocore@1.12.2-0.1.2.9
+[17:21:32] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: WAITINGCACK
+[17:21:32] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[17:21:32] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: COMPLETE
+[17:21:32] [Netty Epoll Server IO #1/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[17:21:34] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[17:21:34] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: DONE
+[17:21:34] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[17:21:34] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[17:21:34] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[17:21:34] [Server thread/INFO] [Waila]: Player EntityPlayerMP['KellSo'/16434, uuid='2f743db9-a916-3145-9b53-c628e038f8ad', l='world', x=1026.50, y=66.00, z=-1253.50, cx=64, cd=-79, tl=24770370, v=true, d=false](KellSo at 1026.5,66.0,-1253.5) connected. Sending ping
+[17:21:34] [Server thread/DEBUG] [projecte]: EMC data size: 24832 bytes
+[17:21:34] [Server thread/DEBUG] [projecte]: Sent knowledge and bag data to KellSo
+[17:21:34] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: KellSo[/192.168.1.169:65160] logged in with entity id 16434 at ([world]1026.5, 66.0, -1253.5)
+[17:21:44] [Netty Epoll Server IO #1/DEBUG] [extrautils2]: OTL: Decode Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt
+[17:21:44] [Netty Epoll Server IO #1/DEBUG] [extrautils2]: OTL: Handle Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt : SERVER
+[17:21:44] [Netty Epoll Server IO #1/DEBUG] [extrautils2]: OTL: Scheduling Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt : SERVER
+[17:22:32] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /toggledownfall
+[17:22:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Toggled downfall]
+[17:24:31] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /echest
+[17:24:31] [Server thread/INFO] [Minecraft]: [SimpleEnderChest] KellSo opened his EnderChest at Location{world=CraftWorld{name=world},x=951.9508689819919,y=79.0,z=-1234.4111564145142,pitch=26.714445,yaw=-167.8492} !
+[17:24:31] [Server thread/ERROR] [net.minecraft.network.NetHandlerPlayServer]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'echest' in plugin SimpleEnderChest v1.3
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[PluginCommand.class:1.12.2-d04e549e]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:153) ~[SimpleCommandMap.class:1.12.2-d04e549e]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:689) ~[CraftServer.class:1.12.2-d04e549e]
+	at net.minecraft.network.NetHandlerPlayServer.func_147361_d(NetHandlerPlayServer.java:1604) ~[pa.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147354_a(NetHandlerPlayServer.java:1452) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(CPacketChatMessage.java:50) ~[la.class:?]
+	at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(CPacketChatMessage.java:11) ~[la.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:14) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_292]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_292]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:861) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:800) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:672) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_292]
+Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
+	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[PluginCommand.class:1.12.2-d04e549e]
+	... 15 more
+[17:24:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /echest
+[17:24:37] [Server thread/INFO] [Minecraft]: [SimpleEnderChest] KellSo opened his EnderChest at Location{world=CraftWorld{name=world},x=951.9508689819919,y=79.0,z=-1234.4111564145142,pitch=28.064445,yaw=-198.2992} !
+[17:24:37] [Server thread/ERROR] [net.minecraft.network.NetHandlerPlayServer]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'echest' in plugin SimpleEnderChest v1.3
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[PluginCommand.class:1.12.2-d04e549e]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:153) ~[SimpleCommandMap.class:1.12.2-d04e549e]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:689) ~[CraftServer.class:1.12.2-d04e549e]
+	at net.minecraft.network.NetHandlerPlayServer.func_147361_d(NetHandlerPlayServer.java:1604) ~[pa.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147354_a(NetHandlerPlayServer.java:1452) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(CPacketChatMessage.java:50) ~[la.class:?]
+	at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(CPacketChatMessage.java:11) ~[la.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:14) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_292]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_292]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:861) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:800) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:672) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_292]
+Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
+	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[PluginCommand.class:1.12.2-d04e549e]
+	... 15 more
