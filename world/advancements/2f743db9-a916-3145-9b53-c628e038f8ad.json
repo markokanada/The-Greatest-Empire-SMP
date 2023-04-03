@@ -1585,6 +1585,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/complete_build_request_1_fisherman": {
+    "criteria": {
+      "sawmill": "2023-04-03 17:30:33 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-03-28 21:05:04 +0200"

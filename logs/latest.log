@@ -285,3 +285,11 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [17:26:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /toggledownfall
 [17:26:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Toggled downfall]
 [17:27:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:30:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo has made the advancement [Something smells Fishy]
+[17:30:33] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1057, y=63, z=-1240} is using schematics/Nordic/Fisherman1 instead of schematics/Nordic/Fisherman1
+[17:30:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /give k minecraft:torch 64
+[17:30:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Player 'k' cannot be found]
+[17:31:00] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /give KellSo minecraft:torch 64
+[17:31:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Given [Torch] * 64 to KellSo]
+[17:31:35] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1030, y=65, z=-1263} is using schematics/wooden/Citizen1 instead of schematics/wooden/Citizen1
+[17:34:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
