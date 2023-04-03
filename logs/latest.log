@@ -445,3 +445,4 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [21:46:10] [Server thread/DEBUG] [extrautils2]: OTL: Encode Packet: com.rwtema.extrautils2.power.PacketPowerInfo
 [21:48:59] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo lost connection: Disconnected
 [21:49:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo left the game
+[21:51:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
