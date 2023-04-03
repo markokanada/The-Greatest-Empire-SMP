@@ -471,3 +471,4 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [21:56:48] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: KellSo[/192.168.1.169:56490] logged in with entity id 65875 at ([world]942.7262969070009, 54.0, -1208.181063368734)
 [21:57:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo lost connection: Disconnected
 [21:57:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo left the game
+[22:01:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
