@@ -746,6 +746,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/complete_build_request_1_farmer": {
+    "criteria": {
+      "farmers_hut": "2023-04-04 18:48:23 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2022-03-30 18:43:52 +0200"
