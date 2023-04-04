@@ -270,3 +270,9 @@
 [16:31:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Toggled downfall]
 [16:32:31] [Async Chat Thread - #0/INFO] []: <KellSo> 4-1
 [16:36:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:42:28] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1012, y=65, z=-1366} is using schematics/wooden/TownHall2 instead of schematics/wooden/TownHall2
+[16:42:28] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1012, y=65, z=-1366} is using schematics/wooden/TownHall3 instead of schematics/wooden/TownHall3
+[16:43:08] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1012, y=65, z=-1366} is using schematics/wooden/TownHall3 instead of schematics/wooden/TownHall3
+[16:43:13] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1012, y=65, z=-1366} is using schematics/wooden/TownHall2 instead of schematics/wooden/TownHall2
+[16:43:13] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1012, y=65, z=-1366} is using schematics/wooden/TownHall3 instead of schematics/wooden/TownHall3
+[16:44:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
