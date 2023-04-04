@@ -563,3 +563,7 @@ Caused by: java.lang.IllegalArgumentException: Stack can not be invalid!
 [19:58:21] [Netty Epoll Server IO #2/DEBUG] [extrautils2]: OTL: Handle Packet: com.rwtema.extrautils2.power.PacketPowerInfo : SERVER
 [19:58:21] [Netty Epoll Server IO #2/DEBUG] [extrautils2]: OTL: Scheduling Packet: com.rwtema.extrautils2.power.PacketPowerInfo : SERVER
 [20:02:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:09:02] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[20:09:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[20:09:10] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[20:09:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
