@@ -569,3 +569,7 @@ Caused by: java.lang.IllegalArgumentException: Stack can not be invalid!
 [20:09:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
 [20:10:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [20:17:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:25:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:30:00] [Async Chat Thread - #1/INFO] []: <KellSo> asd
+[20:30:00] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo lost connection: Disconnected
+[20:30:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo left the game
