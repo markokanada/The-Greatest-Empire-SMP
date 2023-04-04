@@ -484,3 +484,4 @@ Caused by: java.lang.IllegalArgumentException: Stack can not be invalid!
 [19:08:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo left the game
 [19:08:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [19:13:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:18:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
