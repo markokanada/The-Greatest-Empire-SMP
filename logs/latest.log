@@ -16375,3 +16375,4 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [20:34:37] [Netty Epoll Server IO #0/DEBUG] [extrautils2]: OTL: Scheduling Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt : SERVER
 [20:34:55] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo lost connection: Disconnected
 [20:34:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo left the game
+[20:39:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
