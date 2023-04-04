@@ -562,3 +562,4 @@ Caused by: java.lang.IllegalArgumentException: Stack can not be invalid!
 [19:58:21] [Netty Epoll Server IO #2/DEBUG] [extrautils2]: OTL: Decode Packet: com.rwtema.extrautils2.power.PacketPowerInfo
 [19:58:21] [Netty Epoll Server IO #2/DEBUG] [extrautils2]: OTL: Handle Packet: com.rwtema.extrautils2.power.PacketPowerInfo : SERVER
 [19:58:21] [Netty Epoll Server IO #2/DEBUG] [extrautils2]: OTL: Scheduling Packet: com.rwtema.extrautils2.power.PacketPowerInfo : SERVER
+[20:02:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
