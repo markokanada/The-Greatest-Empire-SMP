@@ -367,3 +367,6 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [18:38:28] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /give KellSo minecraft:wheat
 [18:38:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Given [Wheat] * 1 to KellSo]
 [18:39:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:40:26] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=928, y=63, z=-1336} is using schematics/wooden/Miner1 instead of schematics/wooden/Miner1
+[18:40:26] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=928, y=63, z=-1336} is using schematics/wooden/Miner2 instead of schematics/wooden/Miner2
+[18:42:16] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=908, y=66, z=-1240} is using schematics/wooden/Farmer1 instead of schematics/wooden/Farmer1
