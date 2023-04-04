@@ -293,3 +293,12 @@
 [17:07:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [17:08:17] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=908, y=66, z=-1275} is using schematics/wooden/Citizen1 instead of schematics/wooden/Citizen1
 [17:08:17] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=908, y=66, z=-1275} is using schematics/wooden/Citizen2 instead of schematics/wooden/Citizen2
+[17:12:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /toggledownfall
+[17:12:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Toggled downfall]
+[17:14:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:19:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo has reached the goal [Growing Population]
+[17:21:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[17:21:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[17:22:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:23:36] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[17:23:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]

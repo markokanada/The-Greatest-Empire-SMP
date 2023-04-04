@@ -2819,6 +2819,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/colony_population_5": {
+    "criteria": {
+      "population_5": "2023-04-04 17:19:26 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_red_flower": "2023-01-24 13:21:47 +0100"
