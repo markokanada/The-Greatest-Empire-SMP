@@ -567,3 +567,4 @@ Caused by: java.lang.IllegalArgumentException: Stack can not be invalid!
 [20:09:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
 [20:09:10] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
 [20:09:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[20:10:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
