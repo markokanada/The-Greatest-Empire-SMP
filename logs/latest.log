@@ -430,3 +430,4 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 	... 15 more
 [18:55:01] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /toggledownfall
 [18:55:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Toggled downfall]
+[19:01:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
