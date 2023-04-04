@@ -542,3 +542,11 @@ Caused by: java.lang.IllegalArgumentException: Stack can not be invalid!
 [19:44:10] [Netty Epoll Server IO #2/DEBUG] [extrautils2]: OTL: Decode Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt
 [19:44:10] [Netty Epoll Server IO #2/DEBUG] [extrautils2]: OTL: Handle Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt : SERVER
 [19:44:10] [Netty Epoll Server IO #2/DEBUG] [extrautils2]: OTL: Scheduling Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt : SERVER
+[19:47:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:48:32] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1087, y=63, z=-1254} is using schematics/Nordic/Baker1 instead of schematics/Nordic/Baker1
+[19:48:56] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1114, y=70, z=-1322} is using schematics/Nordic/ChickenHerder1 instead of schematics/Nordic/ChickenHerder1
+[19:49:01] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1114, y=70, z=-1322} is using schematics/Nordic/ChickenHerder1 instead of schematics/Nordic/ChickenHerder1
+[19:51:49] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[19:51:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[19:52:05] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[19:52:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
