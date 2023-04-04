@@ -206,3 +206,4 @@
 [13:48:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [13:51:35] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /toggledownfall
 [13:51:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Toggled downfall]
+[13:56:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
