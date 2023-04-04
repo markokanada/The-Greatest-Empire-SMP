@@ -333,3 +333,5 @@
 [18:11:15] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1012, y=65, z=-1366} is using schematics/wooden/TownHall3 instead of schematics/wooden/TownHall3
 [18:12:12] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /toggledownfall
 [18:12:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Toggled downfall]
+[18:15:02] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=909, y=66, z=-1258} is using schematics/wooden/Citizen2 instead of schematics/wooden/Citizen2
+[18:16:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
