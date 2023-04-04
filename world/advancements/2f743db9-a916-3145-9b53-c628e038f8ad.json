@@ -2501,6 +2501,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/colony_population_10": {
+    "criteria": {
+      "population_5": "2023-04-04 18:23:18 +0200"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2022-03-29 22:03:51 +0200"

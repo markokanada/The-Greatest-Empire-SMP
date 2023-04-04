@@ -335,3 +335,5 @@
 [18:12:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Toggled downfall]
 [18:15:02] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=909, y=66, z=-1258} is using schematics/wooden/Citizen2 instead of schematics/wooden/Citizen2
 [18:16:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:23:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo has made the advancement [Getting Busy]
+[18:23:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
