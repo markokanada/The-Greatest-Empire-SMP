@@ -794,6 +794,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/complete_build_request_1_delivery_person": {
+    "criteria": {
+      "delivery_person": "2023-04-04 17:49:42 +0200"
+    },
+    "done": true
+  },
   "minecolonies:minecolonies/complete_build_request_1_cook": {
     "criteria": {
       "sawmill": "2023-03-12 19:54:31 +0100"
