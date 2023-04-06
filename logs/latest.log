@@ -417,3 +417,9 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [13:44:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
 [13:44:41] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
 [13:44:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[13:46:33] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=928, y=63, z=-1336} is using schematics/wooden/Miner3 instead of schematics/wooden/Miner3
+[13:46:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[13:46:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[13:46:53] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[13:46:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[13:48:28] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1012, y=65, z=-1366} is using schematics/wooden/TownHall4 instead of schematics/wooden/TownHall4
