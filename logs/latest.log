@@ -552,3 +552,7 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [18:21:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [18:24:27] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=909, y=66, z=-1258} is using schematics/wooden/Citizen3 instead of schematics/wooden/Citizen3
 [18:28:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:30:41] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1059, y=70, z=-1304} is using schematics/wooden/Deliveryman2 instead of schematics/wooden/Deliveryman2
+[18:33:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo lost connection: Disconnected
+[18:33:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo left the game
+[18:34:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
