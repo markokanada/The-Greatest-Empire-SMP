@@ -303,3 +303,35 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 	... 15 more
 [13:29:44] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
 [13:29:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[13:30:47] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[13:30:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[13:31:55] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[13:31:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[13:32:58] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /echest
+[13:32:58] [Server thread/INFO] [Minecraft]: [SimpleEnderChest] KellSo opened his EnderChest at Location{world=CraftWorld{name=world},x=957.1861568043706,y=66.93559997773171,z=-1422.040683345946,pitch=17.63026,yaw=85.533325} !
+[13:32:58] [Server thread/ERROR] [net.minecraft.network.NetHandlerPlayServer]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'echest' in plugin SimpleEnderChest v1.3
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[PluginCommand.class:1.12.2-d04e549e]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:153) ~[SimpleCommandMap.class:1.12.2-d04e549e]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:689) ~[CraftServer.class:1.12.2-d04e549e]
+	at net.minecraft.network.NetHandlerPlayServer.func_147361_d(NetHandlerPlayServer.java:1604) ~[pa.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147354_a(NetHandlerPlayServer.java:1452) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(CPacketChatMessage.java:50) ~[la.class:?]
+	at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(CPacketChatMessage.java:11) ~[la.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:14) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_292]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_292]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:861) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:800) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:672) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_292]
+Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
+	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[PluginCommand.class:1.12.2-d04e549e]
+	... 15 more
+[13:33:00] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[13:33:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[13:33:09] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[13:33:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
