@@ -556,3 +556,4 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [18:33:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo lost connection: Disconnected
 [18:33:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo left the game
 [18:34:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:39:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
