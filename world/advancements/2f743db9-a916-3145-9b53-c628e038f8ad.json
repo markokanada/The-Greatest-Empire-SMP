@@ -1004,6 +1004,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/complete_build_request_1_chicken_herder": {
+    "criteria": {
+      "sawmill": "2023-04-06 12:36:07 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2022-03-28 21:52:58 +0200"

@@ -206,3 +206,8 @@
 [12:31:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
 [12:31:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
 [12:31:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[12:36:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo has made the advancement [A Poultry Sum of Meat]
+[12:36:07] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1114, y=70, z=-1322} is using schematics/Nordic/ChickenHerder1 instead of schematics/Nordic/ChickenHerder1
+[12:38:56] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: David_alja lost connection: Disconnected
+[12:38:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: David_alja left the game
+[12:38:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
