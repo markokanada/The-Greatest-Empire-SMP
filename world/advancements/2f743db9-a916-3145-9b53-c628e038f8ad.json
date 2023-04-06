@@ -2117,6 +2117,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/complete_build_request_1_baker": {
+    "criteria": {
+      "sawmill": "2023-04-06 12:16:51 +0200"
+    },
+    "done": true
+  },
   "minecolonies:minecolonies/root": {
     "criteria": {
       "supply_ship_placed": "2023-03-08 19:37:00 +0100"
