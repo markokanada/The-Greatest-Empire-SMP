@@ -503,3 +503,13 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [18:08:24] [Server thread/DEBUG] [projecte]: EMC data size: 24832 bytes
 [18:08:24] [Server thread/DEBUG] [projecte]: Sent knowledge and bag data to KellSo
 [18:08:24] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: KellSo[/192.168.1.169:61358] logged in with entity id 101423 at ([world]926.8441932169367, 105.86839998364644, -1296.6910348368795)
+[18:10:50] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1059, y=70, z=-1304} is using schematics/wooden/Deliveryman1 instead of schematics/wooden/Deliveryman1
+[18:10:50] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1059, y=70, z=-1304} is using schematics/wooden/Deliveryman2 instead of schematics/wooden/Deliveryman2
+[18:10:57] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1082, y=70, z=-1304} is using schematics/wooden/Deliveryman1 instead of schematics/wooden/Deliveryman1
+[18:10:57] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1082, y=70, z=-1304} is using schematics/wooden/Deliveryman2 instead of schematics/wooden/Deliveryman2
+[18:11:18] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=945, y=66, z=-1381} is using schematics/wooden/Lumberjack2 instead of schematics/wooden/Lumberjack2
+[18:11:18] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=945, y=66, z=-1381} is using schematics/wooden/Lumberjack3 instead of schematics/wooden/Lumberjack3
+[18:11:25] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=967, y=64, z=-1378} is using schematics/wooden/Lumberjack2 instead of schematics/wooden/Lumberjack2
+[18:11:25] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=967, y=64, z=-1378} is using schematics/wooden/Lumberjack3 instead of schematics/wooden/Lumberjack3
+[18:12:28] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1127, y=63, z=-1238} is using schematics/wooden/Citizen1 instead of schematics/wooden/Citizen1
+[18:14:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
