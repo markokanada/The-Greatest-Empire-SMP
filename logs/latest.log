@@ -366,3 +366,54 @@ Caused by: java.lang.IllegalArgumentException: Stack can not be invalid!
 [13:39:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
 [13:39:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
 [13:39:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[13:41:32] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /mc kill raiders
+[13:41:36] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /mc kill raiders
+[13:41:38] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /mc kill raiders
+[13:41:45] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /mc kill raiders
+[13:41:55] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /mc
+[13:41:57] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /mc
+[13:42:36] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=908, y=66, z=-1275} is using schematics/wooden/Citizen2 instead of schematics/wooden/Citizen2
+[13:42:36] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=908, y=66, z=-1275} is using schematics/wooden/Citizen3 instead of schematics/wooden/Citizen3
+[13:42:46] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=909, y=66, z=-1258} is using schematics/wooden/Citizen2 instead of schematics/wooden/Citizen2
+[13:42:46] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=909, y=66, z=-1258} is using schematics/wooden/Citizen3 instead of schematics/wooden/Citizen3
+[13:42:55] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1114, y=63, z=-1243} is using schematics/wooden/WareHouse2 instead of schematics/wooden/WareHouse2
+[13:42:56] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=921, y=64, z=-1309} is using schematics/wooden/Citizen2 instead of schematics/wooden/Citizen2
+[13:42:56] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=921, y=64, z=-1309} is using schematics/wooden/Citizen3 instead of schematics/wooden/Citizen3
+[13:43:10] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1030, y=65, z=-1263} is using schematics/wooden/Citizen2 instead of schematics/wooden/Citizen2
+[13:43:10] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1030, y=65, z=-1263} is using schematics/wooden/Citizen3 instead of schematics/wooden/Citizen3
+[13:43:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[13:43:25] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /givve k minecraft:green_carpet 64
+[13:43:33] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /give KellSo minecraft:green_carpet 64
+[13:43:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: There is no such item with name minecraft:green_carpet]
+[13:43:35] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[13:43:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[13:43:40] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[13:43:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[13:44:04] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /echest
+[13:44:04] [Server thread/INFO] [Minecraft]: [SimpleEnderChest] KellSo opened his EnderChest at Location{world=CraftWorld{name=world},x=1041.9976028589942,y=70.0,z=-1285.9677290269228,pitch=15.698698,yaw=309.5979} !
+[13:44:04] [Server thread/ERROR] [net.minecraft.network.NetHandlerPlayServer]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'echest' in plugin SimpleEnderChest v1.3
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[PluginCommand.class:1.12.2-d04e549e]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:153) ~[SimpleCommandMap.class:1.12.2-d04e549e]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:689) ~[CraftServer.class:1.12.2-d04e549e]
+	at net.minecraft.network.NetHandlerPlayServer.func_147361_d(NetHandlerPlayServer.java:1604) ~[pa.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147354_a(NetHandlerPlayServer.java:1452) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(CPacketChatMessage.java:50) ~[la.class:?]
+	at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(CPacketChatMessage.java:11) ~[la.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:14) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_292]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_292]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:861) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:800) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:672) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_292]
+Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
+	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[PluginCommand.class:1.12.2-d04e549e]
+	... 15 more
+[13:44:34] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[13:44:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[13:44:41] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[13:44:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
