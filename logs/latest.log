@@ -220,3 +220,20 @@
 [12:49:33] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=941, y=64, z=-1326} is using schematics/Nordic/Builder4 instead of schematics/Nordic/Builder4
 [12:49:51] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1039, y=64, z=-1253} is using schematics/Nordic/Builder3 instead of schematics/Nordic/Builder3
 [12:49:51] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1039, y=64, z=-1253} is using schematics/Nordic/Builder4 instead of schematics/Nordic/Builder4
+[12:53:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[12:55:39] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=985, y=64, z=-1354} is using schematics/Nordic/Builder4 instead of schematics/Nordic/Builder4
+[12:55:39] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1039, y=64, z=-1253} is using schematics/Nordic/Builder4 instead of schematics/Nordic/Builder4
+[12:58:33] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=941, y=64, z=-1326} is using schematics/Nordic/Builder4 instead of schematics/Nordic/Builder4
+[13:00:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[13:01:21] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=945, y=66, z=-1381} is using schematics/wooden/Lumberjack1 instead of schematics/wooden/Lumberjack1
+[13:01:21] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=945, y=66, z=-1381} is using schematics/wooden/Lumberjack2 instead of schematics/wooden/Lumberjack2
+[13:01:28] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=967, y=64, z=-1378} is using schematics/wooden/Lumberjack1 instead of schematics/wooden/Lumberjack1
+[13:01:28] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=967, y=64, z=-1378} is using schematics/wooden/Lumberjack2 instead of schematics/wooden/Lumberjack2
+[13:02:10] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=928, y=63, z=-1336} is using schematics/wooden/Miner2 instead of schematics/wooden/Miner2
+[13:02:10] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=928, y=63, z=-1336} is using schematics/wooden/Miner3 instead of schematics/wooden/Miner3
+[13:02:37] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1114, y=63, z=-1243} is using schematics/wooden/WareHouse1 instead of schematics/wooden/WareHouse1
+[13:02:37] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1114, y=63, z=-1243} is using schematics/wooden/WareHouse2 instead of schematics/wooden/WareHouse2
+[13:02:43] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1114, y=63, z=-1243} is using schematics/wooden/WareHouse2 instead of schematics/wooden/WareHouse2
+[13:04:40] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=967, y=64, z=-1378} is using schematics/wooden/Lumberjack2 instead of schematics/wooden/Lumberjack2
+[13:04:57] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[13:04:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
