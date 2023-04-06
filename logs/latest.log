@@ -261,3 +261,7 @@
 [13:15:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
 [13:15:53] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
 [13:15:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[13:21:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[13:22:48] [Netty Epoll Server IO #0/DEBUG] [extrautils2]: OTL: Decode Packet: com.rwtema.extrautils2.crafting.Radar$PacketPing
+[13:22:48] [Netty Epoll Server IO #0/DEBUG] [extrautils2]: OTL: Handle Packet: com.rwtema.extrautils2.crafting.Radar$PacketPing : SERVER
+[13:22:48] [Netty Epoll Server IO #0/DEBUG] [extrautils2]: OTL: Scheduling Packet: com.rwtema.extrautils2.crafting.Radar$PacketPing : SERVER
