@@ -548,3 +548,7 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [18:18:45] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=908, y=66, z=-1275} is using schematics/wooden/Citizen3 instead of schematics/wooden/Citizen3
 [18:18:53] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
 [18:18:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[18:21:23] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=921, y=64, z=-1309} is using schematics/wooden/Citizen3 instead of schematics/wooden/Citizen3
+[18:21:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:24:27] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=909, y=66, z=-1258} is using schematics/wooden/Citizen3 instead of schematics/wooden/Citizen3
+[18:28:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
