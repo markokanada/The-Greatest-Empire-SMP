@@ -1639,6 +1639,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2023-04-06 13:33:07 +0200"
+    },
+    "done": true
+  },
   "minecolonies:minecolonies/complete_build_request_1_fisherman": {
     "criteria": {
       "sawmill": "2023-04-03 17:30:33 +0200"
@@ -1726,6 +1732,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2022-08-26 19:06:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2023-04-06 13:33:07 +0200"
     },
     "done": true
   },
@@ -1900,6 +1912,7 @@
       "golden_apple": "2022-05-13 22:32:19 +0200",
       "rotten_flesh": "2022-03-28 21:08:11 +0200",
       "beetroot": "2022-04-03 18:59:08 +0200",
+      "cooked_rabbit": "2023-04-06 13:33:13 +0200",
       "cooked_chicken": "2022-03-28 21:35:07 +0200",
       "carrot": "2022-04-05 21:29:48 +0200"
     },
@@ -2954,6 +2967,12 @@
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_brick": "2022-05-14 21:15:39 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_railgun": {
+    "criteria": {
+      "craft_hammer": "2023-04-06 13:29:32 +0200"
     },
     "done": true
   },
