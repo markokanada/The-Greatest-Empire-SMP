@@ -248,3 +248,5 @@
 [17:24:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
 [17:24:50] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
 [17:24:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[17:27:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:28:08] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1030, y=65, z=-1263} is using schematics/wooden/Citizen3 instead of schematics/wooden/Citizen3
