@@ -250,3 +250,11 @@
 [17:24:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
 [17:27:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [17:28:08] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1030, y=65, z=-1263} is using schematics/wooden/Citizen3 instead of schematics/wooden/Citizen3
+[17:30:40] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1017, y=66, z=-1315} is using schematics/Nordic/Cook1 instead of schematics/Nordic/Cook1
+[17:30:40] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1017, y=66, z=-1315} is using schematics/Nordic/Cook2 instead of schematics/Nordic/Cook2
+[17:31:41] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=945, y=66, z=-1381} is using schematics/wooden/Lumberjack3 instead of schematics/wooden/Lumberjack3
+[17:33:57] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1037, y=64, z=-1334} is using schematics/wooden/Shepherd1 instead of schematics/wooden/Shepherd1
+[17:34:04] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo lost connection: Disconnected
+[17:34:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo left the game
+[17:34:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:38:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
