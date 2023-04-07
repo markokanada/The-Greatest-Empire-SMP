@@ -230,3 +230,21 @@
 [17:18:37] [Netty Epoll Server IO #3/DEBUG] [extrautils2]: OTL: Decode Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt
 [17:18:37] [Netty Epoll Server IO #3/DEBUG] [extrautils2]: OTL: Handle Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt : SERVER
 [17:18:37] [Netty Epoll Server IO #3/DEBUG] [extrautils2]: OTL: Scheduling Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt : SERVER
+[17:20:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:21:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /g 1
+[17:21:17] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[17:21:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[17:21:23] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[17:21:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[17:21:38] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[17:21:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[17:21:43] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[17:21:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[17:21:53] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1082, y=70, z=-1304} is using schematics/wooden/Deliveryman2 instead of schematics/wooden/Deliveryman2
+[17:22:34] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1042, y=70, z=-1302} is using schematics/Nordic/SwineHerder1 instead of schematics/Nordic/SwineHerder1
+[17:22:44] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1104, y=70, z=-1301} is using schematics/Nordic/Cowboy1 instead of schematics/Nordic/Cowboy1
+[17:22:52] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1088, y=70, z=-1321} is using schematics/Nordic/Composter1 instead of schematics/Nordic/Composter1
+[17:24:44] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[17:24:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[17:24:50] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[17:24:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
