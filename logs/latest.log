@@ -368,3 +368,4 @@
 [19:41:54] [Server thread/DEBUG] [projecte]: Sent knowledge and bag data to KellSo
 [19:41:54] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: KellSo[/192.168.1.169:54367] logged in with entity id 151641 at ([world]951.3756546754225, 100.5, -1283.074979591057)
 [19:45:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:52:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
