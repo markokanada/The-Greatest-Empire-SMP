@@ -18,13 +18,9 @@ messages:
   outdated-client: Outdated client! Please use {0}
   outdated-server: Outdated server! I'm still on {0}
   restart: Server is restarting
-stats:
-  disable-saving: false
-  forced-stats: {}
 commands:
   tab-complete: 0
   silent-commandblock-console: false
-  log: true
   spam-exclusions:
   - /skill
   replace-commands:
@@ -32,9 +28,20 @@ commands:
   - summon
   - testforblock
   - tellraw
+  log: true
+stats:
+  disable-saving: false
+  forced-stats: {}
 settings:
   save-user-cache-on-stop-only: false
   player-shuffle: 0
+  attribute:
+    maxHealth:
+      max: 2048.0
+    movementSpeed:
+      max: 2048.0
+    attackDamage:
+      max: 2048.0
   timeout-time: 60
   restart-on-crash: true
   restart-script: ./start.sh
@@ -48,13 +55,6 @@ settings:
   moved-wrongly-threshold: 0.0625
   moved-too-quickly-multiplier: 10.0
   item-dirty-ticks: 20
-  attribute:
-    maxHealth:
-      max: 2048.0
-    movementSpeed:
-      max: 2048.0
-    attackDamage:
-      max: 2048.0
   debug: false
 advancements:
   disable-saving: false
@@ -63,7 +63,6 @@ advancements:
 world-settings:
   default:
     verbose: true
-    mob-spawn-range: 4
     growth:
       cactus-modifier: 100
       cane-modifier: 100
@@ -85,6 +84,7 @@ world-settings:
       hopper-transfer: 8
       hopper-check: 1
     hopper-amount: 1
+    mob-spawn-range: 4
     random-light-updates: false
     save-structure-info: true
     dragon-death-sound-radius: 0
@@ -106,20 +106,20 @@ world-settings:
       entity: 50
     squid-spawn-range:
       min: 45.0
+    hanging-tick-frequency: 100
+    zombie-aggressive-towards-villager: true
+    nerf-spawner-mobs: false
+    merge-radius:
+      exp: 3.0
+      item: 2.5
     entity-tracking-range:
       players: 48
       animals: 48
       monsters: 48
       misc: 32
       other: 64
-    wither-spawn-sound-radius: 0
-    view-distance: 64
-    zombie-aggressive-towards-villager: true
-    merge-radius:
-      exp: 3.0
-      item: 2.5
     item-despawn-rate: 6000
-    nerf-spawner-mobs: false
-    hanging-tick-frequency: 100
     arrow-despawn-rate: 1200
     enable-zombie-pigmen-portal-spawns: true
+    wither-spawn-sound-radius: 0
+    view-distance: 64
