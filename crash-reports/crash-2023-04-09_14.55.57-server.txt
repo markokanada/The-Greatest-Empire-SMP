@@ -1,0 +1,117 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  IELoadingPlugin (ImmersiveEngineering-core-0.12-98.jar)
+  MicdoodlePlugin (Galacticraft-1.12.2-4.0.5.jar)
+  MovingWorldCore (movingworld-1.12-6.342-full.jar)
+Contact their authors BEFORE contacting forge
+
+// I blame Dinnerbone.
+
+Time: 4/9/23 2:55 PM
+Description: Exception in server tick loop
+
+java.lang.NullPointerException: Exception in server tick loop
+	at it.zerono.mods.zerocore.internal.common.MultiblockWorldRegistry.tickStart(MultiblockWorldRegistry.java:97)
+	at it.zerono.mods.zerocore.internal.common.MultiblockRegistry.tickStart(MultiblockRegistry.java:95)
+	at it.zerono.mods.zerocore.internal.common.MultiblockEventHandler.onWorldTick(MultiblockEventHandler.java:32)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_137_MultiblockEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:190)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:291)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:905)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:800)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:672)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Magma Version: 1.12.2-d04e549e
+	Operating System: Linux (amd64) version 6.0.0-0.deb11.6-amd64
+	Java Version: 1.8.0_292, AdoptOpenJDK
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), AdoptOpenJDK
+	Memory: 8390172248 bytes (8001 MB) / 12883329024 bytes (12286 MB) up to 12883329024 bytes (12286 MB)
+	JVM Flags: 2 total; -Xmx12G -Xms12G
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP 9.42 Powered by Forge 14.23.5.2860 39 mods loaded, 39 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State  | ID                                           | Version                 | Source                                          | Signature                                |
+	|:------ |:-------------------------------------------- |:----------------------- |:----------------------------------------------- |:---------------------------------------- |
+	| LCHIJA | minecraft                                    | 1.12.2                  | minecraft.jar                                   | None                                     |
+	| LCHIJA | mcp                                          | 9.42                    | minecraft.jar                                   | None                                     |
+	| LCHIJA | FML                                          | 8.0.99.99               | Magma-1.12.2-b43297ee.jar                       | None                                     |
+	| LCHIJA | forge                                        | 14.23.5.2860            | Magma-1.12.2-b43297ee.jar                       | None                                     |
+	| LCHIJA | micdoodlecore                                | 4.0.5                   | minecraft.jar                                   | None                                     |
+	| LCHIJA | com.elytradev.movingworld.common.asm.coremod |                         | minecraft.jar                                   | None                                     |
+	| LCHIJA | chameleon                                    | 1.12-4.1.3              | Chameleon-1.12-4.1.3.jar                        | None                                     |
+	| LCHIJA | codechickenlib                               | 3.2.3.358               | CodeChickenLib-1.12.2-3.2.3.358-universal.jar   | f1850c39b2516232a2108a7bd84d1cb5df93b261 |
+	| LCHIJA | chickenchunks                                | 2.4.2.74                | ChickenChunks-1.12.2-2.4.2.74-universal.jar     | f1850c39b2516232a2108a7bd84d1cb5df93b261 |
+	| LCHIJA | collective                                   | 3.0                     | collective-1.12.2-3.0.jar                       | None                                     |
+	| LCHIJA | computercraft                                | 1.80pr1                 | ComputerCraft-Mod-1.12.2.jar                    | None                                     |
+	| LCHIJA | movingworld                                  | 1.12-6.342              | movingworld-1.12-6.342-full.jar                 | None                                     |
+	| LCHIJA | davincisvessels                              | @DVESSELSVER@           | davincisvessels-1.12-6.340-full.jar             | None                                     |
+	| LCHIJA | props                                        | 2.6.3.7                 | Decocraft-2.6.3.7_1.12.2.jar                    | None                                     |
+	| LCHIJA | jei                                          | 4.16.1.1001             | jei_1.12.2-4.16.1.1001.jar                      | None                                     |
+	| LCHIJA | mantle                                       | 1.12-1.3.3.55           | Mantle-1.12-1.3.3.55.jar                        | None                                     |
+	| LCHIJA | tconstruct                                   | 1.12.2-2.13.0.179       | TConstruct-1.12.2-2.13.0.179.jar                | None                                     |
+	| LCHIJA | extrautils2                                  | 1.0                     | extrautils2-1.12-1.9.9.jar                      | None                                     |
+	| LCHIJA | zerocore                                     | 1.12.2-0.1.2.9          | zerocore-1.12.2-0.1.2.9.jar                     | None                                     |
+	| LCHIJA | bigreactors                                  | 1.12.2-0.4.5.68         | ExtremeReactors-1.12.2-0.4.5.68.jar             | None                                     |
+	| LCHIJA | galacticraftcore                             | 4.0.5                   | Galacticraft-1.12.2-4.0.5.jar                   | None                                     |
+	| LCHIJA | galacticraftplanets                          | 4.0.5                   | Galacticraft-1.12.2-4.0.5.jar                   | None                                     |
+	| LCHIJA | holoinventory                                | 2.1.1.151               | HoloInventory-1.12.2-2.1.1.151.jar              | None                                     |
+	| LCHIJA | waila                                        | 1.8.26                  | Hwyla-1.8.26-B41_1.12.2.jar                     | None                                     |
+	| LCHIJA | mcjtylib_ng                                  | 3.5.4                   | mcjtylib-1.12-3.5.4.jar                         | None                                     |
+	| LCHIJA | projecte                                     | 1.12.2-PE1.4.1          | ProjectE-1.12.2-PE1.4.1.jar                     | None                                     |
+	| LCHIJA | redstoneflux                                 | 2.1.1                   | RedstoneFlux-1.12-2.1.1.1-universal.jar         | None                                     |
+	| LCHIJA | rftools                                      | 7.73                    | rftools-1.12-7.73.jar                           | None                                     |
+	| LCHIJA | valkyrielib                                  | 1.12.2-2.0.20.1         | valkyrielib-1.12.2-2.0.20.1.jar                 | None                                     |
+	| LCHIJA | simplegenerators                             | 1.12.2-2.0.20.2         | simplegenerators-1.12.2-2.0.20.2.jar            | None                                     |
+	| LCHIJA | immersiveengineering                         | 0.12-98                 | ImmersiveEngineering-0.12-98.jar                | None                                     |
+	| LCHIJA | simplyjetpacks                               | 1.12.2-2.2.19.0         | SimplyJetpacks2-1.12.2-2.2.19.0.jar             | None                                     |
+	| LCHIJA | stackrefill                                  | 2.0                     | stackrefill_1.12.2-2.0.jar                      | None                                     |
+	| LCHIJA | storagedrawers                               | 5.2.2                   | StorageDrawers-1.12.2-5.4.2.jar                 | None                                     |
+	| LCHIJA | tmechworks                                   | 2.0                     | Tinkers-Mechworks-Fork-Mod-Forge-1.12.2.jar     | None                                     |
+	| LCHIJA | universalmodifiers                           | 1.12.2-1.0.16.1         | valkyrielib-1.12.2-2.0.20.1.jar                 | None                                     |
+	| LCHIJA | worldedit                                    | 6.1.10                  | worldedit-forge-mc1.12.2-6.1.10-dist.jar        | None                                     |
+	| LCHIJA | structurize                                  | 1.12.2-0.10.277-RELEASE | structurize-1.12.2-0.10.277-RELEASE.jar         | None                                     |
+	| LCHIJA | minecolonies                                 | 1.12.2-0.11.841-ALPHA   | minecolonies-1.12.2-0.11.841-BETA-universal.jar | None                                     |
+
+	Loaded coremods (and transformers): 
+IELoadingPlugin (ImmersiveEngineering-core-0.12-98.jar)
+  blusunrize.immersiveengineering.common.asm.IEClassTransformer
+MicdoodlePlugin (Galacticraft-1.12.2-4.0.5.jar)
+  micdoodle8.mods.miccore.MicdoodleTransformer
+MovingWorldCore (movingworld-1.12-6.342-full.jar)
+  
+	Pulsar/tconstruct loaded Pulses: 
+		- TinkerCommons (Enabled/Forced)
+		- TinkerWorld (Enabled/Not Forced)
+		- TinkerTools (Enabled/Not Forced)
+		- TinkerHarvestTools (Enabled/Forced)
+		- TinkerMeleeWeapons (Enabled/Forced)
+		- TinkerRangedWeapons (Enabled/Forced)
+		- TinkerModifiers (Enabled/Forced)
+		- TinkerSmeltery (Enabled/Not Forced)
+		- TinkerGadgets (Enabled/Not Forced)
+		- TinkerOredict (Enabled/Forced)
+		- TinkerIntegration (Enabled/Forced)
+		- TinkerFluids (Enabled/Forced)
+		- TinkerMaterials (Enabled/Forced)
+		- TinkerModelRegister (Enabled/Forced)
+		- wailaIntegration (Enabled/Not Forced)
+
+	Pulsar/tmechworks loaded Pulses: 
+		- wailaIntegration (Enabled/Not Forced)
+
+	Profiler Position: N/A (disabled)
+	Player Count: 0 / 20; []
+	Is Modded: Definitely; Server brand changed to 'Magma'
+	Type: Dedicated Server (map_server.txt)
