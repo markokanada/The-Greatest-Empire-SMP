@@ -16346,3 +16346,4 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [18:17:10] [Server thread/INFO] [FML]: Unloading dimension -1
 [18:17:10] [Server thread/INFO] [FML]: Unloading dimension 1
 [18:17:10] [Server thread/INFO] [FML]: Unloading dimension -11325
+[18:22:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
