@@ -16353,3 +16353,11 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [12:48:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [12:53:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [12:58:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[13:03:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[13:08:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[13:08:10] [Server thread/WARN] []: java.io.IOException: Nincs több hely a lemezen
+[13:08:10] [Server thread/WARN] []: 	at java.io.FileOutputStream.writeBytes(Native Method)
+[13:08:10] [Server thread/WARN] []: 	at java.io.FileOutputStream.write(FileOutputStream.java:313)
+[13:08:10] [Server thread/WARN] []: 	at java.util.zip.GZIPOutputStream.writeHeader(GZIPOutputStream.java:182)
+[13:08:10] [Server thread/WARN] []: 	at java.util.zip.GZIPOutputStream.<init>(GZIPOutputStream.java:94)
+[13:08:10] [Ser[13:43:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
