@@ -20,6 +20,7 @@ messages:
   restart: Server is restarting
 commands:
   tab-complete: 0
+  silent-commandblock-console: false
   log: true
   spam-exclusions:
   - /skill
@@ -28,11 +29,20 @@ commands:
   - summon
   - testforblock
   - tellraw
-  silent-commandblock-console: false
 stats:
   disable-saving: false
   forced-stats: {}
 settings:
+  save-user-cache-on-stop-only: false
+  player-shuffle: 0
+  netty-threads: 4
+  attribute:
+    maxHealth:
+      max: 2048.0
+    movementSpeed:
+      max: 2048.0
+    attackDamage:
+      max: 2048.0
   bungeecord: false
   late-bind: false
   sample-count: 12
@@ -45,16 +55,6 @@ settings:
   timeout-time: 60
   restart-on-crash: true
   restart-script: ./start.sh
-  netty-threads: 4
-  attribute:
-    maxHealth:
-      max: 2048.0
-    movementSpeed:
-      max: 2048.0
-    attackDamage:
-      max: 2048.0
-  save-user-cache-on-stop-only: false
-  player-shuffle: 0
   debug: false
 advancements:
   disable-saving: false
@@ -112,11 +112,11 @@ world-settings:
     merge-radius:
       exp: 3.0
       item: 2.5
-    wither-spawn-sound-radius: 0
-    view-distance: 64
     item-despawn-rate: 6000
     arrow-despawn-rate: 1200
     enable-zombie-pigmen-portal-spawns: true
+    wither-spawn-sound-radius: 0
+    view-distance: 64
     entity-tracking-range:
       players: 48
       animals: 48
