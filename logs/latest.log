@@ -313,3 +313,4 @@ io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: A kapcs
 [16:36:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo left the game
 [16:37:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [16:41:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:46:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
