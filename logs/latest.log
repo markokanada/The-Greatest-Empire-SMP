@@ -298,3 +298,6 @@ Caused by: java.lang.IllegalArgumentException: Stack can not be invalid!
 	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
 	... 5 more
 [16:23:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:25:31] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=913, y=66, z=-1294} is using schematics/Nordic/Citizen3 instead of schematics/Nordic/Citizen3
+[16:27:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo has made the advancement [Getting the Bacon]
+[16:27:59] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1042, y=70, z=-1302} is using schematics/Nordic/SwineHerder1 instead of schematics/Nordic/SwineHerder1
