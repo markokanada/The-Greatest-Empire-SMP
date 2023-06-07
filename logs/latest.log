@@ -225,3 +225,76 @@
 [16:13:31] [Server thread/DEBUG] [extrautils2]: OTL: Encode Packet: com.rwtema.extrautils2.network.SpecialChat
 [16:16:43] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=967, y=64, z=-1378} is using schematics/wooden/Lumberjack3 instead of schematics/wooden/Lumberjack3
 [16:16:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:21:46] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalArgumentException: Stack can not be invalid!
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_292]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_292]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:861) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:800) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:672) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_292]
+Caused by: java.lang.IllegalArgumentException: Stack can not be invalid!
+	at net.minecraftforge.oredict.OreDictionary.getOreIDs(OreDictionary.java:504) ~[OreDictionary.class:1.12.2-d04e549e]
+	at moze_intel.projecte.gameObjs.items.tools.PEToolBase.clearOdAOE(PEToolBase.java:132) ~[PEToolBase.class:?]
+	at moze_intel.projecte.gameObjs.items.tools.DarkAxe.func_77659_a(DarkAxe.java:41) ~[DarkAxe.class:?]
+	at net.minecraft.item.ItemStack.func_77957_a(ItemStack.java:240) ~[aip.class:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_187250_a(PlayerInteractionManager.java:431) ~[or.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147346_a(NetHandlerPlayServer.java:1203) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItem.func_148833_a(SourceFile:32) ~[mb.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItem.func_148833_a(SourceFile:9) ~[mb.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:14) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_292]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_292]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[16:21:47] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalArgumentException: Stack can not be invalid!
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_292]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_292]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:861) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:800) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:672) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_292]
+Caused by: java.lang.IllegalArgumentException: Stack can not be invalid!
+	at net.minecraftforge.oredict.OreDictionary.getOreIDs(OreDictionary.java:504) ~[OreDictionary.class:1.12.2-d04e549e]
+	at moze_intel.projecte.gameObjs.items.tools.PEToolBase.clearOdAOE(PEToolBase.java:132) ~[PEToolBase.class:?]
+	at moze_intel.projecte.gameObjs.items.tools.DarkAxe.func_77659_a(DarkAxe.java:41) ~[DarkAxe.class:?]
+	at net.minecraft.item.ItemStack.func_77957_a(ItemStack.java:240) ~[aip.class:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_187250_a(PlayerInteractionManager.java:431) ~[or.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147346_a(NetHandlerPlayServer.java:1203) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItem.func_148833_a(SourceFile:32) ~[mb.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItem.func_148833_a(SourceFile:9) ~[mb.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:14) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_292]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_292]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[16:21:47] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalArgumentException: Stack can not be invalid!
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_292]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_292]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:861) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:800) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:672) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_292]
+Caused by: java.lang.IllegalArgumentException: Stack can not be invalid!
+	at net.minecraftforge.oredict.OreDictionary.getOreIDs(OreDictionary.java:504) ~[OreDictionary.class:1.12.2-d04e549e]
+	at moze_intel.projecte.gameObjs.items.tools.PEToolBase.clearOdAOE(PEToolBase.java:132) ~[PEToolBase.class:?]
+	at moze_intel.projecte.gameObjs.items.tools.DarkAxe.func_77659_a(DarkAxe.java:41) ~[DarkAxe.class:?]
+	at net.minecraft.item.ItemStack.func_77957_a(ItemStack.java:240) ~[aip.class:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_187250_a(PlayerInteractionManager.java:431) ~[or.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147346_a(NetHandlerPlayServer.java:1203) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItem.func_148833_a(SourceFile:32) ~[mb.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItem.func_148833_a(SourceFile:9) ~[mb.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:14) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_292]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_292]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[16:23:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
