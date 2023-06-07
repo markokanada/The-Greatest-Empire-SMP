@@ -306,3 +306,9 @@ Caused by: java.lang.IllegalArgumentException: Stack can not be invalid!
 [16:33:21] [Netty Epoll Server IO #3/DEBUG] [extrautils2]: OTL: Handle Packet: com.rwtema.extrautils2.power.PacketPowerInfo : SERVER
 [16:33:21] [Netty Epoll Server IO #3/DEBUG] [extrautils2]: OTL: Scheduling Packet: com.rwtema.extrautils2.power.PacketPowerInfo : SERVER
 [16:33:21] [Server thread/DEBUG] [extrautils2]: OTL: Encode Packet: com.rwtema.extrautils2.power.PacketPowerInfo
+[16:36:45] [Netty Epoll Server IO #3/ERROR] [FML]: NetworkDispatcher exception
+io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: A kapcsolatot bontotta a távoli fél
+	at io.netty.channel.unix.FileDescriptor.readAddress(..)(Unknown Source) ~[FileDescriptor.class:?]
+[16:36:45] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: A kapcsolatot bontotta a távoli fél
+[16:36:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo left the game
+[16:37:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
