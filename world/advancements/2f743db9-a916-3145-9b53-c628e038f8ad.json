@@ -2076,6 +2076,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/complete_build_request_1_swine_herder": {
+    "criteria": {
+      "sawmill": "2023-06-07 16:27:59 +0200"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2022-03-28 20:57:15 +0200"
