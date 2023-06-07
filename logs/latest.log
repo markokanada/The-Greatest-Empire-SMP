@@ -223,3 +223,5 @@
 [16:11:26] [Netty Epoll Server IO #3/DEBUG] [extrautils2]: OTL: Scheduling Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt : SERVER
 [16:12:20] [Server thread/DEBUG] [extrautils2]: OTL: Encode Packet: com.rwtema.extrautils2.blocks.BlockCursedEarth$PacketEntityIsEvil
 [16:13:31] [Server thread/DEBUG] [extrautils2]: OTL: Encode Packet: com.rwtema.extrautils2.network.SpecialChat
+[16:16:43] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=967, y=64, z=-1378} is using schematics/wooden/Lumberjack3 instead of schematics/wooden/Lumberjack3
+[16:16:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
