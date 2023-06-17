@@ -1492,3 +1492,9 @@
 [18:05:13] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1104, y=70, z=-1301} is using schematics/Nordic/Cowboy1 instead of schematics/Nordic/Cowboy1
 [18:09:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [18:16:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:20:40] [Netty Epoll Server IO #0/ERROR] [FML]: NetworkDispatcher exception
+io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: A kapcsolatot bontotta a távoli fél
+	at io.netty.channel.unix.FileDescriptor.readAddress(..)(Unknown Source) ~[FileDescriptor.class:?]
+[18:20:40] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: A kapcsolatot bontotta a távoli fél
+[18:20:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo left the game
+[18:21:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
