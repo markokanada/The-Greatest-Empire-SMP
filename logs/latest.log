@@ -1498,3 +1498,4 @@ io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: A kapcs
 [18:20:40] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: A kapcsolatot bontotta a távoli fél
 [18:20:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo left the game
 [18:21:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:26:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
