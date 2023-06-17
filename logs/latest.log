@@ -1524,3 +1524,4 @@ io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: A kapcs
 [20:21:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [20:26:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [20:31:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:36:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
