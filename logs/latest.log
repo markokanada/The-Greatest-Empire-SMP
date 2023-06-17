@@ -1488,3 +1488,6 @@
 [17:55:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [18:01:06] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1127, y=63, z=-1238} is using schematics/wooden/Citizen1 instead of schematics/wooden/Citizen1
 [18:02:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:05:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo has made the advancement [YeeeeHaww!]
+[18:05:13] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1104, y=70, z=-1301} is using schematics/Nordic/Cowboy1 instead of schematics/Nordic/Cowboy1
+[18:09:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
