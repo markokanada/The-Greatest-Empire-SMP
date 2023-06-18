@@ -1190,6 +1190,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/complete_build_request_1_composter": {
+    "criteria": {
+      "sawmill": "2023-06-18 17:09:55 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wooden_slab": {
     "criteria": {
       "has_planks": "2022-03-28 21:46:01 +0200"
