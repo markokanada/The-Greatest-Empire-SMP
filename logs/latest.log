@@ -389,3 +389,16 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [17:17:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [17:19:45] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1127, y=63, z=-1238} is using schematics/wooden/Citizen1 instead of schematics/wooden/Citizen1
 [17:19:45] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1127, y=63, z=-1238} is using schematics/wooden/Citizen2 instead of schematics/wooden/Citizen2
+[17:20:39] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[17:20:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[17:20:50] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[17:20:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[17:21:05] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[17:21:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[17:21:10] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[17:21:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[17:21:50] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[17:21:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[17:21:57] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[17:21:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[17:24:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
