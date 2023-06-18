@@ -246,3 +246,45 @@
 [17:02:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
 [17:03:55] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
 [17:03:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[17:05:08] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[17:05:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[17:06:36] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[17:06:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[17:06:47] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[17:06:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[17:09:24] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /echest
+[17:09:24] [Server thread/INFO] [Minecraft]: [SimpleEnderChest] KellSo opened his EnderChest at Location{world=CraftWorld{name=world},x=832.1432308362446,y=20.70999998688699,z=-936.7082649165851,pitch=32.099995,yaw=96.42383} !
+[17:09:24] [Server thread/ERROR] [net.minecraft.network.NetHandlerPlayServer]: null
+org.bukkit.command.CommandException: Unhandled exception executing command 'echest' in plugin SimpleEnderChest v1.3
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[PluginCommand.class:1.12.2-d04e549e]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:153) ~[SimpleCommandMap.class:1.12.2-d04e549e]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.dispatchCommand(CraftServer.java:689) ~[CraftServer.class:1.12.2-d04e549e]
+	at net.minecraft.network.NetHandlerPlayServer.func_147361_d(NetHandlerPlayServer.java:1604) ~[pa.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147354_a(NetHandlerPlayServer.java:1452) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(CPacketChatMessage.java:50) ~[la.class:?]
+	at net.minecraft.network.play.client.CPacketChatMessage.func_148833_a(CPacketChatMessage.java:11) ~[la.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:14) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_292]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_292]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:861) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:800) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:672) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_292]
+Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
+	at com.thehscmc.simpleenderchest.Main.onCommand(Main.java:51) ~[?:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) ~[PluginCommand.class:1.12.2-d04e549e]
+	... 15 more
+[17:09:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:09:33] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[17:09:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[17:09:38] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[17:09:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[17:09:47] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[17:09:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[17:09:48] [Netty Epoll Server IO #3/DEBUG] [extrautils2]: OTL: Decode Packet: com.rwtema.extrautils2.crafting.Radar$PacketPing
+[17:09:48] [Netty Epoll Server IO #3/DEBUG] [extrautils2]: OTL: Handle Packet: com.rwtema.extrautils2.crafting.Radar$PacketPing : SERVER
+[17:09:48] [Netty Epoll Server IO #3/DEBUG] [extrautils2]: OTL: Scheduling Packet: com.rwtema.extrautils2.crafting.Radar$PacketPing : SERVER
+[17:09:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo has made the advancement [Fertile Lands]
+[17:09:55] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1088, y=70, z=-1321} is using schematics/Nordic/Composter1 instead of schematics/Nordic/Composter1
