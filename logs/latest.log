@@ -222,3 +222,14 @@
 [16:47:59] [Server thread/DEBUG] [projecte]: EMC data size: 24832 bytes
 [16:47:59] [Server thread/DEBUG] [projecte]: Sent knowledge and bag data to KellSo
 [16:47:59] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: KellSo[/192.168.1.169:59008] logged in with entity id 71334 at ([world]945.7984116028073, 54.0, -1200.6121760724798)
+[16:50:52] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /give KellSo minecraft:prismarine_shard
+[16:50:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Given [Prismarine Shard] * 1 to KellSo]
+[16:53:41] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /give KellSo minecraft:sea_lantern
+[16:53:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Given [Sea Lantern] * 1 to KellSo]
+[16:53:55] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /give KellSo minecraft:podzol
+[16:53:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: There is no such item with name minecraft:podzol]
+[16:54:02] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[16:54:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[16:54:07] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[16:54:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[16:54:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
