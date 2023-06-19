@@ -16417,3 +16417,9 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [23:32:38] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=928, y=63, z=-1336} is using schematics/wooden/Miner3 instead of schematics/wooden/Miner3
 [23:32:38] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=928, y=63, z=-1336} is using schematics/wooden/Miner4 instead of schematics/wooden/Miner4
 [23:33:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:36:32] [Netty Epoll Server IO #1/DEBUG] [extrautils2]: OTL: Decode Packet: com.rwtema.extrautils2.power.PacketPowerInfo
+[23:36:32] [Netty Epoll Server IO #1/DEBUG] [extrautils2]: OTL: Handle Packet: com.rwtema.extrautils2.power.PacketPowerInfo : SERVER
+[23:36:32] [Netty Epoll Server IO #1/DEBUG] [extrautils2]: OTL: Scheduling Packet: com.rwtema.extrautils2.power.PacketPowerInfo : SERVER
+[23:38:38] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo lost connection: Disconnected
+[23:38:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo left the game
+[23:38:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
