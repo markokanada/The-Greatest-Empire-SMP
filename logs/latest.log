@@ -16321,3 +16321,6 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [21:50:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Toggled downfall]
 [21:51:12] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1012, y=65, z=-1366} is using schematics/wooden/TownHall4 instead of schematics/wooden/TownHall4
 [21:51:12] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1012, y=65, z=-1366} is using schematics/wooden/TownHall5 instead of schematics/wooden/TownHall5
+[21:55:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:58:11] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=908, y=66, z=-1240} is using schematics/wooden/Farmer1 instead of schematics/wooden/Farmer1
+[21:58:11] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=908, y=66, z=-1240} is using schematics/wooden/Farmer2 instead of schematics/wooden/Farmer2
