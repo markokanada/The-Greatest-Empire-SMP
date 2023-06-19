@@ -16292,3 +16292,14 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [21:32:09] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=941, y=64, z=-1326} is using schematics/Nordic/Builder5 instead of schematics/Nordic/Builder5
 [21:33:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /toggledownfall
 [21:33:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Toggled downfall]
+[21:36:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:37:53] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=941, y=64, z=-1326} is using schematics/Nordic/Builder5 instead of schematics/Nordic/Builder5
+[21:38:23] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1017, y=66, z=-1315} is using schematics/Nordic/Cook2 instead of schematics/Nordic/Cook2
+[21:38:59] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1037, y=64, z=-1334} is using schematics/wooden/Shepherd1 instead of schematics/wooden/Shepherd1
+[21:38:59] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1037, y=64, z=-1334} is using schematics/wooden/Shepherd2 instead of schematics/wooden/Shepherd2
+[21:39:21] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1039, y=64, z=-1253} is using schematics/Nordic/Builder4 instead of schematics/Nordic/Builder4
+[21:39:21] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1039, y=64, z=-1253} is using schematics/Nordic/Builder5 instead of schematics/Nordic/Builder5
+[21:39:40] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[21:39:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[21:39:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[21:39:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
