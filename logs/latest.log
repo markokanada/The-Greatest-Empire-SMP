@@ -16324,3 +16324,8 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [21:55:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [21:58:11] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=908, y=66, z=-1240} is using schematics/wooden/Farmer1 instead of schematics/wooden/Farmer1
 [21:58:11] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=908, y=66, z=-1240} is using schematics/wooden/Farmer2 instead of schematics/wooden/Farmer2
+[22:01:46] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[22:01:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[22:02:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:02:21] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo lost connection: Disconnected
+[22:02:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo left the game
