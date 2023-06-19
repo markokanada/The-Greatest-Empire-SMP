@@ -16315,3 +16315,9 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [21:45:07] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1037, y=64, z=-1334} is using schematics/wooden/Shepherd2 instead of schematics/wooden/Shepherd2
 [21:45:56] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1039, y=64, z=-1253} is using schematics/Nordic/Builder5 instead of schematics/Nordic/Builder5
 [21:49:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:50:25] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[21:50:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[21:50:58] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /toggledownfall
+[21:50:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Toggled downfall]
+[21:51:12] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1012, y=65, z=-1366} is using schematics/wooden/TownHall4 instead of schematics/wooden/TownHall4
+[21:51:12] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1012, y=65, z=-1366} is using schematics/wooden/TownHall5 instead of schematics/wooden/TownHall5
