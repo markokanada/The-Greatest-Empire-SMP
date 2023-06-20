@@ -16313,3 +16313,5 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [15:14:59] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1096, y=63, z=-1238} is using schematics/Medieval Oak/Blacksmith2 instead of schematics/Medieval Oak/Blacksmith2
 [15:16:33] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1087, y=63, z=-1254} is using schematics/Nordic/Baker2 instead of schematics/Nordic/Baker2
 [15:19:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:23:58] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1059, y=70, z=-1304} is using schematics/wooden/Deliveryman3 instead of schematics/wooden/Deliveryman3
+[15:25:01] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1104, y=70, z=-1301} is using schematics/Nordic/Cowboy2 instead of schematics/Nordic/Cowboy2
