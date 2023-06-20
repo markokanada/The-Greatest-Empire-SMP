@@ -16319,3 +16319,4 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [15:27:56] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=931, y=64, z=-1382} is using schematics/Nordic/Miner1 instead of schematics/Nordic/Miner1
 [15:28:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo lost connection: Disconnected
 [15:28:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo left the game
+[15:30:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
