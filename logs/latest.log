@@ -17579,3 +17579,6 @@ Caused by: java.lang.IllegalArgumentException: Stack can not be invalid!
 	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_292]
 	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
 	... 5 more
+[21:12:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:13:03] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1114, y=63, z=-1243} is using schematics/wooden/WareHouse3 instead of schematics/wooden/WareHouse3
+[21:13:03] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1114, y=63, z=-1243} is using schematics/wooden/WareHouse4 instead of schematics/wooden/WareHouse4
