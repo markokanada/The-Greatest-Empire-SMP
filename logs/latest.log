@@ -190,3 +190,13 @@
 [11:23:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [11:30:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [11:37:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[11:41:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo has completed the challenge [A Building to be Proud Of]
+[11:41:48] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1012, y=65, z=-1366} is using schematics/wooden/TownHall5 instead of schematics/wooden/TownHall5
+[11:44:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[11:45:02] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=908, y=66, z=-1240} is using schematics/wooden/Farmer2 instead of schematics/wooden/Farmer2
+[11:46:12] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /give KellSo minecraft:detector_rail
+[11:46:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Given [Detector Rail] * 1 to KellSo]
+[11:46:34] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /toggledownfall
+[11:46:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Toggled downfall]
+[11:46:59] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=908, y=66, z=-1240} is using schematics/wooden/Farmer2 instead of schematics/wooden/Farmer2
+[11:46:59] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=908, y=66, z=-1240} is using schematics/wooden/Farmer3 instead of schematics/wooden/Farmer3
