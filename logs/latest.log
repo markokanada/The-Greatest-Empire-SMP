@@ -17645,3 +17645,5 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [21:19:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [21:19:38] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1014, y=67, z=-1352} is using schematics/Medieval Spruce/Sawmill2 instead of schematics/Medieval Spruce/Sawmill2
 [21:26:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:33:33] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=991, y=71, z=-1322} is using schematics/wooden/Enchanter2 instead of schematics/wooden/Enchanter2
+[21:33:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
