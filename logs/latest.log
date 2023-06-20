@@ -159,3 +159,14 @@
 [11:09:39] [Netty Epoll Server IO #0/DEBUG] [extrautils2]: OTL: Scheduling Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt : SERVER
 [11:09:55] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /toggledownfall
 [11:09:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Toggled downfall]
+[11:12:40] [Netty Epoll Server IO #0/DEBUG] [extrautils2]: OTL: Decode Packet: com.rwtema.extrautils2.power.PacketPowerInfo
+[11:12:40] [Netty Epoll Server IO #0/DEBUG] [extrautils2]: OTL: Handle Packet: com.rwtema.extrautils2.power.PacketPowerInfo : SERVER
+[11:12:40] [Netty Epoll Server IO #0/DEBUG] [extrautils2]: OTL: Scheduling Packet: com.rwtema.extrautils2.power.PacketPowerInfo : SERVER
+[11:13:40] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[11:13:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[11:13:40] [Netty Epoll Server IO #0/DEBUG] [extrautils2]: OTL: Decode Packet: com.rwtema.extrautils2.crafting.Radar$PacketPing
+[11:13:40] [Netty Epoll Server IO #0/DEBUG] [extrautils2]: OTL: Handle Packet: com.rwtema.extrautils2.crafting.Radar$PacketPing : SERVER
+[11:13:40] [Netty Epoll Server IO #0/DEBUG] [extrautils2]: OTL: Scheduling Packet: com.rwtema.extrautils2.crafting.Radar$PacketPing : SERVER
+[11:13:45] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[11:13:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[11:14:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo has made the advancement [Transmutation on the go!]
