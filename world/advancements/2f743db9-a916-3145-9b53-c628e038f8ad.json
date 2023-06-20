@@ -1741,6 +1741,12 @@
     },
     "done": true
   },
+  "projecte:transmutation_tablet": {
+    "criteria": {
+      "trans_tablet": "2023-06-20 11:14:27 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2022-08-26 19:06:27 +0200"

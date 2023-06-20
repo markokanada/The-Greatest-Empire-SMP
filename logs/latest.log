@@ -170,3 +170,18 @@
 [11:13:45] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
 [11:13:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
 [11:14:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo has made the advancement [Transmutation on the go!]
+[11:15:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[11:17:56] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1127, y=63, z=-1238} is using schematics/wooden/Citizen3 instead of schematics/wooden/Citizen3
+[11:18:43] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=909, y=66, z=-1258} is using schematics/wooden/Citizen3 instead of schematics/wooden/Citizen3
+[11:18:43] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=909, y=66, z=-1258} is using schematics/wooden/Citizen4 instead of schematics/wooden/Citizen4
+[11:18:51] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=908, y=66, z=-1275} is using schematics/wooden/Citizen3 instead of schematics/wooden/Citizen3
+[11:18:51] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=908, y=66, z=-1275} is using schematics/wooden/Citizen4 instead of schematics/wooden/Citizen4
+[11:19:07] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=913, y=66, z=-1294} is using schematics/Nordic/Citizen3 instead of schematics/Nordic/Citizen3
+[11:19:07] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=913, y=66, z=-1294} is using schematics/Nordic/Citizen4 instead of schematics/Nordic/Citizen4
+[11:19:17] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=921, y=64, z=-1309} is using schematics/wooden/Citizen3 instead of schematics/wooden/Citizen3
+[11:19:17] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=921, y=64, z=-1309} is using schematics/wooden/Citizen4 instead of schematics/wooden/Citizen4
+[11:19:34] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1030, y=65, z=-1263} is using schematics/wooden/Citizen3 instead of schematics/wooden/Citizen3
+[11:19:34] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1030, y=65, z=-1263} is using schematics/wooden/Citizen4 instead of schematics/wooden/Citizen4
+[11:19:44] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1127, y=63, z=-1238} is using schematics/wooden/Citizen3 instead of schematics/wooden/Citizen3
+[11:19:44] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1127, y=63, z=-1238} is using schematics/wooden/Citizen4 instead of schematics/wooden/Citizen4
+[11:19:55] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1017, y=66, z=-1315} is using schematics/Nordic/Cook3 instead of schematics/Nordic/Cook3
