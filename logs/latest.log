@@ -17655,3 +17655,9 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [21:41:00] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /toggledownfall
 [21:41:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Toggled downfall]
 [21:42:46] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=928, y=63, z=-1336} is using schematics/wooden/Miner4 instead of schematics/wooden/Miner4
+[21:45:38] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[21:45:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[21:45:45] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[21:45:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[21:46:41] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /tps
+[21:47:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
