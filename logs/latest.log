@@ -17647,3 +17647,7 @@ Caused by: java.lang.NoSuchFieldError: CHEST_OPEN
 [21:26:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [21:33:33] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=991, y=71, z=-1322} is using schematics/wooden/Enchanter2 instead of schematics/wooden/Enchanter2
 [21:33:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:37:24] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[21:37:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[21:38:51] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[21:38:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
