@@ -2160,6 +2160,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/complete_build_request_1_stone_smeltery": {
+    "criteria": {
+      "smeltery": "2023-06-21 22:27:30 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2022-03-29 20:35:34 +0200"

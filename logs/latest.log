@@ -16926,3 +16926,6 @@ io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: A kapcs
 [22:25:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [22:27:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo has made the advancement [It's getting Hot in here]
 [22:27:30] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=886, y=63, z=-1340} is using schematics/Nordic/StoneSmeltery1 instead of schematics/Nordic/StoneSmeltery1
+[22:30:58] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Leevy23 lost connection: Disconnected
+[22:30:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leevy23 left the game
+[22:33:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
