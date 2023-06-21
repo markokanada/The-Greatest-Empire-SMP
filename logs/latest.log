@@ -16699,3 +16699,5 @@ java.util.ConcurrentModificationException: null
 [20:04:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
 [20:04:55] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
 [20:04:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[20:08:05] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /toggledownfall
+[20:08:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Toggled downfall]
