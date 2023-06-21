@@ -16929,3 +16929,12 @@ io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: A kapcs
 [22:30:58] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Leevy23 lost connection: Disconnected
 [22:30:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leevy23 left the game
 [22:33:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:36:26] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamerule doDaylightCycle false
+[22:36:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Game rule doDaylightCycle has been updated to false]
+[22:39:48] [Netty Epoll Server IO #3/ERROR] [FML]: NetworkDispatcher exception
+io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: A kapcsolatot bontotta a távoli fél
+	at io.netty.channel.unix.FileDescriptor.readAddress(..)(Unknown Source) ~[FileDescriptor.class:?]
+[22:39:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: A kapcsolatot bontotta a távoli fél
+[22:39:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo left the game
+[22:40:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:44:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
