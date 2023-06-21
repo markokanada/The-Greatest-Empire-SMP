@@ -16703,3 +16703,16 @@ java.util.ConcurrentModificationException: null
 [20:08:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Toggled downfall]
 [20:10:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [20:12:41] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1104, y=70, z=-1301} is using schematics/Nordic/Cowboy3 instead of schematics/Nordic/Cowboy3
+[20:16:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:17:22] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1096, y=63, z=-1238} is using schematics/Medieval Oak/Blacksmith3 instead of schematics/Medieval Oak/Blacksmith3
+[20:18:09] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[20:18:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[20:18:22] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[20:18:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[20:20:41] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[20:20:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[20:20:57] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[20:20:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[20:21:26] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[20:21:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[20:22:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
