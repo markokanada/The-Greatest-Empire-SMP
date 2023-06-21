@@ -16643,3 +16643,21 @@ java.util.ConcurrentModificationException: null
 [19:34:56] [Server thread/INFO] [minecolonies]: Colony 1 - new AbstractBuilding for class com.minecolonies.coremod.blocks.huts.BlockHutDeliveryman at BlockPos{x=1041, y=64, z=-1264}
 [19:34:56] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1041, y=64, z=-1264} is using schematics/wooden/Deliveryman1 instead of schematics/wooden/Deliveryman1
 [19:34:56] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1041, y=64, z=-1264} is using schematics/wooden/Deliveryman1 instead of schematics/wooden/Deliveryman1
+[19:35:14] [Server thread/INFO] [minecolonies]: Colony 1 - new AbstractBuilding for class com.minecolonies.coremod.blocks.huts.BlockHutDeliveryman at BlockPos{x=1040, y=70, z=-1285}
+[19:35:14] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1040, y=70, z=-1285} is using schematics/wooden/Deliveryman1 instead of schematics/wooden/Deliveryman1
+[19:35:14] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1040, y=70, z=-1285} is using schematics/wooden/Deliveryman1 instead of schematics/wooden/Deliveryman1
+[19:35:42] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=931, y=64, z=-1382} is using schematics/Nordic/Miner2 instead of schematics/Nordic/Miner2
+[19:36:19] [Server thread/INFO] [minecolonies]: Colony 1 - new AbstractBuilding for class com.minecolonies.coremod.blocks.huts.BlockHutStoneSmeltery at BlockPos{x=886, y=63, z=-1340}
+[19:36:19] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=886, y=63, z=-1340} is using schematics/Nordic/StoneSmeltery1 instead of schematics/Nordic/StoneSmeltery1
+[19:36:19] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=886, y=63, z=-1340} is using schematics/Nordic/StoneSmeltery1 instead of schematics/Nordic/StoneSmeltery1
+[19:36:44] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[19:36:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[19:36:51] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[19:36:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[19:37:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 11
+[19:37:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: The number you have entered (11) is too big, it must be at most 3]
+[19:37:29] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[19:37:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[19:37:34] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[19:37:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[19:38:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
