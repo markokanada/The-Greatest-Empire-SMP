@@ -16661,3 +16661,7 @@ java.util.ConcurrentModificationException: null
 [19:37:34] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
 [19:37:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
 [19:38:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:42:19] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /mc
+[19:42:52] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /mineColonies kill raiders
+[19:43:14] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /toggledownfall
+[19:43:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Toggled downfall]
