@@ -16263,3 +16263,35 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [16:03:12] [Server thread/INFO] [FML]: Unloading dimension -1
 [16:03:12] [Server thread/INFO] [FML]: Unloading dimension 1
 [16:03:12] [Server thread/INFO] [FML]: Unloading dimension -11325
+[16:08:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:08:49] [User Authenticator #1/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[16:08:49] [Server thread/DEBUG] [projecte]: Clearing offline data cache in preparation to load online data
+[16:08:50] [Server thread/TRACE] [FML]: Handshake channel activating
+[16:08:50] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[16:08:50] [Server thread/DEBUG] [FML]:   Next: HELLO
+[16:08:50] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[16:08:50] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[16:08:50] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ModList:44 mods->FMLHandshakeServerState$2:HELLO
+[16:08:50] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 44 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.179,ptrmodellib@1.0.5,simplyjetpacks@1.12.2-2.2.19.0,immersiveengineering@0.12-98,redstoneflux@2.1.1,valkyrielib@1.12.2-2.0.20.1,universalmodifiers@1.12.2-1.0.16.1,rftools@7.73,jei@4.16.1.1001,chickenchunks@2.4.2.74,movingworld@1.12-6.342,projecte@1.12.2-PE1.4.1,extrautils2@1.0,com.elytradev.movingworld.common.asm.coremod@,mantle@1.12-1.3.3.55,simplegenerators@1.12.2-2.0.20.2,mcp@9.42,collective@3.0,storagedrawers@5.2.2,galacticraftcore@4.0.5,chameleon@1.12-4.1.3,FML@8.0.99.99,malilib@0.10.0-dev.23,structurize@1.12.2-0.10.277-RELEASE,davincisvessels@@DVESSELSVER@,worldedit@6.1.10,minecolonies@1.12.2-0.11.841-ALPHA,computercraft@1.80pr1,litematica@0.0.0-dev.20191217.195055,moreoverlays@1.15.1,bigreactors@1.12.2-0.4.5.68,waila@1.8.26,props@2.6.3.7,galacticraftplanets@4.0.5,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.5,tmechworks@2.0,mcjtylib_ng@3.5.4,forge@14.23.5.2860,holoinventory@2.1.1.151,stackrefill@2.0,codechickenlib@3.2.3.358,zerocore@1.12.2-0.1.2.9
+[16:08:50] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: WAITINGCACK
+[16:08:50] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[16:08:50] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: COMPLETE
+[16:08:50] [Netty Epoll Server IO #1/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[16:08:52] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[16:08:52] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: DONE
+[16:08:52] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[16:08:52] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[16:08:52] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[16:08:52] [Server thread/INFO] [Waila]: Player EntityPlayerMP['KellSo'/327, uuid='2f743db9-a916-3145-9b53-c628e038f8ad', l='world', x=1030,44, y=64,96, z=-1351,38, cx=64, cd=-85, tl=25650223, v=true, d=false](KellSo at 1030.4367691192915,64.95659999847454,-1351.3755967526502) connected. Sending ping
+[16:08:52] [Server thread/DEBUG] [projecte]: EMC data size: 24832 bytes
+[16:08:52] [Server thread/DEBUG] [projecte]: Sent knowledge and bag data to KellSo
+[16:08:52] [Server thread/DEBUG] [extrautils2]: OTL: Check Packet SERVER
+[16:08:52] [Server thread/DEBUG] [extrautils2]: OTL: Encode Packet: com.rwtema.extrautils2.items.ItemLawSword$PacketLawSwordNotifier
+[16:08:52] [Server thread/INFO] [structurize]: New Server UUID 4299429e-7ec7-41ec-8975-8f949108c8dc
+[16:08:52] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: KellSo[/192.168.1.169:55638] logged in with entity id 327 at ([world]1030.4367691192915, 64.95659999847454, -1351.3755967526502)
+[16:08:52] [Server thread/DEBUG] [extrautils2]: OTL: Encode Packet: com.rwtema.extrautils2.power.PowerManager$PacketPower
+[16:09:00] [Netty Epoll Server IO #1/DEBUG] [extrautils2]: OTL: Decode Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt
+[16:09:00] [Netty Epoll Server IO #1/DEBUG] [extrautils2]: OTL: Handle Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt : SERVER
+[16:09:00] [Netty Epoll Server IO #1/DEBUG] [extrautils2]: OTL: Scheduling Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt : SERVER
+[16:09:21] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /toggledownfall
+[16:09:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Toggled downfall]
