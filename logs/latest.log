@@ -16742,3 +16742,42 @@ java.util.ConcurrentModificationException: null
 [21:02:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [21:03:57] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1030, y=65, z=-1263} is using schematics/wooden/Citizen5 instead of schematics/wooden/Citizen5
 [21:03:58] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1066, y=70, z=-1329} is using schematics/Nordic/Library3 instead of schematics/Nordic/Library3
+[21:06:25] [User Authenticator #3/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Leevy23 is 7affb36b-9b91-3934-a420-a4b86ccf4bd1
+[21:06:25] [Server thread/DEBUG] [projecte]: Clearing offline data cache in preparation to load online data
+[21:06:25] [Server thread/TRACE] [FML]: Handshake channel activating
+[21:06:25] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[21:06:25] [Server thread/DEBUG] [FML]:   Next: HELLO
+[21:06:25] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[21:06:25] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[21:06:25] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:44 mods->FMLHandshakeServerState$2:HELLO
+[21:06:25] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 44 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.179,ptrmodellib@1.0.5,simplyjetpacks@1.12.2-2.2.19.0,immersiveengineering@0.12-98,redstoneflux@2.1.1,valkyrielib@1.12.2-2.0.20.1,universalmodifiers@1.12.2-1.0.16.1,rftools@7.73,jei@4.16.1.1001,chickenchunks@2.4.2.74,movingworld@1.12-6.342,projecte@1.12.2-PE1.4.1,extrautils2@1.0,com.elytradev.movingworld.common.asm.coremod@,mantle@1.12-1.3.3.55,simplegenerators@1.12.2-2.0.20.2,mcp@9.42,collective@3.0,storagedrawers@5.2.2,galacticraftcore@4.0.5,chameleon@1.12-4.1.3,FML@8.0.99.99,malilib@0.10.0-dev.23,structurize@1.12.2-0.10.277-RELEASE,davincisvessels@@DVESSELSVER@,worldedit@6.1.10,minecolonies@1.12.2-0.11.841-ALPHA,computercraft@1.80pr1,litematica@0.0.0-dev.20191217.195055,moreoverlays@1.15.1,bigreactors@1.12.2-0.4.5.68,waila@1.8.26,props@2.6.3.7,galacticraftplanets@4.0.5,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.5,tmechworks@2.0,mcjtylib_ng@3.5.4,forge@14.23.5.2860,holoinventory@2.1.1.151,stackrefill@2.0,codechickenlib@3.2.3.358,zerocore@1.12.2-0.1.2.9
+[21:06:25] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: WAITINGCACK
+[21:06:25] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[21:06:25] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: COMPLETE
+[21:06:25] [Netty Epoll Server IO #3/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[21:06:26] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[21:06:26] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: DONE
+[21:06:26] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[21:06:26] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[21:06:26] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:06:27] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Leevy23'/103718, uuid='7affb36b-9b91-3934-a420-a4b86ccf4bd1', l='world', x=841,23, y=19,00, z=-913,37, cx=52, cd=-58, tl=246395, v=true, d=false](Leevy23 at 841.2273261525621,19.0,-913.3680437441667) connected. Sending ping
+[21:06:27] [Server thread/DEBUG] [projecte]: EMC data size: 24832 bytes
+[21:06:27] [Server thread/DEBUG] [projecte]: Sent knowledge and bag data to Leevy23
+[21:06:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leevy23 has made the advancement [Vanilla Jetpacks]
+[21:06:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leevy23 has made the advancement [Immersive Engineering Jetpacks]
+[21:06:27] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Leevy23[/84.3.115.47:50570] logged in with entity id 103718 at ([world]841.2273261525621, 19.0, -913.3680437441667)
+[21:06:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leevy23 has completed the challenge [Simply Jetpacks 2]
+[21:06:56] [Server thread/INFO] []: com.valkyrieofnight.vliblegacy.m_guide.item.ItemGuide$GuiRegistryID@145edfc7
+[21:07:03] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[21:07:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[21:07:17] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[21:07:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[21:07:38] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /tp Leevy23
+[21:07:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Teleported KellSo to Leevy23]
+[21:08:25] [Server thread/DEBUG] [extrautils2]: OTL: Encode Packet: com.rwtema.extrautils2.blocks.BlockCursedEarth$PacketEntityIsEvil
+[21:08:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leevy23 has made the advancement [Ice Bucket Challenge]
+[21:08:40] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /tp Leevy23 KellSo
+[21:08:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Teleported Leevy23 to KellSo]
+[21:09:05] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /mineColonies kill raiders
+[21:09:13] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Leevy23 lost connection: Disconnected
+[21:09:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leevy23 left the game

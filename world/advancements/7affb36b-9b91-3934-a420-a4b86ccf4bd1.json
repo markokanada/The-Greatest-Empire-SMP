@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "simplyjetpacks:ie/root_ie": {
+    "criteria": {
+      "code_trigger": "2023-06-21 21:06:27 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2023-02-26 20:23:11 +0100"
@@ -122,6 +128,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2023-02-26 20:24:05 +0100"
+    },
+    "done": true
+  },
+  "computercraft:recipes/normal_computer": {
+    "criteria": {
+      "has_redstone": "2023-06-21 21:06:27 +0200"
     },
     "done": true
   },
@@ -349,6 +361,12 @@
     },
     "done": true
   },
+  "simplyjetpacks:vanilla/root_vanilla": {
+    "criteria": {
+      "code_trigger": "2023-06-21 21:06:27 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2023-02-26 22:50:02 +0100"
@@ -409,9 +427,21 @@
     },
     "done": true
   },
+  "galacticraftcore:galacticraft/root": {
+    "criteria": {
+      "tick": "2023-06-21 21:06:27 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_the_recipe": "2023-02-26 21:22:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2023-06-21 21:08:33 +0200"
     },
     "done": true
   },
@@ -572,6 +602,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/advanced_computer": {
+    "criteria": {
+      "has_redstone": "2023-06-21 21:06:27 +0200"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2023-02-26 21:26:50 +0100"
@@ -629,6 +665,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2023-02-26 21:18:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2023-06-21 21:08:33 +0200"
     },
     "done": true
   },
@@ -861,6 +903,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2023-03-03 21:45:58 +0100"
+    },
+    "done": true
+  },
+  "simplyjetpacks:root": {
+    "criteria": {
+      "location": "2023-06-21 21:06:28 +0200"
     },
     "done": true
   },
