@@ -16826,3 +16826,8 @@ java.util.ConcurrentModificationException: null
 [21:14:47] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /op
 [21:14:52] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /op Le
 [21:14:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Opped Le]
+[21:17:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Leevy23 fell from a high place
+[21:17:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:18:13] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /tp Leevy23 KellSo
+[21:18:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Teleported Leevy23 to KellSo]
+[21:19:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Leevy23 issued server command: /graves
