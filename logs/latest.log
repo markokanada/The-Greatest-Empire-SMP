@@ -16627,3 +16627,11 @@ java.util.ConcurrentModificationException: null
 [19:24:32] [Server thread/INFO] [minecolonies]: Colony 1 - new AbstractBuilding for class com.minecolonies.coremod.blocks.huts.BlockHutDeliveryman at BlockPos{x=950, y=64, z=-1396}
 [19:24:32] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=950, y=64, z=-1396} is using schematics/Nordic/Deliveryman1 instead of schematics/Nordic/Deliveryman1
 [19:24:32] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=950, y=64, z=-1396} is using schematics/Nordic/Deliveryman1 instead of schematics/Nordic/Deliveryman1
+[19:25:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:25:49] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[19:25:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[19:26:11] [Server thread/INFO] [minecolonies]: Colony 1 - new AbstractBuilding for class com.minecolonies.coremod.blocks.huts.BlockHutSmeltery at BlockPos{x=1048, y=65, z=-1364}
+[19:26:11] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1048, y=65, z=-1364} is using schematics/Nordic/Smeltery1 instead of schematics/Nordic/Smeltery1
+[19:26:11] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1048, y=65, z=-1364} is using schematics/Nordic/Smeltery1 instead of schematics/Nordic/Smeltery1
+[19:26:17] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[19:26:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
