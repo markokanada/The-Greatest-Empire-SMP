@@ -16919,3 +16919,7 @@ io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: A kapcs
 [22:18:55] [Server thread/DEBUG] [projecte]: EMC data size: 24832 bytes
 [22:18:55] [Server thread/DEBUG] [projecte]: Sent knowledge and bag data to KellSo
 [22:18:55] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: KellSo[/192.168.1.169:63078] logged in with entity id 157044 at ([world]855.9159534366195, 8.282599973678066, -951.8804125857301)
+[22:20:11] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /toggledownfall
+[22:20:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Toggled downfall]
+[22:24:53] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /toggledownfall
+[22:24:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Toggled downfall]
