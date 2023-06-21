@@ -33,8 +33,8 @@ stats:
   disable-saving: false
   forced-stats: {}
 settings:
-  save-user-cache-on-stop-only: false
   player-shuffle: 0
+  save-user-cache-on-stop-only: false
   attribute:
     maxHealth:
       max: 2048.0
@@ -63,6 +63,7 @@ advancements:
 world-settings:
   default:
     verbose: true
+    mob-spawn-range: 4
     growth:
       cactus-modifier: 100
       cane-modifier: 100
@@ -84,7 +85,6 @@ world-settings:
       hopper-transfer: 8
       hopper-check: 1
     hopper-amount: 1
-    mob-spawn-range: 4
     random-light-updates: false
     save-structure-info: true
     dragon-death-sound-radius: 0
@@ -108,13 +108,13 @@ world-settings:
       min: 45.0
     nerf-spawner-mobs: false
     zombie-aggressive-towards-villager: true
-    hanging-tick-frequency: 100
     merge-radius:
       exp: 3.0
       item: 2.5
     item-despawn-rate: 6000
-    arrow-despawn-rate: 1200
+    hanging-tick-frequency: 100
     enable-zombie-pigmen-portal-spawns: true
+    arrow-despawn-rate: 1200
     wither-spawn-sound-radius: 0
     view-distance: 64
     entity-tracking-range:
