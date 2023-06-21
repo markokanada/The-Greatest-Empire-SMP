@@ -165,3 +165,12 @@
 [11:14:51] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=908, y=66, z=-1275} is using schematics/wooden/Citizen4 instead of schematics/wooden/Citizen4
 [11:15:06] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=931, y=64, z=-1382} is using schematics/Nordic/Miner1 instead of schematics/Nordic/Miner1
 [11:15:06] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=931, y=64, z=-1382} is using schematics/Nordic/Miner2 instead of schematics/Nordic/Miner2
+[11:20:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[11:22:35] [Netty Epoll Server IO #1/DEBUG] [extrautils2]: OTL: Decode Packet: com.rwtema.extrautils2.power.PacketPowerInfo
+[11:22:36] [Netty Epoll Server IO #1/DEBUG] [extrautils2]: OTL: Handle Packet: com.rwtema.extrautils2.power.PacketPowerInfo : SERVER
+[11:22:36] [Netty Epoll Server IO #1/DEBUG] [extrautils2]: OTL: Scheduling Packet: com.rwtema.extrautils2.power.PacketPowerInfo : SERVER
+[11:24:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /g 1
+[11:24:39] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[11:24:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[11:24:59] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[11:24:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
