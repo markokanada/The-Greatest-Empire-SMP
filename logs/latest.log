@@ -307,3 +307,13 @@
 [17:14:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [17:16:12] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1042, y=70, z=-1302} is using schematics/Nordic/SwineHerder3 instead of schematics/Nordic/SwineHerder3
 [17:17:00] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1040, y=70, z=-1285} is using schematics/wooden/Deliveryman1 instead of schematics/wooden/Deliveryman1
+[17:20:12] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[17:20:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[17:20:24] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[17:20:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[17:21:01] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1037, y=64, z=-1334} is using schematics/wooden/Shepherd4 instead of schematics/wooden/Shepherd4
+[17:21:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:22:19] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[17:22:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[17:22:25] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[17:22:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
