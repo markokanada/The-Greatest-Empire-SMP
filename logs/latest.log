@@ -166,3 +166,12 @@
 [11:57:16] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /toggledownfall
 [11:57:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Toggled downfall]
 [12:04:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[12:11:16] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1041, y=64, z=-1264} is using schematics/wooden/Deliveryman1 instead of schematics/wooden/Deliveryman1
+[12:11:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[12:12:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo has made the advancement [Such a Stoner]
+[12:12:04] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1005, y=64, z=-1392} is using schematics/wooden/Stonemason1 instead of schematics/wooden/Stonemason1
+[12:12:48] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=950, y=64, z=-1396} is using schematics/Nordic/Deliveryman1 instead of schematics/Nordic/Deliveryman1
+[12:14:32] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[12:14:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[12:14:53] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[12:14:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
