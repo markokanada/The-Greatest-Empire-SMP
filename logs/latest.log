@@ -305,3 +305,5 @@
 [17:08:07] [Server thread/DEBUG] [projecte]: Sent knowledge and bag data to KellSo
 [17:08:07] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: KellSo[/192.168.1.169:56872] logged in with entity id 197924 at ([world]950.7109718936412, 72.5, -1378.9526849505116)
 [17:14:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:16:12] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1042, y=70, z=-1302} is using schematics/Nordic/SwineHerder3 instead of schematics/Nordic/SwineHerder3
+[17:17:00] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1040, y=70, z=-1285} is using schematics/wooden/Deliveryman1 instead of schematics/wooden/Deliveryman1
