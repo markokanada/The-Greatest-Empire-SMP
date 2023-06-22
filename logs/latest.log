@@ -162,3 +162,6 @@
 [11:50:31] [Server thread/DEBUG] [projecte]: EMC data size: 24832 bytes
 [11:50:31] [Server thread/DEBUG] [projecte]: Sent knowledge and bag data to KellSo
 [11:50:32] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: KellSo[/192.168.1.169:63313] logged in with entity id 174252 at ([world]1013.5134300442168, 73.5, -1346.737557171809)
+[11:56:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[11:57:16] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /toggledownfall
+[11:57:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Toggled downfall]
