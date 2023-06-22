@@ -224,3 +224,6 @@
 [12:23:05] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /toggledownfall
 [12:23:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Toggled downfall]
 [12:26:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[12:31:21] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo lost connection: Disconnected
+[12:31:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo left the game
+[12:32:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
