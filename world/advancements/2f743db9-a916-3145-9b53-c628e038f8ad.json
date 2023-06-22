@@ -446,6 +446,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_carpet": {
+    "criteria": {
+      "has_magenta_wool": "2023-06-22 12:14:37 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_bonemeal": "2022-03-28 21:46:04 +0200"
@@ -776,6 +782,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2023-06-22 12:15:16 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2022-03-30 18:43:52 +0200"
@@ -923,6 +935,12 @@
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2022-03-28 21:17:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2023-06-22 12:15:11 +0200"
     },
     "done": true
   },
@@ -1226,6 +1244,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2023-06-22 12:15:16 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wooden_slab": {
     "criteria": {
       "has_planks": "2022-03-28 21:46:01 +0200"
@@ -1411,9 +1435,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_banner": {
+    "criteria": {
+      "has_magenta_wool": "2023-06-22 12:14:37 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2022-03-29 19:43:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2023-06-22 12:15:11 +0200"
     },
     "done": true
   },
@@ -1777,6 +1813,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_bed": {
+    "criteria": {
+      "has_magenta_wool": "2023-06-22 12:14:37 +0200"
+    },
+    "done": true
+  },
   "projecte:transmutation_tablet": {
     "criteria": {
       "trans_tablet": "2023-06-20 11:14:27 +0200"
@@ -1852,6 +1894,12 @@
   "minecolonies:minecolonies/complete_build_request_1_library": {
     "criteria": {
       "warehouse": "2023-03-11 16:02:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2023-06-22 12:14:35 +0200"
     },
     "done": true
   },
@@ -2008,6 +2056,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2023-06-22 12:14:35 +0200"
+    },
+    "done": true
+  },
   "galacticraftcore:galacticraft/root": {
     "criteria": {
       "tick": "2023-03-08 00:15:27 +0100"
@@ -2127,6 +2181,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2022-03-29 22:04:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet": {
+    "criteria": {
+      "has_orange_wool": "2023-06-22 12:15:16 +0200"
     },
     "done": true
   },
@@ -2448,6 +2508,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2023-06-22 12:15:11 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_the_recipe": "2022-03-30 18:48:41 +0200"
@@ -2640,6 +2706,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2023-06-22 12:14:35 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2022-03-28 21:52:58 +0200"
@@ -2715,6 +2787,12 @@
   "minecraft:recipes/decorations/yellow_stained_glass_pane": {
     "criteria": {
       "has_glass": "2022-03-28 21:52:58 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/complete_build_request_1_stonemason": {
+    "criteria": {
+      "stonemason": "2023-06-22 12:12:03 +0200"
     },
     "done": true
   },
