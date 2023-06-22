@@ -23,12 +23,6 @@
     },
     "done": true
   },
-  "computercraft:recipes/wireless_modem": {
-    "criteria": {
-      "has_normal": "2023-03-16 16:56:22 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2022-03-28 20:57:15 +0200"
@@ -611,12 +605,6 @@
     },
     "done": true
   },
-  "computercraft:recipes/advanced_computer": {
-    "criteria": {
-      "has_redstone": "2023-03-08 00:15:27 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2022-03-28 21:24:32 +0200"
@@ -680,12 +668,6 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2022-03-28 21:08:07 +0200"
-    },
-    "done": true
-  },
-  "computercraft:recipes/normal_turtle": {
-    "criteria": {
-      "has_normal": "2023-03-16 16:56:22 +0100"
     },
     "done": true
   },
@@ -1019,12 +1001,6 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2022-03-28 22:20:28 +0200"
-    },
-    "done": true
-  },
-  "computercraft:recipes/normal_computer": {
-    "criteria": {
-      "has_redstone": "2023-03-08 00:15:27 +0100"
     },
     "done": true
   },
@@ -1597,18 +1573,6 @@
     },
     "done": true
   },
-  "computercraft:recipes/printer": {
-    "criteria": {
-      "has_normal": "2023-03-16 16:56:22 +0100"
-    },
-    "done": true
-  },
-  "computercraft:recipes/advanced_pocket_computer": {
-    "criteria": {
-      "has_normal": "2023-03-16 16:56:22 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2022-04-06 20:43:33 +0200"
@@ -1684,12 +1648,6 @@
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_red_dye": "2022-03-28 22:25:58 +0200"
-    },
-    "done": true
-  },
-  "computercraft:recipes/ender_modem": {
-    "criteria": {
-      "has_normal": "2023-03-16 16:56:22 +0100"
     },
     "done": true
   },
@@ -1987,12 +1945,6 @@
     },
     "done": true
   },
-  "computercraft:recipes/normal_monitor": {
-    "criteria": {
-      "has_normal": "2023-03-16 16:56:22 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2022-03-29 19:34:27 +0200"
@@ -2125,12 +2077,6 @@
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2022-07-12 21:21:37 +0200"
-    },
-    "done": true
-  },
-  "computercraft:recipes/advanced_monitor": {
-    "criteria": {
-      "has_normal": "2023-03-16 16:56:22 +0100"
     },
     "done": true
   },
@@ -2301,12 +2247,6 @@
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2022-03-29 19:34:27 +0200"
-    },
-    "done": true
-  },
-  "computercraft:recipes/cable": {
-    "criteria": {
-      "has_normal": "2023-03-16 16:56:22 +0100"
     },
     "done": true
   },
@@ -2538,12 +2478,6 @@
     },
     "done": true
   },
-  "computercraft:recipes/speaker": {
-    "criteria": {
-      "has_normal": "2023-03-16 16:56:22 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2022-03-29 22:04:33 +0200"
@@ -2748,12 +2682,6 @@
     },
     "done": true
   },
-  "computercraft:recipes/wired_modem": {
-    "criteria": {
-      "has_normal": "2023-03-16 16:56:22 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2022-03-29 19:34:27 +0200"
@@ -2883,12 +2811,6 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_the_recipe": "2022-03-28 21:38:29 +0200"
-    },
-    "done": true
-  },
-  "computercraft:recipes/normal_pocket_computer": {
-    "criteria": {
-      "has_normal": "2023-03-16 16:56:22 +0100"
     },
     "done": true
   },
@@ -3045,12 +2967,6 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2022-03-28 21:14:59 +0200"
-    },
-    "done": true
-  },
-  "computercraft:recipes/disk_drive": {
-    "criteria": {
-      "has_normal": "2023-03-16 16:56:22 +0100"
     },
     "done": true
   },
