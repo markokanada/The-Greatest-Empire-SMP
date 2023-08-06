@@ -18,24 +18,6 @@ messages:
   outdated-client: Outdated client! Please use {0}
   outdated-server: Outdated server! I'm still on {0}
   restart: Server is restarting
-commands:
-  tab-complete: 0
-  silent-commandblock-console: false
-  log: true
-  spam-exclusions:
-  - /skill
-  replace-commands:
-  - setblock
-  - summon
-  - testforblock
-  - tellraw
-advancements:
-  disable-saving: false
-  disabled:
-  - minecraft:story/disabled
-stats:
-  disable-saving: false
-  forced-stats: {}
 settings:
   save-user-cache-on-stop-only: false
   player-shuffle: 0
@@ -60,9 +42,45 @@ settings:
   moved-too-quickly-multiplier: 10.0
   item-dirty-ticks: 20
   debug: false
+commands:
+  tab-complete: 0
+  silent-commandblock-console: false
+  log: true
+  spam-exclusions:
+  - /skill
+  replace-commands:
+  - setblock
+  - summon
+  - testforblock
+  - tellraw
+stats:
+  disable-saving: false
+  forced-stats: {}
+advancements:
+  disable-saving: false
+  disabled:
+  - minecraft:story/disabled
 world-settings:
   default:
     verbose: true
+    mob-spawn-range: 4
+    growth:
+      cactus-modifier: 100
+      cane-modifier: 100
+      melon-modifier: 100
+      mushroom-modifier: 100
+      pumpkin-modifier: 100
+      sapling-modifier: 100
+      wheat-modifier: 100
+      netherwart-modifier: 100
+      vine-modifier: 100
+      cocoa-modifier: 100
+    entity-activation-range:
+      animals: 32
+      monsters: 32
+      misc: 16
+      water: 16
+      tick-inactive-villagers: true
     ticks-per:
       hopper-transfer: 8
       hopper-check: 1
@@ -88,38 +106,20 @@ world-settings:
       entity: 50
     squid-spawn-range:
       min: 45.0
-    mob-spawn-range: 4
-    growth:
-      cactus-modifier: 100
-      cane-modifier: 100
-      melon-modifier: 100
-      mushroom-modifier: 100
-      pumpkin-modifier: 100
-      sapling-modifier: 100
-      wheat-modifier: 100
-      netherwart-modifier: 100
-      vine-modifier: 100
-      cocoa-modifier: 100
-    entity-activation-range:
-      animals: 32
-      monsters: 32
-      misc: 16
-      water: 16
-      tick-inactive-villagers: true
-    zombie-aggressive-towards-villager: true
-    hanging-tick-frequency: 100
     merge-radius:
       exp: 3.0
       item: 2.5
-    nerf-spawner-mobs: false
+    hanging-tick-frequency: 100
     item-despawn-rate: 6000
-    arrow-despawn-rate: 1200
-    enable-zombie-pigmen-portal-spawns: true
-    wither-spawn-sound-radius: 0
-    view-distance: 64
+    zombie-aggressive-towards-villager: true
     entity-tracking-range:
       players: 48
       animals: 48
       monsters: 48
       misc: 32
       other: 64
+    nerf-spawner-mobs: false
+    arrow-despawn-rate: 1200
+    enable-zombie-pigmen-portal-spawns: true
+    wither-spawn-sound-radius: 0
+    view-distance: 64
