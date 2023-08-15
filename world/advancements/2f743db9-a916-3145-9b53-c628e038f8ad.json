@@ -422,6 +422,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/citizen_eat_food_rotten_flesh": {
+    "criteria": {
+      "citizen_eat_rotten_flesh": "2023-08-15 20:41:27 +0200"
+    },
+    "done": true
+  },
   "minecraft:adventure/summon_iron_golem": {
     "criteria": {
       "summoned_golem": "2022-04-09 21:25:35 +0200"
@@ -602,6 +608,12 @@
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2022-06-20 12:08:21 +0200"
+    },
+    "done": true
+  },
+  "computercraft:recipes/advanced_computer": {
+    "criteria": {
+      "has_redstone": "2023-08-15 20:55:25 +0200"
     },
     "done": true
   },
@@ -944,6 +956,12 @@
     },
     "done": true
   },
+  "projecte:klein_star_omega": {
+    "criteria": {
+      "klein_star": "2023-08-15 20:56:17 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
     "criteria": {
       "has_red_dye": "2022-03-28 22:25:58 +0200"
@@ -1001,6 +1019,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2022-03-28 22:20:28 +0200"
+    },
+    "done": true
+  },
+  "computercraft:recipes/normal_computer": {
+    "criteria": {
+      "has_redstone": "2023-08-15 20:55:25 +0200"
     },
     "done": true
   },
