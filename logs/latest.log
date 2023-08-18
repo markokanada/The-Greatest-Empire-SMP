@@ -277,3 +277,26 @@
 [17:04:31] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=886, y=63, z=-1340} is using schematics/Nordic/StoneSmeltery3 instead of schematics/Nordic/StoneSmeltery3
 [17:04:54] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1041, y=64, z=-1264} is using schematics/wooden/Deliveryman1 instead of schematics/wooden/Deliveryman1
 [17:04:54] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1041, y=64, z=-1264} is using schematics/wooden/Deliveryman2 instead of schematics/wooden/Deliveryman2
+[17:05:04] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1042, y=70, z=-1302} is using schematics/Nordic/SwineHerder4 instead of schematics/Nordic/SwineHerder4
+[17:05:04] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1042, y=70, z=-1302} is using schematics/Nordic/SwineHerder5 instead of schematics/Nordic/SwineHerder5
+[17:05:18] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1037, y=64, z=-1334} is using schematics/wooden/Shepherd4 instead of schematics/wooden/Shepherd4
+[17:05:18] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1037, y=64, z=-1334} is using schematics/wooden/Shepherd5 instead of schematics/wooden/Shepherd5
+[17:08:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:13:50] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=921, y=64, z=-1309} is using schematics/wooden/Citizen5 instead of schematics/wooden/Citizen5
+[17:14:03] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1127, y=63, z=-1238} is using schematics/wooden/Citizen5 instead of schematics/wooden/Citizen5
+[17:14:54] [Netty Epoll Server IO #1/ERROR] [FML]: NetworkDispatcher exception
+io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: A kapcsolatot bontotta a távoli fél
+	at io.netty.channel.unix.FileDescriptor.readAddress(..)(Unknown Source) ~[FileDescriptor.class:?]
+[17:14:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: A kapcsolatot bontotta a távoli fél
+[17:14:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo left the game
+[17:15:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:19:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:24:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:29:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:34:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:39:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:44:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:49:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:54:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[17:59:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:04:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
