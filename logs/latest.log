@@ -16354,3 +16354,172 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [20:53:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Toggled downfall]
 [20:54:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [21:01:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:07:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:11:57] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /tp 1168 77 -1173
+[21:11:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Teleported KellSo to 1168.5, 77.0, -1172.5]
+[21:12:01] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[21:12:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[21:12:06] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[21:12:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[21:12:08] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /tp 1168 77 -1173
+[21:12:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Teleported KellSo to 1168.5, 77.0, -1172.5]
+[21:13:07] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /schem load jinx2
+[21:13:07] [Server thread/INFO] [com.sk89q.worldedit.command.SchematicCommands]: [WorldEdit] KellSo loaded /media/Minecraft/server/The-Greatest-Empire-SMP/plugins/WorldEdit/schematics/jinx2.schematic
+[21:13:11] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: //rotate 270
+[21:13:17] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /tp 1168 77 -1173
+[21:13:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Teleported KellSo to 1168.5, 77.0, -1172.5]
+[21:13:22] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: //paste
+[21:14:44] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo lost connection: Disconnected
+[21:14:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo left the game
+[21:14:54] [User Authenticator #4/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[21:14:54] [Server thread/DEBUG] [projecte]: Clearing offline data cache in preparation to load online data
+[21:14:54] [Server thread/TRACE] [FML]: Handshake channel activating
+[21:14:54] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[21:14:54] [Server thread/DEBUG] [FML]:   Next: HELLO
+[21:14:54] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[21:14:54] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[21:14:54] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ModList:44 mods->FMLHandshakeServerState$2:HELLO
+[21:14:54] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 44 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.179,ptrmodellib@1.0.5,simplyjetpacks@1.12.2-2.2.19.0,immersiveengineering@0.12-98,redstoneflux@2.1.1,valkyrielib@1.12.2-2.0.20.1,universalmodifiers@1.12.2-1.0.16.1,rftools@7.73,jei@4.16.1.1001,chickenchunks@2.4.2.74,movingworld@1.12-6.342,projecte@1.12.2-PE1.4.1,extrautils2@1.0,com.elytradev.movingworld.common.asm.coremod@,mantle@1.12-1.3.3.55,simplegenerators@1.12.2-2.0.20.2,mcp@9.42,collective@3.0,storagedrawers@5.2.2,galacticraftcore@4.0.5,chameleon@1.12-4.1.3,FML@8.0.99.99,malilib@0.10.0-dev.23,structurize@1.12.2-0.10.277-RELEASE,davincisvessels@@DVESSELSVER@,worldedit@6.1.10,minecolonies@1.12.2-0.11.841-ALPHA,computercraft@1.80pr1,litematica@0.0.0-dev.20191217.195055,moreoverlays@1.15.1,bigreactors@1.12.2-0.4.5.68,waila@1.8.26,props@2.6.3.7,galacticraftplanets@4.0.5,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.5,tmechworks@2.0,mcjtylib_ng@3.5.4,forge@14.23.5.2860,holoinventory@2.1.1.151,stackrefill@2.0,codechickenlib@3.2.3.358,zerocore@1.12.2-0.1.2.9
+[21:14:54] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: WAITINGCACK
+[21:14:54] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[21:14:54] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: COMPLETE
+[21:14:54] [Netty Epoll Server IO #0/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[21:14:55] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[21:14:55] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: DONE
+[21:14:55] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[21:14:55] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:14:55] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[21:14:55] [Server thread/INFO] [Waila]: Player EntityPlayerMP['KellSo'/54460, uuid='2f743db9-a916-3145-9b53-c628e038f8ad', l='world', x=1168.50, y=77.00, z=-1172.50, cx=73, cd=-74, tl=26239768, v=true, d=false](KellSo at 1168.5,77.0,-1172.5) connected. Sending ping
+[21:14:55] [Server thread/DEBUG] [projecte]: EMC data size: 24832 bytes
+[21:14:55] [Server thread/DEBUG] [projecte]: Sent knowledge and bag data to KellSo
+[21:14:55] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: KellSo[/192.168.1.169:51111] logged in with entity id 54460 at ([world]1168.5, 77.0, -1172.5)
+[21:15:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:15:55] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: //undo
+[21:16:43] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo lost connection: Disconnected
+[21:16:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo left the game
+[21:17:51] [User Authenticator #5/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[21:17:51] [Server thread/DEBUG] [projecte]: Clearing offline data cache in preparation to load online data
+[21:17:51] [Server thread/TRACE] [FML]: Handshake channel activating
+[21:17:51] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[21:17:51] [Server thread/DEBUG] [FML]:   Next: HELLO
+[21:17:52] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[21:17:52] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[21:17:52] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ModList:44 mods->FMLHandshakeServerState$2:HELLO
+[21:17:52] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 44 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.179,ptrmodellib@1.0.5,simplyjetpacks@1.12.2-2.2.19.0,immersiveengineering@0.12-98,redstoneflux@2.1.1,valkyrielib@1.12.2-2.0.20.1,universalmodifiers@1.12.2-1.0.16.1,rftools@7.73,jei@4.16.1.1001,chickenchunks@2.4.2.74,movingworld@1.12-6.342,projecte@1.12.2-PE1.4.1,extrautils2@1.0,com.elytradev.movingworld.common.asm.coremod@,mantle@1.12-1.3.3.55,simplegenerators@1.12.2-2.0.20.2,mcp@9.42,collective@3.0,storagedrawers@5.2.2,galacticraftcore@4.0.5,chameleon@1.12-4.1.3,FML@8.0.99.99,malilib@0.10.0-dev.23,structurize@1.12.2-0.10.277-RELEASE,davincisvessels@@DVESSELSVER@,worldedit@6.1.10,minecolonies@1.12.2-0.11.841-ALPHA,computercraft@1.80pr1,litematica@0.0.0-dev.20191217.195055,moreoverlays@1.15.1,bigreactors@1.12.2-0.4.5.68,waila@1.8.26,props@2.6.3.7,galacticraftplanets@4.0.5,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.5,tmechworks@2.0,mcjtylib_ng@3.5.4,forge@14.23.5.2860,holoinventory@2.1.1.151,stackrefill@2.0,codechickenlib@3.2.3.358,zerocore@1.12.2-0.1.2.9
+[21:17:52] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: WAITINGCACK
+[21:17:52] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[21:17:52] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: COMPLETE
+[21:17:52] [Netty Epoll Server IO #2/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[21:17:53] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[21:17:53] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: DONE
+[21:17:53] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[21:17:53] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[21:17:53] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:17:53] [Server thread/INFO] [Waila]: Player EntityPlayerMP['KellSo'/58635, uuid='2f743db9-a916-3145-9b53-c628e038f8ad', l='world', x=1151.73, y=102.76, z=-1195.48, cx=71, cd=-75, tl=26240613, v=true, d=false](KellSo at 1151.7294536362845,102.75683243869382,-1195.4761332940502) connected. Sending ping
+[21:17:53] [Server thread/DEBUG] [projecte]: EMC data size: 24832 bytes
+[21:17:53] [Server thread/DEBUG] [projecte]: Sent knowledge and bag data to KellSo
+[21:17:53] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: KellSo[/192.168.1.169:51218] logged in with entity id 58635 at ([world]1151.7294536362845, 102.75683243869382, -1195.4761332940502)
+[21:18:18] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /schem load jinx2
+[21:18:18] [Server thread/INFO] [com.sk89q.worldedit.command.SchematicCommands]: [WorldEdit] KellSo loaded /media/Minecraft/server/The-Greatest-Empire-SMP/plugins/WorldEdit/schematics/jinx2.schematic
+[21:18:22] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: //rotate 270
+[21:18:53] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /tp 1168 69 -1173
+[21:18:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Teleported KellSo to 1168.5, 69.0, -1172.5]
+[21:19:09] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: //paste
+[21:20:22] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo lost connection: Disconnected
+[21:20:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo left the game
+[21:20:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:25:36] [User Authenticator #6/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[21:25:36] [Server thread/DEBUG] [projecte]: Clearing offline data cache in preparation to load online data
+[21:25:36] [Server thread/TRACE] [FML]: Handshake channel activating
+[21:25:36] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[21:25:36] [Server thread/DEBUG] [FML]:   Next: HELLO
+[21:25:36] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[21:25:36] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[21:25:36] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:44 mods->FMLHandshakeServerState$2:HELLO
+[21:25:36] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 44 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.179,ptrmodellib@1.0.5,simplyjetpacks@1.12.2-2.2.19.0,immersiveengineering@0.12-98,redstoneflux@2.1.1,valkyrielib@1.12.2-2.0.20.1,universalmodifiers@1.12.2-1.0.16.1,rftools@7.73,jei@4.16.1.1001,chickenchunks@2.4.2.74,movingworld@1.12-6.342,projecte@1.12.2-PE1.4.1,extrautils2@1.0,com.elytradev.movingworld.common.asm.coremod@,mantle@1.12-1.3.3.55,simplegenerators@1.12.2-2.0.20.2,mcp@9.42,collective@3.0,storagedrawers@5.2.2,galacticraftcore@4.0.5,chameleon@1.12-4.1.3,FML@8.0.99.99,malilib@0.10.0-dev.23,structurize@1.12.2-0.10.277-RELEASE,davincisvessels@@DVESSELSVER@,worldedit@6.1.10,minecolonies@1.12.2-0.11.841-ALPHA,computercraft@1.80pr1,litematica@0.0.0-dev.20191217.195055,moreoverlays@1.15.1,bigreactors@1.12.2-0.4.5.68,waila@1.8.26,props@2.6.3.7,galacticraftplanets@4.0.5,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.5,tmechworks@2.0,mcjtylib_ng@3.5.4,forge@14.23.5.2860,holoinventory@2.1.1.151,stackrefill@2.0,codechickenlib@3.2.3.358,zerocore@1.12.2-0.1.2.9
+[21:25:36] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: WAITINGCACK
+[21:25:36] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[21:25:36] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: COMPLETE
+[21:25:36] [Netty Epoll Server IO #3/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[21:25:38] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[21:25:38] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: DONE
+[21:25:38] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[21:25:38] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[21:25:38] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:25:38] [Server thread/INFO] [Waila]: Player EntityPlayerMP['KellSo'/60958, uuid='2f743db9-a916-3145-9b53-c628e038f8ad', l='world', x=1174.31, y=69.00, z=-1172.53, cx=73, cd=-74, tl=26241732, v=true, d=false](KellSo at 1174.313319871398,69.0,-1172.5255445367657) connected. Sending ping
+[21:25:38] [Server thread/DEBUG] [projecte]: EMC data size: 24832 bytes
+[21:25:38] [Server thread/DEBUG] [projecte]: Sent knowledge and bag data to KellSo
+[21:25:38] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: KellSo[/192.168.1.169:51538] logged in with entity id 60958 at ([world]1174.313319871398, 69.0, -1172.5255445367657)
+[21:25:46] [Netty Epoll Server IO #3/DEBUG] [extrautils2]: OTL: Decode Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt
+[21:25:46] [Netty Epoll Server IO #3/DEBUG] [extrautils2]: OTL: Handle Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt : SERVER
+[21:25:46] [Netty Epoll Server IO #3/DEBUG] [extrautils2]: OTL: Scheduling Packet: com.rwtema.extrautils2.network.packets.PacketUseItemAlt : SERVER
+[21:25:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:26:00] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /toggledownfall
+[21:26:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Toggled downfall]
+[21:26:13] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[21:26:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[21:26:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo fell from a high place
+[21:26:26] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /graves
+[21:32:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:36:20] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /toggledownfall
+[21:36:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Toggled downfall]
+[21:39:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:39:51] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamerule doWeatherCycle false
+[21:39:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Game rule doWeatherCycle has been updated to false]
+[21:42:03] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalArgumentException: Stack can not be invalid!
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_292]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_292]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) ~[h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:861) ~[MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) ~[nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:800) ~[MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:672) ~[MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:748) ~[?:1.8.0_292]
+Caused by: java.lang.IllegalArgumentException: Stack can not be invalid!
+	at net.minecraftforge.oredict.OreDictionary.getOreIDs(OreDictionary.java:504) ~[OreDictionary.class:1.12.2-de16e0a9]
+	at moze_intel.projecte.gameObjs.items.tools.PEToolBase.clearOdAOE(PEToolBase.java:132) ~[PEToolBase.class:?]
+	at moze_intel.projecte.gameObjs.items.tools.DarkAxe.func_77659_a(DarkAxe.java:41) ~[DarkAxe.class:?]
+	at net.minecraft.item.ItemStack.func_77957_a(ItemStack.java:240) ~[aip.class:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_187250_a(PlayerInteractionManager.java:431) ~[or.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147346_a(NetHandlerPlayServer.java:1203) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItem.func_148833_a(SourceFile:32) ~[mb.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItem.func_148833_a(SourceFile:9) ~[mb.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:14) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_292]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_292]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[21:44:45] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalArgumentException: Stack can not be invalid!
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_292]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_292]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) ~[h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:861) ~[MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) ~[nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:800) ~[MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:672) ~[MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:748) ~[?:1.8.0_292]
+Caused by: java.lang.IllegalArgumentException: Stack can not be invalid!
+	at net.minecraftforge.oredict.OreDictionary.getOreIDs(OreDictionary.java:504) ~[OreDictionary.class:1.12.2-de16e0a9]
+	at moze_intel.projecte.gameObjs.items.tools.PEToolBase.clearOdAOE(PEToolBase.java:132) ~[PEToolBase.class:?]
+	at moze_intel.projecte.gameObjs.items.tools.DarkAxe.func_77659_a(DarkAxe.java:41) ~[DarkAxe.class:?]
+	at net.minecraft.item.ItemStack.func_77957_a(ItemStack.java:240) ~[aip.class:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_187250_a(PlayerInteractionManager.java:431) ~[or.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147346_a(NetHandlerPlayServer.java:1203) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItem.func_148833_a(SourceFile:32) ~[mb.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItem.func_148833_a(SourceFile:9) ~[mb.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:14) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_292]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_292]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[21:45:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:52:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:52:31] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[21:52:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[21:52:38] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[21:52:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[21:58:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:59:23] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1114, y=63, z=-1243} is using schematics/wooden/WareHouse5 instead of schematics/wooden/WareHouse5
+[22:02:20] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=991, y=71, z=-1322} is using schematics/wooden/Enchanter5 instead of schematics/wooden/Enchanter5
