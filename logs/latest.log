@@ -275,3 +275,39 @@
 [20:54:07] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
 [20:54:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
 [21:00:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:07:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:14:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:19:03] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.IllegalArgumentException: Stack can not be invalid!
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_292]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_292]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) ~[h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:861) ~[MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:461) ~[nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:800) ~[MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:672) ~[MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:748) ~[?:1.8.0_292]
+Caused by: java.lang.IllegalArgumentException: Stack can not be invalid!
+	at net.minecraftforge.oredict.OreDictionary.getOreIDs(OreDictionary.java:504) ~[OreDictionary.class:1.12.2-de16e0a9]
+	at moze_intel.projecte.gameObjs.items.tools.PEToolBase.clearOdAOE(PEToolBase.java:132) ~[PEToolBase.class:?]
+	at moze_intel.projecte.gameObjs.items.tools.DarkAxe.func_77659_a(DarkAxe.java:41) ~[DarkAxe.class:?]
+	at net.minecraft.item.ItemStack.func_77957_a(ItemStack.java:240) ~[aip.class:?]
+	at net.minecraft.server.management.PlayerInteractionManager.func_187250_a(PlayerInteractionManager.java:431) ~[or.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147346_a(NetHandlerPlayServer.java:1203) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItem.func_148833_a(SourceFile:32) ~[mb.class:?]
+	at net.minecraft.network.play.client.CPacketPlayerTryUseItem.func_148833_a(SourceFile:9) ~[mb.class:?]
+	at net.minecraft.network.PacketThreadUtil.lambda$checkThreadAndEnqueue$0(PacketThreadUtil.java:14) ~[hv.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_292]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_292]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[21:22:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:29:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:30:39] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1096, y=63, z=-1238} is using schematics/Medieval Oak/Blacksmith4 instead of schematics/Medieval Oak/Blacksmith4
+[21:32:20] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1088, y=70, z=-1321} is using schematics/Nordic/Composter4 instead of schematics/Nordic/Composter4
+[21:37:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:41:01] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1029, y=69, z=-1376} is using schematics/Nordic/Crusher4 instead of schematics/Nordic/Crusher4
+[21:44:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:51:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:59:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:01:33] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1014, y=67, z=-1352} is using schematics/Medieval Spruce/Sawmill4 instead of schematics/Medieval Spruce/Sawmill4
