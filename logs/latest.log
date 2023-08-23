@@ -243,3 +243,21 @@
 [18:04:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
 [18:04:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
 [18:04:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[18:05:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:12:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:20:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:27:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:32:42] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=886, y=63, z=-1340} is using schematics/Nordic/StoneSmeltery4 instead of schematics/Nordic/StoneSmeltery4
+[18:34:31] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=931, y=64, z=-1382} is using schematics/Nordic/Miner5 instead of schematics/Nordic/Miner5
+[18:34:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:35:33] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[18:35:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[18:35:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[18:35:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[18:42:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:46:04] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo lost connection: Disconnected
+[18:46:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo left the game
+[18:47:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:52:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:57:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:02:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
