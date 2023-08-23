@@ -305,3 +305,36 @@
 [20:44:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [20:52:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [20:59:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:06:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:09:15] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1104, y=70, z=-1301} is using schematics/Nordic/Cowboy5 instead of schematics/Nordic/Cowboy5
+[21:14:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:18:25] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1096, y=63, z=-1238} is using schematics/Medieval Oak/Blacksmith5 instead of schematics/Medieval Oak/Blacksmith5
+[21:21:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:22:32] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1087, y=63, z=-1254} is using schematics/Nordic/Baker4 instead of schematics/Nordic/Baker4
+[21:28:47] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1040, y=70, z=-1285} is using schematics/wooden/Deliveryman3 instead of schematics/wooden/Deliveryman3
+[21:28:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:34:05] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1041, y=64, z=-1264} is using schematics/wooden/Deliveryman3 instead of schematics/wooden/Deliveryman3
+[21:36:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:43:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:47:33] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1057, y=63, z=-1240} is using schematics/Nordic/Fisherman5 instead of schematics/Nordic/Fisherman5
+[21:48:35] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=950, y=64, z=-1396} is using schematics/Nordic/Deliveryman4 instead of schematics/Nordic/Deliveryman4
+[21:48:35] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=950, y=64, z=-1396} is using schematics/Nordic/Deliveryman5 instead of schematics/Nordic/Deliveryman5
+[21:48:50] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=886, y=63, z=-1340} is using schematics/Nordic/StoneSmeltery4 instead of schematics/Nordic/StoneSmeltery4
+[21:48:50] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=886, y=63, z=-1340} is using schematics/Nordic/StoneSmeltery5 instead of schematics/Nordic/StoneSmeltery5
+[21:49:42] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=964, y=64, z=-1331} is using schematics/Nordic/Deliveryman1 instead of schematics/Nordic/Deliveryman1
+[21:50:02] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1029, y=69, z=-1376} is using schematics/Nordic/Crusher4 instead of schematics/Nordic/Crusher4
+[21:50:02] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1029, y=69, z=-1376} is using schematics/Nordic/Crusher5 instead of schematics/Nordic/Crusher5
+[21:50:49] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1087, y=63, z=-1254} is using schematics/Nordic/Baker4 instead of schematics/Nordic/Baker4
+[21:50:49] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1087, y=63, z=-1254} is using schematics/Nordic/Baker5 instead of schematics/Nordic/Baker5
+[21:50:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:51:15] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1041, y=64, z=-1264} is using schematics/wooden/Deliveryman3 instead of schematics/wooden/Deliveryman3
+[21:51:15] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1041, y=64, z=-1264} is using schematics/wooden/Deliveryman4 instead of schematics/wooden/Deliveryman4
+[21:51:27] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1040, y=70, z=-1285} is using schematics/wooden/Deliveryman3 instead of schematics/wooden/Deliveryman3
+[21:51:27] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1040, y=70, z=-1285} is using schematics/wooden/Deliveryman4 instead of schematics/wooden/Deliveryman4
+[21:53:34] [Netty Epoll Server IO #3/DEBUG] [FML]: Muted NetworkDispatcher exception
+io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
+	at io.netty.channel.unix.FileDescriptor.readAddress(..)(Unknown Source) ~[FileDescriptor.class:?]
+[21:53:34] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
+[21:53:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo left the game
+[21:55:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:00:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
