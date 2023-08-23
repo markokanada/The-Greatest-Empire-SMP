@@ -338,3 +338,15 @@ io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connect
 [21:53:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo left the game
 [21:55:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [22:00:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:05:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:10:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:15:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:20:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:25:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:30:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:35:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:40:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:45:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:50:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:55:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:00:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
