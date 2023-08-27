@@ -263,3 +263,42 @@
 [21:52:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [21:57:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [22:02:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:07:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:12:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:17:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:22:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:27:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:32:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:37:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:42:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:43:49] [User Authenticator #11/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player KellSo is 2f743db9-a916-3145-9b53-c628e038f8ad
+[22:43:49] [Server thread/DEBUG] [projecte]: Clearing offline data cache in preparation to load online data
+[22:43:50] [Server thread/TRACE] [FML]: Handshake channel activating
+[22:43:50] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[22:43:50] [Server thread/DEBUG] [FML]:   Next: HELLO
+[22:43:50] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[22:43:50] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[22:43:50] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ModList:44 mods->FMLHandshakeServerState$2:HELLO
+[22:43:50] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 44 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.179,ptrmodellib@1.0.5,simplyjetpacks@1.12.2-2.2.19.0,immersiveengineering@0.12-98,redstoneflux@2.1.1,valkyrielib@1.12.2-2.0.20.1,universalmodifiers@1.12.2-1.0.16.1,rftools@7.73,jei@4.16.1.1001,chickenchunks@2.4.2.74,movingworld@1.12-6.342,projecte@1.12.2-PE1.4.1,extrautils2@1.0,com.elytradev.movingworld.common.asm.coremod@,mantle@1.12-1.3.3.55,simplegenerators@1.12.2-2.0.20.2,mcp@9.42,collective@3.0,storagedrawers@5.2.2,galacticraftcore@4.0.5,chameleon@1.12-4.1.3,FML@8.0.99.99,malilib@0.10.0-dev.23,structurize@1.12.2-0.10.277-RELEASE,davincisvessels@@DVESSELSVER@,worldedit@6.1.10,minecolonies@1.12.2-0.11.841-ALPHA,computercraft@1.80pr1,litematica@0.0.0-dev.20191217.195055,moreoverlays@1.15.1,bigreactors@1.12.2-0.4.5.68,waila@1.8.26,props@2.6.3.7,galacticraftplanets@4.0.5,tlauncher_custom_cape_skin@1.4,micdoodlecore@4.0.5,tmechworks@2.0,mcjtylib_ng@3.5.4,forge@14.23.5.2860,holoinventory@2.1.1.151,stackrefill@2.0,codechickenlib@3.2.3.358,zerocore@1.12.2-0.1.2.9
+[22:43:50] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: WAITINGCACK
+[22:43:50] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[22:43:50] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: COMPLETE
+[22:43:50] [Netty Epoll Server IO #2/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[22:43:52] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[22:43:52] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: DONE
+[22:43:52] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[22:43:52] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[22:43:52] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:43:52] [Server thread/INFO] [Waila]: Player EntityPlayerMP['KellSo'/941159, uuid='2f743db9-a916-3145-9b53-c628e038f8ad', l='world', x=927.80, y=80.21, z=-1318.98, cx=57, cd=-83, tl=26733987, v=true, d=false](KellSo at 927.8026169576319,80.20669988990684,-1318.9803810686967) connected. Sending ping
+[22:43:52] [Server thread/DEBUG] [projecte]: EMC data size: 24832 bytes
+[22:43:52] [Server thread/DEBUG] [projecte]: Sent knowledge and bag data to KellSo
+[22:43:52] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: KellSo[/192.168.1.169:59979] logged in with entity id 941159 at ([world]927.8026169576319, 80.20669988990684, -1318.9803810686967)
+[22:45:39] [Netty Epoll Server IO #2/DEBUG] [FML]: Muted NetworkDispatcher exception
+io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
+	at io.netty.channel.unix.FileDescriptor.readAddress(..)(Unknown Source) ~[FileDescriptor.class:?]
+[22:45:39] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
+[22:45:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: KellSo left the game
+[22:47:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:52:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:57:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:02:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
