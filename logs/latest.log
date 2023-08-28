@@ -285,3 +285,26 @@
 [20:56:57] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
 [20:56:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
 [20:58:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:06:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:07:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[21:07:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[21:08:18] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[21:08:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[21:11:12] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[21:11:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[21:11:46] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[21:11:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[21:11:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 1
+[21:11:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Creative Mode]
+[21:11:59] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: KellSo issued server command: /gamemode 0
+[21:11:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [KellSo: Set own game mode to Survival Mode]
+[21:13:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:19:03] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=964, y=64, z=-1331} is using schematics/Nordic/Deliveryman1 instead of schematics/Nordic/Deliveryman1
+[21:21:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:28:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:35:06] [Server thread/INFO] [minecolonies]: WorkOrderBuild at location BlockPos{x=1029, y=69, z=-1376} is using schematics/Nordic/Crusher5 instead of schematics/Nordic/Crusher5
+[21:35:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:42:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:50:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:57:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:04:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
